@@ -2509,6 +2509,12 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/throwaway.sc" timestamp="1488994147120">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/app/index.html" timestamp="1484791486190">
         <mark key="'" line="108" column="5" />
         <mark key="[" line="17" column="17" />
@@ -2920,7 +2926,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="358" column="54" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/application.conf" />
       <jump line="353" column="37" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/application.conf" />
       <jump line="45" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" />
@@ -3020,16 +3025,17 @@
       <jump line="80" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/FlowInfo.scala" />
       <jump line="27" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/FlowInfo.scala" />
       <jump line="37" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" />
+      <jump line="7" column="30" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/throwaway.sc" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAgKiBVc2VyOiBLYXlybnQKICAqIERhdGU6IDE5LzEwLzE0CiAgKiBUaW1lOiAxNjo0NQogICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>https://urbangrizzly.stage.objectivetruth.ca</text>
+        <text>{}</text>
       </register>
       <register name="/" type="4">
         <text>_SE_</text>
@@ -3038,7 +3044,7 @@
         <text>JOBS_STATUS_POLLING_RATE_IN_MILLISECONDS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAgKiBVc2VyOiBLYXlybnQKICAqIERhdGU6IDE5LzEwLzE0CiAgKiBUaW1lOiAxNjo0NQogICovCg==</text>
+        <text encoding="base64">ICAgIHAubWFwKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3080,19 +3086,19 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBCQVNFX1VSTCA6ICJodHRwczovL3VyYmFuZ3JpenpseS5zdGFnZS5vYmplY3RpdmV0cnV0aC5jYSIsCg==</text>
+        <text encoding="base64">ICAgIEZ1dHVyZSggewogICAgICAgICJEb25lIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQkFTRV9VUkwgPSAiaHR0cHM6Ly91cmJhbmdyaXp6bHkuc3RhZ2Uub2JqZWN0aXZldHJ1dGguY2EiOwo=</text>
+        <text encoding="base64">ICAgIHMubWFwKCBmb28gPT4gZm9vKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHMubWFwKGZvbyA9PiBmb28pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQkFTRV9VUkwgPSAiaHR0cHM6Ly91cmJhbmdyaXp6bHkuc3RhZ2Uub2JqZWN0aXZldHJ1dGguY2EiOwogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wbGljaXQgdmFsIHRpbWVvdXQ6IER1cmF0aW9uID0gMTAgc2Vjb25kCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3343,10 +3349,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wbGljaXQgdmFsIHRpbWVvdXQgPSAxIHNlY29uZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnUmVmcmVzaGluZyBqb2IgZGF0YScpOwo=</text>
+        <text encoding="base64">MTAgZHVyYXRpb24uRHVyYXRpb24uCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
