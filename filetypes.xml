@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="bookinginteraction_credentialslogin" type="XML" />
+      <mapping pattern="bookinginteraction_credentialslogin_root" type="XML" />
+    </extensionMap>
+  </component>
+</application>
