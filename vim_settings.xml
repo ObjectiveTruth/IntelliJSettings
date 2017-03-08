@@ -2509,11 +2509,11 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/throwaway.sc" timestamp="1488994147120">
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="12" column="17" />
-        <mark key="^" line="12" column="17" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/throwaway.sc" timestamp="1489014268152">
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="38" />
+        <mark key="^" line="12" column="48" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/app/index.html" timestamp="1484791486190">
         <mark key="'" line="108" column="5" />
@@ -3032,10 +3032,10 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>{}</text>
+        <text>.foldLeft()</text>
       </register>
       <register name="-" type="4">
-        <text>{}</text>
+        <text>.foldLeft()</text>
       </register>
       <register name="/" type="4">
         <text>_SE_</text>
@@ -3403,12 +3403,12 @@
         <entry>Q</entry>
         <entry encoding="base64">JzwsJz5zLzIvMS9n</entry>
         <entry encoding="base64">JzwsJz5zLzEvMC9n</entry>
-        <entry>W</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
         <entry encoding="base64">JzwsJz5zL1NFXy8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL19TRV8vXy9n</entry>
+        <entry>W</entry>
         <entry>w</entry>
         <entry>q</entry>
       </history-cmd>
