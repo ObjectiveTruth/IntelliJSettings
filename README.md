@@ -1,0 +1,2 @@
+# IntelliJSettings
+My favorite IntelliJSettings
