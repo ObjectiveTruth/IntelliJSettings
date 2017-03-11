@@ -642,7 +642,7 @@
         <mark key="." line="40" column="50" />
         <mark key="^" line="40" column="49" />
       </file>
-      <file name="/dummy.sql" timestamp="1488955632284">
+      <file name="/dummy.sql" timestamp="1489260232332">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/HealthCheckController.java" timestamp="1469410179224">
@@ -1600,12 +1600,12 @@
         <mark key="." line="93" column="75" />
         <mark key="^" line="93" column="75" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/providers/ng4-flow.service.ts" timestamp="1489246671714">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/providers/ng4-flow.service.ts" timestamp="1489260450329">
         <mark key="'" line="15" column="40" />
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="12" />
-        <mark key="." line="16" column="12" />
-        <mark key="^" line="16" column="12" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="26" column="34" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/drawer/Drawer.java" timestamp="1471223618830">
         <mark key="[" line="18" column="41" />
@@ -2202,12 +2202,10 @@
         <mark key="^" line="9" column="54" />
         <mark key="." line="9" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" timestamp="1489244889854">
-        <mark key="'" line="85" column="24" />
-        <mark key="[" line="25" column="46" />
-        <mark key="]" line="25" column="54" />
-        <mark key="." line="25" column="54" />
-        <mark key="^" line="25" column="54" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" timestamp="1489260484424">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab8/base_files/lab08.js" timestamp="1478711492253">
         <mark key="[" line="13" column="42" />
@@ -2753,11 +2751,11 @@
         <mark key="." line="99" column="89" />
         <mark key="^" line="24" column="46" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/pending-jobs/pending-jobs.component.ts" timestamp="1488918812372">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="21" column="50" />
-        <mark key="]" line="21" column="116" />
-        <mark key="." line="21" column="116" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/pending-jobs/pending-jobs.component.ts" timestamp="1489260816393">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
         <mark key="^" line="21" column="116" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/Resumable.scala" timestamp="1485120883822">
@@ -2929,7 +2927,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="41" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="218" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="101" column="39" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
@@ -3029,25 +3026,26 @@
       <jump line="14" column="40" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/providers/ng4-flow.service.ts" />
       <jump line="20" column="13" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
       <jump line="73" column="24" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
+      <jump line="21" column="24" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>let</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5fcmVmcmVzaERhdGEoKTsKICAgICAgICAgICAgICAgICAgICB9LCAxMDAwKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>params</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcm91dGVcPg==</text>
+        <text>\ctimeout</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLl9yb3V0ZS5kYXRhCiAgICAgICAgICAgIC5zdWJzY3JpYmUoKGRhdGE6IHsgam9iSWQ6IG51bWJlcn0pID0+IHsKICAgICAgICAgICAgICAgIHRoaXMubmc0RmxvdyA9IHRoaXMuX25nNEZsb3dTZXJ2aWNlLmdldEZsb3dPYmplY3QoZGF0YS5qb2JJZCk7CiAgICAgICAgICAgICAgICB0aGlzLlVHc3VibWl0Sm9iSWQgPSBkYXRhLmpvYklkOwogICAgICAgICAgICAgICAgdGhpcy5uZzRGbG93VHJhbnNmZXJzID0gdGhpcy5uZzRGbG93LmZpbGVzOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2NodW5rc2l6ZSByZXF1ZXN0ZWQ6ICcgKyBvcHRpb25zLmNodW5rU2l6ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5fcmVmcmVzaERhdGEoKTsKICAgICAgICAgICAgICAgICAgICB9LCAxMDAwKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3086,31 +3084,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBvcHRpb25zCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0gam9iSWQKICAgICAqIEByZXR1cm5zIHtJRmxvd30KICAgICAqLwo=</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAuemlwKHRoaXMuX3JvdXRlLnF1ZXJ5UGFyYW1zKQogICAgICAgICAgICAuc3Vic2NyaWJlKCh2YWx1ZTogW3tqb2JJZDogbnVtYmVyfSwge2NodW5rU2l6ZT86IG51bWJlcn1dKSA9PiB7CiAgICAgICAgICAgICAgICBjb25zdCBqb2JJZEZyb21Sb3V0ZXIgPSB2YWx1ZVswXS5qb2JJZDsKICAgICAgICAgICAgICAgIGNvbnN0IGNodW5rU2l6ZSA9IHZhbHVlWzFdLmNodW5rU2l6ZTsKICAgICAgICAgICAgICAgIGlmIChjaHVua1NpemUpIHsgY29uc29sZS5sb2coJ1NldHRpbmcgY2h1bmtTaXplIHRvOiAnICsgY2h1bmtTaXplKTsgfQoKICAgICAgICAgICAgICAgIHRoaXMubmc0RmxvdyA9IHRoaXMuX25nNEZsb3dTZXJ2aWNlLmdldEZsb3dPYmplY3Qoam9iSWRGcm9tUm91dGVyLCB7CiAgICAgICAgICAgICAgICAgICAgY2h1bmtTaXplOiBjaHVua1NpemUKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgdGhpcy5VR3N1Ym1pdEpvYklkID0gam9iSWRGcm9tUm91dGVyOwo+Pj4+Pj4+IG1hc3Rlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VyT3B0aW9ucwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-            target: '/api/upload',
-            permanentErrors: ['404', '500', '501'],
-            maxChunkRetries: 1,
-            chunkRetryInterval: 5000,
-            simultaneousUploads: 4,
-            query: {
-                jobId: jobId
-            }
-        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0gam9iSWQKICAgICAqIEByZXR1cm5zIHtJRmxvd30KICAgICAqLwo=</text>
+        <text encoding="base64">CiAgICAgICAgdGhpcy5fcm91dGUucXVlcnlQYXJhbXMKICAgICAgICAgICAgLnN1YnNjcmliZSgocGFyYW1zOiBQYXJhbXMpID0+IHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHBhcmFtcyk7CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3361,7 +3350,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBvcHRpb25zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUoKGRhdGE6IHsgam9iSWQ6IG51bWJlciB9KSA9PiB7CiAgICAgICAgICAgICAgICAgICAgLSAgICAgICAgICAgICAgICB0aGlzLm5nNEZsb3cgPSB0aGlzLl9uZzRGbG93U2VydmljZS5nZXRGbG93T2JqZWN0KGRhdGEuam9iSWQpOwogICAgICAgICAgICAgICAgICAgIC0gICAgICAgICAgICAgICAgdGhpcy5VR3N1Ym1pdEpvYklkID0gZGF0YS5qb2JJZDsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlWzBdLmpvYklkCg==</text>
@@ -3371,9 +3360,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcm91dGVcPg==</last-search>
+      <last-search>\ctimeout</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcm91dGVcPg==</last-pattern>
+      <last-pattern>\ctimeout</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>_SE_</last-substitute>
       <last-dir>1</last-dir>
@@ -3381,8 +3370,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Queued</entry>
-        <entry>queued</entry>
         <entry encoding="base64">XDxfam9ic0FwaVw+</entry>
         <entry>2500</entry>
         <entry>cancel</entry>
@@ -3401,6 +3388,8 @@
         <entry>SE_</entry>
         <entry>_SE_</entry>
         <entry encoding="base64">XDxfcm91dGVcPg==</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry>\ctimeout</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Jlcy9yZXNwb25zZS9n</entry>
