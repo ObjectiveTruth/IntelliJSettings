@@ -1600,12 +1600,12 @@
         <mark key="." line="93" column="75" />
         <mark key="^" line="93" column="75" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/providers/ng4-flow.service.ts" timestamp="1489244879850">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/providers/ng4-flow.service.ts" timestamp="1489246671714">
         <mark key="'" line="15" column="40" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="12" column="54" />
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="12" />
+        <mark key="^" line="16" column="12" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/drawer/Drawer.java" timestamp="1471223618830">
         <mark key="[" line="18" column="41" />
@@ -3034,11 +3034,11 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2NodW5rc2l6ZSByZXF1ZXN0ZWQ6ICcgKyBvcHRpb25zLmNodW5rU2l6ZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>let</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcm91dGVcPg==</text>
