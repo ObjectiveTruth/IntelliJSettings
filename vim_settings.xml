@@ -1600,12 +1600,12 @@
         <mark key="." line="93" column="75" />
         <mark key="^" line="93" column="75" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/providers/ng4-flow.service.ts" timestamp="1489239134743">
-        <mark key="'" line="14" column="40" />
-        <mark key="[" line="14" column="41" />
-        <mark key="]" line="14" column="52" />
-        <mark key="." line="14" column="52" />
-        <mark key="^" line="14" column="52" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/providers/ng4-flow.service.ts" timestamp="1489244879850">
+        <mark key="'" line="15" column="40" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="12" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/drawer/Drawer.java" timestamp="1471223618830">
         <mark key="[" line="18" column="41" />
@@ -2202,12 +2202,12 @@
         <mark key="^" line="9" column="54" />
         <mark key="." line="9" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" timestamp="1489243153000">
-        <mark key="'" line="78" column="24" />
-        <mark key="[" line="27" column="20" />
-        <mark key="]" line="27" column="30" />
-        <mark key="." line="27" column="30" />
-        <mark key="^" line="27" column="30" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" timestamp="1489244889854">
+        <mark key="'" line="85" column="24" />
+        <mark key="[" line="25" column="46" />
+        <mark key="]" line="25" column="54" />
+        <mark key="." line="25" column="54" />
+        <mark key="^" line="25" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab8/base_files/lab08.js" timestamp="1478711492253">
         <mark key="[" line="13" column="42" />
@@ -3034,11 +3034,11 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>params</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2NodW5rc2l6ZSByZXF1ZXN0ZWQ6ICcgKyBvcHRpb25zLmNodW5rU2l6ZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>params</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcm91dGVcPg==</text>
@@ -3047,7 +3047,7 @@
         <text encoding="base64">ICAgICAgICB0aGlzLl9yb3V0ZS5kYXRhCiAgICAgICAgICAgIC5zdWJzY3JpYmUoKGRhdGE6IHsgam9iSWQ6IG51bWJlcn0pID0+IHsKICAgICAgICAgICAgICAgIHRoaXMubmc0RmxvdyA9IHRoaXMuX25nNEZsb3dTZXJ2aWNlLmdldEZsb3dPYmplY3QoZGF0YS5qb2JJZCk7CiAgICAgICAgICAgICAgICB0aGlzLlVHc3VibWl0Sm9iSWQgPSBkYXRhLmpvYklkOwogICAgICAgICAgICAgICAgdGhpcy5uZzRGbG93VHJhbnNmZXJzID0gdGhpcy5uZzRGbG93LmZpbGVzOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubmc0RmxvdyA9IHRoaXMuX25nNEZsb3dTZXJ2aWNlLmdldEZsb3dPYmplY3QoZGF0YS5qb2JJZCk7CiAgICAgICAgICAgICAgICB0aGlzLlVHc3VibWl0Sm9iSWQgPSBkYXRhLmpvYklkOwogICAgICAgICAgICAgICAgdGhpcy5uZzRGbG93VHJhbnNmZXJzID0gdGhpcy5uZzRGbG93LmZpbGVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2NodW5rc2l6ZSByZXF1ZXN0ZWQ6ICcgKyBvcHRpb25zLmNodW5rU2l6ZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3086,22 +3086,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBvcHRpb25zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHAubWFwKCkK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0gam9iSWQKICAgICAqIEByZXR1cm5zIHtJRmxvd30KICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VyT3B0aW9ucwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEZ1dHVyZSggewogICAgICAgICJEb25lIgo=</text>
+      <register name="5" type="4">
+        <text>{
+            target: '/api/upload',
+            permanentErrors: ['404', '500', '501'],
+            maxChunkRetries: 1,
+            chunkRetryInterval: 5000,
+            simultaneousUploads: 4,
+            query: {
+                jobId: jobId
+            }
+        }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHMubWFwKCBmb28gPT4gZm9vKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHMubWFwKGZvbyA9PiBmb28pCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0gam9iSWQKICAgICAqIEByZXR1cm5zIHtJRmxvd30KICAgICAqLwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3352,10 +3361,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBvcHRpb25zCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wbGljaXQgdmFsIHRpbWVvdXQ6IER1cmF0aW9uID0gMTAgc2Vjb25kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlWzBdLmpvYklkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
