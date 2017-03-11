@@ -2202,12 +2202,12 @@
         <mark key="^" line="9" column="54" />
         <mark key="." line="9" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" timestamp="1489240496212">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" timestamp="1489243153000">
         <mark key="'" line="78" column="24" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="29" column="31" />
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="30" />
+        <mark key="." line="27" column="30" />
+        <mark key="^" line="27" column="30" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab8/base_files/lab08.js" timestamp="1478711492253">
         <mark key="[" line="13" column="42" />
@@ -3034,11 +3034,11 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubmc0RmxvdyA9IHRoaXMuX25nNEZsb3dTZXJ2aWNlLmdldEZsb3dPYmplY3QoZGF0YS5qb2JJZCk7CiAgICAgICAgICAgICAgICB0aGlzLlVHc3VibWl0Sm9iSWQgPSBkYXRhLmpvYklkOwogICAgICAgICAgICAgICAgdGhpcy5uZzRGbG93VHJhbnNmZXJzID0gdGhpcy5uZzRGbG93LmZpbGVzOwo=</text>
+      <register name="&quot;" type="4">
+        <text>params</text>
       </register>
       <register name="-" type="4">
-        <text>: { jobId: number}</text>
+        <text>params</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcm91dGVcPg==</text>
