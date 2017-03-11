@@ -270,11 +270,11 @@
         <mark key="." line="16" column="59" />
         <mark key="^" line="16" column="59" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" timestamp="1489266083938">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="5" />
-        <mark key="." line="10" column="5" />
-        <mark key="^" line="10" column="5" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" timestamp="1489268280559">
+        <mark key="[" line="15" column="65" />
+        <mark key="]" line="15" column="81" />
+        <mark key="." line="15" column="81" />
+        <mark key="^" line="15" column="81" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/.editorconfig" timestamp="1487786624854">
         <mark key="[" line="6" column="14" />
@@ -2783,12 +2783,12 @@
         <mark key="." line="3" column="50" />
         <mark key="^" line="3" column="50" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" timestamp="1489266166266">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="84" column="46" />
-        <mark key="]" line="84" column="46" />
-        <mark key="." line="84" column="46" />
-        <mark key="^" line="84" column="46" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" timestamp="1489268007026">
+        <mark key="'" line="60" column="8" />
+        <mark key="[" line="100" column="19" />
+        <mark key="]" line="100" column="20" />
+        <mark key="^" line="101" column="32" />
+        <mark key="." line="100" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/ColossalPancake/README.md" timestamp="1485807212240">
         <mark key="'" line="28" column="1" />
@@ -2927,14 +2927,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.html" />
-      <jump line="48" column="46" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
-      <jump line="49" column="90" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
-      <jump line="17" column="12" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
-      <jump line="75" column="31" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.html" />
-      <jump line="5" column="60" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.html" />
-      <jump line="79" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" />
       <jump line="75" column="18" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" />
       <jump line="32" column="76" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="35" column="15" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" />
@@ -2946,7 +2938,6 @@
       <jump line="48" column="66" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/pending-jobs/pending-jobs.component.ts" />
       <jump line="62" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.html" />
       <jump line="18" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
-      <jump line="3" column="48" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
       <jump line="39" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="60" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/JobsController.scala" />
       <jump line="53" column="19" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/JobsController.scala" />
@@ -2955,7 +2946,6 @@
       <jump line="54" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/JobsController.scala" />
       <jump line="143" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="48" column="11" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="58" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="65" column="28" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/Upload.scala" />
       <jump line="113" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
@@ -3027,25 +3017,35 @@
       <jump line="79" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="56" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" />
       <jump line="83" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
+      <jump line="95" column="11" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
+      <jump line="20" column="55" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
+      <jump line="96" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
+      <jump line="98" column="99" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
+      <jump line="99" column="94" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
+      <jump line="60" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
+      <jump line="12" column="3" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
+      <jump line="3" column="19" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>(nextJobToWorkOn)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIExvZ2dlci5pbmZvKCJEaXJlY3Rvcnk6ICIgKyB3b3JrRGlyZWN0b3J5LnBhdGgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>(nextJobToWorkOn)</text>
+        <text>commandLine</text>
       </register>
       <register name="/" type="4">
-        <text>\ctimeout</text>
+        <text>second</text>
       </register>
-      <register name="0" type="4">
-        <text>nextJobToWorkOn</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIExvZ2dlci5pbmZvKCJEaXJlY3Rvcnk6ICIgKyB3b3JrRGlyZWN0b3J5LnBhdGgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBsYXkuY3VycmVudC5pbmplY3Rvcgo=</text>
+        <text encoding="base64">ICAgICJ0b3VjaCAiICsgd29ya0RpcmVjdG9yeS5wYXRoICsgIl9oZWxsbyIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3084,22 +3084,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYXkuY3UK</text>
+        <text encoding="base64">ICAgIHZhbCBhID0gInRvdWNoIGhlbGxvICYmIGhlbGxvIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZGVmIF9jcmVhdGVKb2JSdW5uZXJGb3JKb2Ioam9iOiBKb2IpOiBKb2JSdW5uZXIgPSB7CiAgICAgICAgbmV3IEpvYlJ1bm5lcigpCiAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBqb2JSdW5uZXJQYXJhbWV0ZXJzID0gX2dldEpvYlJ1bm5lclBhcmFtZXRlcnMoKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLm9uU3VjY2VzcygpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm9uQ29tcGxldGUoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3350,19 +3350,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgd29ya0RpcmVjdG9yeVBhdGg6IFN0cmluZyA9IFdPUktfRElSRUNUT1JZX1BSRUZJWCArIGpvYklkCg==</text>
+        <text encoding="base64">ICAgIHZhbCB3b3JrRGlyZWN0b3J5OiBEaXJlY3RvcnkgPSBmaWxlU3lzdGVtREFPLmNyZWF0ZVdvcmtEaXJlY3RvcnlGb3JKb2JJZEFuZEdldExvY2F0aW9uKGpvYi5pZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\ctimeout</last-search>
+      <last-search>second</last-search>
       <last-offset />
-      <last-pattern>\ctimeout</last-pattern>
+      <last-pattern>second</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>_SE_</last-substitute>
       <last-dir>1</last-dir>
@@ -3370,8 +3370,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfam9ic0FwaVw+</entry>
-        <entry>2500</entry>
         <entry>cancel</entry>
         <entry encoding="base64">XDxfcXVldWVNb25pdG9yVGFza1w+</entry>
         <entry>suspend</entry>
@@ -3390,6 +3388,8 @@
         <entry encoding="base64">XDxfcm91dGVcPg==</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>\ctimeout</entry>
+        <entry>\cduration</entry>
+        <entry>second</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Jlcy9yZXNwb25zZS9n</entry>
