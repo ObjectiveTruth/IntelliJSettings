@@ -1143,11 +1143,11 @@
         <mark key="." line="56" column="43" />
         <mark key="^" line="56" column="43" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/completed-jobs/completed-jobs.component.html" timestamp="1489340167158">
-        <mark key="[" line="16" column="43" />
-        <mark key="]" line="16" column="42" />
-        <mark key="." line="16" column="42" />
-        <mark key="^" line="16" column="42" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/completed-jobs/completed-jobs.component.html" timestamp="1489346626515">
+        <mark key="[" line="16" column="151" />
+        <mark key="]" line="16" column="150" />
+        <mark key="." line="16" column="150" />
+        <mark key="^" line="16" column="150" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/common/services/ng2flow/ng2flow.service.ts" timestamp="1485734699521">
         <mark key="'" line="0" column="0" />
@@ -1365,10 +1365,10 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IG5vdCBzZXQgdGhlIEpvYjog</text>
+        <text>(click)=&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG5vdCBzZXQgdGhlIEpvYjog</text>
+        <text>(click)=&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfY3JlYXRlQW5kUHJlcGFyZUpvYlJ1bm5lckZvckpvYlw+</text>
