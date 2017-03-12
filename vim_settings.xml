@@ -719,11 +719,12 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="45" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" timestamp="1489353363668">
-        <mark key="[" line="83" column="4" />
-        <mark key="]" line="83" column="4" />
-        <mark key="." line="83" column="4" />
-        <mark key="^" line="86" column="67" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" timestamp="1489358822114">
+        <mark key="'" line="70" column="14" />
+        <mark key="[" line="66" column="12" />
+        <mark key="]" line="66" column="36" />
+        <mark key="." line="66" column="36" />
+        <mark key="^" line="66" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/directives/ng4-flow-init.directive.ts" timestamp="1489238991042">
         <mark key="'" line="14" column="48" />
@@ -767,12 +768,12 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/application.conf" timestamp="1489350329879">
-        <mark key="'" line="258" column="2" />
-        <mark key="[" line="15" column="2" />
-        <mark key="]" line="15" column="19" />
-        <mark key="." line="15" column="28" />
-        <mark key="^" line="15" column="28" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/application.conf" timestamp="1489358673867">
+        <mark key="'" line="260" column="2" />
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="23" column="28" />
+        <mark key="^" line="23" column="38" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/test/java/com/objectivetruth/uoitlibrarybooking/data/models/CalendarModelTest.java" timestamp="1472501333613">
         <mark key="'" line="227" column="4" />
@@ -1263,7 +1264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="55" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="96" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="98" column="99" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
@@ -1363,25 +1363,26 @@
       <jump line="45" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
       <jump line="52" column="9" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" />
       <jump line="3" column="19" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" />
+      <jump line="70" column="14" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>ASSETS_DIRECTORY</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>ASSETS_DIRECTORY</text>
       </register>
       <register name="/" type="4">
         <text>onComplete</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRNYWluTG9jYWxEaXJlY3RvcnlOYW1lOiBTdHJpbmcgPSBNQUlOX0xPQ0FMX0RJUl9OQU1FCiAgICBkZWYgZ2V0VGVtcG9yYXJ5VXBsb2FkRGlyZWN0b3J5OiBTdHJpbmcgPSBURU1QT1JBUllfVVBMT0FEX0RJUkVDVE9SWQogICAgZGVmIGdldENvbXBsZXRlZFVwbG9hZERpcmVjdG9yeTogU3RyaW5nID0gQ09NUExFVEVEX1VQTE9BRF9ESVJFQ1RPUlkKICAgIGRlZiBnZXRSZXNvdXJjZXNEaXJlY3Rvcnk6IFN0cmluZyA9IFJFU09VUkNFU19ESVJFQ1RPUlkKICAgIGRlZiBnZXRUb29sc0RpcmVjdG9yeTogU3RyaW5nID0gVE9PTFNfRElSRUNUT1JZCg==</text>
+      <register name="0" type="4">
+        <text>new java.io.File(TOOLS_DIRECTORY).getAbsolutePath</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRUb29sc0RpcmVjdG9yeUFic29sdXRlOiBTdHJpbmcgPSBUT09MU19ESVJFQ1RPUllfQUJTT0xVVEUK</text>
+        <text encoding="base64">ICBwYWNrYWdlZEFzc2V0c0RpcmVjdG9yeU5hbWUgPSAiYXNzZXRzIgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1414,26 +1415,24 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE8gcmVtb3ZlIGJlZm9yZSBwcm9kdWN0aW9uCiAgICAgICAgX3J1bkRlcGVuZGFuY3lTY3JpcHQoVE9PTFNfRElSRUNUT1JZX0FCU09MVVRFKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRUb29sc0RpcmVjdG9yeUFic29sdXRlOiBTdHJpbmcgPSBUT09MU19ESVJFQ1RPUllfQUJTT0xVVEUK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>MAIN_LOCAL_DIR_NAME + File.separator +
-        configFactory.getString(&quot;UrbanGrizzly.toolsDirectoryName&quot;)</text>
-      </register>
-      <register name="5" type="4">
-        <text>MAIN_LOCAL_DIR_NAME + File.separator +
-        configFactory.getString(&quot;UrbanGrizzly.workDirectoryName&quot;)</text>
       </register>
       <register name="6" type="4">
         <text>MAIN_LOCAL_DIR_NAME + File.separator +
-        configFactory.getString(&quot;UrbanGrizzly.resourcesDirectoryName&quot;)</text>
+        configFactory.getString(&quot;UrbanGrizzly.toolsDirectoryName&quot;)</text>
       </register>
       <register name="7" type="4">
         <text>MAIN_LOCAL_DIR_NAME + File.separator +
-        configFactory.getString(&quot;UrbanGrizzly.temporaryUploadsDirectoryName&quot;)</text>
+        configFactory.getString(&quot;UrbanGrizzly.workDirectoryName&quot;)</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1685,10 +1684,11 @@
       </register>
       <register name="8" type="4">
         <text>MAIN_LOCAL_DIR_NAME + File.separator +
-        configFactory.getString(&quot;UrbanGrizzly.completedUploadsDirectoryName&quot;)</text>
+        configFactory.getString(&quot;UrbanGrizzly.resourcesDirectoryName&quot;)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnZwo=</text>
+      <register name="9" type="4">
+        <text>MAIN_LOCAL_DIR_NAME + File.separator +
+        configFactory.getString(&quot;UrbanGrizzly.temporaryUploadsDirectoryName&quot;)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1743,9 +1743,9 @@
         <entry encoding="base64">JzwsJz5zL19TRV8vXy9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>:w</entry>
-        <entry>W</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
