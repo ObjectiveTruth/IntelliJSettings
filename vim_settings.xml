@@ -270,11 +270,11 @@
         <mark key="." line="16" column="59" />
         <mark key="^" line="16" column="59" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" timestamp="1489282387718">
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="16" column="18" />
-        <mark key="." line="16" column="18" />
-        <mark key="^" line="16" column="18" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" timestamp="1489284194228">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="8" />
+        <mark key="." line="32" column="26" />
+        <mark key="^" line="17" column="40" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/.editorconfig" timestamp="1487786624854">
         <mark key="[" line="6" column="14" />
@@ -2784,12 +2784,12 @@
         <mark key="." line="3" column="50" />
         <mark key="^" line="3" column="50" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" timestamp="1489282591893">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" timestamp="1489283955243">
         <mark key="'" line="51" column="25" />
-        <mark key="[" line="104" column="76" />
-        <mark key="]" line="104" column="76" />
-        <mark key="." line="104" column="76" />
-        <mark key="^" line="104" column="81" />
+        <mark key="[" line="104" column="31" />
+        <mark key="]" line="104" column="39" />
+        <mark key="." line="104" column="39" />
+        <mark key="^" line="104" column="39" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/ColossalPancake/README.md" timestamp="1485807212240">
         <mark key="'" line="28" column="1" />
@@ -3034,10 +3034,10 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.start</text>
+        <text>JobSuccessPackage</text>
       </register>
       <register name="-" type="4">
-        <text>.start</text>
+        <text>JobSuccessPackage</text>
       </register>
       <register name="/" type="4">
         <text>trait</text>
@@ -3046,7 +3046,7 @@
         <text encoding="base64">ICAoJ2JpbycsICdxdWV1ZWQnLCAnY2FuY2VsJywgJ2NhbmNlbGVkJyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3085,22 +3085,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdWNjZXNzUGFja2FnZQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">KHZhbCBjb21tYW5kTGluZTogU3RyaW5nLAogICAgICAgICAgICAgICAgIHZhbCB3b3JrRGlyZWN0b3J5OiBEaXJlY3RvcnksCiAgICAgICAgICAgICAgICAgdmFsIHdvcmtGaWxlc0luT3JkZXI6IFNlcVtTdHJpbmddKSA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBUcnkuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHJhaXQgIHsKICAgIAp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmdXR1cmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iICpuZ0lmPSIhaXNKb2JDYW5jZWxlZChqb2IpIgogICAgICAgICAgICAgICAgICAgIGNsYXNzPSJidG4gYnRuLXNtYWxsIGJ0bi1kYW5nZXIiIChjbGljayk9ImNhbmNlbEpvYihqb2IpIj48aSBjbGFzcz0iZmEgZmEtdGltZXMiPjwvaT48L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJKb2Igc3VjY2Vzc2Z1bGx5IHJlc3VtZWQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3350,11 +3350,11 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">KGRpZEpvYkdldFF1ZXVlZDogQm9vbGVhbiwgam9iOiBPcHRpb25bSm9iXSkgPT4gewogICAgICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBGdXR1cmUgewogICAgICAgICAgICAic2xlZXAgMTAiICEKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgewogICAgICAgICAgICBkaWRKb2JHZXRRdWV1ZWQgPC0gam9ic0RBTy51cGRhdGVKb2JTdGF0ZShpZCwgUVVFVUVEX1NUQVRFX05BTUUpCiAgICAgICAgICAgIGpvYiA8LSBqb2JzREFPLmdldEpvYkRldGFpbHMoaWQpCiAgICAgICAgfSB5aWVsZCAoZGlkSm9iR2V0UXVldWVkOiBCb29sZWFuLCBqb2I6IE9wdGlvbltKb2JdKSA9PiB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
