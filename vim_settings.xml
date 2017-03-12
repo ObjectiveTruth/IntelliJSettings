@@ -518,8 +518,8 @@
         <mark key="." line="37" column="46" />
         <mark key="^" line="37" column="46" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" timestamp="1489336100632">
-        <mark key="'" line="32" column="45" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" timestamp="1489339199597">
+        <mark key="'" line="32" column="37" />
         <mark key="[" line="32" column="37" />
         <mark key="]" line="32" column="37" />
         <mark key="." line="32" column="37" />
@@ -1258,7 +1258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="2" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/application.conf" />
       <jump line="19" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" />
       <jump line="20" column="71" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" />
       <jump line="79" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
@@ -1358,6 +1357,7 @@
       <jump line="20" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="119" column="105" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="118" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
+      <jump line="32" column="37" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1687,7 +1687,7 @@
         <text encoding="base64">LnJ1bigpCiAgICAgICAgICAgICAgICAgICAgLm9uQ29tcGxldGUocmVzdWx0ID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgX29uSm9iQ29tcGxldGUocmVzdWx0LCBuZXh0Sm9iVG9Xb3JrT24pCiAgICAgICAgICAgICAgICAgICAgfSk=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1740,9 +1740,9 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>:w</entry>
         <entry>W</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
