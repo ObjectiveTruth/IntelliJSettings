@@ -719,11 +719,11 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="45" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" timestamp="1489351157732">
-        <mark key="[" line="62" column="65" />
-        <mark key="]" line="62" column="65" />
-        <mark key="." line="62" column="67" />
-        <mark key="^" line="57" column="87" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" timestamp="1489353363668">
+        <mark key="[" line="83" column="4" />
+        <mark key="]" line="83" column="4" />
+        <mark key="." line="83" column="4" />
+        <mark key="^" line="86" column="67" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/directives/ng4-flow-init.directive.ts" timestamp="1489238991042">
         <mark key="'" line="14" column="48" />
@@ -1369,73 +1369,71 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>INSTALL_DEPENDANCY_SCRIPT</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>INSTALL_DEPENDANCY_SCRIPT</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>onComplete</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRSZXNvdXJjZXNEaXJlY3Rvcnk6IFN0cmluZyA9IFJFU09VUkNFU19ESVJFQ1RPUlkK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRNYWluTG9jYWxEaXJlY3RvcnlOYW1lOiBTdHJpbmcgPSBNQUlOX0xPQ0FMX0RJUl9OQU1FCiAgICBkZWYgZ2V0VGVtcG9yYXJ5VXBsb2FkRGlyZWN0b3J5OiBTdHJpbmcgPSBURU1QT1JBUllfVVBMT0FEX0RJUkVDVE9SWQogICAgZGVmIGdldENvbXBsZXRlZFVwbG9hZERpcmVjdG9yeTogU3RyaW5nID0gQ09NUExFVEVEX1VQTE9BRF9ESVJFQ1RPUlkKICAgIGRlZiBnZXRSZXNvdXJjZXNEaXJlY3Rvcnk6IFN0cmluZyA9IFJFU09VUkNFU19ESVJFQ1RPUlkKICAgIGRlZiBnZXRUb29sc0RpcmVjdG9yeTogU3RyaW5nID0gVE9PTFNfRElSRUNUT1JZCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZwo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRUb29sc0RpcmVjdG9yeUFic29sdXRlOiBTdHJpbmcgPSBUT09MU19ESVJFQ1RPUllfQUJTT0xVVEUK</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="87" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
           <key char="65" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="103" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
           <key char="115" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
           <key char="66" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="95" code="0" mods="0" />
-          <key char="65" code="0" mods="0" />
           <key char="83" code="0" mods="0" />
-          <key char="69" code="0" mods="0" />
-          <key char="95" code="0" mods="0" />
-          <key char="85" code="0" mods="0" />
-          <key char="82" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
           <key char="76" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="43" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
+          <key char="85" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="106" code="0" mods="0" />
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUb29scwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>MAIN_LOCAL_DIR_NAME + File.separator +
+        configFactory.getString(&quot;UrbanGrizzly.toolsDirectoryName&quot;)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuCg==</text>
+      <register name="5" type="4">
+        <text>MAIN_LOCAL_DIR_NAME + File.separator +
+        configFactory.getString(&quot;UrbanGrizzly.workDirectoryName&quot;)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUcnl7amRkfQo=</text>
+      <register name="6" type="4">
+        <text>MAIN_LOCAL_DIR_NAME + File.separator +
+        configFactory.getString(&quot;UrbanGrizzly.resourcesDirectoryName&quot;)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text>MAIN_LOCAL_DIR_NAME + File.separator +
+        configFactory.getString(&quot;UrbanGrizzly.temporaryUploadsDirectoryName&quot;)</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1685,11 +1683,12 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>MAIN_LOCAL_DIR_NAME + File.separator +
+        configFactory.getString(&quot;UrbanGrizzly.completedUploadsDirectoryName&quot;)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBnZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
