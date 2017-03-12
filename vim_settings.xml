@@ -1034,12 +1034,12 @@
         <mark key="^" line="17" column="68" />
         <mark key="." line="17" column="8" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/JobsController.scala" timestamp="1489271490552">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/JobsController.scala" timestamp="1489279148322">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="106" column="58" />
-        <mark key="]" line="106" column="58" />
-        <mark key="." line="106" column="58" />
-        <mark key="^" line="101" column="53" />
+        <mark key="[" line="103" column="49" />
+        <mark key="]" line="103" column="54" />
+        <mark key="." line="103" column="54" />
+        <mark key="^" line="103" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/tslint.json" timestamp="1487790909028">
         <mark key="'" line="53" column="8" />
@@ -3033,10 +3033,10 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>Opeion</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Opeion</text>
       </register>
       <register name="/" type="4">
         <text>second</text>
