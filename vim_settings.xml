@@ -3,60 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/bookinginteractionmodel/requestoptions/JoinOrLeaveLeaveRequest.java" timestamp="1472156229200">
-        <mark key="[" line="11" column="11" />
-        <mark key="]" line="11" column="28" />
-        <mark key="^" line="11" column="28" />
-        <mark key="." line="11" column="28" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/CreateImgurLinkForDOTString.scala" timestamp="1469369596941">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="13" column="15" />
-        <mark key="^" line="13" column="15" />
-        <mark key="." line="13" column="15" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/akka-http-microservice-quickstart/src/main/scala/service/health/HealthRoutes.scala" timestamp="1469331137698">
-        <mark key="[" line="17" column="35" />
-        <mark key="]" line="17" column="39" />
-        <mark key="^" line="17" column="39" />
-        <mark key="." line="17" column="39" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/core/module-import-guard.ts" timestamp="1488072923439">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/calendar/whatsnew/WhatsNewDialog.java" timestamp="1468687434195">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="28" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="18" column="24" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/node_modules/imgur/cli.js" timestamp="1469160579948">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="13" column="22" />
-        <mark key="^" line="13" column="22" />
-        <mark key="." line="13" column="22" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/assets/whatsnew_minor.txt" timestamp="1480357728193">
-        <mark key="[" line="2" column="56" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/myaccount/MyAccount.java" timestamp="1480299101194">
         <mark key="'" line="115" column="40" />
         <mark key="[" line="63" column="56" />
         <mark key="]" line="63" column="65" />
         <mark key="^" line="63" column="65" />
         <mark key="." line="63" column="65" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/minidoallserverjs/tsconfig.json" timestamp="1474941960870">
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="3" column="21" />
-        <mark key="^" line="3" column="21" />
-        <mark key="." line="3" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/views/index.pug" timestamp="1480120167486">
         <mark key="'" line="0" column="0" />
@@ -79,24 +31,6 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/AEMComponentArchitectureGraph/README.md" timestamp="1465531065001">
-        <mark key="[" line="26" column="34" />
-        <mark key="]" line="26" column="84" />
-        <mark key="." line="26" column="84" />
-        <mark key="^" line="26" column="84" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/src/main/scala/com/objectivetruth/graphvizslackapp/models/awsIn.scala" timestamp="1469256507035">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="4" column="42" />
-        <mark key="^" line="4" column="42" />
-        <mark key="." line="4" column="42" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab7/MyApplication/app/src/main/java/com/sansalex/myapplicationlab7/Grade.java" timestamp="1476661849900">
-        <mark key="[" line="23" column="39" />
-        <mark key="]" line="23" column="43" />
-        <mark key="^" line="23" column="43" />
-        <mark key="." line="23" column="43" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/BookingInteractionModel.java" timestamp="1480354789689">
         <mark key="'" line="125" column="20" />
         <mark key="[" line="54" column="0" />
@@ -104,30 +38,12 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="52" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/res/values/success_messages.xml" timestamp="1468367566076">
-        <mark key="[" line="2" column="44" />
-        <mark key="]" line="2" column="45" />
-        <mark key="." line="2" column="45" />
-        <mark key="^" line="2" column="52" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/midterm1/Midterm/app/src/main/java/com/sansalex/midterm/MainActivity.java" timestamp="1478109297530">
         <mark key="'" line="20" column="13" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="45" column="107" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/calendar/whatsnew/WhatsNewDialog.java" timestamp="1469063687480">
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="8" column="69" />
-        <mark key="." line="8" column="69" />
-        <mark key="^" line="8" column="69" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/bookinginteractionmodel/BookingInteractionScreenLoadEvent.java" timestamp="1471803763486">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="4" column="77" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/test/ApplicationSpec.scala" timestamp="1470520415332">
         <mark key="'" line="74" column="0" />
@@ -143,54 +59,12 @@
         <mark key="." line="124" column="0" />
         <mark key="^" line="135" column="44" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/CredentialsLogin.java" timestamp="1472676106072">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="4" column="56" />
-        <mark key="^" line="4" column="56" />
-        <mark key="." line="4" column="56" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/calendar/calendarloaded/CalendarLoaded.java" timestamp="1472926278446">
         <mark key="'" line="63" column="5" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="^" line="50" column="7" />
         <mark key="." line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab3/base_files/lab3.js" timestamp="1475681795189">
-        <mark key="[" line="12" column="37" />
-        <mark key="]" line="12" column="37" />
-        <mark key="." line="12" column="37" />
-        <mark key="^" line="12" column="37" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/res/layout/my_account_loaded.xml" timestamp="1462574864875">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="5" column="54" />
-        <mark key="^" line="2" column="56" />
-        <mark key="." line="2" column="56" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/routes/createImgurLinkForDotString.js" timestamp="1481478343015">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="31" />
-        <mark key="^" line="5" column="31" />
-        <mark key="." line="5" column="31" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/.gitignore" timestamp="1488795921298">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="12" />
-        <mark key="^" line="7" column="12" />
-        <mark key="." line="7" column="12" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/ColossalPancake/youtube-highlight.js" timestamp="1485665808904">
-        <mark key="[" line="7" column="44" />
-        <mark key="]" line="7" column="47" />
-        <mark key="^" line="7" column="47" />
-        <mark key="." line="7" column="47" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/Global.scala" timestamp="1488734687645">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="5" />
-        <mark key="^" line="2" column="5" />
-        <mark key="." line="2" column="5" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/playground/index.html" timestamp="1481986047902">
         <mark key="'" line="0" column="0" />
@@ -199,12 +73,6 @@
         <mark key="." line="5" column="47" />
         <mark key="^" line="5" column="47" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/ColossalPancake/background.html" timestamp="1485664973456">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="27" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="27" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/base_files/lab1b.css" timestamp="1474578105198">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="68" column="12" />
@@ -212,36 +80,12 @@
         <mark key="." line="68" column="14" />
         <mark key="^" line="68" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/values/messages_error.xml" timestamp="1472147757598">
-        <mark key="[" line="3" column="73" />
-        <mark key="]" line="4" column="60" />
-        <mark key="^" line="4" column="60" />
-        <mark key="." line="4" column="60" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/Leave.java" timestamp="1471667905793">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="11" column="34" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/flows/JoinOrLeave.java" timestamp="1480353265998">
         <mark key="'" line="88" column="8" />
         <mark key="[" line="71" column="0" />
         <mark key="]" line="72" column="107" />
         <mark key="." line="71" column="89" />
         <mark key="^" line="71" column="89" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/app/AppComponent.java" timestamp="1468811109790">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="24" column="48" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/bookinginteractionmodel/spinnercontainers/JoinOrLeaveSpinnerForJoin.java" timestamp="1472006167483">
-        <mark key="[" line="4" column="48" />
-        <mark key="]" line="4" column="54" />
-        <mark key="^" line="4" column="54" />
-        <mark key="." line="4" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/midterm1/base/midterm.html" timestamp="1477423045213">
         <mark key="'" line="49" column="36" />
@@ -264,12 +108,6 @@
         <mark key="^" line="14" column="22" />
         <mark key="." line="14" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/app/networking/CustomCookieJar.java" timestamp="1471890870795">
-        <mark key="[" line="14" column="69" />
-        <mark key="]" line="16" column="59" />
-        <mark key="." line="16" column="59" />
-        <mark key="^" line="16" column="59" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" timestamp="1489293023240">
         <mark key="'" line="32" column="45" />
         <mark key="[" line="32" column="35" />
@@ -277,24 +115,12 @@
         <mark key="." line="32" column="36" />
         <mark key="^" line="32" column="36" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/.editorconfig" timestamp="1487786624854">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="14" />
-        <mark key="^" line="6" column="14" />
-        <mark key="." line="6" column="14" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/LICENSE" timestamp="1485265939453">
         <mark key="'" line="20" column="8" />
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/spaceishare/app/views/listings/_googlemap.haml" timestamp="1466223658891">
-        <mark key="[" line="7" column="134" />
-        <mark key="]" line="7" column="134" />
-        <mark key="^" line="7" column="166" />
-        <mark key="." line="7" column="134" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/1.sql" timestamp="1488611287889">
         <mark key="'" line="20" column="0" />
@@ -317,60 +143,12 @@
         <mark key="^" line="46" column="36" />
         <mark key="." line="46" column="36" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/routes/register.js" timestamp="1481478391743">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="31" />
-        <mark key="^" line="0" column="31" />
-        <mark key="." line="0" column="31" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/core/core.module.ts" timestamp="1488729382068">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="14" column="21" />
         <mark key="]" line="14" column="19" />
         <mark key="." line="14" column="19" />
         <mark key="^" line="14" column="19" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/src/main/scala/com/objectivetruth/graphvizslackapp/models/Responses.scala" timestamp="1469241943018">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="34" />
-        <mark key="^" line="3" column="34" />
-        <mark key="." line="3" column="34" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/MyApplication/app/src/main/res/layout/activity_main.xml" timestamp="1475190962266">
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="40" />
-        <mark key="." line="14" column="40" />
-        <mark key="^" line="14" column="40" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/layout/guidelinesandpolicies_debug_preferences.xml" timestamp="1471793728786">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="33" />
-        <mark key="^" line="2" column="33" />
-        <mark key="." line="2" column="33" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/androidTest/java/mockclasses/MockAppModule.java" timestamp="1462058958916">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="21" column="10" />
-        <mark key="^" line="21" column="10" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/ColossalPancake/background.js" timestamp="1485664993269">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="10" column="2" />
-        <mark key="^" line="10" column="2" />
-        <mark key="." line="10" column="2" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/models/database/TeamInfo.scala" timestamp="1470281231056">
-        <mark key="[" line="5" column="70" />
-        <mark key="]" line="5" column="77" />
-        <mark key="^" line="5" column="77" />
-        <mark key="." line="5" column="77" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab10/base_files/index.js" timestamp="1479920284896">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="25" column="45" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/bookinginteractionmodel/BookingInteractionEventType.java" timestamp="1472677927929">
         <mark key="'" line="12" column="16" />
@@ -379,48 +157,12 @@
         <mark key="^" line="52" column="91" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/public/app.js" timestamp="1484792719014">
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="3" column="27" />
-        <mark key="^" line="3" column="32" />
-        <mark key="." line="3" column="27" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/index.ts" timestamp="1469161336465">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="56" />
-        <mark key="." line="3" column="56" />
-        <mark key="^" line="3" column="56" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/layout/calendar_grid_item.xml" timestamp="1472844305667">
-        <mark key="[" line="9" column="43" />
-        <mark key="]" line="9" column="43" />
-        <mark key="." line="9" column="43" />
-        <mark key="^" line="9" column="48" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/res/layout/my_account_loaded_booking_tab.xml" timestamp="1462248703767">
-        <mark key="[" line="39" column="36" />
-        <mark key="]" line="39" column="36" />
-        <mark key="^" line="39" column="35" />
-        <mark key="." line="39" column="36" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/test/unittests/registerControllerSpec.scala" timestamp="1470498902128">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="6" />
-        <mark key="^" line="10" column="57" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/data/jobs-api/jobs-api.service.ts" timestamp="1489293549261">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/data/jobs-api/jobs-api.service.ts" timestamp="1489297539798">
         <mark key="'" line="52" column="4" />
-        <mark key="[" line="132" column="56" />
-        <mark key="]" line="132" column="74" />
-        <mark key="." line="132" column="74" />
-        <mark key="^" line="132" column="74" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/controllers/RegisterTeam.scala" timestamp="1470275589445">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="22" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="10" column="101" />
+        <mark key="[" line="83" column="10" />
+        <mark key="]" line="83" column="9" />
+        <mark key="." line="83" column="9" />
+        <mark key="^" line="83" column="9" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/package.json" timestamp="1481506568224">
         <mark key="'" line="48" column="0" />
@@ -428,30 +170,6 @@
         <mark key="]" line="13" column="109" />
         <mark key="." line="13" column="109" />
         <mark key="^" line="13" column="109" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/exam_practice/app/src/main/java/com/sansalex/myapplication/CanvasView.java" timestamp="1481761251431">
-        <mark key="[" line="17" column="42" />
-        <mark key="]" line="18" column="33" />
-        <mark key="." line="18" column="33" />
-        <mark key="^" line="18" column="33" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/data/DataModule.java" timestamp="1468781560151">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="40" column="3" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/test/IntegrationSpec.scala" timestamp="1488094258053">
-        <mark key="[" line="16" column="32" />
-        <mark key="]" line="16" column="43" />
-        <mark key="." line="16" column="43" />
-        <mark key="^" line="16" column="43" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/CSA-ForHackerNews/README.md" timestamp="1485639309277">
-        <mark key="[" line="16" column="93" />
-        <mark key="]" line="16" column="92" />
-        <mark key="^" line="16" column="92" />
-        <mark key="." line="16" column="92" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/test/ApplicationSpec.scala" timestamp="1469395060636">
         <mark key="'" line="16" column="6" />
@@ -467,24 +185,6 @@
         <mark key="." line="44" column="44" />
         <mark key="^" line="44" column="44" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/temp/README.MD" timestamp="1481476559844">
-        <mark key="[" line="0" column="97" />
-        <mark key="]" line="0" column="97" />
-        <mark key="^" line="0" column="97" />
-        <mark key="." line="0" column="97" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/res/layout/first_time_loaded.xml" timestamp="1468171784158">
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="11" column="52" />
-        <mark key="." line="11" column="52" />
-        <mark key="^" line="11" column="52" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/values/messages_success.xml" timestamp="1472710707682">
-        <mark key="[" line="2" column="62" />
-        <mark key="]" line="3" column="58" />
-        <mark key="^" line="3" column="58" />
-        <mark key="." line="3" column="58" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/pending-jobs/pending-jobs.component.html" timestamp="1489280464994">
         <mark key="'" line="7" column="67" />
         <mark key="[" line="44" column="95" />
@@ -492,54 +192,12 @@
         <mark key="." line="44" column="98" />
         <mark key="^" line="44" column="98" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab6/MyApplication/app/src/main/res/layout/activity_add_contact.xml" timestamp="1476459560607">
-        <mark key="[" line="17" column="97" />
-        <mark key="]" line="17" column="100" />
-        <mark key="." line="17" column="100" />
-        <mark key="^" line="17" column="100" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab08/MyApplication/app/build.gradle" timestamp="1480631288344">
-        <mark key="[" line="26" column="53" />
-        <mark key="]" line="27" column="49" />
-        <mark key="^" line="27" column="49" />
-        <mark key="." line="27" column="49" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/ng4-flow.module.ts" timestamp="1488069799842">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="18" column="28" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/test/resources/imgur/GoodImagePostResponse.json" timestamp="1470501825640">
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="3" column="43" />
-        <mark key="^" line="3" column="43" />
-        <mark key="." line="3" column="43" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/directives/ng4-flow-drop.directive.ts" timestamp="1488775440480">
-        <mark key="[" line="12" column="43" />
-        <mark key="]" line="12" column="61" />
-        <mark key="^" line="12" column="61" />
-        <mark key="." line="12" column="61" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/common/InteractionFragment.java" timestamp="1480353190529">
         <mark key="'" line="7" column="22" />
         <mark key="[" line="36" column="29" />
         <mark key="]" line="36" column="30" />
         <mark key="^" line="36" column="30" />
         <mark key="." line="36" column="30" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab6/base_files/lab06.js" timestamp="1478218264540">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="56" column="50" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/testResources/server_responses/joinorleave/joingroup.aspx" timestamp="1472566995164">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="249" column="7" />
-        <mark key="^" line="249" column="7" />
-        <mark key="." line="249" column="7" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/guidelinespolicies/GuidelinesAndPolicies.java" timestamp="1472964233852">
         <mark key="'" line="47" column="78" />
@@ -555,30 +213,12 @@
         <mark key="." line="65" column="103" />
         <mark key="^" line="65" column="103" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/usermodel/MyAccountDataLoginStateType.java" timestamp="1468723121273">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="5" column="11" />
-        <mark key="." line="5" column="11" />
-        <mark key="^" line="5" column="11" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/authentication.conf" timestamp="1484678746995">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/app.module.ts" timestamp="1488795495761">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="22" />
         <mark key="." line="30" column="21" />
         <mark key="^" line="30" column="21" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/swagger.json" timestamp="1488102041113">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="53" />
-        <mark key="^" line="4" column="53" />
-        <mark key="." line="4" column="53" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/calendarmodel/TimeCell.java" timestamp="1471800114811">
         <mark key="'" line="0" column="0" />
@@ -587,48 +227,12 @@
         <mark key="." line="84" column="29" />
         <mark key="^" line="84" column="29" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/usermodel/MyAccountBooking.java" timestamp="1462145356227">
-        <mark key="[" line="21" column="83" />
-        <mark key="]" line="21" column="83" />
-        <mark key="^" line="20" column="31" />
-        <mark key="." line="21" column="83" />
-      </file>
-      <file name="restClient/response64.txt" timestamp="1469252324527">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/bookinginteractionmodel/requestoptions/BookRequestOptions.java" timestamp="1472402981818">
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="17" column="17" />
-        <mark key="^" line="17" column="17" />
-        <mark key="." line="17" column="17" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/LoginAsynkTask.java" timestamp="1462140392778">
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="220" column="20" />
-        <mark key="." line="124" column="9" />
-        <mark key="^" line="124" column="9" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab5/MyApplication/app/src/main/AndroidManifest.xml" timestamp="1476134369058">
-        <mark key="[" line="21" column="62" />
-        <mark key="]" line="21" column="62" />
-        <mark key="." line="21" column="62" />
-        <mark key="^" line="21" column="62" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/usermodel/MyAccountParser.java" timestamp="1480300702363">
         <mark key="'" line="116" column="16" />
         <mark key="[" line="99" column="89" />
         <mark key="]" line="100" column="90" />
         <mark key="." line="100" column="90" />
         <mark key="^" line="100" column="90" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab6/MyApplication/app/src/main/res/layout/activity_main.xml" timestamp="1476142789668">
-        <mark key="[" line="15" column="40" />
-        <mark key="]" line="15" column="46" />
-        <mark key="." line="15" column="46" />
-        <mark key="^" line="15" column="46" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/ResumableInfoStorage.scala" timestamp="1485120012491">
         <mark key="'" line="36" column="0" />
@@ -654,12 +258,6 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/.jscsrc" timestamp="1480104858870">
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="5" column="18" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="5" column="18" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/NGFlowPlaySample/.gitignore" timestamp="1485266708586">
         <mark key="'" line="141" column="0" />
         <mark key="[" line="141" column="0" />
@@ -677,12 +275,6 @@
       <file name="/Dummy.txt" timestamp="1488785920144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/app/AppComponent.java" timestamp="1472964045121">
-        <mark key="[" line="40" column="27" />
-        <mark key="]" line="41" column="60" />
-        <mark key="^" line="41" column="60" />
-        <mark key="." line="41" column="60" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/common/Utils.java" timestamp="1471757403144">
         <mark key="'" line="38" column="23" />
         <mark key="[" line="20" column="83" />
@@ -696,12 +288,6 @@
         <mark key="]" line="1" column="41" />
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/final_exam_base/FinalExamStarter/local.properties" timestamp="1481808397190">
-        <mark key="[" line="9" column="8" />
-        <mark key="]" line="9" column="42" />
-        <mark key="^" line="9" column="42" />
-        <mark key="." line="9" column="42" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/bookinginteractionmodel/BookingInteractionWebService.java" timestamp="1472841277437">
         <mark key="'" line="164" column="27" />
@@ -717,18 +303,6 @@
         <mark key="^" line="105" column="89" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/about/about.module.ts" timestamp="1488076560047">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="4" />
-        <mark key="^" line="5" column="25" />
-        <mark key="." line="5" column="4" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/calendarmodel/RefreshActivateEvent.java" timestamp="1468100473803">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="6" />
-        <mark key="." line="5" column="6" />
-        <mark key="^" line="5" column="6" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/app/networking/customvolley/CustomNetworkToHandleRedirects.java" timestamp="1472178629651">
         <mark key="'" line="167" column="62" />
         <mark key="[" line="21" column="51" />
@@ -736,20 +310,12 @@
         <mark key="." line="21" column="54" />
         <mark key="^" line="21" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/authentication/WithProvider.scala" timestamp="1484675731085">
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="13" column="62" />
-        <mark key="^" line="13" column="62" />
-        <mark key="." line="13" column="62" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/target/swagger/swagger.json" timestamp="1488655517898">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/default/1.sql" timestamp="1489293825782">
-        <mark key="'" line="51" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/default/1.sql" timestamp="1489297454137">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="46" column="41" />
+        <mark key="]" line="46" column="57" />
+        <mark key="^" line="46" column="57" />
+        <mark key="." line="46" column="57" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab6/MyApplication/app/src/main/java/com/sansalex/myapplication/DeleteContact.java" timestamp="1476467786595">
         <mark key="'" line="26" column="31" />
@@ -758,60 +324,12 @@
         <mark key="." line="40" column="24" />
         <mark key="^" line="40" column="24" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/README.MD" timestamp="1481508789956">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="^" line="70" column="0" />
-        <mark key="." line="94" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/test/resources/slack/BadSlackToken.txt" timestamp="1469384000867">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="8" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/JoinOrLeave.java" timestamp="1472503983033">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="267" column="4" />
         <mark key="." line="68" column="101" />
         <mark key="^" line="68" column="101" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/views/dot-input.pug" timestamp="1481486931821">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/bookinginteractionmodel/spinnercontainers/JoinOrLeaveSpinnerForLeave.java" timestamp="1472006238670">
-        <mark key="[" line="4" column="78" />
-        <mark key="]" line="4" column="77" />
-        <mark key="^" line="4" column="77" />
-        <mark key="." line="4" column="77" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/res/menu/my_account_loaded_action_icons_menu.xml" timestamp="1462153789646">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="32" />
-        <mark key="." line="8" column="32" />
-        <mark key="^" line="8" column="32" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/webapps_labs/ass2/asmt2.css" timestamp="1478656348785">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="22" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="5" column="21" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/testResources/server_responses/joinorleave/join_fail_message.aspx" timestamp="1472567498326">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="249" column="7" />
-        <mark key="^" line="249" column="7" />
-        <mark key="." line="249" column="7" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/MyApplication/app/src/main/res/layout/activity_about.xml" timestamp="1475191005003">
-        <mark key="[" line="15" column="29" />
-        <mark key="]" line="15" column="41" />
-        <mark key="." line="15" column="41" />
-        <mark key="^" line="15" column="41" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/BookingInteraction.java" timestamp="1472964481022">
         <mark key="'" line="31" column="0" />
@@ -820,24 +338,6 @@
         <mark key="^" line="70" column="56" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/heroes/src/app/app.component.html" timestamp="1485284577236">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="44" />
-        <mark key="." line="5" column="44" />
-        <mark key="^" line="5" column="44" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/scripts/set_release_track_env_variable_based_on_ci_branch.sh" timestamp="1463142153068">
-        <mark key="[" line="17" column="41" />
-        <mark key="]" line="17" column="47" />
-        <mark key="^" line="17" column="47" />
-        <mark key="." line="17" column="47" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab6/MyApplication/app/build.gradle" timestamp="1476145986899">
-        <mark key="[" line="24" column="53" />
-        <mark key="]" line="25" column="44" />
-        <mark key="^" line="25" column="44" />
-        <mark key="." line="25" column="44" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/CSA-ForHackerNews/main.js" timestamp="1485641977466">
         <mark key="'" line="12" column="29" />
         <mark key="[" line="74" column="88" />
@@ -845,60 +345,12 @@
         <mark key="." line="74" column="88" />
         <mark key="^" line="74" column="88" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/Dockerfile" timestamp="1488955233708">
-        <mark key="[" line="13" column="73" />
-        <mark key="]" line="13" column="72" />
-        <mark key="^" line="13" column="72" />
-        <mark key="." line="13" column="72" />
-      </file>
-      <file name="restClient/response61.txt" timestamp="1469252305139">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/build.sbt" timestamp="1488828770742">
-        <mark key="[" line="14" column="43" />
-        <mark key="]" line="14" column="43" />
-        <mark key="." line="14" column="43" />
-        <mark key="^" line="14" column="43" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/usermodel/MyAccountDataLoginState.java" timestamp="1468722341159">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="9" column="32" />
-        <mark key="^" line="9" column="32" />
-        <mark key="." line="9" column="32" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/webapps_labs/playground/javascript.js" timestamp="1482003748547">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="18" column="9" />
-        <mark key="." line="11" column="20" />
-        <mark key="^" line="11" column="20" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/calendarmodel/CalendarDataRefreshStateType.java" timestamp="1468101614065">
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="21" column="10" />
-        <mark key="." line="21" column="10" />
-        <mark key="^" line="21" column="10" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/README" timestamp="1484608522207">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/layout/bookinginteraction_success.xml" timestamp="1472847370336">
         <mark key="'" line="8" column="8" />
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/usermodel/MyAccountLogoutEvent.java" timestamp="1468722806499">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="62" />
-        <mark key="^" line="3" column="62" />
-        <mark key="." line="3" column="62" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/GraphvizCreationController.scala" timestamp="1469592955472">
         <mark key="'" line="33" column="8" />
@@ -909,12 +361,6 @@
       </file>
       <file name="restClient/response2.txt" timestamp="1488785510784">
         <mark key="[" line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/myaccount/myaccountloaded/PastBookingTab.java" timestamp="1462242157854">
-        <mark key="[" line="27" column="15" />
-        <mark key="]" line="27" column="28" />
-        <mark key="^" line="27" column="28" />
-        <mark key="." line="27" column="28" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/routes/register.ts" timestamp="1481508426051">
         <mark key="'" line="4" column="14" />
@@ -930,36 +376,12 @@
         <mark key="." line="106" column="51" />
         <mark key="^" line="237" column="9" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/midterm1/Midterm/app/src/main/res/layout/activity_main.xml" timestamp="1478109083230">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="43" />
-        <mark key="^" line="45" column="3" />
-        <mark key="." line="84" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/values/calendar_grid.xml" timestamp="1471918626652">
-        <mark key="[" line="4" column="50" />
-        <mark key="]" line="4" column="55" />
-        <mark key="." line="4" column="55" />
-        <mark key="^" line="4" column="55" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/services/GraphvizService.scala" timestamp="1469389427448">
         <mark key="'" line="3" column="4" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="4" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/menu/my_account_loaded_action_icons_menu.xml" timestamp="1480351348008">
-        <mark key="[" line="9" column="36" />
-        <mark key="]" line="9" column="63" />
-        <mark key="." line="9" column="63" />
-        <mark key="^" line="9" column="63" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/calendar/common/CalendarPagerAdapter.java" timestamp="1477151630442">
-        <mark key="[" line="132" column="69" />
-        <mark key="]" line="132" column="68" />
-        <mark key="." line="132" column="68" />
-        <mark key="^" line="132" column="68" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/static/main.css" timestamp="1479940584563">
         <mark key="'" line="46" column="0" />
@@ -975,12 +397,6 @@
         <mark key="." line="116" column="63" />
         <mark key="^" line="116" column="63" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/calendarmodel/ScrollAtTopOfGridEvent.java" timestamp="1471157209503">
-        <mark key="[" line="10" column="28" />
-        <mark key="]" line="10" column="28" />
-        <mark key="^" line="10" column="28" />
-        <mark key="." line="10" column="28" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/RedditCommentSentimentHighlighter/manifest.json" timestamp="1485634516976">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="9" column="45" />
@@ -988,42 +404,12 @@
         <mark key="." line="9" column="45" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/res/layout/my_account_my_bookings.xml" timestamp="1462150861280">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="10" column="38" />
-        <mark key="." line="10" column="38" />
-        <mark key="^" line="10" column="38" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/authentication/DefaultEnv.scala" timestamp="1484677623134">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="6" column="19" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/AEMComponentArchitectureGraph/src/main/scala/com/objectivetruth/Hello.scala" timestamp="1465236177904">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-        <mark key="^" line="2" column="13" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab7/MyApplication/app/src/main/res/layout/activity_main.xml" timestamp="1476663555914">
         <mark key="'" line="13" column="32" />
         <mark key="[" line="23" column="41" />
         <mark key="]" line="23" column="47" />
         <mark key="." line="23" column="47" />
         <mark key="^" line="23" column="47" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/NGFlowPlaySample/activator.properties" timestamp="1485265452313">
-        <mark key="[" line="3" column="51" />
-        <mark key="]" line="3" column="60" />
-        <mark key="^" line="3" column="60" />
-        <mark key="." line="3" column="60" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/circle.yml" timestamp="1471293505087">
-        <mark key="[" line="37" column="52" />
-        <mark key="]" line="37" column="52" />
-        <mark key="." line="37" column="52" />
-        <mark key="^" line="37" column="52" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/exam/final_exam_base/views/layout.pug" timestamp="1482004193192">
         <mark key="'" line="19" column="0" />
@@ -1053,24 +439,6 @@
         <mark key="^" line="36" column="65" />
         <mark key="." line="36" column="65" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/usermodel/MyAccountSigninEvent.java" timestamp="1468723948090">
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="3" column="39" />
-        <mark key="^" line="3" column="39" />
-        <mark key="." line="3" column="39" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/main.ts" timestamp="1487825558687">
-        <mark key="[" line="4" column="57" />
-        <mark key="]" line="4" column="56" />
-        <mark key="^" line="4" column="56" />
-        <mark key="." line="4" column="56" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab7/MyApplication/app/src/main/res/layout/activity_add_grade.xml" timestamp="1476663981587">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="43" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="30" column="32" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/layout/calendar_dialog_help.xml" timestamp="1471921852368">
         <mark key="'" line="7" column="4" />
         <mark key="[" line="10" column="27" />
@@ -1092,48 +460,12 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/AEMComponentArchitectureGraph/src/main/scala/com/objectivetruth/Utils/GraphVizUtils.scala" timestamp="1465318670751">
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="11" column="35" />
-        <mark key="^" line="11" column="48" />
-        <mark key="." line="11" column="35" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/filters/AccessLogFilter/AccessLogFilter.scala" timestamp="1470674279083">
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="18" column="21" />
-        <mark key="^" line="18" column="21" />
-        <mark key="." line="18" column="21" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/final_exam_base/FinalExamStarter/app/src/main/AndroidManifest.xml" timestamp="1481809968569">
-        <mark key="[" line="5" column="94" />
-        <mark key="]" line="6" column="78" />
-        <mark key="." line="6" column="78" />
-        <mark key="^" line="6" column="78" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/ResumableInfo.scala" timestamp="1485119982640">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab5/base_files/lab05.css" timestamp="1476892518071">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="11" />
-        <mark key="^" line="9" column="11" />
-        <mark key="." line="9" column="11" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/app/MockAppModule.java" timestamp="1462060053541">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="85" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="6" column="40" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/MyApplication/app/src/main/java/com/sansalex/myapplication/LoginActivity.java" timestamp="1475192251517">
-        <mark key="[" line="22" column="77" />
-        <mark key="]" line="22" column="77" />
-        <mark key="." line="22" column="77" />
-        <mark key="^" line="22" column="77" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/RedditCommentSentimentHighlighter/main.js" timestamp="1485638493378">
         <mark key="'" line="58" column="35" />
@@ -1149,24 +481,12 @@
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="31" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab09/MyApplication/app/src/debug/res/values/google_maps_api.xml" timestamp="1480634334274">
-        <mark key="[" line="17" column="89" />
-        <mark key="]" line="17" column="89" />
-        <mark key="^" line="17" column="129" />
-        <mark key="." line="17" column="89" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/services/ng4flow.service.spec.ts" timestamp="1487785567826">
         <mark key="'" line="12" column="56" />
         <mark key="[" line="3" column="36" />
         <mark key="]" line="3" column="36" />
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/node-and-graphviz-docker/Dockerfile" timestamp="1479957030531">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-        <mark key="^" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/Lab9/MyApplication/app/src/main/java/com/sansalex/myapplication/MapsActivity.java" timestamp="1481810845179">
         <mark key="'" line="95" column="85" />
@@ -1196,30 +516,12 @@
         <mark key="^" line="60" column="161" />
         <mark key="." line="79" column="35" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/circle.yml" timestamp="1488874461993">
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="5" />
-        <mark key="." line="33" column="5" />
-        <mark key="^" line="33" column="5" />
-      </file>
-      <file name="restClient/response19.json" timestamp="1481581907852">
-        <mark key="[" line="10" column="61" />
-        <mark key="]" line="10" column="61" />
-        <mark key="." line="10" column="61" />
-        <mark key="^" line="10" column="61" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/app/networking/MockHttpStack.java" timestamp="1472847829581">
         <mark key="'" line="70" column="85" />
         <mark key="[" line="117" column="104" />
         <mark key="]" line="117" column="143" />
         <mark key="^" line="117" column="143" />
         <mark key="." line="117" column="143" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/tslint.json" timestamp="1481494527625">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="23" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/app/constants.js" timestamp="1479947483084">
         <mark key="'" line="14" column="23" />
@@ -1235,48 +537,12 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="45" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/midterm1/Midterm/app/src/main/AndroidManifest.xml" timestamp="1478105184119">
-        <mark key="[" line="2" column="41" />
-        <mark key="]" line="4" column="77" />
-        <mark key="^" line="4" column="77" />
-        <mark key="." line="4" column="77" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/common/constants/Analytics.java" timestamp="1472964535407">
-        <mark key="[" line="17" column="51" />
-        <mark key="]" line="17" column="51" />
-        <mark key="^" line="17" column="58" />
-        <mark key="." line="17" column="51" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/Tab_Incomplete.java" timestamp="1462249078743">
-        <mark key="[" line="171" column="67" />
-        <mark key="]" line="171" column="67" />
-        <mark key="." line="171" column="69" />
-        <mark key="^" line="40" column="91" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/common/ParseUtilities.java" timestamp="1472012911189">
-        <mark key="[" line="20" column="82" />
-        <mark key="]" line="20" column="108" />
-        <mark key="^" line="20" column="108" />
-        <mark key="." line="20" column="108" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/bookinginteractionmodel/BookingInteractionParser.java" timestamp="1480355238836">
-        <mark key="[" line="21" column="90" />
-        <mark key="]" line="21" column="90" />
-        <mark key="." line="21" column="90" />
-        <mark key="^" line="21" column="90" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/test/java/com/objectivetruth/uoitlibrarybooking/data/models/CalendarModelTest.java" timestamp="1472501333613">
         <mark key="'" line="227" column="4" />
         <mark key="[" line="86" column="0" />
         <mark key="]" line="95" column="45" />
         <mark key="." line="164" column="39" />
         <mark key="^" line="164" column="39" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/values/book.xml" timestamp="1472402797087">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="16" column="64" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/package.json" timestamp="1480182181830">
         <mark key="'" line="9" column="0" />
@@ -1285,24 +551,12 @@
         <mark key="." line="8" column="50" />
         <mark key="^" line="8" column="50" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/common/constants/SHARED_PREFERENCES_KEYS.java" timestamp="1468082337279">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="12" column="23" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/spec.js" timestamp="1480174889447">
         <mark key="'" line="54" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="6" column="39" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/common/DebugPreferences.java" timestamp="1471789667739">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="4" column="55" />
-        <mark key="^" line="4" column="55" />
-        <mark key="." line="4" column="55" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/newjobid.resolver.ts" timestamp="1488790122351">
         <mark key="'" line="3" column="0" />
@@ -1325,36 +579,12 @@
         <mark key="^" line="21" column="26" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab6/MyApplication/app/proguard-rules.pro" timestamp="1476465043798">
-        <mark key="[" line="16" column="2" />
-        <mark key="]" line="32" column="64" />
-        <mark key="^" line="32" column="64" />
-        <mark key="." line="32" column="64" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/angular-cli.json" timestamp="1485716758556">
-        <mark key="[" line="23" column="9" />
-        <mark key="]" line="23" column="11" />
-        <mark key="^" line="23" column="11" />
-        <mark key="." line="23" column="11" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/jobs.component.ts" timestamp="1488697840669">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="5" column="36" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/config/config.ts" timestamp="1481995724596">
         <mark key="'" line="9" column="71" />
         <mark key="[" line="20" column="24" />
         <mark key="]" line="20" column="51" />
         <mark key="^" line="18" column="112" />
         <mark key="." line="18" column="101" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/app/networking/customvolley/CustomStringRequest.java" timestamp="1471884569017">
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="32" column="11" />
-        <mark key="." line="32" column="11" />
-        <mark key="^" line="32" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/Lab9/MyApplication/app/src/debug/res/values/google_maps_api.xml" timestamp="1480636687544">
         <mark key="'" line="9" column="35" />
@@ -1363,18 +593,6 @@
         <mark key="." line="17" column="89" />
         <mark key="^" line="17" column="129" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/about/About.java" timestamp="1468206155520">
-        <mark key="[" line="102" column="15" />
-        <mark key="]" line="102" column="25" />
-        <mark key="^" line="102" column="25" />
-        <mark key="." line="102" column="25" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/heroes/src/app/person.ts" timestamp="1485281503576">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="1" />
-        <mark key="^" line="4" column="1" />
-        <mark key="." line="4" column="1" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab7/base_files/lab07.js" timestamp="1478710407315">
         <mark key="'" line="90" column="0" />
         <mark key="[" line="87" column="0" />
@@ -1382,48 +600,12 @@
         <mark key="." line="87" column="12" />
         <mark key="^" line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab5/MyApplication/app/src/main/java/com/sansalex/myapplication/License.java" timestamp="1476134825610">
-        <mark key="[" line="25" column="45" />
-        <mark key="]" line="30" column="24" />
-        <mark key="." line="30" column="24" />
-        <mark key="^" line="30" column="24" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/conf/strings.conf" timestamp="1469592464105">
-        <mark key="[" line="8" column="194" />
-        <mark key="]" line="8" column="194" />
-        <mark key="." line="8" column="194" />
-        <mark key="^" line="8" column="194" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/test/resources/slack/BadDOTFormat.txt" timestamp="1469382888458">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="284" />
-        <mark key="^" line="0" column="284" />
-        <mark key="." line="0" column="284" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/test/unittests/GraphCreationSpec.scala" timestamp="1470507515083">
-        <mark key="[" line="51" column="20" />
-        <mark key="]" line="51" column="21" />
-        <mark key="." line="51" column="21" />
-        <mark key="^" line="51" column="21" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/providers/ng4-flow.ts" timestamp="1487790570761">
         <mark key="'" line="20" column="1" />
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/final_exam_base/FinalExamStarter/app/build.gradle" timestamp="1481810592765">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="26" />
-        <mark key="." line="8" column="26" />
-        <mark key="^" line="8" column="26" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/res/values/error_messages.xml" timestamp="1468369504943">
-        <mark key="[" line="3" column="64" />
-        <mark key="]" line="3" column="64" />
-        <mark key="." line="3" column="64" />
-        <mark key="^" line="3" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/testResources/server_responses/2_days_available.aspx" timestamp="1472487533151">
         <mark key="'" line="262" column="7" />
@@ -1438,30 +620,6 @@
         <mark key="]" line="17" column="35" />
         <mark key="." line="17" column="35" />
         <mark key="^" line="17" column="35" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab7/base_files/lab07.html" timestamp="1478703683751">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="22" column="10" />
-        <mark key="." line="10" column="46" />
-        <mark key="^" line="10" column="46" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/core/footer/footer.component.html" timestamp="1488077550047">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="29" />
-        <mark key="." line="2" column="29" />
-        <mark key="^" line="2" column="29" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab5/MyApplication/app/build.gradle" timestamp="1476133209324">
-        <mark key="[" line="24" column="53" />
-        <mark key="]" line="24" column="53" />
-        <mark key="^" line="24" column="53" />
-        <mark key="." line="24" column="53" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/test/java/com/objectivetruth/uoitlibrarybooking/ApplicationTest.java" timestamp="1468074576864">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="20" />
-        <mark key="." line="18" column="20" />
-        <mark key="^" line="18" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/calendar/Calendar.java" timestamp="1472964511576">
         <mark key="'" line="91" column="63" />
@@ -1490,36 +648,12 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="restClient/response12.txt" timestamp="1481581717140">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-        <mark key="^" line="0" column="7" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/RedditCommentSentimentHighlighter/README.md" timestamp="1485638482951">
         <mark key="'" line="11" column="17" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="12" column="54" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/conf/routes" timestamp="1479959081630">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="6" column="16" />
-        <mark key="." line="4" column="117" />
-        <mark key="^" line="4" column="117" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/core/footer/footer.component.css" timestamp="1488087801098">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="18" />
-        <mark key="^" line="1" column="18" />
-        <mark key="." line="1" column="18" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/webapps_labs/exam/final_exam_base/public/scripts/poll_results_chart.js" timestamp="1482004554464">
-        <mark key="[" line="23" column="10" />
-        <mark key="]" line="23" column="10" />
-        <mark key="." line="23" column="10" />
-        <mark key="^" line="23" column="10" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/services/ng4-flow.service.ts" timestamp="1487790452405">
         <mark key="'" line="2" column="0" />
@@ -1528,36 +662,12 @@
         <mark key="." line="56" column="6" />
         <mark key="^" line="56" column="6" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/app/logger.js" timestamp="1480186319091">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="18" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/testResources/server_responses/book/book_success_message.aspx" timestamp="1472567416033">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="227" column="7" />
-        <mark key="^" line="227" column="7" />
-        <mark key="." line="227" column="7" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab5/MyApplication/app/src/main/res/layout/content_license.xml" timestamp="1476134788078">
-        <mark key="[" line="17" column="39" />
-        <mark key="]" line="17" column="50" />
-        <mark key="." line="17" column="50" />
-        <mark key="^" line="17" column="50" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/completed-jobs/completed-jobs.component.ts" timestamp="1489293539856">
         <mark key="'" line="28" column="18" />
         <mark key="[" line="27" column="18" />
         <mark key="]" line="27" column="18" />
         <mark key="." line="27" column="18" />
         <mark key="^" line="27" column="18" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/bookinginteractionmodel/BookingInteractionEventUserRequestType.java" timestamp="1472504483808">
-        <mark key="[" line="8" column="26" />
-        <mark key="]" line="8" column="24" />
-        <mark key="." line="8" column="24" />
-        <mark key="^" line="8" column="24" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/app/config.js" timestamp="1480180120532">
         <mark key="'" line="31" column="28" />
@@ -1573,24 +683,6 @@
         <mark key="." line="8" column="19" />
         <mark key="^" line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/bookinginteractionmodel/BookingInteractionEventUserRequest.java" timestamp="1471807072313">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="6" column="10" />
-        <mark key="^" line="6" column="10" />
-        <mark key="." line="10" column="10" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/views/processDOT.pug" timestamp="1481488625883">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-        <mark key="^" line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/DataModule.java" timestamp="1472836586667">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="83" column="4" />
-        <mark key="." line="76" column="24" />
-        <mark key="^" line="74" column="24" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab7/MyApplication/app/src/main/java/com/sansalex/myapplicationlab7/GradesDBHelper.java" timestamp="1481811457466">
         <mark key="'" line="19" column="32" />
         <mark key="[" line="81" column="0" />
@@ -1605,12 +697,6 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/drawer/Drawer.java" timestamp="1471223618830">
-        <mark key="[" line="18" column="41" />
-        <mark key="]" line="18" column="53" />
-        <mark key="." line="18" column="53" />
-        <mark key="^" line="18" column="53" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab6/MyApplication/app/src/main/java/com/sansalex/myapplication/MainActivity.java" timestamp="1476468188987">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="80" column="29" />
@@ -1618,36 +704,12 @@
         <mark key="." line="81" column="8" />
         <mark key="^" line="81" column="8" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab4/base_files/lab04.js" timestamp="1476289403889">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/common/constants.scala" timestamp="1479959682458">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="65" />
-        <mark key="." line="13" column="14" />
-        <mark key="^" line="13" column="14" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/calendarmodel/CalendarData.java" timestamp="1472184461741">
-        <mark key="[" line="13" column="71" />
-        <mark key="]" line="13" column="71" />
-        <mark key="^" line="13" column="70" />
-        <mark key="." line="13" column="71" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" timestamp="1489292548453">
         <mark key="'" line="101" column="18" />
         <mark key="[" line="150" column="29" />
         <mark key="]" line="150" column="49" />
         <mark key="^" line="150" column="49" />
         <mark key="." line="150" column="49" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/res/menu/calendar_action_icons_menu_debug.xml" timestamp="1462575149651">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="21" column="31" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/views/layout.pug" timestamp="1480120241885">
         <mark key="'" line="60" column="59" />
@@ -1663,36 +725,18 @@
         <mark key="." line="14" column="87" />
         <mark key="^" line="14" column="87" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/calendar/common/CalendarUtils.java" timestamp="1468641374943">
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="7" column="23" />
-        <mark key="^" line="7" column="17" />
-        <mark key="." line="7" column="23" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab7/MyApplication/app/src/main/java/com/sansalex/myapplicationlab7/MainActivity.java" timestamp="1476662823618">
-        <mark key="[" line="39" column="68" />
-        <mark key="]" line="39" column="81" />
-        <mark key="." line="39" column="81" />
-        <mark key="^" line="39" column="81" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/build.sbt" timestamp="1469566686224">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="4" />
-        <mark key="." line="13" column="4" />
-        <mark key="^" line="13" column="96" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/guidelinespolicies/GuidelinesAndPolicies.java" timestamp="1468206114028">
-        <mark key="[" line="20" column="15" />
-        <mark key="]" line="20" column="41" />
-        <mark key="^" line="20" column="41" />
-        <mark key="." line="20" column="41" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/server.js" timestamp="1481477568427">
         <mark key="'" line="178" column="0" />
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="15" />
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" timestamp="1489297380336">
+        <mark key="'" line="114" column="87" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/views/index.pug" timestamp="1481487477845">
         <mark key="'" line="30" column="64" />
@@ -1708,30 +752,12 @@
         <mark key="." line="37" column="55" />
         <mark key="^" line="37" column="55" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/testResources/server_responses/book/book_fail_message.aspx" timestamp="1472567329423">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="271" column="7" />
-        <mark key="^" line="271" column="7" />
-        <mark key="." line="271" column="7" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/FlowInfo.scala" timestamp="1489264555136">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="19" column="71" />
         <mark key="]" line="19" column="74" />
         <mark key="." line="19" column="74" />
         <mark key="^" line="19" column="74" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/usermodel/MyAccountDataLoginState.java" timestamp="1472679507829">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="14" column="17" />
-        <mark key="^" line="14" column="17" />
-        <mark key="." line="14" column="17" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/statelessutilities/LeftOrRight.java" timestamp="1471904922653">
-        <mark key="[" line="32" column="5" />
-        <mark key="]" line="35" column="27" />
-        <mark key="^" line="35" column="27" />
-        <mark key="." line="35" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/server.js" timestamp="1481478308875">
         <mark key="'" line="9" column="31" />
@@ -1740,12 +766,6 @@
         <mark key="." line="72" column="32" />
         <mark key="^" line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/common/constants/FragmentTags.java" timestamp="1468205249229">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="4" column="23" />
-        <mark key="." line="6" column="23" />
-        <mark key="^" line="4" column="23" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/project/plugins.sbt" timestamp="1471115385319">
         <mark key="'" line="20" column="15" />
         <mark key="[" line="20" column="52" />
@@ -1753,26 +773,8 @@
         <mark key="." line="22" column="20" />
         <mark key="^" line="22" column="20" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab7/MyApplication/app/src/main/res/layout/activity_delete.xml" timestamp="1476665382440">
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="14" column="39" />
-        <mark key="." line="14" column="39" />
-        <mark key="^" line="14" column="39" />
-      </file>
       <file name="/a.sql" timestamp="1488869037879">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/layout/diafrag_help.xml" timestamp="1471918770172">
-        <mark key="[" line="89" column="22" />
-        <mark key="]" line="89" column="27" />
-        <mark key="." line="89" column="27" />
-        <mark key="^" line="89" column="27" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/webapps_labs/playground/style.css" timestamp="1482003961225">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="5" column="21" />
-        <mark key="." line="5" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/.travis.yml" timestamp="1471148061720">
         <mark key="'" line="58" column="65" />
@@ -1780,66 +782,6 @@
         <mark key="]" line="10" column="23" />
         <mark key="^" line="10" column="23" />
         <mark key="." line="10" column="23" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/testResources/server_responses/joinorleave/leave_fail_message.aspx" timestamp="1472567460826">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="246" column="7" />
-        <mark key="^" line="246" column="7" />
-        <mark key="." line="246" column="7" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/MyApplication/app/src/main/AndroidManifest.xml" timestamp="1475191436543">
-        <mark key="[" line="27" column="31" />
-        <mark key="]" line="27" column="35" />
-        <mark key="^" line="27" column="35" />
-        <mark key="." line="27" column="35" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/test/resources/slack/BadSlackToken.txt" timestamp="1470505471967">
-        <mark key="[" line="0" column="272" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/webapps_labs/exam/final_exam_base/views/answer_poll.pug" timestamp="1482000882601">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="97" />
-        <mark key="." line="7" column="95" />
-        <mark key="^" line="8" column="96" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c3b9fa3b-8f83-42df-8e70-c7bbb9389d07/console_1.sql" timestamp="1488665862608">
-        <mark key="[" line="0" column="51" />
-        <mark key="]" line="0" column="51" />
-        <mark key="^" line="0" column="51" />
-        <mark key="." line="0" column="51" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab4/MyApplication/app/src/main/java/com/sansalex/lab4/MainActivity.java" timestamp="1475871773631">
-        <mark key="[" line="12" column="47" />
-        <mark key="]" line="15" column="53" />
-        <mark key="." line="15" column="53" />
-        <mark key="^" line="15" column="53" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/webapps_labs/exam/final_exam_base/views/poll_results.pug" timestamp="1482004525427">
-        <mark key="[" line="3" column="35" />
-        <mark key="]" line="3" column="40" />
-        <mark key="." line="3" column="40" />
-        <mark key="^" line="3" column="40" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/models/slack/SlackModel.scala" timestamp="1470520200602">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="34" column="25" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/UserModel.scala" timestamp="1484677493338">
-        <mark key="[" line="24" column="50" />
-        <mark key="]" line="24" column="61" />
-        <mark key="." line="24" column="61" />
-        <mark key="^" line="24" column="61" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/androidTest/java/com/objectivetruth/uoitlibrarybooking/test/DrawerInstrumentationTests.java" timestamp="1469043165918">
-        <mark key="[" line="71" column="8" />
-        <mark key="]" line="71" column="9" />
-        <mark key="." line="71" column="9" />
-        <mark key="^" line="71" column="9" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/jobs.component.html" timestamp="1488089301179">
         <mark key="'" line="4" column="0" />
@@ -1862,66 +804,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="123" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/AEMComponentArchitectureGraph/project/assembly.sbt" timestamp="1465529095668">
-        <mark key="[" line="0" column="56" />
-        <mark key="]" line="0" column="56" />
-        <mark key="^" line="0" column="56" />
-        <mark key="." line="0" column="56" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/.env" timestamp="1469323956597">
-        <mark key="[" line="15" column="18" />
-        <mark key="]" line="15" column="21" />
-        <mark key="^" line="15" column="21" />
-        <mark key="." line="15" column="21" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/CatchAllController.scala" timestamp="1488231095431">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="30" />
-        <mark key="." line="11" column="30" />
-        <mark key="^" line="11" column="30" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/AEMComponentArchitectureGraph/src/main/scala/com/innovexa/Models/Component.scala" timestamp="1465660664204">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="20" />
-        <mark key="^" line="5" column="20" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/spaceishare/config/database.yml" timestamp="1466134151508">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="34" />
-        <mark key="." line="4" column="34" />
-        <mark key="^" line="4" column="34" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/common/filters/AccessLogAndTimerFilter/AccessLogAndTimerFilter.scala" timestamp="1471092424628">
-        <mark key="[" line="35" column="16" />
-        <mark key="]" line="35" column="37" />
-        <mark key="." line="35" column="37" />
-        <mark key="^" line="35" column="37" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/calendar/firsttimeloaded/FirstTimeLoaded.java" timestamp="1462628948583">
-        <mark key="[" line="17" column="41" />
-        <mark key="]" line="17" column="57" />
-        <mark key="." line="17" column="57" />
-        <mark key="^" line="17" column="57" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/gradle/wrapper/gradle-wrapper.properties" timestamp="1471147167712">
-        <mark key="[" line="5" column="68" />
-        <mark key="]" line="5" column="71" />
-        <mark key="^" line="5" column="71" />
-        <mark key="." line="5" column="71" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" timestamp="1489265155512">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="29" column="4" />
         <mark key="]" line="11" column="11" />
         <mark key="." line="29" column="11" />
         <mark key="^" line="11" column="11" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/scripts/start.sh" timestamp="1480107962224">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="56" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/final_exam_base/FinalExamStarter/app/src/main/java/ca/uoit/csci4100/assessments/finalexamstarter/DownloadStoreLocationsTask.java" timestamp="1481816613159">
         <mark key="'" line="13" column="0" />
@@ -1930,60 +818,12 @@
         <mark key="^" line="119" column="95" />
         <mark key="." line="119" column="95" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/messages.conf" timestamp="1488673093099">
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="28" />
-        <mark key="." line="14" column="28" />
-        <mark key="^" line="14" column="28" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/conf/strings.conf" timestamp="1479952220627">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="15" column="1" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="4" column="68" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/common/constants/LIBRARY.java" timestamp="1472844682534">
-        <mark key="[" line="9" column="77" />
-        <mark key="]" line="9" column="95" />
-        <mark key="^" line="9" column="95" />
-        <mark key="." line="9" column="95" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/.jscsrc" timestamp="1481493867472">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/exam_practice/app/src/main/res/layout/activity_main.xml" timestamp="1481763653251">
-        <mark key="[" line="9" column="48" />
-        <mark key="]" line="10" column="45" />
-        <mark key="." line="10" column="45" />
-        <mark key="^" line="10" column="45" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/MyApplication/app/src/main/java/com/sansalex/myapplication/MainActivity.java" timestamp="1475192225680">
-        <mark key="[" line="37" column="11" />
-        <mark key="]" line="37" column="20" />
-        <mark key="." line="37" column="20" />
-        <mark key="^" line="37" column="20" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/gradle.properties" timestamp="1471148333854">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="1" />
-        <mark key="." line="18" column="1" />
-        <mark key="^" line="18" column="1" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/bookinginteractionmodel/requestoptions/JoinOrLeaveRequestLeave.java" timestamp="1472093852896">
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="33" />
-        <mark key="^" line="10" column="33" />
-        <mark key="." line="10" column="33" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/providers/ng4-flow.factory.ts" timestamp="1487792765118">
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="9" column="31" />
-        <mark key="." line="9" column="31" />
-        <mark key="^" line="9" column="31" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/calendar/grid/tablefixheaders/TableFixHeaders.java" timestamp="1471159417518">
         <mark key="'" line="482" column="49" />
@@ -1999,36 +839,12 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="76" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/app.component.css" timestamp="1488077453408">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="23" />
-        <mark key="^" line="2" column="23" />
-        <mark key="." line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/test/ApplicationSpec.scala" timestamp="1488230936763">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="8" />
-        <mark key="." line="15" column="8" />
-        <mark key="^" line="14" column="78" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/routes/createImgurLinkForDotString.ts" timestamp="1481581170948">
         <mark key="'" line="78" column="29" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="2" />
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/README.MD" timestamp="1468684666971">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="14" column="489" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/filters/ProdFilter.scala" timestamp="1470676329063">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="9" column="51" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/test/scala/GraphCreationLoadTest.scala" timestamp="1471131867598">
         <mark key="'" line="11" column="31" />
@@ -2058,12 +874,6 @@
         <mark key="." line="37" column="99" />
         <mark key="^" line="37" column="99" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/joinorleave/MapAdapter.java" timestamp="1472009249333">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="2" column="64" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/test/spec.js" timestamp="1485907082021">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="52" column="21" />
@@ -2071,36 +881,12 @@
         <mark key="." line="52" column="115" />
         <mark key="^" line="52" column="115" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/bookinginteractionmodel/common/Utils.java" timestamp="1472710425545">
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="12" column="90" />
-        <mark key="." line="8" column="27" />
-        <mark key="^" line="8" column="27" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/myaccount/myaccount/MyBookingsFragment.java" timestamp="1462150126328">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="21" column="39" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/models/imgur/ImgurModel.scala" timestamp="1479078687556">
         <mark key="'" line="85" column="16" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="38" column="12" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/webapps_labs/exam/final_exam_base/package.json" timestamp="1481995618042">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="8" column="10" />
-        <mark key="^" line="7" column="56" />
-        <mark key="." line="8" column="10" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/statelessutilities/Triple.java" timestamp="1468203783267">
-        <mark key="[" line="10" column="26" />
-        <mark key="]" line="10" column="26" />
-        <mark key="^" line="10" column="26" />
-        <mark key="." line="10" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab3/base_files/lab3.html" timestamp="1475681375869">
         <mark key="'" line="9" column="0" />
@@ -2137,73 +923,13 @@
         <mark key="." line="128" column="89" />
         <mark key="^" line="128" column="89" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/GlassWildabeast/local.properties" timestamp="1474750302015">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="42" />
-        <mark key="^" line="0" column="42" />
-        <mark key="." line="0" column="42" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/views/reviews.pug" timestamp="1481488588428">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="30" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="8" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/UGQueue.scala" timestamp="1488855980475">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/tsconfig.json" timestamp="1469161439317">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="1" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/test/unittests/GraphvizCreationControllerSpec.scala" timestamp="1470499993502">
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="14" column="65" />
-        <mark key="^" line="14" column="65" />
-        <mark key="." line="14" column="65" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/calendarmodel/CalendarDataRefreshState.java" timestamp="1468134079447">
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="12" column="18" />
-      </file>
       <file name="/fragment.java" timestamp="1488957664915">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/test/resources/application.conf" timestamp="1470524959486">
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="0" column="40" />
-        <mark key="." line="0" column="40" />
-        <mark key="^" line="0" column="40" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c3b9fa3b-8f83-42df-8e70-c7bbb9389d07/console.sql" timestamp="1488849217199">
-        <mark key="[" line="5" column="7" />
-        <mark key="]" line="5" column="7" />
-        <mark key="." line="5" column="7" />
-        <mark key="^" line="5" column="7" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/index.js" timestamp="1478194165543">
-        <mark key="[" line="9" column="54" />
-        <mark key="]" line="9" column="54" />
-        <mark key="^" line="9" column="54" />
-        <mark key="." line="9" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" timestamp="1489260484424">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab8/base_files/lab08.js" timestamp="1478711492253">
-        <mark key="[" line="13" column="42" />
-        <mark key="]" line="14" column="7" />
-        <mark key="^" line="14" column="7" />
-        <mark key="." line="14" column="7" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/conf/application.conf" timestamp="1479948047715">
         <mark key="'" line="380" column="0" />
@@ -2226,24 +952,6 @@
         <mark key="^" line="228" column="0" />
         <mark key="." line="228" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/test/resources/application.conf" timestamp="1469383178966">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="55" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/Lab9/MyApplication/app/build.gradle" timestamp="1480637061086">
-        <mark key="[" line="26" column="6" />
-        <mark key="]" line="27" column="49" />
-        <mark key="^" line="27" column="49" />
-        <mark key="." line="27" column="49" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/Dockerfile" timestamp="1469422362338">
-        <mark key="[" line="6" column="49" />
-        <mark key="]" line="6" column="66" />
-        <mark key="." line="6" column="66" />
-        <mark key="^" line="6" column="66" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/FlowHelper.scala" timestamp="1489238374568">
         <mark key="'" line="24" column="66" />
         <mark key="[" line="7" column="54" />
@@ -2251,42 +959,12 @@
         <mark key="^" line="7" column="53" />
         <mark key="." line="7" column="53" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/gulp.js" timestamp="1469319636584">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/layout/bookinginteraction_credentialslogin_root" timestamp="1472682754690">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="78" />
-        <mark key="." line="2" column="65" />
-        <mark key="^" line="2" column="65" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/guidelinespolicies/debugpreferences/DebugPreferences.java" timestamp="1471806207895">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="32" column="19" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/webapps_labs/exam/final_exam_base/public/style/main.css" timestamp="1482004065096">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="21" />
-        <mark key="^" line="18" column="21" />
-        <mark key="." line="18" column="21" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab5/base_files/lab05.js" timestamp="1476892780636">
         <mark key="'" line="54" column="20" />
         <mark key="[" line="54" column="79" />
         <mark key="]" line="54" column="79" />
         <mark key="^" line="54" column="77" />
         <mark key="." line="54" column="79" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/bookinginteractionmodel/BookingInteractionEvent.java" timestamp="1472737994533">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="25" column="17" />
-        <mark key="." line="25" column="17" />
-        <mark key="^" line="25" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab3/base_files/lab3.css" timestamp="1475681049213">
         <mark key="'" line="0" column="0" />
@@ -2302,36 +980,12 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Requests.scala" timestamp="1488846155819">
-        <mark key="[" line="10" column="72" />
-        <mark key="]" line="11" column="7" />
-        <mark key="." line="11" column="7" />
-        <mark key="^" line="11" column="7" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab08/MyApplication/app/src/main/res/layout/activity_main.xml" timestamp="1480630167672">
-        <mark key="[" line="20" column="37" />
-        <mark key="]" line="21" column="42" />
-        <mark key="." line="21" column="42" />
-        <mark key="^" line="21" column="42" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/objectivetruth.github.io/_sass/_app.scss" timestamp="1463357914511">
-        <mark key="[" line="22" column="20" />
-        <mark key="]" line="22" column="20" />
-        <mark key="." line="22" column="20" />
-        <mark key="^" line="22" column="20" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/ass1/part3_copy/events.js" timestamp="1476293506672">
         <mark key="'" line="32" column="36" />
         <mark key="[" line="99" column="110" />
         <mark key="]" line="99" column="111" />
         <mark key="." line="99" column="111" />
         <mark key="^" line="99" column="111" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/common/constants/SHARED_PREFERENCE_NAMES.java" timestamp="1468781199218">
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="9" column="58" />
-        <mark key="^" line="9" column="23" />
-        <mark key="." line="9" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/layout/interaction_book_success.xml" timestamp="1471661564570">
         <mark key="'" line="15" column="7" />
@@ -2340,42 +994,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="39" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/proxy.conf.json" timestamp="1485708391370">
-        <mark key="[" line="2" column="36" />
-        <mark key="]" line="2" column="39" />
-        <mark key="^" line="2" column="39" />
-        <mark key="." line="2" column="39" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/NGFlowPlaySample/app/utils/FlowInfo.scala" timestamp="1485271052623">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="19" column="14" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab7/MyApplication/app/src/main/java/com/sansalex/myapplicationlab7/AddGrade.java" timestamp="1476665477663">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="58" />
-        <mark key="." line="30" column="24" />
-        <mark key="^" line="30" column="24" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/webapps_labs/ass2/asmt2.js" timestamp="1478656286878">
-        <mark key="[" line="47" column="46" />
-        <mark key="]" line="47" column="57" />
-        <mark key="^" line="47" column="57" />
-        <mark key="." line="47" column="57" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/aws_deploy/task-definitions.json" timestamp="1471116123824">
         <mark key="'" line="33" column="16" />
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="18" />
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/tsconfig.json" timestamp="1484791890991">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="6" column="24" />
-        <mark key="^" line="6" column="24" />
-        <mark key="." line="6" column="24" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/aws_deploy/task-def.json" timestamp="1471097115945">
         <mark key="'" line="13" column="9" />
@@ -2412,36 +1036,12 @@
         <mark key="." line="74" column="27" />
         <mark key="^" line="74" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/test/java/com/objectivetruth/uoitlibrarybooking/ApplicationTest.java" timestamp="1471906811506">
-        <mark key="[" line="18" column="16" />
-        <mark key="]" line="18" column="43" />
-        <mark key="." line="18" column="43" />
-        <mark key="^" line="18" column="43" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/assets/whatsnew_thisversion.txt" timestamp="1480357756827">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="3" column="32" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/layout/bookinginteraction_book.xml" timestamp="1472847324578">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-        <mark key="^" line="121" column="44" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/app-routing.module.ts" timestamp="1488790601460">
         <mark key="'" line="20" column="12" />
         <mark key="[" line="38" column="8" />
         <mark key="]" line="38" column="23" />
         <mark key="." line="38" column="23" />
         <mark key="^" line="38" column="23" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab8/base_files/lab08.html" timestamp="1478711381758">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="4" />
-        <mark key="^" line="7" column="89" />
-        <mark key="." line="7" column="4" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/conf/logback.xml" timestamp="1470450534039">
         <mark key="'" line="9" column="18" />
@@ -2457,30 +1057,12 @@
         <mark key="." line="9" column="20" />
         <mark key="^" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/NGFlowPlaySample/conf/application.conf" timestamp="1485264525399">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="6" column="36" />
-        <mark key="." line="6" column="36" />
-        <mark key="^" line="6" column="36" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab2/base_files/lab2.html" timestamp="1475679773833">
         <mark key="'" line="35" column="40" />
         <mark key="[" line="49" column="0" />
         <mark key="]" line="60" column="13" />
         <mark key="." line="37" column="46" />
         <mark key="^" line="37" column="46" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/index.html" timestamp="1488081850648">
-        <mark key="[" line="10" column="69" />
-        <mark key="]" line="10" column="68" />
-        <mark key="." line="10" column="68" />
-        <mark key="^" line="10" column="68" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/calendarmodel/CookieRequest.java" timestamp="1471879257254">
-        <mark key="[" line="24" column="43" />
-        <mark key="]" line="24" column="53" />
-        <mark key="." line="24" column="53" />
-        <mark key="^" line="24" column="53" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/CommentDialog.java" timestamp="1471670976133">
         <mark key="'" line="15" column="0" />
@@ -2489,12 +1071,6 @@
         <mark key="." line="16" column="29" />
         <mark key="^" line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab6/MyApplication/app/src/main/java/com/sansalex/myapplication/DeleteContactAdapter.java" timestamp="1476462077294">
-        <mark key="[" line="23" column="85" />
-        <mark key="]" line="23" column="103" />
-        <mark key="^" line="23" column="103" />
-        <mark key="." line="23" column="103" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/.gitignore" timestamp="1488073683699">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="2" column="14" />
@@ -2502,24 +1078,12 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/throwaway.sc" timestamp="1489014268152">
-        <mark key="[" line="12" column="38" />
-        <mark key="]" line="12" column="38" />
-        <mark key="." line="12" column="38" />
-        <mark key="^" line="12" column="48" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/app/index.html" timestamp="1484791486190">
         <mark key="'" line="108" column="5" />
         <mark key="[" line="17" column="17" />
         <mark key="]" line="17" column="20" />
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="20" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab6/MyApplication/app/src/main/java/com/sansalex/myapplication/AddContact.java" timestamp="1476459388621">
-        <mark key="[" line="37" column="50" />
-        <mark key="]" line="37" column="99" />
-        <mark key="." line="37" column="99" />
-        <mark key="^" line="37" column="99" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab4/MyApplication/app/src/main/java/com/sansalex/lab4/NewMessageNotification.java" timestamp="1475871296831">
         <mark key="'" line="44" column="68" />
@@ -2535,54 +1099,12 @@
         <mark key="." line="6" column="49" />
         <mark key="^" line="6" column="49" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/models/SlackCodeForTokenResponse.scala" timestamp="1470286709048">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="5" column="59" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab7/MyApplication/app/src/main/java/com/sansalex/myapplicationlab7/DeleteActivity.java" timestamp="1476665527781">
-        <mark key="[" line="24" column="80" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="25" column="24" />
-        <mark key="^" line="25" column="24" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/AsyncController.scala" timestamp="1469371172580">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="34" />
         <mark key="^" line="6" column="33" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/assets/whatsnew_minor.txt" timestamp="1468987874865">
-        <mark key="[" line="4" column="60" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/Tab_Complete.java" timestamp="1462249064357">
-        <mark key="[" line="179" column="67" />
-        <mark key="]" line="179" column="86" />
-        <mark key="." line="179" column="86" />
-        <mark key="^" line="179" column="86" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/menu/debug_options.xml" timestamp="1471794969180">
-        <mark key="[" line="8" column="31" />
-        <mark key="]" line="8" column="41" />
-        <mark key="." line="8" column="41" />
-        <mark key="^" line="8" column="41" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab6/MyApplication/app/src/main/java/com/sansalex/myapplication/Contact.java" timestamp="1476137646713">
-        <mark key="[" line="14" column="32" />
-        <mark key="]" line="14" column="37" />
-        <mark key="^" line="14" column="37" />
-        <mark key="." line="14" column="37" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/src/main/scala/com/example/Hello.scala" timestamp="1469227866324">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="13" />
-        <mark key="^" line="3" column="13" />
-        <mark key="." line="3" column="13" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/about/About.java" timestamp="1472964087734">
         <mark key="'" line="0" column="0" />
@@ -2591,54 +1113,12 @@
         <mark key="." line="93" column="55" />
         <mark key="^" line="93" column="55" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/core/models/jobs.ts" timestamp="1488692816871">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="1" column="3" />
-        <mark key="^" line="1" column="3" />
-        <mark key="." line="1" column="3" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/test/resources/slack/GoodRequest.txt" timestamp="1470524976200">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="6" />
-        <mark key="^" line="0" column="5" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/server.ts" timestamp="1485904785784">
         <mark key="'" line="28" column="30" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="24" column="2" />
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="28" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/Dockerrun.aws.json" timestamp="1469416567232">
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="3" column="45" />
-        <mark key="^" line="3" column="45" />
-        <mark key="." line="3" column="45" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/Adobe-GC-Main/gc-aem/ui.apps/src/main/content/jcr_root/apps/canada/gc/what-doing/listitem_doing.jsp" timestamp="1464969050277">
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="18" column="26" />
-        <mark key="." line="18" column="26" />
-        <mark key="^" line="18" column="26" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/androidTest/java/com/objectivetruth/uoitlibrarybooking/drawertests/DrawerInstrumentationTest.java" timestamp="1469031615804">
-        <mark key="[" line="35" column="40" />
-        <mark key="]" line="35" column="39" />
-        <mark key="^" line="35" column="39" />
-        <mark key="." line="35" column="39" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/Dockerfile" timestamp="1481499593484">
-        <mark key="[" line="17" column="32" />
-        <mark key="]" line="17" column="32" />
-        <mark key="." line="17" column="32" />
-        <mark key="^" line="17" column="32" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/src/main/scala/com/objectivetruth/graphvizslackapp/ReturnMessages.scala" timestamp="1469237931285">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="5" />
-        <mark key="." line="2" column="5" />
-        <mark key="^" line="2" column="5" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/directives/ng4-flow-init.directive.ts" timestamp="1489238991042">
         <mark key="'" line="14" column="48" />
@@ -2647,30 +1127,12 @@
         <mark key="." line="42" column="108" />
         <mark key="^" line="42" column="108" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/build.sbt" timestamp="1471103325488">
-        <mark key="[" line="27" column="31" />
-        <mark key="]" line="27" column="31" />
-        <mark key="." line="27" column="31" />
-        <mark key="^" line="27" column="30" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/Visualizer.scala" timestamp="1488746573484">
-        <mark key="[" line="14" column="87" />
-        <mark key="]" line="14" column="87" />
-        <mark key="^" line="14" column="87" />
-        <mark key="." line="14" column="87" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/testResources/server_responses/clickabledate/half_closed_half_open_8am-330pm.aspx" timestamp="1472487590960">
         <mark key="'" line="311" column="0" />
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/ActivityRoomInteraction.java" timestamp="1472832396359">
-        <mark key="[" line="150" column="12" />
-        <mark key="]" line="150" column="13" />
-        <mark key="^" line="150" column="13" />
-        <mark key="." line="150" column="13" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/application.conf" timestamp="1489264525285">
         <mark key="'" line="257" column="2" />
@@ -2685,42 +1147,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="227" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/exam_practice/app/src/main/java/com/sansalex/myapplication/MainActivity.java" timestamp="1481764163506">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="30" column="7" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/spaceishare/app/helpers/application_helper.rb" timestamp="1466223651377">
-        <mark key="[" line="505" column="6" />
-        <mark key="]" line="505" column="39" />
-        <mark key="." line="505" column="28" />
-        <mark key="^" line="505" column="28" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/testResources/server_responses/book/book.aspx" timestamp="1472567207577">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="271" column="7" />
-        <mark key="^" line="271" column="7" />
-        <mark key="." line="271" column="7" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/responses/Responses.scala" timestamp="1488659600219">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/calendar/grid/common/GridAdapter.java" timestamp="1480348491109">
-        <mark key="[" line="144" column="16" />
-        <mark key="]" line="144" column="16" />
-        <mark key="." line="144" column="16" />
-        <mark key="^" line="190" column="34" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/calendarmodel/RedirectRequest.java" timestamp="1471817495915">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="7" column="41" />
-        <mark key="^" line="7" column="41" />
-        <mark key="." line="7" column="41" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/Success.java" timestamp="1472174873371">
         <mark key="'" line="115" column="92" />
@@ -2757,29 +1183,12 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/index.js" timestamp="1469322952751">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="8" column="46" />
-        <mark key="^" line="8" column="46" />
-        <mark key="." line="8" column="46" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/minidoallserverjs/index.ts" timestamp="1475084764254">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="2" />
-        <mark key="." line="1" column="2" />
-        <mark key="^" line="1" column="2" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/src/main/scala/com/objectivetruth/graphvizslackapp/models/ImgurResponse.scala" timestamp="1469244058256">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="3" column="50" />
-        <mark key="." line="3" column="50" />
-        <mark key="^" line="3" column="50" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" timestamp="1489293062137">
-        <mark key="'" line="21" column="27" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" timestamp="1489297493724">
+        <mark key="'" line="110" column="48" />
+        <mark key="[" line="107" column="57" />
+        <mark key="]" line="107" column="64" />
+        <mark key="^" line="107" column="64" />
+        <mark key="." line="107" column="64" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/ColossalPancake/README.md" timestamp="1485807212240">
         <mark key="'" line="28" column="1" />
@@ -2787,12 +1196,6 @@
         <mark key="]" line="2" column="83" />
         <mark key="." line="2" column="83" />
         <mark key="^" line="2" column="83" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/UtilityController.scala" timestamp="1488954171204">
-        <mark key="[" line="10" column="72" />
-        <mark key="]" line="10" column="71" />
-        <mark key="." line="10" column="71" />
-        <mark key="^" line="10" column="71" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/testResources/server_responses/clickabledate/fully_open_8am-330pm.aspx" timestamp="1472487623620">
         <mark key="'" line="311" column="0" />
@@ -2822,36 +1225,12 @@
         <mark key="." line="17" column="44" />
         <mark key="^" line="17" column="44" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/MyApplication/app/src/main/java/com/sansalex/myapplication/AboutActivity.java" timestamp="1475191062218">
-        <mark key="[" line="14" column="72" />
-        <mark key="]" line="19" column="24" />
-        <mark key="^" line="19" column="24" />
-        <mark key="." line="19" column="24" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/error_handlers/ProdErrorHandler.scala" timestamp="1488221823774">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="57" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="16" column="13" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/app.component.html" timestamp="1488754202221">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="77" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="44" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/models/SlackChannelUserResponse.scala" timestamp="1469381359273">
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="9" column="85" />
-        <mark key="." line="9" column="85" />
-        <mark key="^" line="9" column="85" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/filters/AccessLogAndTimerFilter/AccessLogAndTimerFilter.scala" timestamp="1470677660961">
-        <mark key="[" line="25" column="52" />
-        <mark key="]" line="25" column="52" />
-        <mark key="^" line="25" column="51" />
-        <mark key="." line="25" column="52" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/GlassWildabeast/README.md" timestamp="1474749100732">
         <mark key="'" line="53" column="25" />
@@ -2860,30 +1239,12 @@
         <mark key="^" line="4" column="127" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab6/base_files/lab06.html" timestamp="1478100669528">
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="3" column="15" />
-        <mark key="." line="3" column="15" />
-        <mark key="^" line="3" column="15" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/filters/GzipFilter.scala" timestamp="1470673799319">
-        <mark key="[" line="2" column="77" />
-        <mark key="]" line="2" column="77" />
-        <mark key="^" line="2" column="77" />
-        <mark key="." line="2" column="77" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/exam/final_exam_base/app.js" timestamp="1482004690679">
         <mark key="'" line="161" column="0" />
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
         <mark key="^" line="182" column="64" />
         <mark key="." line="98" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/GlassWildabeast/app/src/main/java/com/sansalex/glasswildabeast/anotherclass.java" timestamp="1475555685241">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="3" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/static/app.js" timestamp="1479944606537">
         <mark key="'" line="13" column="14" />
@@ -2892,50 +1253,10 @@
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/main/java/com/objectivetruth/uoitlibrarybooking/AsyncRoomInteraction.java" timestamp="1468810945584">
-        <mark key="[" line="111" column="8" />
-        <mark key="]" line="111" column="9" />
-        <mark key="^" line="111" column="9" />
-        <mark key="." line="111" column="9" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/UoitDCLibraryBooking/src/androidTest/java/com/objectivetruth/uoitlibrarybooking/drawer/DrawerInstrumentationTest.java" timestamp="1469031681985">
-        <mark key="[" line="35" column="38" />
-        <mark key="]" line="35" column="38" />
-        <mark key="^" line="35" column="38" />
-        <mark key="." line="35" column="38" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab5/base_files/lab04.html" timestamp="1476749410059">
-        <mark key="[" line="18" column="43" />
-        <mark key="]" line="18" column="53" />
-        <mark key="^" line="18" column="53" />
-        <mark key="." line="18" column="53" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bedd2f42-b09f-4a69-9256-e253218802df/console.sql" timestamp="1470277058535">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="32" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/pending-jobs/pending-jobs.component.ts" />
-      <jump line="15" column="24" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/pending-jobs/pending-jobs.component.ts" />
-      <jump line="33" column="22" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/pending-jobs/pending-jobs.component.ts" />
-      <jump line="114" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
-      <jump line="25" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
-      <jump line="31" column="11" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
-      <jump line="35" column="30" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
-      <jump line="66" column="12" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
-      <jump line="71" column="23" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
-      <jump line="44" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
-      <jump line="37" column="41" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/pending-jobs/pending-jobs.component.html" />
-      <jump line="2" column="39" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/pending-jobs/pending-jobs.component.html" />
-      <jump line="187" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="31" column="73" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="66" column="43" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="76" column="64" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="78" column="63" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="112" column="37" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="24" column="19" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" />
       <jump line="29" column="39" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" />
       <jump line="41" column="44" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" />
@@ -2996,7 +1317,6 @@
       <jump line="7" column="67" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/pending-jobs/pending-jobs.component.html" />
       <jump line="52" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/data/jobs-api/jobs-api.service.ts" />
       <jump line="104" column="15" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/JobsController.scala" />
-      <jump line="95" column="42" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="111" column="22" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="75" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
@@ -3018,25 +1338,42 @@
       <jump line="21" column="27" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="28" column="18" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/completed-jobs/completed-jobs.component.ts" />
       <jump line="123" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/JobsController.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
+      <jump line="53" column="26" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
+      <jump line="102" column="47" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
+      <jump line="106" column="66" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
+      <jump line="109" column="66" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
+      <jump line="112" column="52" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
+      <jump line="114" column="87" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
+      <jump line="140" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
+      <jump line="122" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
+      <jump line="50" column="21" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
+      <jump line="94" column="23" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
+      <jump line="95" column="30" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
+      <jump line="104" column="59" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
+      <jump line="105" column="11" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
+      <jump line="107" column="48" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
+      <jump line="108" column="43" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
+      <jump line="110" column="48" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Try(</text>
+        <text>completed</text>
       </register>
       <register name="-" type="4">
-        <text>Try(</text>
+        <text>completed</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>\ccomplete</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2dlci5lcnJvcigiVW5leHBlY3RlZCBFcnJvciB3aGVuIGNvbnRhY3RpbmcgdGhlIGxvY2FsIElHViBzZXJ2ZXIgYXQ6ICIgKyBMT0NBTF9JR1ZfQUREUkVTUywgdCkKICAgICAgICAgICAgICAgIEZ1dHVyZS5zdWNjZXNzZnVsKE9rKCIiKSkK</text>
+      <register name="0" type="4">
+        <text>completed-failure</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAucmVjb3ZlciAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpvYnNEQU8udXBkYXRlSm9iU3RhdGUoam9iLmlkLCAiY29tcGxldGVkIikK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3074,24 +1411,24 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpvYnNEQU8udXBkYXRlSm9iU3RhdGUoam9iLmlkLCAiY29tcGxldGVkIikK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBqb2JzREFPLnVwZGF0ZUpvYlN0YXRlKGpvYi5pZCwgImNvbXBsZXRlZCIpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAucmVjb3ZlciAK</text>
+      </register>
+      <register name="5" type="4">
         <text>{
         .get</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2FzZSBlOiBQcmVtYXR1cmVDaGFubmVsQ2xvc3VyZUV4Y2VwdGlvbiA9PgogICAgICAgICAgICAgICAgTG9nZ2VyLndhcm4oIkNvbm5lY3Rpb24gY2xvc2VkIHByZW1hdHVyZWx5IGJ1dCBldmVyeXRoaW5nIGlzIG9rYXkiKQogICAgICAgICAgICAgICAgRnV0dXJlLnN1Y2Nlc3NmdWwoCiAgICAgICAgICAgICAgICAgICAgT2soSnNvbi50b0pzb24oQmFzaWNSZXNwb25zZShpc1N1Y2Nlc3MgPSB0cnVlLCAiU2VydmVyIGNsb3NlZCB0aGUgY29ubmVjdGlvbiBiZWZvcmUgZ2V0dGluZyBoZWFkZXJzLCAiICsKICAgICAgICAgICAgICAgICAgICAgICAgImJ1dCBhbGwgc2hvdWxkIGJlIG9rYXkiKSkpKQogICAgICAgICAgICBjYXNlIHQ6IEV4Y2VwdGlvbiA9PgogICAgICAgICAgICAgICAgTG9nZ2VyLmVycm9yKCJVbmV4cGVjdGVkIEVycm9yIHdoZW4gY29udGFjdGluZyB0aGUgbG9jYWwgSUdWIHNlcnZlciBhdDogIiArIExPQ0FMX0lHVl9BRERSRVNTLCB0KQogICAgICAgICAgICAgICAgRnV0dXJlLnN1Y2Nlc3NmdWwoT2soIiIpKQogICAgICAgICAgICBjYXNlIF8gPT4KICAgICAgICAgICAgICAgIExvZ2dlci5lcnJvcigiVW5leHBlY3RlZCBFcnJvciB3aGVuIGNvbnRhY3RpbmcgdGhlIGxvY2FsIElHViBzZXJ2ZXIgYXQ6ICIgKyBMT0NBTF9JR1ZfQUREUkVTUykKICAgICAgICAgICAgICAgIEZ1dHVyZS5zdWNjZXNzZnVsKE9rKCIiKSkKICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAucmVjb3ZlcnsKICAgICAgICAuZ2V0Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">Y2FzZSB0OiBUaHJvd2FibGUgPT4KICAgICAgICAgICAgTG9nZ2VyLmVycm9yKCJVbmV4cGVjdGVkIEVycm9yIHdoZW4gY29udGFjdGluZyB0aGUgbG9jYWwgSUdWIHNlcnZlciBhdDogIiArIExPQ0FMX0lHVl9BRERSRVNTLCB0KQogICAgICAgICAgICBGdXR1cmUuZmFpbGVkKHQpfQ==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">Y2FzZSBlOiBQcmVtYXR1cmVDaGFubmVsQ2xvc3VyZUV4Y2VwdGlvbiA9PgogICAgICAgICAgICBMb2dnZXIud2FybigiQ29ubmVjdGlvbiBjbG9zZWQgcHJlbWF0dXJlbHkgYnV0IGV2ZXJ5dGhpbmcgaXMgb2theSIpCiAgICAgICAgICAgIEZ1dHVyZS5zdWNjZXNzZnVsKAogICAgICAgICAgICAgICAgT2soSnNvbi50b0pzb24oQmFzaWNSZXNwb25zZShpc1N1Y2Nlc3MgPSB0cnVlLCAiU2VydmVyIGNsb3NlZCB0aGUgY29ubmVjdGlvbiBiZWZvcmUgZ2V0dGluZyBoZWFkZXJzLCAiICsKICAgICAgICAgICAgICAgICJidXQgYWxsIHNob3VsZCBiZSBva2F5IikpKQogICAgICAgICAgICAp</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IG1hdGNoIHsKICAgICAgICAgICAgY2FzZSBTdWNjZXNzKCkKICAgICAgICB9</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3341,20 +1678,20 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3VjY2VzcygpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Y2FzZSB0OiBUaHJvd2FibGUgPT4KICAgICAgICAgICAgTG9nZ2VyLmVycm9yKCJVbmV4cGVjdGVkIEVycm9yIHdoZW4gY29udGFjdGluZyB0aGUgbG9jYWwgSUdWIHNlcnZlciBhdDogIiArIExPQ0FMX0lHVl9BRERSRVNTLCB0KQogICAgICAgICAgICBGdXR1cmUuZmFpbGVkKHQpfQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUcnkoIiIpLgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">Y2FzZSBlOiBQcmVtYXR1cmVDaGFubmVsQ2xvc3VyZUV4Y2VwdGlvbiA9PgogICAgICAgICAgICBMb2dnZXIud2FybigiQ29ubmVjdGlvbiBjbG9zZWQgcHJlbWF0dXJlbHkgYnV0IGV2ZXJ5dGhpbmcgaXMgb2theSIpCiAgICAgICAgICAgIEZ1dHVyZS5zdWNjZXNzZnVsKAogICAgICAgICAgICAgICAgT2soSnNvbi50b0pzb24oQmFzaWNSZXNwb25zZShpc1N1Y2Nlc3MgPSB0cnVlLCAiU2VydmVyIGNsb3NlZCB0aGUgY29ubmVjdGlvbiBiZWZvcmUgZ2V0dGluZyBoZWFkZXJzLCAiICsKICAgICAgICAgICAgICAgICJidXQgYWxsIHNob3VsZCBiZSBva2F5IikpKQogICAgICAgICAgICAp</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>\ccomplete</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>\ccomplete</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -3362,7 +1699,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNQUlOX0xPQ0FMX0RJUl9OQU1FXD4=</entry>
         <entry encoding="base64">XDxfaXNVcGxvYWRDb21wbGV0ZVw+</entry>
         <entry>thumbs</entry>
         <entry>_is</entry>
@@ -3382,6 +1718,7 @@
         <entry>_refr</entry>
         <entry encoding="base64">XDxfcmVmcmVzaERhdGFcPg==</entry>
         <entry>&quot;</entry>
+        <entry>\ccomplete</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RlbXBvcmFyeUdyYXBodml6emVyRmlsZVBhdGgvVEVNUE9SQVJZX0dSQVBIVklaX0ZJTEVfUEFUSC9n</entry>
@@ -3398,12 +1735,12 @@
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
         <entry encoding="base64">JzwsJz5zL1NFXy8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL19TRV8vXy9n</entry>
-        <entry>W</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry>:w</entry>
+        <entry>q</entry>
+        <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
