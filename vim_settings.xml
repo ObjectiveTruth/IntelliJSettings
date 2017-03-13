@@ -428,9 +428,10 @@
         <mark key="^" line="36" column="65" />
         <mark key="." line="36" column="65" />
       </file>
-      <file name="$USER_HOME$/Desktop/genomic_steps.log" timestamp="1489423952987">
-        <mark key="[" line="38" column="7" />
-        <mark key="]" line="38" column="59" />
+      <file name="$USER_HOME$/Desktop/genomic_steps.log" timestamp="1489427400411">
+        <mark key="'" line="140" column="10" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="68" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/project/plugins.sbt" timestamp="1471115385319">
         <mark key="'" line="20" column="15" />
@@ -754,12 +755,12 @@
         <mark key="^" line="119" column="95" />
         <mark key="." line="119" column="95" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1489426386662">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1489427534201">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="45" column="0" />
+        <mark key="[" line="46" column="80" />
+        <mark key="]" line="46" column="123" />
+        <mark key="." line="46" column="123" />
+        <mark key="^" line="46" column="123" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/package.json" timestamp="1481506568224">
         <mark key="'" line="48" column="0" />
@@ -1273,25 +1274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="43" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
-      <jump line="110" column="48" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
-      <jump line="152" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" />
-      <jump line="92" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
-      <jump line="11" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-details/job-details.component.ts" />
-      <jump line="151" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="28" column="45" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="217" column="62" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="229" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="218" column="122" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="225" column="38" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="194" column="38" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="121" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="30" column="44" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="154" column="86" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="105" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="160" column="66" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="238" column="74" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="163" column="12" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="226" column="82" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="240" column="40" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="24" column="77" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
@@ -1373,22 +1355,41 @@
       <jump line="1" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="45" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="6" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
+      <jump line="111" column="2" filename="$USER_HOME$/Desktop/genomic_steps.log" />
+      <jump line="183" column="12" filename="$USER_HOME$/Desktop/genomic_steps.log" />
+      <jump line="172" column="12" filename="$USER_HOME$/Desktop/genomic_steps.log" />
+      <jump line="170" column="12" filename="$USER_HOME$/Desktop/genomic_steps.log" />
+      <jump line="169" column="25" filename="$USER_HOME$/Desktop/genomic_steps.log" />
+      <jump line="168" column="12" filename="$USER_HOME$/Desktop/genomic_steps.log" />
+      <jump line="167" column="39" filename="$USER_HOME$/Desktop/genomic_steps.log" />
+      <jump line="164" column="12" filename="$USER_HOME$/Desktop/genomic_steps.log" />
+      <jump line="163" column="25" filename="$USER_HOME$/Desktop/genomic_steps.log" />
+      <jump line="162" column="12" filename="$USER_HOME$/Desktop/genomic_steps.log" />
+      <jump line="161" column="40" filename="$USER_HOME$/Desktop/genomic_steps.log" />
+      <jump line="160" column="29" filename="$USER_HOME$/Desktop/genomic_steps.log" />
+      <jump line="151" column="12" filename="$USER_HOME$/Desktop/genomic_steps.log" />
+      <jump line="149" column="12" filename="$USER_HOME$/Desktop/genomic_steps.log" />
+      <jump line="148" column="18" filename="$USER_HOME$/Desktop/genomic_steps.log" />
+      <jump line="146" column="36" filename="$USER_HOME$/Desktop/genomic_steps.log" />
+      <jump line="144" column="35" filename="$USER_HOME$/Desktop/genomic_steps.log" />
+      <jump line="141" column="42" filename="$USER_HOME$/Desktop/genomic_steps.log" />
+      <jump line="140" column="10" filename="$USER_HOME$/Desktop/genomic_steps.log" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>foo</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxESVNDT1NOUF9SRVNVTFRcPg==</text>
+        <text>intersection</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;${2%/}&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAxMjQgIGJlZG9wcyAtLWludGVyc2VjdCBtdXRhdGlvbnMuYmVkIGV4b25zX29ubHkuYmVkID4gcmVzdWx0cy5iZWQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1675,9 +1676,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxESVNDT1NOUF9SRVNVTFRcPg==</last-search>
+      <last-search>intersection</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxESVNDT1NOUF9SRVNVTFRcPg==</last-pattern>
+      <last-pattern>intersection</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1685,8 +1686,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\ccomplete</entry>
-        <entry>filter</entry>
         <entry>failure</entry>
         <entry encoding="base64">XDxXb3JrRmlsZXNKb2JNYXBUYWJsZVw+</entry>
         <entry>job_</entry>
@@ -1705,6 +1704,8 @@
         <entry encoding="base64">XDxfbW92ZU11dGF0aW9uc1RvUmVzb3VyY2VcPg==</entry>
         <entry>\creferences</entry>
         <entry encoding="base64">XDxESVNDT1NOUF9SRVNVTFRcPg==</entry>
+        <entry>intersections</entry>
+        <entry>intersection</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RlbXBvcmFyeUdyYXBodml6emVyRmlsZVBhdGgvVEVNUE9SQVJZX0dSQVBIVklaX0ZJTEVfUEFUSC9n</entry>
