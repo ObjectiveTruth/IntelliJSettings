@@ -722,12 +722,12 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="45" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" timestamp="1489380290664">
-        <mark key="'" line="89" column="86" />
-        <mark key="[" line="72" column="87" />
-        <mark key="]" line="72" column="87" />
-        <mark key="." line="72" column="27" />
-        <mark key="^" line="72" column="35" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" timestamp="1489384091827">
+        <mark key="'" line="55" column="8" />
+        <mark key="[" line="59" column="15" />
+        <mark key="]" line="59" column="16" />
+        <mark key="." line="59" column="16" />
+        <mark key="^" line="59" column="16" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/directives/ng4-flow-init.directive.ts" timestamp="1489238991042">
         <mark key="'" line="14" column="48" />
@@ -1269,7 +1269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="47" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="106" column="66" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="109" column="66" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="112" column="52" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
@@ -1369,25 +1368,26 @@
       <jump line="8" column="11" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="25" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
+      <jump line="55" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
+      <register name="&quot;" type="4">
+        <text>mv</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>mv</text>
       </register>
       <register name="/" type="4">
-        <text>database</text>
+        <text encoding="base64">XDxfbW92ZU11dGF0aW9uc1RvUmVzb3VyY2VcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">TEFORTI9IiQ0Igo=</text>
+      <register name="0" type="4">
+        <text>Logger.error(&quot;Could not move mutations to Resource folder&quot;, t)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1420,22 +1420,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2dlci5pbmZvKCJNb3ZlZCBtdXRhdGlvbnMgdG8gUkVTT1VSQ0VTIGRpcmVjdG9yeSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QkVET1BTPSIkMSIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIkJFRE9QUyAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIkJFRE9QUyBhbHJlYWR5IGluc3RhbGxlZCwgc2tpcHBpbmcuLi4iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIkluc3RhbGxpbmcgQkVET1BTIChodHRwczovL2JlZG9wcy5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3QvKSIgJiYgXAogICAgY3VybCAiJE9TWF9CRURPUFNfQklOQVJJRVNfUkVMRUFTRV9VUkwiIC1MIHwgdGFyIC14enYgLUMgIiRIT01FL0Rvd25sb2Fkcy8iICYmIFwKICAgIG9wZW4gIiRIT01FL0Rvd25sb2Fkcy9CRURPUFMuMi40LjI1LnBrZyIK</text>
+        <text encoding="base64">QkVET1BTPSIkMSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIkJFRE9QUyAiCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1686,19 +1686,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuaW5mbygiU3VjY2Vzc2Z1bGx5IHNldCBsb2NhbCBkYXRhYmFzZSBwZXJtaXNzaW9ucyIpCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIkJFRE9QUyBhbHJlYWR5IGluc3RhbGxlZCwgc2tpcHBpbmcuLi4iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGVjaG8gIkluc3RhbGxpbmcgQkVET1BTIChodHRwczovL2JlZG9wcy5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3QvKSIgJiYgXAogICAgY3VybCAiJE9TWF9CRURPUFNfQklOQVJJRVNfUkVMRUFTRV9VUkwiIC1MIHwgdGFyIC14enYgLUMgIiRIT01FL0Rvd25sb2Fkcy8iICYmIFwKICAgIG9wZW4gIiRIT01FL0Rvd25sb2Fkcy9CRURPUFMuMi40LjI1LnBrZyIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>database</last-search>
+      <last-search encoding="base64">XDxfbW92ZU11dGF0aW9uc1RvUmVzb3VyY2VcPg==</last-search>
       <last-offset />
-      <last-pattern>database</last-pattern>
+      <last-pattern encoding="base64">XDxfbW92ZU11dGF0aW9uc1RvUmVzb3VyY2VcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1706,7 +1706,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_refr</entry>
         <entry encoding="base64">XDxfcmVmcmVzaERhdGFcPg==</entry>
         <entry>&quot;</entry>
         <entry>\ccomplete</entry>
@@ -1726,6 +1725,7 @@
         <entry encoding="base64">XDxMSU5VWF9CRURPUFNfTE9DQVRJT05cPg==</entry>
         <entry encoding="base64">XDxfcnVuRGVwZW5kYW5jeVNjcmlwdFw+</entry>
         <entry>database</entry>
+        <entry encoding="base64">XDxfbW92ZU11dGF0aW9uc1RvUmVzb3VyY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RlbXBvcmFyeUdyYXBodml6emVyRmlsZVBhdGgvVEVNUE9SQVJZX0dSQVBIVklaX0ZJTEVfUEFUSC9n</entry>
