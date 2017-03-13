@@ -531,12 +531,12 @@
         <mark key="." line="37" column="46" />
         <mark key="^" line="37" column="46" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" timestamp="1489380591684">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" timestamp="1489429776457">
         <mark key="'" line="48" column="0" />
-        <mark key="[" line="42" column="32" />
-        <mark key="]" line="42" column="37" />
-        <mark key="." line="42" column="37" />
-        <mark key="^" line="42" column="37" />
+        <mark key="[" line="43" column="28" />
+        <mark key="]" line="43" column="31" />
+        <mark key="." line="43" column="31" />
+        <mark key="^" line="43" column="31" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/CommentDialog.java" timestamp="1471670976133">
         <mark key="'" line="15" column="0" />
@@ -755,12 +755,12 @@
         <mark key="^" line="119" column="95" />
         <mark key="." line="119" column="95" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1489427534201">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1489429668209">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="46" column="80" />
-        <mark key="]" line="46" column="123" />
-        <mark key="." line="46" column="123" />
-        <mark key="^" line="46" column="123" />
+        <mark key="[" line="46" column="112" />
+        <mark key="]" line="47" column="17" />
+        <mark key="." line="47" column="17" />
+        <mark key="^" line="47" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/package.json" timestamp="1481506568224">
         <mark key="'" line="48" column="0" />
@@ -1726,8 +1726,8 @@
         <entry>:w</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
