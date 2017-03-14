@@ -242,10 +242,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/directives/ng4-flow-btn.directive.ts" timestamp="1489347301470">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Requests.scala" timestamp="1489466577184">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="10" column="72" />
+        <mark key="^" line="10" column="72" />
+        <mark key="." line="10" column="72" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/layout/bookinginteraction_joinorleave.xml" timestamp="1472744130322">
         <mark key="'" line="6" column="0" />
@@ -1239,11 +1240,11 @@
         <mark key="." line="4" column="51" />
         <mark key="^" line="4" column="51" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/Upload.scala" timestamp="1489449475102">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/Upload.scala" timestamp="1489465941896">
         <mark key="'" line="67" column="82" />
-        <mark key="[" line="90" column="89" />
-        <mark key="]" line="90" column="128" />
-        <mark key="." line="90" column="128" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
         <mark key="^" line="90" column="128" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/default/1.sql" timestamp="1489463225038">
@@ -1388,10 +1389,10 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVFbnRyeUZvckZpbGVJZk5vdEV4aXN0QW5kUmV0dXJuRmlsZUlkXD4=</text>
@@ -1400,7 +1401,7 @@
         <text>javax.xml.bind.DatatypeConverter.printHexBinary(inputMD5Value)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1408,22 +1409,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWQ1QXNoZXggPSBqYXZheC54bWwuYmluZC5EYXRhdHlwZUNvbnZlcnRlci5wcmludEhleEJpbmFyeShpbnB1dE1ENVZhbHVlKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuaW5mbyhzIkZpbGUgd2l0aCBwYXRoIGF0ICR7Zmxvd0luZm8uZ2V0Q29tcGxldGVkRmlsZVBhdGhPblN5c3RlbX0gZG9lcyBOT1QgRVhJU1QgaW4gdGFibGUsIiArCiAgICAgICAgICAgICAgICAgICAgICAgICIgY3JlYXRpbmcgbmV3IGVudHJ5IHdpdGggaGFzaDogIiApCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgbWQ1QXNoZXggPSBqYXZheC54bWwuYmluZC5EYXRhdHlwZUNvbnZlcnRlci5wcmludEhleEJpbmFyeShpbnB1dE1ENVZhbHVlKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgbWQ1QXNoZXggPSBqYXZheC54bWwuYmluZC5EYXRhdHlwZUNvbnZlcnRlci5wcmludEhleEJpbmFyeShpbnB1dE1ENVZhbHVlKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuaW5mbyhzIkZpbGUgd2l0aCBwYXRoIGF0ICR7Zmxvd0luZm8uZ2V0Q29tcGxldGVkRmlsZVBhdGhPblN5c3RlbX0gZG9lcyBOT1QgRVhJU1QgaW4gdGFibGUsIiArCiAgICAgICAgICAgICAgICAgICAgICAgICIgY3JlYXRpbmcgbmV3IGVudHJ5IHdpdGggaGFzaDogIiApCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgbWQ1QXNoZXggPSBqYXZheC54bWwuYmluZC5EYXRhdHlwZUNvbnZlcnRlci5wcmludEhleEJpbmFyeShpbnB1dE1ENVZhbHVlKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1674,10 +1675,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgaGFzaCA9IE1ENS5hc0hleChNRDUuZ2V0SGFzaChuZXcgRmlsZSgiIikpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgaGFzaCA9IE1ENS5hc0hleChNRDUuZ2V0SGFzaChuZXcgRmlsZSgiIikpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
