@@ -1109,7 +1109,7 @@
         <mark key="^" line="38" column="12" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1489515088986">
+      <file name="/dummy.sql" timestamp="1489515721138">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/HealthCheckController.java" timestamp="1469410179224">
@@ -1729,7 +1729,6 @@
         <entry encoding="base64">JzwsJz5zL3BvbGxSZXN1bHRzL3BvbGxSZXNwb25zZXMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0dSQVBIVklaWkVSL1VSQkFOR1JJWlpMWS9n</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>Q</entry>
         <entry encoding="base64">JzwsJz5zLzIvMS9n</entry>
         <entry encoding="base64">JzwsJz5zLzEvMC9n</entry>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
@@ -1741,6 +1740,7 @@
         <entry>q</entry>
         <entry>w</entry>
         <entry>W</entry>
+        <entry>Q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
