@@ -245,6 +245,12 @@
         <mark key="^" line="8" column="44" />
         <mark key="." line="8" column="53" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/directives/ng4-flow-btn.directive.ts" timestamp="1489550520614">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="10" column="33" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/layout/bookinginteraction_joinorleave.xml" timestamp="1472744130322">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="124" column="0" />
@@ -1393,19 +1399,19 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNhc2UgY2xhc3MgQmFzaWNTaW5nbGVFcnJvclJlc3BvbnNlKGlzU3VjY2VzczogQm9vbGVhbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2U6IFN0cmluZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGE6IEVycm9yUmVzcG9uc2UpIGV4dGVuZHMgVXJiYW5Hcml6emx5SHR0cFJlc3BvbnNlIHdpdGggRGF0YUNvbnRlbnRbRXJyb3JSZXNwb25zZV0K</text>
+        <text encoding="base64">ICAgIEBJbnB1dCgnbmc0Rmxvdy1maWxlT3JkZXInKSBzZXQgZmlsZU9yZGVyKHZhbHVlOiBudW1iZXIpIHsgdGhpcy5faXNEaXJlY3RvcnkgPSB0cnVlOyB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text encoding="base64">IHsgdGhpcy5faXNEaXJlY3RvcnkgPSB0cnVlOyB9</text>
       </register>
       <register name="/" type="4">
         <text>igv</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhc2UgY2xhc3MgQmFzaWNTaW5nbGVFcnJvclJlc3BvbnNlKGlzU3VjY2VzczogQm9vbGVhbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2U6IFN0cmluZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGE6IEVycm9yUmVzcG9uc2UpIGV4dGVuZHMgVXJiYW5Hcml6emx5SHR0cFJlc3BvbnNlIHdpdGggRGF0YUNvbnRlbnRbRXJyb3JSZXNwb25zZV0K</text>
+        <text encoding="base64">ICAgIEBJbnB1dCgnbmc0Rmxvdy1pc0RpcmVjdG9yeScpIHNldCBpc0RpcmVjdG9yeSh2YWx1ZTogYW55KSB7IHRoaXMuX2lzRGlyZWN0b3J5ID0gdHJ1ZTsgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2U6IFN0cmluZywK</text>
+        <text encoding="base64">ICAgIEBJbnB1dCgnbmc0Rmxvdy1maWxlT3JkZXInKSBzZXQgZmlsZU9yZGVyKHZhbHVlOiBudW1iZXIpIHsgdGhpcy5faXNEaXJlY3RvcnkgPSB0cnVlOyB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1413,22 +1419,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmlsZU9yZGVyID0gMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdVdGlsaXRpZXMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2U6IFN0cmluZywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JzREFPLmRvZXNGaWxlRXhpc3RXaXRoTWQ1SGV4U3RyaW5nKG1kNUhhc2gpLm1hcCh7IGRvZXNGaWxlRXhpc3QgPT4KICAgICAgICAgICAgaWYoZG9lc0ZpbGVFeGlzdCkgewogICAgICAgICAgICAgICAgT2soSnNvbi50b0pzb24oQmFzaWNSZXNwb25zZVdpdGhCb29sZWFuRGF0YShpc1N1Y2Nlc3MgPSB0cnVlLAogICAgICAgICAgICAgICAgICAgIHMiRmlsZSB3aXRoIG1kNTogJG1kNUhhc2ggZXhpc3RzIiwgZGF0YSA9IHRydWUpKSkKICAgICAgICAgICAgfWVsc2UgewogICAgICAgICAgICAgICAgT2soSnNvbi50b0pzb24oQmFzaWNSZXNwb25zZVdpdGhCb29sZWFuRGF0YShpc1N1Y2Nlc3MgPSB0cnVlLAogICAgICAgICAgICAgICAgICAgIHMiRmlsZSB3aXRoIG1kNTogJG1kNUhhc2ggZG9lcyBub3QgZXhpc3QiLCBkYXRhID0gZmFsc2UpKSkKICAgICAgICAgICAgfQogICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzLm1hCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdVdGlsaXRpZXMuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZGVmIF9pc1ZhbGlkTUQ1KFN0cmluZyBzKSB7CiAgICAgICAgcmV0dXJuIHMubWF0Y2hlcygiW2EtZkEtRjAtOV17MzJ9Iik7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBqb2JzREFPLmRvZXNGaWxlRXhpc3RXaXRoTWQ1SGV4U3RyaW5nKG1kNUhhc2gpLm1hcCh7IGRvZXNGaWxlRXhpc3QgPT4KICAgICAgICAgICAgaWYoZG9lc0ZpbGVFeGlzdCkgewogICAgICAgICAgICAgICAgT2soSnNvbi50b0pzb24oQmFzaWNSZXNwb25zZVdpdGhCb29sZWFuRGF0YShpc1N1Y2Nlc3MgPSB0cnVlLAogICAgICAgICAgICAgICAgICAgIHMiRmlsZSB3aXRoIG1kNTogJG1kNUhhc2ggZXhpc3RzIiwgZGF0YSA9IHRydWUpKSkKICAgICAgICAgICAgfWVsc2UgewogICAgICAgICAgICAgICAgT2soSnNvbi50b0pzb24oQmFzaWNSZXNwb25zZVdpdGhCb29sZWFuRGF0YShpc1N1Y2Nlc3MgPSB0cnVlLAogICAgICAgICAgICAgICAgICAgIHMiRmlsZSB3aXRoIG1kNTogJG1kNUhhc2ggZG9lcyBub3QgZXhpc3QiLCBkYXRhID0gZmFsc2UpKSkKICAgICAgICAgICAgfQogICAgICAgIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZGVmIF9pc1ZhbGlkTUQ1KFN0cmluZyBzKSB7CiAgICAgICAgcmV0dXJuIHMubWF0Y2hlcygiW2EtZkEtRjAtOV17MzJ9Iik7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzLm1hCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1679,10 +1685,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9rKEpzb24udG9Kc29uKEJhc2ljRXJyb3JSZXNwb25zZShmYWxzZSwgIiIsIFNlcShFcnJvckNvZGVzLmM1MykgKSkpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZGVmIF9pc1ZhbGlkTUQ1KFN0cmluZyBzKSB7CiAgICAgICAgcmV0dXJuIHMubWF0Y2hlcygiW2EtZkEtRjAtOV17MzJ9Iik7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2V0IC1lCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZGVmIF9pc1ZhbGlkTUQ1KFN0cmluZyBzKSB7CiAgICAgICAgcmV0dXJuIHMubWF0Y2hlcygiW2EtZkEtRjAtOV17MzJ9Iik7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1738,9 +1744,9 @@
         <entry>:w</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
         <entry>Q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
