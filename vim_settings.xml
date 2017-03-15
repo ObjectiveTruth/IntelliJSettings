@@ -1285,11 +1285,12 @@
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" timestamp="1489449073566">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" timestamp="1489595203385">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+        <mark key="[" line="8" column="79" />
+        <mark key="]" line="8" column="82" />
+        <mark key="." line="8" column="82" />
+        <mark key="^" line="8" column="82" />
       </file>
     </filemarks>
     <jumps>
@@ -1398,17 +1399,17 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBJbnB1dCgnbmc0Rmxvdy1maWxlT3JkZXInKSBzZXQgZmlsZU9yZGVyKHZhbHVlOiBudW1iZXIpIHsgdGhpcy5faXNEaXJlY3RvcnkgPSB0cnVlOyB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHsgdGhpcy5faXNEaXJlY3RvcnkgPSB0cnVlOyB9</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>igv</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBJbnB1dCgnbmc0Rmxvdy1pc0RpcmVjdG9yeScpIHNldCBpc0RpcmVjdG9yeSh2YWx1ZTogYW55KSB7IHRoaXMuX2lzRGlyZWN0b3J5ID0gdHJ1ZTsgfQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">MT4mMg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBJbnB1dCgnbmc0Rmxvdy1maWxlT3JkZXInKSBzZXQgZmlsZU9yZGVyKHZhbHVlOiBudW1iZXIpIHsgdGhpcy5faXNEaXJlY3RvcnkgPSB0cnVlOyB9Cg==</text>
