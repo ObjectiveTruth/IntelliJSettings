@@ -17,12 +17,12 @@
         <mark key="." line="34" column="30" />
         <mark key="^" line="34" column="30" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" timestamp="1489478655728">
-        <mark key="'" line="17" column="38" />
-        <mark key="[" line="46" column="20" />
-        <mark key="]" line="46" column="20" />
-        <mark key="." line="46" column="29" />
-        <mark key="^" line="40" column="29" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" timestamp="1489693946156">
+        <mark key="'" line="6" column="58" />
+        <mark key="[" line="37" column="20" />
+        <mark key="]" line="37" column="37" />
+        <mark key="." line="37" column="37" />
+        <mark key="^" line="37" column="37" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/BookingInteraction.java" timestamp="1472964481022">
         <mark key="'" line="31" column="0" />
@@ -140,6 +140,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="26" column="34" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.css" timestamp="1489693409079">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/GraphvizCreationController.scala" timestamp="1469592955472">
         <mark key="'" line="33" column="8" />
@@ -424,12 +430,12 @@
         <mark key="^" line="21" column="124" />
         <mark key="." line="21" column="66" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.html" timestamp="1489347192180">
-        <mark key="'" line="21" column="99" />
-        <mark key="[" line="27" column="153" />
-        <mark key="]" line="27" column="152" />
-        <mark key="." line="27" column="152" />
-        <mark key="^" line="27" column="152" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.html" timestamp="1489694558214">
+        <mark key="'" line="62" column="26" />
+        <mark key="[" line="53" column="54" />
+        <mark key="]" line="53" column="54" />
+        <mark key="." line="53" column="54" />
+        <mark key="^" line="19" column="51" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/models/SlashCommandIn.scala" timestamp="1469400180798">
         <mark key="'" line="34" column="4" />
@@ -515,12 +521,11 @@
         <mark key="^" line="55" column="90" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.module.ts" timestamp="1488795506307">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.module.ts" timestamp="1489694369344">
         <mark key="'" line="5" column="20" />
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="22" />
-        <mark key="^" line="14" column="22" />
-        <mark key="." line="14" column="22" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/ResumableInfo.scala" timestamp="1485119982640">
         <mark key="'" line="50" column="0" />
@@ -536,12 +541,12 @@
         <mark key="." line="37" column="46" />
         <mark key="^" line="37" column="46" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" timestamp="1489450618515">
-        <mark key="'" line="65" column="44" />
-        <mark key="[" line="65" column="57" />
-        <mark key="]" line="65" column="57" />
-        <mark key="." line="65" column="57" />
-        <mark key="^" line="66" column="103" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" timestamp="1489688949063">
+        <mark key="'" line="64" column="44" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="65" column="103" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/CommentDialog.java" timestamp="1471670976133">
         <mark key="'" line="15" column="0" />
@@ -620,12 +625,12 @@
         <mark key="^" line="46" column="36" />
         <mark key="." line="46" column="36" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/core/core.module.ts" timestamp="1488729382068">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
-        <mark key="^" line="14" column="19" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/core/core.module.ts" timestamp="1489694283794">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+        <mark key="^" line="20" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/jobs.component.html" timestamp="1488089301179">
         <mark key="'" line="4" column="0" />
@@ -760,12 +765,12 @@
         <mark key="^" line="119" column="95" />
         <mark key="." line="119" column="95" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1489679513113">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1489690076335">
         <mark key="'" line="49" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="37" column="37" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="4" />
+        <mark key="." line="49" column="4" />
+        <mark key="^" line="49" column="4" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/package.json" timestamp="1481506568224">
         <mark key="'" line="48" column="0" />
@@ -1002,6 +1007,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="37" column="40" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/core/pipes/ellipsize.pipe.ts" timestamp="1489693787491">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="8" />
+        <mark key="." line="9" column="8" />
+        <mark key="^" line="9" column="8" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/test/resources/logback.xml" timestamp="1470501106113">
         <mark key="'" line="16" column="28" />
@@ -1289,13 +1300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="294" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
-      <jump line="102" column="40" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
-      <jump line="114" column="199" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
-      <jump line="107" column="437" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
-      <jump line="103" column="65" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
-      <jump line="72" column="12" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
-      <jump line="73" column="12" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
       <jump line="40" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
       <jump line="50" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
       <jump line="5" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
@@ -1389,25 +1393,32 @@
       <jump line="50" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="48" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="57" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" />
+      <jump line="8" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/core/core.module.ts" />
+      <jump line="34" column="58" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
+      <jump line="6" column="58" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
+      <jump line="54" column="65" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.html" />
+      <jump line="73" column="37" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.html" />
+      <jump line="6" column="20" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.module.ts" />
+      <jump line="62" column="26" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBXT1JLUyEhIQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>this is required for conver2bed which is called</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMSU5VWF9CRURPUFNfTE9DQVRJT05cPg==</text>
+        <text>Reference</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIkJFRE9QUyBpcyBydW5uYWJsZSBmcm9tIGNvbW1hbmRsaW5lIHdpbGwgdXNlIGl0IGFzIGRlZmF1bHQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9ImNhcmQtdGV4dCI+e3sgbmc0Rmxvd1RyYW5zZmVyc1sxXT8ubmFtZSB8fCAibm9uZSIgfX08L3A+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBXT1JLUyEhIQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9ImNhcmQtdGV4dCI+RHJhZy9Ecm9wIExhbmUgMSBmaWxlIGZyb20gdGhlIGdlbmUgc2VxdWVuY2VyPC9wPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1415,22 +1426,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgaW5zaWRlIG9mIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9ImNhcmQtdGV4dCI+RHJhZy9Ecm9wIExhbmUgMiBmaWxlIGZyb20gdGhlIGdlbmUgc2VxdWVuY2VyPC9wPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgISB0eXBlICJiZWRvcHMiID4gL2Rldi9udWxsOyB0aGVuCiAgICBCRURPUFM9ImV4ZWMgZW52IFBBVEg9JEJFRE9QU19ESVI6JFBBVEggJEJFRE9QU19ESVIvIgplbHNlCiAgICBlY2hvICJCRURPUFMgaXMgcnVubmFibGUgZnJvbSBjb21tYW5kbGluZSB3aWxsIHVzZSBpdCBhcyBkZWZhdWx0IgogICAgQkVET1BTPSIiCmZpCgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEJFRE9QUz0iJHsxJS99Ii9CRURPUFMvCg==</text>
+        <text encoding="base64">ICAgIHBpcGVzOiBbRWxsaXBzaXplUGlwZV0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">T1NYX0RJU0NPU05QX0JJTkFSSUVTX1JFTEVBU0VfVVJMPSJodHRwczovL2dpdGh1Yi5jb20vR0FUQi9EaXNjb1NucC9yZWxlYXNlcy9kb3dubG9hZC92Mi4yLjEwL0Rpc2NvU05QLi12Mi4yLjEwLWJpbi1EYXJ3aW4udGFyLmd6IgpMSU5VWF9ESVNDT1NOUF9CSU5BUklFU19SRUxFQVNFX1VSTD0iaHR0cHM6Ly9naXRodWIuY29tL0dBVEIvRGlzY29TbnAvcmVsZWFzZXMvZG93bmxvYWQvdjIuMi4xMC9EaXNjb1NOUC4tdjIuMi4xMC1iaW4tTGludXgudGFyLmd6IgoKT1NYX0JFRE9QU19CSU5BUklFU19SRUxFQVNFX1VSTD0iaHR0cHM6Ly9naXRodWIuY29tL2JlZG9wcy9iZWRvcHMvcmVsZWFzZXMvZG93bmxvYWQvdjIuNC4yNS9CRURPUFMuMi40LjI1LnBrZy56aXAiCkxJTlVYX0JFRE9QU19ESVNDT1NOUF9CSU5BUklFU19SRUxFQVNFX1VSTD0iaHR0cHM6Ly9naXRodWIuY29tL2JlZG9wcy9iZWRvcHMvcmVsZWFzZXMvZG93bmxvYWQvdjIuNC4yNS9iZWRvcHNfbGludXhfeDg2XzY0LXYyLjQuMjUudGFyLmJ6MiIKCkJSQUNISVBPRElVTV9SRUZfVkFSSUFOVF9VUkw9ImZ0cDovL2Z0cC5lbnNlbWJsZ2Vub21lcy5vcmcvcHViL3BsYW50cy9yZWxlYXNlLTM0L2dmZjMvYnJhY2h5cG9kaXVtX2Rpc3RhY2h5b24vQnJhY2h5cG9kaXVtX2Rpc3RhY2h5b24udjEuMC4zNC5jaHIuZ2ZmMy5neiIKCklOU1RBTExfRElSPSR7MSUvfSAjIFJlbW92ZXMgdHJhaWxpbmcgc2xhc2hlcyBpZiBhbnkKUkVTT1VSQ0VTX0RJUj0kezIlL30gIyBSZW1vdmVzIHRyYWlsaW5nIHNsYXNoZXMgaWYgYW55CmVjaG8gIlJ1bm5pbmcgZGVwZW5kZW5jeSBpbnN0YWxsYXRpb24gc2NyaXB0IGluICRJTlNUQUxMX0RJUiIKCmlmIFtbICIkT1NUWVBFIiA9fiBeZGFyd2luIF1dOyB0aGVuCiAgICBlY2hvICJPU1ggZGV0ZWN0ZWQiOwogICAgZWNobyAiSW5zdGFsbGluZyBEaXNjb1NOUCsrIChodHRwczovL2dhdGIuaW5yaWEuZnIvc29mdHdhcmUvZGlzY29zbnAvKSIgJiYgXAogICAgbWtkaXIgIiRJTlNUQUxMX0RJUiIvZGlzY29zbnAgJiYgXAogICAgY3VybCAiJE9TWF9ESVNDT1NOUF9CSU5BUklFU19SRUxFQVNFX1VSTCIgLUwgfCB0YXIgLXh6diAtQyAiJElOU1RBTExfRElSL2Rpc2Nvc25wIiAtLXN0cmlwLWNvbXBvbmVudHMgMSAmJiBcCiAgICBjaG1vZCAreCAiJElOU1RBTExfRElSIi9kaXNjb3NucC9ydW5fZGlzY29TbnArKy5zaCAiJElOU1RBTExfRElSIi9kaXNjb3NucC90ZXN0Lyouc2ggIiRJTlNUQUxMX0RJUiIvZGlzY29zbnAvc2NyaXB0cy8qLnNoOwogICAgZWNobyAiRG9uZSIKICAgIGlmICEgdHlwZSAiYmVkb3BzIiA+IC9kZXYvbnVsbDsgdGhlbgogICAgICAgIGVjaG8gIkluc3RhbGxpbmcgQkVET1BTIChodHRwczovL2JlZG9wcy5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3QvKSIgJiYgXAogICAgICAgIGN1cmwgIiRPU1hfQkVET1BTX0JJTkFSSUVTX1JFTEVBU0VfVVJMIiAtTCB8IHRhciAteHp2IC1DICIkSE9NRS9Eb3dubG9hZHMvIiAmJiBcCiAgICAgICAgb3BlbiAiJEhPTUUvRG93bmxvYWRzL0JFRE9QUy4yLjQuMjUucGtnIgogICAgZWxzZQogICAgICAgIGVjaG8gIkJFRE9QUyBhbHJlYWR5IGluc3RhbGxlZCwgc2tpcHBpbmcuLi4iCiAgICBmaQoKZWxpZiBbWyAiJE9TVFlQRSIgPX4gXmxpbnV4IF1dOyB0aGVuCiAgICBlY2hvICJMSU5VWCBkZXRlY3RlZCI7CiAgICBlY2hvICJJbnN0YWxsaW5nIERpc2NvU05QKysgKGh0dHBzOi8vZ2F0Yi5pbnJpYS5mci9zb2Z0d2FyZS9kaXNjb3NucC8pIC4uLiIgJiYgXAogICAgbWtkaXIgIiRJTlNUQUxMX0RJUiIvZGlzY29zbnAgJiYgXAogICAgY3VybCAiJExJTlVYX0RJU0NPU05QX0JJTkFSSUVTX1JFTEVBU0VfVVJMIiAtTCB8IHRhciAteHp2IC1DICIkSU5TVEFMTF9ESVIvZGlzY29zbnAiIC0tc3RyaXAtY29tcG9uZW50cyAxICYmIFwKICAgIGNobW9kICt4ICIkSU5TVEFMTF9ESVIiL2Rpc2Nvc25wL3J1bl9kaXNjb1NucCsrLnNoICIkSU5TVEFMTF9ESVIiL2Rpc2Nvc25wL3Rlc3QvKi5zaCAiJElOU1RBTExfRElSIi9kaXNjb3NucC9zY3JpcHRzLyouc2g7CiAgICBlY2hvICJEb25lIgogICAgaWYgISB0eXBlICJiZWRvcHMiID4gL2Rldi9udWxsOyB0aGVuCiAgICAgICAgZWNobyAiSW5zdGFsbGluZyBCRURPUFMgKGh0dHBzOi8vYmVkb3BzLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdC8pIC4uLiIgJiYgXAogICAgICAgIGN1cmwgIiRPU1hfQkVET1BTX0JJTkFSSUVTX1JFTEVBU0VfVVJMIiAtTCB8IHRhciAteHp2IC1DICIkSU5TVEFMTF9ESVIvQkVET1BTLyIgLS1zdHJpcC1jb21wb25lbnRzIDEgJiYgXAogICAgICAgIGNobW9kICt4ICIkSU5TVEFMTF9ESVIiL0JFRE9QUy8qCiAgICAgICAgTElOVVhfQkVET1BTX0xPQ0FUSU9OPSIkSU5TVEFMTF9ESVIiL0JFRE9QUy8KICAgIGVjaG8gIkRvbmUiCiAgICBlbHNlCiAgICAgICAgZWNobyAiQkVET1BTIGFscmVhZHkgaW5zdGFsbGVkLCBza2lwcGluZy4uLiIKICAgIGZpCmVsc2UKICAgIGVjaG8gIk9TOiAkT1NUWVBFIG5vdCBzdXBwb3J0ZWQsIG9ubHkgTGludXggYW5kIE9TWChkYXJ3aW4pIiAmJiBleGl0IDE7CmZpCgplY2hvICJQcmVwYXJpbmcgQnJhY2hpcG9kaXVtIERpc3RhY2h5b24gdmFyaWFudCBhbmQgcmVmZXJlbmNlIGZpbGVzLi4uIgoKUkVGRVJFTkNFX0FOTk9UQVRJT05TX0JFRD0icmVmZXJlbmNlX2Fubm90YXRpb25zLmJlZCIKCiMgRG93bmxvYWQgYW5kIHVuemlwIHRoZSBnZmYzIHZlcnNpb24gb2YgdGhlIGdlbmUgYW5ub3RhdGlvbnMKY3VybCAtbyAiJFJFU09VUkNFU19ESVIiL0JyYWNoeXBvZGl1bV9kaXN0YWNoeW9uLnYxLjAuMzQuY2hyLmdmZjMuZ3ogIiRCUkFDSElQT0RJVU1fUkVGX1ZBUklBTlRfVVJMIiAmJiBcCmd1bnppcCAtZiAiJFJFU09VUkNFU19ESVIiL0JyYWNoeXBvZGl1bV9kaXN0YWNoeW9uLnYxLjAuMzQuY2hyLmdmZjMuZ3ogJiYgXAojIENvbnZlcnQgZ2ZmMyB0byBiZWQgZm9ybWF0IGFuZCByZW1vdmUgb3JpZ2luYWwgZ2ZmMyBmaWxlCiIkTElOVVhfQkVET1BTX0xPQ0FUSU9OImdmZjJiZWQgPCAiJFJFU09VUkNFU19ESVIiL0JyYWNoeXBvZGl1bV9kaXN0YWNoeW9uLnYxLjAuMzQuY2hyLmdmZjMgPiAiJFJFU09VUkNFU19ESVIiLyIkUkVGRVJFTkNFX0FOTk9UQVRJT05TX0JFRCIgJiYgXAojIFJlbW92ZSBub24tZXhvbiBhbm5vdGF0ZWQgcmVnaW9ucwpwZXJsIC1uZSAncHJpbnQgaWYgLyhleG9ufGNocm9tb3NvbWU6XGQpLycgIiRSRVNPVVJDRVNfRElSIi8iJFJFRkVSRU5DRV9BTk5PVEFUSU9OU19CRUQiID4gIiRSRVNPVVJDRVNfRElSIi9leG9uc19vbmx5LmJlZAoKZWNobyAiSW5zdGFsbGF0aW9uIG9mIGRlcGVuZGVuY2llcyBjb21wbGV0ZWQiCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRWxsaXBzaXplUGlwZSB9IGZyb20gJy4vZWxsaXBzaXplLnBpcGUnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ck9TWF9ESVNDT1NOUF9CSU5BUklFU19SRUxFQVNFX1VSTD0iaHR0cHM6Ly9naXRodWIuY29tL0dBVEIvRGlzY29TbnAvcmVsZWFzZXMvZG93bmxvYWQvdjIuMi4xMC9EaXNjb1NOUC4tdjIuMi4xMC1iaW4tRGFyd2luLnRhci5neiIKTElOVVhfRElTQ09TTlBfQklOQVJJRVNfUkVMRUFTRV9VUkw9Imh0dHBzOi8vZ2l0aHViLmNvbS9HQVRCL0Rpc2NvU25wL3JlbGVhc2VzL2Rvd25sb2FkL3YyLjIuMTAvRGlzY29TTlAuLXYyLjIuMTAtYmluLUxpbnV4LnRhci5neiIKCk9TWF9CRURPUFNfQklOQVJJRVNfUkVMRUFTRV9VUkw9Imh0dHBzOi8vZ2l0aHViLmNvbS9iZWRvcHMvYmVkb3BzL3JlbGVhc2VzL2Rvd25sb2FkL3YyLjQuMjUvQkVET1BTLjIuNC4yNS5wa2cuemlwIgpMSU5VWF9CRURPUFNfRElTQ09TTlBfQklOQVJJRVNfUkVMRUFTRV9VUkw9Imh0dHBzOi8vZ2l0aHViLmNvbS9iZWRvcHMvYmVkb3BzL3JlbGVhc2VzL2Rvd25sb2FkL3YyLjQuMjUvYmVkb3BzX2xpbnV4X3g4Nl82NC12Mi40LjI1LnRhci5iejIiCgpCUkFDSElQT0RJVU1fUkVGX1ZBUklBTlRfVVJMPSJmdHA6Ly9mdHAuZW5zZW1ibGdlbm9tZXMub3JnL3B1Yi9wbGFudHMvcmVsZWFzZS0zNC9nZmYzL2JyYWNoeXBvZGl1bV9kaXN0YWNoeW9uL0JyYWNoeXBvZGl1bV9kaXN0YWNoeW9uLnYxLjAuMzQuY2hyLmdmZjMuZ3oiCgpJTlNUQUxMX0RJUj0kezElL30gIyBSZW1vdmVzIHRyYWlsaW5nIHNsYXNoZXMgaWYgYW55ClJFU09VUkNFU19ESVI9JHsyJS99ICMgUmVtb3ZlcyB0cmFpbGluZyBzbGFzaGVzIGlmIGFueQplY2hvICJSdW5uaW5nIGRlcGVuZGVuY3kgaW5zdGFsbGF0aW9uIHNjcmlwdCBpbiAkSU5TVEFMTF9ESVIiCgppZiBbWyAiJE9TVFlQRSIgPX4gXmRhcndpbiBdXTsgdGhlbgogICAgZWNobyAiT1NYIGRldGVjdGVkIjsKICAgIGVjaG8gIkluc3RhbGxpbmcgRGlzY29TTlArKyAoaHR0cHM6Ly9nYXRiLmlucmlhLmZyL3NvZnR3YXJlL2Rpc2Nvc25wLykiICYmIFwKICAgIG1rZGlyICIkSU5TVEFMTF9ESVIiL2Rpc2Nvc25wICYmIFwKICAgIGN1cmwgIiRPU1hfRElTQ09TTlBfQklOQVJJRVNfUkVMRUFTRV9VUkwiIC1MIHwgdGFyIC14enYgLUMgIiRJTlNUQUxMX0RJUi9kaXNjb3NucCIgLS1zdHJpcC1jb21wb25lbnRzIDEgJiYgXAogICAgY2htb2QgK3ggIiRJTlNUQUxMX0RJUiIvZGlzY29zbnAvcnVuX2Rpc2NvU25wKysuc2ggIiRJTlNUQUxMX0RJUiIvZGlzY29zbnAvdGVzdC8qLnNoICIkSU5TVEFMTF9ESVIiL2Rpc2Nvc25wL3NjcmlwdHMvKi5zaDsKICAgIGVjaG8gIkRvbmUiCiAgICBpZiAhIHR5cGUgImJlZG9wcyIgPiAvZGV2L251bGw7IHRoZW4KICAgICAgICBlY2hvICJJbnN0YWxsaW5nIEJFRE9QUyAoaHR0cHM6Ly9iZWRvcHMucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0LykiICYmIFwKICAgICAgICBjdXJsICIkT1NYX0JFRE9QU19CSU5BUklFU19SRUxFQVNFX1VSTCIgLUwgfCB0YXIgLXh6diAtQyAiJEhPTUUvRG93bmxvYWRzLyIgJiYgXAogICAgICAgIG9wZW4gIiRIT01FL0Rvd25sb2Fkcy9CRURPUFMuMi40LjI1LnBrZyIKICAgIGVsc2UKICAgICAgICBlY2hvICJCRURPUFMgYWxyZWFkeSBpbnN0YWxsZWQsIHNraXBwaW5nLi4uIgogICAgZmkKCmVsaWYgW1sgIiRPU1RZUEUiID1+IF5saW51eCBdXTsgdGhlbgogICAgZWNobyAiTElOVVggZGV0ZWN0ZWQiOwogICAgZWNobyAiSW5zdGFsbGluZyBEaXNjb1NOUCsrIChodHRwczovL2dhdGIuaW5yaWEuZnIvc29mdHdhcmUvZGlzY29zbnAvKSAuLi4iICYmIFwKICAgIG1rZGlyICIkSU5TVEFMTF9ESVIiL2Rpc2Nvc25wICYmIFwKICAgIGN1cmwgIiRMSU5VWF9ESVNDT1NOUF9CSU5BUklFU19SRUxFQVNFX1VSTCIgLUwgfCB0YXIgLXh6diAtQyAiJElOU1RBTExfRElSL2Rpc2Nvc25wIiAtLXN0cmlwLWNvbXBvbmVudHMgMSAmJiBcCiAgICBjaG1vZCAreCAiJElOU1RBTExfRElSIi9kaXNjb3NucC9ydW5fZGlzY29TbnArKy5zaCAiJElOU1RBTExfRElSIi9kaXNjb3NucC90ZXN0Lyouc2ggIiRJTlNUQUxMX0RJUiIvZGlzY29zbnAvc2NyaXB0cy8qLnNoOwogICAgZWNobyAiRG9uZSIKICAgIGlmICEgdHlwZSAiYmVkb3BzIiA+IC9kZXYvbnVsbDsgdGhlbgogICAgICAgIGVjaG8gIkluc3RhbGxpbmcgQkVET1BTIChodHRwczovL2JlZG9wcy5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3QvKSAuLi4iICYmIFwKICAgICAgICBjdXJsICIkT1NYX0JFRE9QU19CSU5BUklFU19SRUxFQVNFX1VSTCIgLUwgfCB0YXIgLXh6diAtQyAiJElOU1RBTExfRElSL0JFRE9QUy8iIC0tc3RyaXAtY29tcG9uZW50cyAxICYmIFwKICAgICAgICBjaG1vZCAreCAiJElOU1RBTExfRElSIi9CRURPUFMvKgogICAgICAgIExJTlVYX0JFRE9QU19MT0NBVElPTj0iJElOU1RBTExfRElSIi9CRURPUFMvCiAgICBlY2hvICJEb25lIgogICAgZWxzZQogICAgICAgIGVjaG8gIkJFRE9QUyBhbHJlYWR5IGluc3RhbGxlZCwgc2tpcHBpbmcuLi4iCiAgICBmaQplbHNlCiAgICBlY2hvICJPUzogJE9TVFlQRSBub3Qgc3VwcG9ydGVkLCBvbmx5IExpbnV4IGFuZCBPU1goZGFyd2luKSIgJiYgZXhpdCAxOwpmaQoKZWNobyAiUHJlcGFyaW5nIEJyYWNoaXBvZGl1bSBEaXN0YWNoeW9uIHZhcmlhbnQgYW5kIHJlZmVyZW5jZSBmaWxlcy4uLiIKClJFRkVSRU5DRV9BTk5PVEFUSU9OU19CRUQ9InJlZmVyZW5jZV9hbm5vdGF0aW9ucy5iZWQiCgojIERvd25sb2FkIGFuZCB1bnppcCB0aGUgZ2ZmMyB2ZXJzaW9uIG9mIHRoZSBnZW5lIGFubm90YXRpb25zCmN1cmwgLW8gIiRSRVNPVVJDRVNfRElSIi9CcmFjaHlwb2RpdW1fZGlzdGFjaHlvbi52MS4wLjM0LmNoci5nZmYzLmd6ICIkQlJBQ0hJUE9ESVVNX1JFRl9WQVJJQU5UX1VSTCIgJiYgXApndW56aXAgLWYgIiRSRVNPVVJDRVNfRElSIi9CcmFjaHlwb2RpdW1fZGlzdGFjaHlvbi52MS4wLjM0LmNoci5nZmYzLmd6ICYmIFwKIyBDb252ZXJ0IGdmZjMgdG8gYmVkIGZvcm1hdCBhbmQgcmVtb3ZlIG9yaWdpbmFsIGdmZjMgZmlsZQoiJExJTlVYX0JFRE9QU19MT0NBVElPTiJnZmYyYmVkIDwgIiRSRVNPVVJDRVNfRElSIi9CcmFjaHlwb2RpdW1fZGlzdGFjaHlvbi52MS4wLjM0LmNoci5nZmYzID4gIiRSRVNPVVJDRVNfRElSIi8iJFJFRkVSRU5DRV9BTk5PVEFUSU9OU19CRUQiICYmIFwKIyBSZW1vdmUgbm9uLWV4b24gYW5ub3RhdGVkIHJlZ2lvbnMKcGVybCAtbmUgJ3ByaW50IGlmIC8oZXhvbnxjaHJvbW9zb21lOlxkKS8nICIkUkVTT1VSQ0VTX0RJUiIvIiRSRUZFUkVOQ0VfQU5OT1RBVElPTlNfQkVEIiA+ICIkUkVTT1VSQ0VTX0RJUiIvZXhvbnNfb25seS5iZWQKCmVjaG8gIkluc3RhbGxhdGlvbiBvZiBkZXBlbmRlbmNpZXMgY29tcGxldGVkIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0iYnRuIGJ0bi1zbWFsbCBidG4tcHJpbWFyeSI+PGkgY2xhc3M9ImZhIGZhLWZpbGUtbyI+PC9pPiBVcGxvYWQgRmlsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgW1sgISAtZCAiJDEiIF1dOyB0aGVuCiAgICBlY2hvICIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ0bi1maWxlCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1681,19 +1692,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBJbnB1dCgnbmc0Rmxvdy1maWxlT3JkZXInKSBzZXQgZmlsZU9yZGVyKHZhbHVlOiBudW1iZXIpIHsgdGhpcy5faXNEaXJlY3RvcnkgPSB0cnVlOyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWxlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmlsZU9yZGVyID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMSU5VWF9CRURPUFNfTE9DQVRJT05cPg==</last-search>
+      <last-search>Reference</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMSU5VWF9CRURPUFNfTE9DQVRJT05cPg==</last-pattern>
+      <last-pattern>Reference</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1701,9 +1712,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmbG93SW5mb3NcPg==</entry>
-        <entry>createEntries</entry>
-        <entry encoding="base64">XDxjcmVhdGVFbnRyeUZvcldvcmtGaWxlc0pvYlRhYmxlXD4=</entry>
         <entry>associateWork</entry>
         <entry encoding="base64">XDxjcmVhdGVFbnRyeUZvckZpbGVJZk5vdEV4aXN0QW5kUmV0dXJuRmlsZUlkXD4=</entry>
         <entry encoding="base64">XDxfY3JlYXRlRW50cnlGb3JGaWxlSWZOb3RFeGlzdEFuZFJldHVybkZpbGVJZFw+</entry>
@@ -1721,9 +1729,11 @@
         <entry encoding="base64">XDxPU1hfQkVET1BTX0JJTkFSSUVTX1JFTEVBU0VfVVJMXD4=</entry>
         <entry encoding="base64">XDxMSU5VWF9CRURPUFNfQklOQVJJRVNfUkVMRUFTRV9VUkxcPg==</entry>
         <entry encoding="base64">XDxMSU5VWF9CRURPUFNfTE9DQVRJT05cPg==</entry>
+        <entry>?</entry>
+        <entry>&quot;</entry>
+        <entry>Reference</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3RlbXBvcmFyeUdyYXBodml6emVyRmlsZVBhdGgvVEVNUE9SQVJZX0dSQVBIVklaX0ZJTEVfUEFUSC9n</entry>
         <entry encoding="base64">JzwsJz5zLyAtPi86</entry>
         <entry encoding="base64">JzwsJz5zLzsvLw==</entry>
         <entry encoding="base64">JzwsJz5zLzsvLC9n</entry>
@@ -1736,12 +1746,13 @@
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
         <entry encoding="base64">JzwsJz5zL1NFXy8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL19TRV8vXy9n</entry>
-        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>:w</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>Q</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz5zIi8nL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
