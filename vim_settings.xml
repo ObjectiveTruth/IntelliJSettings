@@ -957,12 +957,12 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" timestamp="1489441987629">
-        <mark key="'" line="91" column="21" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="16" />
-        <mark key="." line="138" column="16" />
-        <mark key="^" line="138" column="54" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" timestamp="1490199124015">
+        <mark key="'" line="95" column="21" />
+        <mark key="[" line="48" column="25" />
+        <mark key="]" line="48" column="53" />
+        <mark key="." line="48" column="126" />
+        <mark key="^" line="48" column="53" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab7/base_files/lab07.js" timestamp="1478710407315">
         <mark key="'" line="90" column="0" />
@@ -1421,13 +1421,13 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>JobMetadata</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>JobMetadata</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>MetaD</text>
+        <text>\cQUEUED</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBWZXJpZnlVcGxvYWRSZXF1ZXN0UmVhZHM6IFJlYWRzW1ZlcmlmeVVwbG9hZFJlcXVlc3RdID0KICAgICAgICAoSnNQYXRoIFwgImlkZW50aWZpZXIiKS5yZWFkW1N0cmluZ10ubWFwKFZlcmlmeVVwbG9hZFJlcXVlc3QuYXBwbHkpCg==</text>
@@ -1717,9 +1717,9 @@
       </register>
     </registers>
     <search>
-      <last-search>MetaD</last-search>
+      <last-search>\cQUEUED</last-search>
       <last-offset />
-      <last-pattern>MetaD</last-pattern>
+      <last-pattern>\cQUEUED</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1727,8 +1727,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isForm</entry>
-        <entry encoding="base64">XDxfaXNGb3JtUmVhZHlcPg==</entry>
         <entry>md5</entry>
         <entry>\cmd5</entry>
         <entry encoding="base64">XDxtZDVIdW1hblJlYWRhYmxlSGFzaFw+</entry>
@@ -1747,6 +1745,8 @@
         <entry encoding="base64">XDxhc3NvY2lhdGVXb3JrRmlsZVdpdGhKb2JcPg==</entry>
         <entry>&quot;</entry>
         <entry>MetaD</entry>
+        <entry>Queued</entry>
+        <entry>\cQUEUED</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAtPi86</entry>
