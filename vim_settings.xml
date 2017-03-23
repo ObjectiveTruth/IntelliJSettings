@@ -17,7 +17,7 @@
         <mark key="." line="34" column="30" />
         <mark key="^" line="34" column="30" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" timestamp="1490163604161">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" timestamp="1490234259553">
         <mark key="'" line="104" column="20" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1136,7 +1136,7 @@
         <mark key="^" line="38" column="12" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1489704894627">
+      <file name="/dummy.sql" timestamp="1490234561872">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/HealthCheckController.java" timestamp="1469410179224">
@@ -1713,7 +1713,7 @@
         <text encoding="base64">aW1wb3J0IHtDb3JlTW9kdWxlfSBmcm9tICcuLi9jb3JlL2NvcmUubW9kdWxlJzsK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1767,8 +1767,8 @@
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
