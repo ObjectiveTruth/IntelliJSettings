@@ -1314,8 +1314,8 @@
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" timestamp="1490323123302">
-        <mark key="'" line="24" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" timestamp="1490327504290">
+        <mark key="'" line="26" column="145" />
         <mark key="[" line="74" column="14" />
         <mark key="]" line="74" column="16" />
         <mark key="." line="74" column="16" />
@@ -1323,8 +1323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
-      <jump line="43" column="5" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/providers/ng4-flow.service.ts" />
       <jump line="148" column="103" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/data/jobs-api/jobs-api.service.ts" />
       <jump line="38" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
       <jump line="120" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
@@ -1423,6 +1421,8 @@
       <jump line="34" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" />
       <jump line="39" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" />
       <jump line="24" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" />
+      <jump line="69" column="15" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" />
+      <jump line="26" column="145" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1435,7 +1435,7 @@
         <text>BEDOPS</text>
       </register>
       <register name="/" type="4">
-        <text>curl</text>
+        <text encoding="base64">XDxMSU5VWF9CV0FfQklOQVJJRVNfUkVMRUFTRV9VUkxcPg==</text>
       </register>
       <register name="0" type="4">
         <text>LINUX_BWA_BINARIES_RELEASE_URL</text>
@@ -1725,9 +1725,9 @@
       </register>
     </registers>
     <search>
-      <last-search>curl</last-search>
+      <last-search encoding="base64">XDxMSU5VWF9CV0FfQklOQVJJRVNfUkVMRUFTRV9VUkxcPg==</last-search>
       <last-offset />
-      <last-pattern>curl</last-pattern>
+      <last-pattern encoding="base64">XDxMSU5VWF9CV0FfQklOQVJJRVNfUkVMRUFTRV9VUkxcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1735,7 +1735,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Queued</entry>
         <entry>\cQUEUED</entry>
         <entry encoding="base64">XDxfZ2VuZXJhdGVJR1ZTZXNzaW9uc1hNTFw+</entry>
         <entry encoding="base64">XDwsXD4=</entry>
@@ -1755,6 +1754,7 @@
         <entry>style</entry>
         <entry>boots</entry>
         <entry>curl</entry>
+        <entry encoding="base64">XDxMSU5VWF9CV0FfQklOQVJJRVNfUkVMRUFTRV9VUkxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAtPi86</entry>
