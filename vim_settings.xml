@@ -662,12 +662,11 @@
         <mark key="." line="68" column="101" />
         <mark key="^" line="68" column="101" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" timestamp="1490415174461">
-        <mark key="'" line="41" column="36" />
-        <mark key="[" line="136" column="32" />
-        <mark key="]" line="136" column="63" />
-        <mark key="." line="136" column="63" />
-        <mark key="^" line="136" column="63" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" timestamp="1490476151676">
+        <mark key="'" line="182" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/BookingInteraction.java" timestamp="1472964481022">
         <mark key="'" line="31" column="0" />
@@ -1370,9 +1369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="19" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/doublemut.sh" />
       <jump line="114" column="39" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
       <jump line="126" column="335" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
       <jump line="73" column="12" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.html" />
@@ -1470,25 +1466,28 @@
       <jump line="49" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/README.MD" />
       <jump line="5" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/README.MD" />
       <jump line="50" column="19" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/README.MD" />
+      <jump line="160" column="49" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
+      <jump line="168" column="50" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
+      <jump line="182" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>https://www.gnu.org/licenses/gpl-3.0.en.html</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBpc1NjYW5uaW5nRmlsZQo=</text>
       </register>
       <register name="-" type="4">
         <text>https://www.gnu.org/licenses/gpl-3.0.en.html</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx9XD4=</text>
+        <text>slice</text>
       </register>
       <register name="0" type="4">
         <text>UG_MAIN_LOCAL_DIRECTORY</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YFVHX1RFTVBPUkFSWV9VUExPQURfRElSRUNUT1JZYCAtIERpciBmb3IgcGFydGlhbGx5IHVwbG9hZGVkIGNodW5rIHBhcnRzCgpgVUdfQ09NUExFVEVEX1VQTE9BRF9ESVJFQ1RPUllgIC0gRGlyIGZvciBjb21wbGV0ZWQgdXBsb2Fkcwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpc1NjYW5uaW5nRmlsZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1496,22 +1495,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RE5BIHNlcXVlbmNlIGFuZCBhbiBleHBlcmltZW50YWxseSBzZXF1ZW5jZWQgb25lLgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpc1NjYW5uaW5nRmlsZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U2ltcGxlIGJpb2luZm9ybWF0aWNzIGZyYW1ld29yayAK</text>
+        <text encoding="base64">YFVHX1RFTVBPUkFSWV9VUExPQURfRElSRUNUT1JZYCAtIERpciBmb3IgcGFydGlhbGx5IHVwbG9hZGVkIGNodW5rIHBhcnRzCgpgVUdfQ09NUExFVEVEX1VQTE9BRF9ESVJFQ1RPUllgIC0gRGlyIGZvciBjb21wbGV0ZWQgdXBsb2Fkcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogJCYjMTIzOyQmIzEyMzsgJ3RoaXMgaXMgYSBub3Qgc28gbG9uZyBzdHJpbmcnIHwgdHJ1bmNhdGUgOiAyMCAjMTI1OyMxMjU7PC9wPgogKiAkJiMxMjM7JCYjMTIzOyAndGhpcyBpcyBhIG5vdCBzbyBsb25nIHN0cmluZycgfCB0cnVuY2F0ZSA6IDIwIDogJy4nICMxMjU7IzEyNTs8L3A+Cg==</text>
+        <text encoding="base64">RE5BIHNlcXVlbmNlIGFuZCBhbiBleHBlcmltZW50YWxseSBzZXF1ZW5jZWQgb25lLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEVsbAogICAgIC8qKgo=</text>
+        <text encoding="base64">U2ltcGxlIGJpb2luZm9ybWF0aWNzIGZyYW1ld29yayAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIEVsbGlwc2l6ZXMgdGhlIHN0cmluZyBwYXNzZWQKICogQEV4YW1wbGU6CiAqIDxwPiQmIzEyMzskJiMxMjM7ICd0aGlzIGlzIGEgbm90IHNvIGxvbmcgc3RyaW5nJyB8IHRydW5jYXRlICMxMjU7IzEyNTs8L3A+CiAqIDxwPiQmIzEyMzskJiMxMjM7ICd0aGlzIGlzIGEgbm90IHNvIGxvbmcgc3RyaW5nJyB8IHRydW5jYXRlIDogMjAgIzEyNTsjMTI1OzwvcD4KICogPHA+JCYjMTIzOyQmIzEyMzsgJ3RoaXMgaXMgYSBub3Qgc28gbG9uZyBzdHJpbmcnIHwgdHJ1bmNhdGUgOiAyMCA6ICcuJyAjMTI1OyMxMjU7PC9wPgogKi8K</text>
+        <text encoding="base64">ICogJCYjMTIzOyQmIzEyMzsgJ3RoaXMgaXMgYSBub3Qgc28gbG9uZyBzdHJpbmcnIHwgdHJ1bmNhdGUgOiAyMCAjMTI1OyMxMjU7PC9wPgogKiAkJiMxMjM7JCYjMTIzOyAndGhpcyBpcyBhIG5vdCBzbyBsb25nIHN0cmluZycgfCB0cnVuY2F0ZSA6IDIwIDogJy4nICMxMjU7IzEyNTs8L3A+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogPHA+e3sgJ3RoaXMgaXMgYSBub3Qgc28gbG9uZyBzdHJpbmcnIHwgdHJ1bmNhdGUgOiAyMCB9fTwvcD4KICogPHA+e3sgJ3RoaXMgaXMgYSBub3Qgc28gbG9uZyBzdHJpbmcnIHwgdHJ1bmNhdGUgOiAyMCA6ICcuJyB9fTwvcD4gfQo=</text>
+        <text encoding="base64">ICAgICAqIEVsbAogICAgIC8qKgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1762,19 +1761,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodmFsdWUgKQo=</text>
+        <text encoding="base64">LyoqCiAqIEVsbGlwc2l6ZXMgdGhlIHN0cmluZyBwYXNzZWQKICogQEV4YW1wbGU6CiAqIDxwPiQmIzEyMzskJiMxMjM7ICd0aGlzIGlzIGEgbm90IHNvIGxvbmcgc3RyaW5nJyB8IHRydW5jYXRlICMxMjU7IzEyNTs8L3A+CiAqIDxwPiQmIzEyMzskJiMxMjM7ICd0aGlzIGlzIGEgbm90IHNvIGxvbmcgc3RyaW5nJyB8IHRydW5jYXRlIDogMjAgIzEyNTsjMTI1OzwvcD4KICogPHA+JCYjMTIzOyQmIzEyMzsgJ3RoaXMgaXMgYSBub3Qgc28gbG9uZyBzdHJpbmcnIHwgdHJ1bmNhdGUgOiAyMCA6ICcuJyAjMTI1OyMxMjU7PC9wPgogKi8K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICB0cmFuc2Zvcm0odmFsdWU6IGFueSwgYXJncz86IGFueSk6IGFueSB7CiAgICBpZiAoIXZhbHVlIHx8ICFhcmdzKSB7CiAgICAgIHJldHVybiAnJzsKICAgIH0KICAgIGNvbnN0IGxpbWl0ID0gKGFyZ3MubGVuZ3RoIHx8IDApID4gMCA/IHBhcnNlSW50KGFyZ3NbMF0sIDEwKSA6IDEwOwogICAgY29uc3QgdHJhaWwgPSAoYXJncy5sZW5ndGggfHwgMCkgPiAxID8gYXJnc1sxXSA6ICcuLi4nOwoKICAgIHJldHVybiB2YWx1ZS5sZW5ndGggPiBsaW1pdCA/IHZhbHVlLnN1YnN0cmluZygwLCBsaW1pdCkgKyB0cmFpbCA6IHZhbHVlOwogIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICogPHA+e3sgJ3RoaXMgaXMgYSBub3Qgc28gbG9uZyBzdHJpbmcnIHwgdHJ1bmNhdGUgOiAyMCB9fTwvcD4KICogPHA+e3sgJ3RoaXMgaXMgYSBub3Qgc28gbG9uZyBzdHJpbmcnIHwgdHJ1bmNhdGUgOiAyMCA6ICcuJyB9fTwvcD4gfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx9XD4=</last-search>
+      <last-search>slice</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
+      <last-pattern>slice</last-pattern>
       <last-replace />
       <last-substitute>}</last-substitute>
       <last-dir>1</last-dir>
@@ -1782,7 +1781,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCUkFDSElQT0RJVU1fUkVGX1ZBUklBTlRfVVJMXD4=</entry>
         <entry encoding="base64">XDxBU1NFVFNfRElSRUNUT1JZX0FCU09MVVRFXD4=</entry>
         <entry encoding="base64">XDxBU1NFVFNfRElSRUNUT1JZXD4=</entry>
         <entry encoding="base64">XDxNQUlOX0xPQ0FMX0RJUl9OQU1FXD4=</entry>
@@ -1802,6 +1800,7 @@
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry>}</entry>
         <entry encoding="base64">XDx9XD4=</entry>
+        <entry>slice</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
@@ -1822,8 +1821,8 @@
         <entry encoding="base64">JzwsJz5zL30vJiMxMjU7L2c=</entry>
         <entry encoding="base64">JzwsJz5zL30vL2c=</entry>
         <entry>e ../README.md</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
