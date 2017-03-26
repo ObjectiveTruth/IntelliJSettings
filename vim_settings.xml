@@ -99,12 +99,12 @@
         <mark key="." line="71" column="37" />
         <mark key="^" line="71" column="37" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" timestamp="1490535223340">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" timestamp="1490536429047">
         <mark key="'" line="171" column="0" />
-        <mark key="[" line="38" column="165" />
-        <mark key="]" line="38" column="168" />
-        <mark key="^" line="38" column="168" />
-        <mark key="." line="38" column="168" />
+        <mark key="[" line="38" column="255" />
+        <mark key="]" line="38" column="255" />
+        <mark key="^" line="38" column="255" />
+        <mark key="." line="38" column="255" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/views/layout.pug" timestamp="1480120241885">
         <mark key="'" line="60" column="59" />
@@ -1473,8 +1473,8 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
