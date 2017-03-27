@@ -65,12 +65,12 @@
         <mark key="." line="93" column="75" />
         <mark key="^" line="93" column="75" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/providers/ng4-flow.service.ts" timestamp="1490161441590">
-        <mark key="'" line="43" column="5" />
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="16" column="28" />
-        <mark key="." line="16" column="28" />
-        <mark key="^" line="16" column="28" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/providers/ng4-flow.service.ts" timestamp="1490639114863">
+        <mark key="'" line="45" column="5" />
+        <mark key="[" line="27" column="32" />
+        <mark key="]" line="27" column="38" />
+        <mark key="." line="27" column="38" />
+        <mark key="^" line="27" column="38" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.css" timestamp="1489693409079">
         <mark key="[" line="6" column="1" />
@@ -432,6 +432,10 @@
         <mark key="]" line="48" column="69" />
         <mark key="." line="47" column="78" />
         <mark key="^" line="47" column="78" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/node_modules/@types/flowjs/index.d.ts" timestamp="1490639109584">
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="53" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/test/scala/GraphCreationLoadTest.scala" timestamp="1471131867598">
         <mark key="'" line="11" column="31" />
@@ -1486,19 +1490,19 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>currentSpeed</text>
+        <text>speed</text>
       </register>
       <register name="-" type="4">
-        <text>currentSpeed</text>
+        <text>speed</text>
       </register>
       <register name="/" type="4">
         <text>currentSp</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVwbG9hZCBTcGVlZDoge3sgbmc0Rmxvdz8uZmlsZXNbMV0/LmN1cnJlbnRTcGVlZCB8IGZpbGVTaXplIH19IC9zZWNvbmQgPC9wPgo=</text>
+      <register name="0" type="4">
+        <text>speedSmoothingFactor</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVwbG9hZCBTcGVlZDoge3sgbmc0Rmxvdz8uZmlsZXNbMF0/LmN1cnJlbnRTcGVlZCB9fSA8L3A+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1506,31 +1510,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVwbG9hZCBTcGVlZDoge3sgbmc0Rmxvdz8uZmlsZXNbMV0/LmN1cnJlbnRTcGVlZCB9fSA8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2ltdWx0YW5lb3VzVXBsb2FkczogMTAsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCEtLTxkaXYgKm5nNEZsb3ctaW5pdD0ibGV0IG5nNEZsb3c9bmc0RmxvdzsgbGV0IG5nNEZsb3dUcmFuc2ZlcnM9bmc0Rmxvd1RyYW5zZmVyczsgbGV0IFVHc3VibWl0Sm9iSWQ9VUdzdWJtaXRKb2JJZCI+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVwbG9hZCBTcGVlZDoge3sgbmc0Rmxvdz8uZmlsZXNbMF0/LmN1cnJlbnRTcGVlZCB9fSA8L3A+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVwbG9hZCBTcGVlZDoge3sgbmc0Rmxvdz8uZmlsZXNbMV0/LmN1cnJlbnRTcGVlZCB9fSA8L3A+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICc/JzsK</text>
+        <text encoding="base64">PCEtLTxkaXYgKm5nNEZsb3ctaW5pdD0ibGV0IG5nNEZsb3c9bmc0RmxvdzsgbGV0IG5nNEZsb3dUcmFuc2ZlcnM9bmc0Rmxvd1RyYW5zZmVyczsgbGV0IFVHc3VibWl0Sm9iSWQ9VUdzdWJtaXRKb2JJZCI+LS0+Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>@Pipe({
-  name: 'fileSize'
-})
-export class FileSizePipe implements PipeTransform {
-
-  transform(value: any, args?: any): any {
-    return null;
-  }
-
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJjYXJkLXRleHQiPgogICAgICAgICAgICAgICAgICAgICAgICAgIFVwbG9hZCBTcGVlZDoge3sgbmc0Rmxvdz8uZmlsZXNbMl0/LmN1cnJlbnRTcGVlZCB9fQogICAgICAgICAgICAgICAgICAgICAgPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICc/JzsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1780,14 +1775,23 @@ export class FileSizePipe implements PipeTransform {
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGg0IGNsYXNzPSJjYXJkLXRpdGxlIj5MYW5lMjwvaDQ+Cg==</text>
+      <register name="8" type="4">
+        <text>@Pipe({
+  name: 'fileSize'
+})
+export class FileSizePipe implements PipeTransform {
+
+  transform(value: any, args?: any): any {
+    return null;
+  }
+
+}</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGg0IGNsYXNzPSJjYXJkLWhlYWRlciI+UmVmZXJlbmNlPC9oND4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJjYXJkLXRleHQiPgogICAgICAgICAgICAgICAgICAgICAgICAgIFVwbG9hZCBTcGVlZDoge3sgbmc0Rmxvdz8uZmlsZXNbMl0/LmN1cnJlbnRTcGVlZCB9fQogICAgICAgICAgICAgICAgICAgICAgPC9wPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1841,8 +1845,8 @@ export class FileSizePipe implements PipeTransform {
         <entry encoding="base64">JzwsJz5zL30vJiMxMjU7L2c=</entry>
         <entry encoding="base64">JzwsJz5zL30vL2c=</entry>
         <entry>e ../README.md</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
