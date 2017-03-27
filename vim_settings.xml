@@ -893,12 +893,12 @@
         <mark key="^" line="21" column="124" />
         <mark key="." line="21" column="66" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.html" timestamp="1490631223797">
-        <mark key="'" line="25" column="44" />
-        <mark key="[" line="116" column="92" />
-        <mark key="]" line="116" column="92" />
-        <mark key="." line="116" column="92" />
-        <mark key="^" line="116" column="59" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.html" timestamp="1490634245549">
+        <mark key="'" line="24" column="44" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="115" column="59" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/models/SlashCommandIn.scala" timestamp="1469400180798">
         <mark key="'" line="34" column="4" />
@@ -1485,8 +1485,8 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGJ5dGVz</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PCEtLTxkaXYgKm5nNEZsb3ctaW5pdD0ibGV0IG5nNEZsb3c9bmc0RmxvdzsgbGV0IG5nNEZsb3dUcmFuc2ZlcnM9bmc0Rmxvd1RyYW5zZmVyczsgbGV0IFVHc3VibWl0Sm9iSWQ9VUdzdWJtaXRKb2JJZCI+LS0+Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGJ5dGVz</text>
@@ -1498,7 +1498,7 @@
         <text>fileSize</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">PCEtLTxkaXYgKm5nNEZsb3ctaW5pdD0ibGV0IG5nNEZsb3c9bmc0RmxvdzsgbGV0IG5nNEZsb3dUcmFuc2ZlcnM9bmc0Rmxvd1RyYW5zZmVyczsgbGV0IFVHc3VibWl0Sm9iSWQ9VUdzdWJtaXRKb2JJZCI+LS0+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1506,9 +1506,12 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICc/JzsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>@Pipe({
   name: 'fileSize'
 })
@@ -1520,17 +1523,14 @@ export class FileSizePipe implements PipeTransform {
 
 }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJjYXJkLXRleHQiPgogICAgICAgICAgICAgICAgICAgICAgICAgIFVwbG9hZCBTcGVlZDoge3sgbmc0Rmxvdz8uZmlsZXNbMl0/LmN1cnJlbnRTcGVlZCB9fQogICAgICAgICAgICAgICAgICAgICAgPC9wPgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGg0IGNsYXNzPSJjYXJkLXRpdGxlIj5MYW5lMjwvaDQ+Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGg0IGNsYXNzPSJjYXJkLWhlYWRlciI+UmVmZXJlbmNlPC9oND4K</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGg0IGNsYXNzPSJjYXJkLWhlYWRlciI+TGFuZTE8L2g0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGg0IGNsYXNzPSJjYXJkLWhlYWRlciI+UmVmZXJlbmNlPC9oND4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1781,10 +1781,10 @@ export class FileSizePipe implements PipeTransform {
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGg0IGNsYXNzPSJjYXJkLWhlYWRlciI+UmVmZXJlbmNlPC9oND4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGg0IGNsYXNzPSJjYXJkLWhlYWRlciI+TGFuZTE8L2g0Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxoNCBjbGFzcz0iY2FyZC1oZWFkZXIiPlJlZmVyZW5jZTwvaDQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGg0IGNsYXNzPSJjYXJkLWhlYWRlciI+UmVmZXJlbmNlPC9oND4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
