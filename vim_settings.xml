@@ -1098,12 +1098,12 @@
         <mark key="^" line="60" column="161" />
         <mark key="." line="79" column="35" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" timestamp="1490809862901">
-        <mark key="'" line="134" column="0" />
-        <mark key="[" line="38" column="133" />
-        <mark key="]" line="38" column="132" />
-        <mark key="^" line="38" column="132" />
-        <mark key="." line="38" column="132" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" timestamp="1490815749818">
+        <mark key="'" line="41" column="16" />
+        <mark key="[" line="62" column="55" />
+        <mark key="]" line="63" column="48" />
+        <mark key="^" line="63" column="48" />
+        <mark key="." line="63" column="48" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/server.ts" timestamp="1485904785784">
         <mark key="'" line="28" column="30" />
@@ -1435,11 +1435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
-      <jump line="12" column="26" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
-      <jump line="172" column="30" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
-      <jump line="170" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
-      <jump line="14" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
       <jump line="16" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
       <jump line="46" column="37" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="20" column="51" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/FilesController.scala" />
@@ -1535,6 +1530,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" />
       <jump line="52" column="35" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/FilesController.scala" />
       <jump line="134" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
+      <jump line="61" column="12" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
+      <jump line="93" column="31" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
+      <jump line="94" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
+      <jump line="112" column="66" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
+      <jump line="41" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1547,7 +1547,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY2hlY2tJZkdEcml2ZUFjY2Vzc1Rva2VuSXNQcmVzZW50XD4=</text>
+        <text encoding="base64">XDxfY3VycmVudGx5RG93bmxvYWRpbmdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRXhlY3V0aW9uQ29udGV4dC5JbXBsaWNpdHMuZ2xvYmFsCg==</text>
@@ -1837,9 +1837,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY2hlY2tJZkdEcml2ZUFjY2Vzc1Rva2VuSXNQcmVzZW50XD4=</last-search>
+      <last-search encoding="base64">XDxfY3VycmVudGx5RG93bmxvYWRpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY2hlY2tJZkdEcml2ZUFjY2Vzc1Rva2VuSXNQcmVzZW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfY3VycmVudGx5RG93bmxvYWRpbmdcPg==</last-pattern>
       <last-replace>DownloadingFile</last-replace>
       <last-substitute>WorkFile</last-substitute>
       <last-dir>1</last-dir>
@@ -1847,7 +1847,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkb3dubG9hZFR5cGVcPg==</entry>
         <entry encoding="base64">XDxEb3dubG9hZGluZ0ZpbGVcPg==</entry>
         <entry>verify</entry>
         <entry encoding="base64">XDxfY3VycmVudEpvYnNcPg==</entry>
@@ -1867,6 +1866,7 @@
         <entry>Future</entry>
         <entry>JobRunner</entry>
         <entry encoding="base64">XDxfY2hlY2tJZkdEcml2ZUFjY2Vzc1Rva2VuSXNQcmVzZW50XD4=</entry>
+        <entry encoding="base64">XDxfY3VycmVudGx5RG93bmxvYWRpbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0dSQVBIVklaWkVSL1VSQkFOR1JJWlpMWS9n</entry>
