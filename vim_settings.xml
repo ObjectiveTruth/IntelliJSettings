@@ -349,12 +349,12 @@
         <mark key="^" line="52" column="91" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" timestamp="1490809178356">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="41" />
-        <mark key="]" line="9" column="40" />
-        <mark key="^" line="9" column="40" />
-        <mark key="." line="9" column="40" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" timestamp="1490911120045">
+        <mark key="'" line="47" column="4" />
+        <mark key="[" line="111" column="46" />
+        <mark key="]" line="111" column="48" />
+        <mark key="^" line="111" column="48" />
+        <mark key="." line="111" column="48" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/data/jobs-api/jobs-api.service.ts" timestamp="1490690906849">
         <mark key="[" line="40" column="17" />
@@ -1447,12 +1447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="31" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
-      <jump line="94" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
-      <jump line="112" column="66" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
-      <jump line="41" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
-      <jump line="50" column="15" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" />
       <jump line="126" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" />
       <jump line="7" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/FilesController.scala" />
       <jump line="6" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" />
@@ -1547,25 +1541,31 @@
       <jump line="49" column="56" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/ZipEnumerator.scala" />
       <jump line="8" column="25" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/ZipEnumerator.scala" />
       <jump line="55" column="60" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/FilesController.scala" />
+      <jump line="46" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" />
+      <jump line="97" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" />
+      <jump line="55" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" />
+      <jump line="101" column="12" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" />
+      <jump line="102" column="63" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" />
+      <jump line="47" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBkb3dubG9hZEV4ZWN1dGlvbkNvbnRleHQgPSBFeGVjdXRpb25Db250ZXh0LmZyb21FeGVjdXRvcihFeGVjdXRvcnMubmV3Rml4ZWRUaHJlYWRQb29sKDMpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>ii</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>ii</text>
       </register>
       <register name="/" type="4">
-        <text>Execution</text>
+        <text encoding="base64">XDxfZW5zdXJlU2NyaXB0c0FyZVdyaXRhYmxlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBkb3dubG9hZEV4ZWN1dGlvbkNvbnRleHQgPSBFeGVjdXRpb25Db250ZXh0LmZyb21FeGVjdXRvcihFeGVjdXRvcnMubmV3Rml4ZWRUaHJlYWRQb29sKE1BWF9DT05DVVJSRU5UX0pPQlMgKyAxKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBkb3dubG9hZEV4ZWN1dGlvbkNvbnRleHQgPSBFeGVjdXRpb25Db250ZXh0LmZyb21FeGVjdXRvcihFeGVjdXRvcnMubmV3Rml4ZWRUaHJlYWRQb29sKDMpKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1573,22 +1573,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBGdXR1cmUoT2spCg==</text>
+        <text encoding="base64">ICAgICAgICBUcnkoRmlsZShBU1NFVFNfRElSRUNUT1JZX0FCU09MVVRFICsgRmlsZS5zZXBhcmF0b3IgKyAic2NyaXB0cyIpLnRvRGlyZWN0b3J5Lmxpc3QubWFwIHsgZmlsZSA9PgogICAgICAgICAgICAoKCJjaG1vZCAreCAiICsgZmlsZS5wYXRoKS4hLCBmaWxlLnBhdGgpCiAgICAgICAgfSkgbWF0Y2ggewogICAgICAgICAgICBjYXNlIFN1Y2Nlc3MocmV0dXJuQ29kZXMpID0+CiAgICAgICAgICAgICAgICBpZiAocmV0dXJuQ29kZXMuZm9yYWxsKF8uXzEgPT0gMCkpIHsKICAgICAgICAgICAgICAgICAgICBMb2dnZXIuZGVidWcoIkV4ZWN1dGFibGUgcGVybWlzc2lvbnMgZm9yIHNjcmlwdHMgc3VjY2Vzc2Z1bGx5IHNldCIpCiAgICAgICAgICAgICAgICB9ZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuQ29kZXMuZm9yZWFjaCB7IHJldHVybkNvZGUgPT4KICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLmVycm9yKCJDb3VsZCBub3Qgc2V0IGV4ZWN1dGFibGUgcGVybWlzc2lvbnMgZm9yICIgKyByZXR1cm5Db2RlLl8yKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgY2FzZSBGYWlsdXJlKHQpID0+IExvZ2dlci5lcnJvcigiQ291bGQgbm90IHNldCB0aGUgcGVybWlzc2lvbnMgZm9yIHRoZSBzY3JpcHRzIGRpcmVjdG9yeTogIiArCiAgICAgICAgICAgICAgICBBU1NFVFNfRElSRUNUT1JZX0FCU09MVVRFICsgRmlsZS5zZXBhcmF0b3IgKyAic2NyaXB0cyIpCiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRnV0dXJlKE9rKQo=</text>
+        <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBkb3dubG9hZEV4ZWN1dGlvbkNvbnRleHQgPSBFeGVjdXRpb25Db250ZXh0LmZyb21FeGVjdXRvcihFeGVjdXRvcnMubmV3Rml4ZWRUaHJlYWRQb29sKDMpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZ1dHVyZShPaykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBGdXR1cmUoT2spCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZ1dHVyZShPaykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRnV0dXJlKE9rKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBPawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZ1dHVyZShPaykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgT2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZ1dHVyZShPaykK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1839,7 +1839,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgT2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBPawo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgT2sK</text>
@@ -1849,9 +1849,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Execution</last-search>
+      <last-search encoding="base64">XDxfZW5zdXJlU2NyaXB0c0FyZVdyaXRhYmxlXD4=</last-search>
       <last-offset />
-      <last-pattern>Execution</last-pattern>
+      <last-pattern encoding="base64">XDxfZW5zdXJlU2NyaXB0c0FyZVdyaXRhYmxlXD4=</last-pattern>
       <last-replace>DownloadingFile</last-replace>
       <last-substitute>WorkFile</last-substitute>
       <last-dir>1</last-dir>
@@ -1859,10 +1859,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfY2hlY2tJZkdEcml2ZUFjY2Vzc1Rva2VuSXNQcmVzZW50XD4=</entry>
-        <entry encoding="base64">XDxfY3VycmVudGx5RG93bmxvYWRpbmdcPg==</entry>
-        <entry>Result</entry>
-        <entry encoding="base64">XDxMSU5VWF9ESVNDT1NOUF9CSU5BUklFU19SRUxFQVNFX1VSTFw+</entry>
         <entry encoding="base64">XDxPVVRQVVRfRElSXD4=</entry>
         <entry encoding="base64">XDxPU1hfRElTQ09TTlBfQklOQVJJRVNfUkVMRUFTRV9VUkxcPg==</entry>
         <entry encoding="base64">XDxTT1VSQ0VcPg==</entry>
@@ -1879,6 +1875,10 @@
         <entry encoding="base64">XDxVR19EQVRBQkFTRV9VUkxcPg==</entry>
         <entry encoding="base64">XDx6aXBlYWNoXD4=</entry>
         <entry>Execution</entry>
+        <entry encoding="base64">XDxfZW5zdXJlTG9jYWxEYXRhYmFzZUlzV3JpdGFibGVcPg==</entry>
+        <entry encoding="base64">XDxfcnVuRGVwZW5kYW5jeVNjcmlwdFw+</entry>
+        <entry encoding="base64">XDxJTlNUQUxMX0RFUEVOREVOQ1lfU0NSSVBUXD4=</entry>
+        <entry encoding="base64">XDxfZW5zdXJlU2NyaXB0c0FyZVdyaXRhYmxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0dSQVBIVklaWkVSL1VSQkFOR1JJWlpMWS9n</entry>
