@@ -729,12 +729,12 @@
         <mark key="^" line="228" column="0" />
         <mark key="." line="228" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/Dockerfile" timestamp="1490845936463">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/Dockerfile" timestamp="1490849534744">
         <mark key="'" line="7" column="52" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="7" column="53" />
-        <mark key="." line="7" column="53" />
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/files/files/files.component.html" timestamp="1490691151373">
         <mark key="'" line="0" column="0" />
@@ -1159,12 +1159,12 @@
         <mark key="." line="10" column="70" />
         <mark key="^" line="10" column="70" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1490844211568">
-        <mark key="'" line="70" column="112" />
-        <mark key="[" line="63" column="60" />
-        <mark key="]" line="63" column="68" />
-        <mark key="." line="63" column="68" />
-        <mark key="^" line="63" column="68" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1490849413107">
+        <mark key="'" line="19" column="4" />
+        <mark key="[" line="70" column="31" />
+        <mark key="]" line="70" column="31" />
+        <mark key="." line="70" column="31" />
+        <mark key="^" line="70" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/testResources/server_responses/clickabledate/half_closed_half_open_8am-330pm.aspx" timestamp="1472487590960">
         <mark key="'" line="311" column="0" />
@@ -1438,20 +1438,15 @@
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" timestamp="1490844581539">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" timestamp="1490849245669">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="52" column="48" />
-        <mark key="]" line="52" column="48" />
+        <mark key="[" line="75" column="15" />
+        <mark key="]" line="75" column="31" />
         <mark key="." line="52" column="48" />
         <mark key="^" line="52" column="47" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
-      <jump line="110" column="20" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" />
-      <jump line="17" column="19" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
-      <jump line="15" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
-      <jump line="24" column="69" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
       <jump line="79" column="57" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
       <jump line="21" column="5" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
       <jump line="80" column="30" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
@@ -1534,9 +1529,7 @@
       <jump line="124" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" />
       <jump line="73" column="11" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" />
       <jump line="63" column="49" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
-      <jump line="66" column="79" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="68" column="113" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
-      <jump line="70" column="112" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="52" column="15" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" />
       <jump line="18" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" />
       <jump line="37" column="61" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/Dockerfile_javadiscosnp/Dockerfile" />
@@ -1547,22 +1540,29 @@
       <jump line="12" column="22" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/Dockerfile_javadiscosnp/Dockerfile" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/Dockerfile_javadiscosnp/Dockerfile" />
       <jump line="23" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/circle.yml" />
+      <jump line="29" column="30" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
+      <jump line="70" column="22" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
+      <jump line="34" column="6" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
+      <jump line="56" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
+      <jump line="60" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
+      <jump line="66" column="39" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
+      <jump line="19" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>sh INSTALL</text>
+        <text>objectivetruth/</text>
       </register>
       <register name="-" type="4">
-        <text>sh INSTALL</text>
+        <text>objectivetruth/</text>
       </register>
       <register name="/" type="4">
-        <text>push</text>
+        <text encoding="base64">XDxESVNDT1NOUFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">RlJPTSBqYXZhOjgK</text>
+      <register name="0" type="4">
+        <text>run_discoSnp++.sh</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1849,9 +1849,9 @@
       </register>
     </registers>
     <search>
-      <last-search>push</last-search>
+      <last-search encoding="base64">XDxESVNDT1NOUFw+</last-search>
       <last-offset />
-      <last-pattern>push</last-pattern>
+      <last-pattern encoding="base64">XDxESVNDT1NOUFw+</last-pattern>
       <last-replace>DownloadingFile</last-replace>
       <last-substitute>WorkFile</last-substitute>
       <last-dir>1</last-dir>
@@ -1859,8 +1859,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfbW92ZUZpbGVUb0NvbXBsZXRlZERpcmVjdG9yeVw+</entry>
-        <entry encoding="base64">XDxXb3JrRmlsZVw+</entry>
         <entry encoding="base64">XDxXb3JrRmlsZVN0YXRlXD4=</entry>
         <entry encoding="base64">XDxjb252ZXJ0RG93bmxvYWRpbmdGaWxlc1RvV29ya0ZpbGVzUmVzcG9uc2VXaXRoU3RhdGVcPg==</entry>
         <entry encoding="base64">XDxPU1hfR0RSSVZFX0JJTkFSSUVTX1JFTEVBU0VfVVJMXD4=</entry>
@@ -1879,6 +1877,8 @@
         <entry encoding="base64">XDxPU1hfRElTQ09TTlBfQklOQVJJRVNfUkVMRUFTRV9VUkxcPg==</entry>
         <entry encoding="base64">XDxTT1VSQ0VcPg==</entry>
         <entry>push</entry>
+        <entry encoding="base64">XDxESVNDT1NOUF9ESVJcPg==</entry>
+        <entry encoding="base64">XDxESVNDT1NOUFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0dSQVBIVklaWkVSL1VSQkFOR1JJWlpMWS9n</entry>
