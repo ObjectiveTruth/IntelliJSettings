@@ -126,12 +126,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="45" column="107" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/Dockerfile_javadiscosnp/Dockerfile" timestamp="1490848355081">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/Dockerfile_javadiscosnp/Dockerfile" timestamp="1490851525184">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="9" />
-        <mark key="]" line="20" column="7" />
-        <mark key="^" line="20" column="7" />
-        <mark key="." line="20" column="7" />
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="52" />
+        <mark key="^" line="2" column="52" />
+        <mark key="." line="2" column="52" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/test/ApplicationSpec.scala" timestamp="1470520415332">
         <mark key="'" line="74" column="0" />
@@ -1552,11 +1552,11 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>objectivetruth/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAoKV09SS0RJUiAke0RJUn0vRGlzY29TbnAKUlVOIHNoIElOU1RBTEwKV09SS0RJUiAvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>objectivetruth/</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxESVNDT1NOUFw+</text>
@@ -1565,7 +1565,7 @@
         <text>run_discoSnp++.sh</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAoKV09SS0RJUiAke0RJUn0vRGlzY29TbnAKUlVOIHNoIElOU1RBTEwKV09SS0RJUiAvCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1573,19 +1573,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBTZXQgZGlzY29TbnArKyB2ZXJzaW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RU5WIE1UR19WRVJTSU9OIDIuMi4xMAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UlVOIG1rZGlyICR7QlVJTER9Cg==</text>
+        <text encoding="base64">RU5WIEJVSUxEIGJ1aWxkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIGNtYWtlIC4uCg==</text>
+        <text encoding="base64">RU5WIERJUiAvb3B0Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1839,13 +1839,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIG1rZGlyICR7QlVJTER9CldPUktESVIgJHtESVJ9LyR7U09VUkNFfS8ke0JVSUxEfQo=</text>
+        <text encoding="base64">IyBjbG9uZSB0aGUgZ2l0aHViIHJlcG8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RU5WIFNPVVJDRUtTIGtpc3NucDIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1898,9 +1898,9 @@
         <entry>qqq</entry>
         <entry encoding="base64">JzwsJz5zL1dvcmtGaWxlL0Rvd25sb2FkaW5nRmlsZS9n</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
