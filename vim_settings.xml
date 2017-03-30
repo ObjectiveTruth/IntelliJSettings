@@ -1325,12 +1325,12 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/FilesController.scala" timestamp="1490886856890">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/FilesController.scala" timestamp="1490899933683">
         <mark key="'" line="29" column="4" />
-        <mark key="[" line="65" column="73" />
-        <mark key="]" line="65" column="93" />
-        <mark key="." line="65" column="93" />
-        <mark key="^" line="65" column="93" />
+        <mark key="[" line="55" column="39" />
+        <mark key="]" line="55" column="78" />
+        <mark key="." line="55" column="78" />
+        <mark key="^" line="55" column="78" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-details/job-details.component.html" timestamp="1489299399214">
         <mark key="'" line="12" column="32" />
@@ -1555,10 +1555,10 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>UG_GENERIC_GOOGLE_API_KEY</text>
+        <text>GOOGLE_GENERIC_API_KEY</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>GOOGLE_GENERIC_API_KEY</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVR19EQVRBQkFTRV9VUkxcPg==</text>
@@ -1567,7 +1567,7 @@
         <text>UG_GENERIC_GOOGLE_API_KEY</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBDYW4gYmUgZm91bmQgdW5kZXIgb2JqZWN0aXZldHJ1dGgvamF2YS1hbmQtZGlzY29zbnAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLmVycm9yKHJlc3BvbnNlLmJvZHkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1575,22 +1575,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBDb250YWlucyBKYXZhOCBhbmQgQ29tcGlsZWQgdmVyc2lvbiBvZiBEaXNjb1NucAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZ2dlci5pbmZvKHJlc3BvbnNlLmJvZHkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RlJPTSBvYmplY3RpdmV0cnV0aC9qYXZhLWFuZC1kaXNjb3NucAo=</text>
+        <text encoding="base64">IyBDYW4gYmUgZm91bmQgdW5kZXIgb2JqZWN0aXZldHJ1dGgvamF2YS1hbmQtZGlzY29zbnAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YFVHX01BSU5fTE9DQUxfRElSRUNUT1JZYCAtIExvY2FsIG9yIGFic29sdXRlIGRpcmVjdG9yeSBmb3IgbG9jYWwgZmlsZXMgKGRlZmF1bHQ6IC4vdXJiYW5ncml6emx5KQo=</text>
+        <text encoding="base64">IyBDb250YWlucyBKYXZhOCBhbmQgQ29tcGlsZWQgdmVyc2lvbiBvZiBEaXNjb1NucAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RlJPTSBvYmplY3RpdmV0cnV0aC9qYXZhLWFuZC1kaXNjb3NucAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">YFVHX01BSU5fTE9DQUxfRElSRUNUT1JZYCAtIExvY2FsIG9yIGFic29sdXRlIGRpcmVjdG9yeSBmb3IgbG9jYWwgZmlsZXMgKGRlZmF1bHQ6IC4vdXJiYW5ncml6emx5KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaWxlc0RBTy5hZGRGaWxlVXJsVG9Eb3dubG9hZFF1ZXVlKHVybCwgRG93bmxvYWRUeXBlLkdPT0dMRV9EUklWRSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ29vZ2xlRHJpdmVNZXRhZGF0YS5maWxlbmFtZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBGdXR1cmUoT2soSnNvbi50b0pzb24oQmFzaWNSZXNwb25zZShpc1N1Y2Nlc3MgPSBmYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIkFsbCBHb29kIikpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1841,10 +1841,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRnV0dXJlKE9rKEpzb24udG9Kc29uKEJhc2ljUmVzcG9uc2UoaXNTdWNjZXNzID0gZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiQWxsIEdvb2QiKSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaWxlc0RBTy5hZGRGaWxlVXJsVG9Eb3dubG9hZFF1ZXVlKHVybCwgRG93bmxvYWRUeXBlLkdPT0dMRV9EUklWRSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ29vZ2xlRHJpdmVNZXRhZGF0YS5maWxlbmFtZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBGdXR1cmUoT2soSnNvbi50b0pzb24oQmFzaWNSZXNwb25zZShpc1N1Y2Nlc3MgPSBmYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIkFsbCBHb29kIikpKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
