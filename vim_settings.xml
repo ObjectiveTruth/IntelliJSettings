@@ -711,12 +711,12 @@
         <mark key="^" line="21" column="12" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/files/files/files.component.ts" timestamp="1490657150247">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/files/files/files.component.ts" timestamp="1490903473797">
         <mark key="'" line="26" column="45" />
-        <mark key="[" line="45" column="43" />
-        <mark key="]" line="45" column="47" />
-        <mark key="." line="45" column="47" />
-        <mark key="^" line="45" column="47" />
+        <mark key="[" line="38" column="53" />
+        <mark key="]" line="38" column="91" />
+        <mark key="." line="38" column="91" />
+        <mark key="^" line="38" column="91" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/CSA-ForHackerNews/main.js" timestamp="1485641977466">
         <mark key="'" line="12" column="29" />
@@ -739,12 +739,12 @@
         <mark key="." line="10" column="54" />
         <mark key="^" line="10" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/files/files/files.component.html" timestamp="1490691151373">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/files/files/files.component.html" timestamp="1490903184066">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="70" />
-        <mark key="]" line="26" column="74" />
-        <mark key="." line="26" column="74" />
-        <mark key="^" line="26" column="74" />
+        <mark key="[" line="23" column="65" />
+        <mark key="]" line="23" column="66" />
+        <mark key="." line="23" column="66" />
+        <mark key="^" line="26" column="70" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/FlowHelper.scala" timestamp="1490684492863">
         <mark key="'" line="25" column="18" />
@@ -1299,11 +1299,6 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" timestamp="1490809395343">
-        <mark key="'" line="145" column="38" />
-        <mark key="." line="25" column="5" />
-        <mark key="^" line="25" column="5" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab7/base_files/lab07.js" timestamp="1478710407315">
         <mark key="'" line="90" column="0" />
         <mark key="[" line="87" column="0" />
@@ -1325,12 +1320,12 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/FilesController.scala" timestamp="1490900853115">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/FilesController.scala" timestamp="1490902303761">
         <mark key="'" line="29" column="4" />
-        <mark key="[" line="69" column="95" />
-        <mark key="]" line="69" column="98" />
-        <mark key="." line="69" column="98" />
-        <mark key="^" line="69" column="98" />
+        <mark key="[" line="55" column="39" />
+        <mark key="]" line="55" column="60" />
+        <mark key="." line="55" column="60" />
+        <mark key="^" line="55" column="60" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-details/job-details.component.html" timestamp="1489299399214">
         <mark key="'" line="12" column="32" />
@@ -1555,10 +1550,10 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVR19EQVRBQkFTRV9VUkxcPg==</text>
@@ -1847,7 +1842,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRnV0dXJlKE9rKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1899,10 +1894,10 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>qqq</entry>
         <entry encoding="base64">JzwsJz5zL1dvcmtGaWxlL0Rvd25sb2FkaW5nRmlsZS9n</entry>
-        <entry>wq</entry>
         <entry>W</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
