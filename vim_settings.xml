@@ -1158,12 +1158,12 @@
         <mark key="." line="10" column="70" />
         <mark key="^" line="10" column="70" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1490969554086">
-        <mark key="'" line="62" column="22" />
-        <mark key="[" line="63" column="69" />
-        <mark key="]" line="63" column="71" />
-        <mark key="." line="63" column="71" />
-        <mark key="^" line="63" column="71" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1490991980816">
+        <mark key="'" line="64" column="22" />
+        <mark key="[" line="61" column="81" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/testResources/server_responses/clickabledate/half_closed_half_open_8am-330pm.aspx" timestamp="1472487590960">
         <mark key="'" line="311" column="0" />
@@ -1553,10 +1553,10 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>R</text>
+        <text>discoRes</text>
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text>discoRes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZW5zdXJlU2NyaXB0c0FyZUV4ZWN1dGFibGVcPg==</text>
