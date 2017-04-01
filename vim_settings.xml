@@ -1174,11 +1174,11 @@
         <mark key="." line="10" column="70" />
         <mark key="^" line="10" column="70" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1491011772695">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1491055198868">
         <mark key="'" line="45" column="1" />
-        <mark key="[" line="61" column="81" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+        <mark key="[" line="65" column="47" />
+        <mark key="]" line="65" column="47" />
+        <mark key="." line="65" column="47" />
         <mark key="^" line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/testResources/server_responses/clickabledate/half_closed_half_open_8am-330pm.aspx" timestamp="1472487590960">
@@ -1318,12 +1318,12 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" timestamp="1490908227084">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" timestamp="1491055509059">
         <mark key="'" line="145" column="38" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="128" />
-        <mark key="." line="25" column="5" />
-        <mark key="^" line="25" column="5" />
+        <mark key="[" line="16" column="41" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="16" column="40" />
+        <mark key="^" line="16" column="40" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab7/base_files/lab07.js" timestamp="1478710407315">
         <mark key="'" line="90" column="0" />
@@ -1586,10 +1586,10 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>hr</text>
