@@ -728,12 +728,11 @@
         <mark key="^" line="228" column="0" />
         <mark key="." line="228" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/Dockerfile" timestamp="1490896806557">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/Dockerfile" timestamp="1491004478686">
         <mark key="'" line="10" column="52" />
-        <mark key="[" line="10" column="53" />
-        <mark key="]" line="10" column="54" />
-        <mark key="." line="10" column="54" />
-        <mark key="^" line="10" column="54" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/files/files/files.component.html" timestamp="1490903184066">
         <mark key="'" line="0" column="0" />
@@ -1107,12 +1106,12 @@
         <mark key="^" line="60" column="161" />
         <mark key="." line="79" column="35" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" timestamp="1491001155450">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" timestamp="1491004497756">
         <mark key="'" line="59" column="28" />
-        <mark key="[" line="96" column="89" />
-        <mark key="]" line="96" column="104" />
-        <mark key="." line="96" column="104" />
-        <mark key="^" line="96" column="104" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="95" column="104" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/circle.yml" timestamp="1490848810718">
         <mark key="'" line="23" column="4" />
@@ -1172,7 +1171,7 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/application.conf" timestamp="1490897241751">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/application.conf" timestamp="1491003875351">
         <mark key="'" line="381" column="30" />
         <mark key="[" line="33" column="24" />
         <mark key="]" line="33" column="48" />
@@ -1552,8 +1551,8 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ungzippedFileAbsPath</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgam9ic0RBTy5pbnNlcnRXb3JrRmlsZUludG9EYXRhYmFzZUlmTm90RXhpc3QobmV4dERvd25sb2FkLmNvbXBsZXRlZEZ1bGxGaWxlUGF0aCkK</text>
       </register>
       <register name="-" type="4">
         <text>ungzippedFileAbsPath</text>
@@ -1565,7 +1564,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgam9ic0RBTy5pbnNlcnRXb3JrRmlsZUludG9EYXRhYmFzZUlmTm90RXhpc3QobmV4dERvd25sb2FkLmNvbXBsZXRlZEZ1bGxGaWxlUGF0aCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1bnppcHBlZEZpbGVQYXRoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgam9ic0RBTy5pbnNlcnRXb3JrRmlsZUludG9EYXRhYmFzZUlmTm90RXhpc3QobmV4dERvd25sb2FkLmNvbXBsZXRlZEZ1bGxGaWxlUGF0aCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1573,22 +1572,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd29ya0ZpbGVzSW5zZXJ0ZWQgPC0gCg==</text>
+        <text encoding="base64">ICAgIGd0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1bnppcHBlZEZpbGVQYXRoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd29ya0ZpbGVzSW5zZXJ0ZWQgPC0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgU29tZSh1bnppcHBlZEZpbGVQYXRoID0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgam9ic0RBTy5pbnNlcnRXb3JrRmlsZUludG9EYXRhYmFzZUlmTm90RXhpc3QobmV4dERvd25sb2FkLmNvbXBsZXRlZEZ1bGxGaWxlUGF0aCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgU29tZSh1bnppcHBlZEZpbGVQYXRoID0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBOb25lCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1839,10 +1838,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgKiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgKiAgICAgICAgIGhlbGxvIHdvcmxkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgam9ic0RBTy5pbnNlcnRXb3JrRmlsZUludG9EYXRhYmFzZUlmTm90RXhpc3QobmV4dERvd25sb2FkLmNvbXBsZXRlZEZ1bGxGaWxlUGF0aCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1897,8 +1896,8 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>qqq</entry>
         <entry encoding="base64">JzwsJz5zL1dvcmtGaWxlL0Rvd25sb2FkaW5nRmlsZS9n</entry>
-        <entry>W</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
