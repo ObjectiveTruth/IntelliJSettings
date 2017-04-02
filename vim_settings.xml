@@ -276,9 +276,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" timestamp="1491058136516">
-        <mark key="'" line="0" column="0" />
-        <mark key="^" line="12" column="27" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" timestamp="1491062047017">
+        <mark key="'" line="12" column="27" />
+        <mark key="[" line="60" column="12" />
+        <mark key="]" line="60" column="12" />
+        <mark key="^" line="60" column="59" />
+        <mark key="." line="60" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/_shared/shared.module.ts" timestamp="1491019803744">
         <mark key="'" line="3" column="8" />
@@ -1488,7 +1491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="58" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/FilesController.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/FilesController.scala" />
       <jump line="109" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
       <jump line="29" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/FilesController.scala" />
@@ -1588,19 +1590,20 @@
       <jump line="24" column="22" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/file-submit/file-submit.component.html" />
       <jump line="26" column="70" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/file-submit/file-submit.component.html" />
       <jump line="44" column="15" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/circle.yml" />
+      <jump line="12" column="27" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">P2NvPUdFTklFLlBsYXRmb3JtJTNERGVza3RvcCZobD1lbg==</text>
+        <text>stdout</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">P2NvPUdFTklFLlBsYXRmb3JtJTNERGVza3RvcCZobD1lbg==</text>
+        <text>stdout</text>
       </register>
       <register name="/" type="4">
-        <text>href</text>
+        <text>stde</text>
       </register>
       <register name="0" type="4">
         <text>isUploadSelected</text>
@@ -1886,13 +1889,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgW3Nob3VsZERpc2FibGVBbGxJbnB1dHNdPSJpc1N1Ym1pdFJlcXVlc3RJbkZsaWdodCB8fCBpc1VwbG9hZENvbXBsZXRlKCkiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>href</last-search>
+      <last-search>stde</last-search>
       <last-offset />
-      <last-pattern>href</last-pattern>
+      <last-pattern>stde</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1900,8 +1903,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfbW92ZUZpbGVUb0NvbXBsZXRlZERpcmVjdG9yeVw+</entry>
-        <entry>Some</entry>
         <entry encoding="base64">XDxfY3VycmVudGx5RG93bmxvYWRpbmdcPg==</entry>
         <entry encoding="base64">XDxfcmVtb3ZlSm9iRnJvbUN1cnJlbnRseURvd25sb2FkaW5nXD4=</entry>
         <entry encoding="base64">XDxfYWRkSm9iVG9DdXJyZW50bHlQcm9jZXNzaW5nXD4=</entry>
@@ -1920,6 +1921,8 @@
         <entry>lastSele</entry>
         <entry>card-text</entry>
         <entry>href</entry>
+        <entry>stderr</entry>
+        <entry>stde</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0dSQVBIVklaWkVSL1VSQkFOR1JJWlpMWS9n</entry>
@@ -1940,8 +1943,8 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
