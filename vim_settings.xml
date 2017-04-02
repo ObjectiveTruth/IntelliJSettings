@@ -1185,12 +1185,12 @@
         <mark key="." line="10" column="70" />
         <mark key="^" line="10" column="70" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1491058273359">
-        <mark key="'" line="45" column="1" />
-        <mark key="[" line="68" column="67" />
-        <mark key="]" line="68" column="70" />
-        <mark key="." line="68" column="70" />
-        <mark key="^" line="68" column="70" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1491143240686">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="65" column="27" />
+        <mark key="]" line="65" column="27" />
+        <mark key="." line="65" column="27" />
+        <mark key="^" line="65" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/testResources/server_responses/clickabledate/half_closed_half_open_8am-330pm.aspx" timestamp="1472487590960">
         <mark key="'" line="311" column="0" />
@@ -1491,8 +1491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/FilesController.scala" />
-      <jump line="109" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
       <jump line="29" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/FilesController.scala" />
       <jump line="98" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
       <jump line="66" column="31" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
@@ -1591,19 +1589,21 @@
       <jump line="26" column="70" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/file-submit/file-submit.component.html" />
       <jump line="44" column="15" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/circle.yml" />
       <jump line="12" column="27" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
+      <jump line="48" column="21" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
+      <jump line="21" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>stdout</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>stdout</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>stde</text>
+        <text encoding="base64">XDxCV0FfRElSXD4=</text>
       </register>
       <register name="0" type="4">
         <text>isUploadSelected</text>
@@ -1889,13 +1889,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgW3Nob3VsZERpc2FibGVBbGxJbnB1dHNdPSJpc1N1Ym1pdFJlcXVlc3RJbkZsaWdodCB8fCBpc1VwbG9hZENvbXBsZXRlKCkiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>stde</last-search>
+      <last-search encoding="base64">XDxCV0FfRElSXD4=</last-search>
       <last-offset />
-      <last-pattern>stde</last-pattern>
+      <last-pattern encoding="base64">XDxCV0FfRElSXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1903,7 +1903,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfY3VycmVudGx5RG93bmxvYWRpbmdcPg==</entry>
         <entry encoding="base64">XDxfcmVtb3ZlSm9iRnJvbUN1cnJlbnRseURvd25sb2FkaW5nXD4=</entry>
         <entry encoding="base64">XDxfYWRkSm9iVG9DdXJyZW50bHlQcm9jZXNzaW5nXD4=</entry>
         <entry>gzip</entry>
@@ -1923,6 +1922,7 @@
         <entry>href</entry>
         <entry>stderr</entry>
         <entry>stde</entry>
+        <entry encoding="base64">XDxCV0FfRElSXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0dSQVBIVklaWkVSL1VSQkFOR1JJWlpMWS9n</entry>
@@ -1943,8 +1943,8 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
