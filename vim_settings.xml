@@ -1854,7 +1854,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFJlc291cmNlIHBhdGg9e211dGF0aW9uc1ZDRlBhdGh9IC8+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1908,8 +1908,8 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
