@@ -1143,12 +1143,11 @@
         <mark key="." line="10" column="70" />
         <mark key="^" line="10" column="70" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1491189285372">
-        <mark key="'" line="58" column="34" />
-        <mark key="[" line="76" column="90" />
-        <mark key="]" line="77" column="19" />
-        <mark key="." line="77" column="19" />
-        <mark key="^" line="77" column="19" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1491268835667">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/testResources/server_responses/clickabledate/half_closed_half_open_8am-330pm.aspx" timestamp="1472487590960">
         <mark key="'" line="311" column="0" />
@@ -1456,7 +1455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
       <jump line="89" column="28" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
       <jump line="180" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
       <jump line="84" column="60" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
@@ -1539,7 +1537,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="3" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="69" column="2" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
-      <jump line="22" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="56" column="34" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="397" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/application.conf" />
       <jump line="274" column="6" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
@@ -1556,25 +1553,27 @@
       <jump line="147" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
       <jump line="60" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
       <jump line="100" column="36" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
+      <jump line="79" column="2" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
+      <jump line="22" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>absolutePathToFileForGunzipping</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cm0gIiRPVVRQVVRfRElSIi90bXAK</text>
       </register>
       <register name="-" type="4">
         <text>fileDownloading</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfdW5HemlwUG9zdFByb2Nlc3NcPg==</text>
+        <text encoding="base64">XDxJR1ZUT09MU19ESVJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>absolutePathToFileForGunzipping</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfcmVtb3ZlSm9iRnJvbUN1cnJlbnRseVByb2Nlc3NpbmcobmV3RmlsZURvd25sb2FkQmVpbmdaaXBwZWQpCg==</text>
+        <text encoding="base64">cm0gIiRPVVRQVVRfRElSIi90bXAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1582,22 +1581,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG5ld1VuemlwcGVkRmlsZVBhdGggPSBfcmVtb3ZlRXh0ZW5zaW9uRnJvbUZpbGVQYXRoKCIuZ3oiLCBuZXh0RG93bmxvYWQuY29tcGxldGVkRnVsbEZpbGVQYXRoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfcmVtb3ZlSm9iRnJvbUN1cnJlbnRseVByb2Nlc3NpbmcobmV3RmlsZURvd25sb2FkQmVpbmdaaXBwZWQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG5ld1VuemlwcGVkRmlsZWRQYXRoID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG5ld1VuemlwcGVkRmlsZVBhdGggPSBfcmVtb3ZlRXh0ZW5zaW9uRnJvbUZpbGVQYXRoKCIuZ3oiLCBuZXh0RG93bmxvYWQuY29tcGxldGVkRnVsbEZpbGVQYXRoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG5ld1VuemlwcGVkRmlsZWRQYXRoID0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2QgIiRPVVRQVVRfRElSIiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBSZW1vdmUgZHVwbGljYXRlIGFsbGVscwphd2sgJ3tpZighKCQ0ID09ICQ1ICYmIEZOUj49MjApKSBwcmludCAkMH0nIGRpc2NvUmVzX2tfMzFfY19hdXRvX0RfMTAwX1BfMV9iXzBfY29oZXJlbnRfZm9yX0lHVi52Y2YgPiBwYXNzZXIK</text>
+        <text encoding="base64">Y2QgIiRPVVRQVVRfRElSIiAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1848,19 +1847,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SUdWCg==</text>
+        <text encoding="base64">IyBSZW1vdmUgZHVwbGljYXRlIGFsbGVscwphd2sgJ3tpZighKCQ0ID09ICQ1ICYmIEZOUj49MjApKSBwcmludCAkMH0nIGRpc2NvUmVzX2tfMzFfY19hdXRvX0RfMTAwX1BfMV9iXzBfY29oZXJlbnRfZm9yX0lHVi52Y2YgPiBwYXNzZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SUdWCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfdW5HemlwUG9zdFByb2Nlc3NcPg==</last-search>
+      <last-search encoding="base64">XDxJR1ZUT09MU19ESVJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfdW5HemlwUG9zdFByb2Nlc3NcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxJR1ZUT09MU19ESVJcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1881,13 +1880,13 @@
         <entry encoding="base64">XDxfZ2VuZXJhdGVJR1ZTZXNzaW9uc1hNTFw+</entry>
         <entry encoding="base64">XDxpZ3ZTZXNzaW9uc0xvY2FsUmVsYXRpdmVQYXRoXD4=</entry>
         <entry encoding="base64">XDxpZ3ZTZXNzaW9uc1JlbGF0aXZlUGF0aFw+</entry>
-        <entry encoding="base64">XDxJR1ZUT09MU19ESVJcPg==</entry>
         <entry encoding="base64">XDxtZDVHZW5lcmF0b3JFQ1w+</entry>
         <entry>_addJobToCurrently</entry>
         <entry encoding="base64">XDxfYWRkSm9iVG9DdXJyZW50bHlQcm9jZXNzaW5nXD4=</entry>
         <entry>_remove</entry>
         <entry encoding="base64">XDxfcmVtb3ZlRXh0ZW5zaW9uRnJvbUZpbGVQYXRoXD4=</entry>
         <entry encoding="base64">XDxfdW5HemlwUG9zdFByb2Nlc3NcPg==</entry>
+        <entry encoding="base64">XDxJR1ZUT09MU19ESVJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0dSQVBIVklaWkVSL1VSQkFOR1JJWlpMWS9n</entry>
@@ -1908,8 +1907,8 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
