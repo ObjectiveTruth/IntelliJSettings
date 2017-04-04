@@ -465,11 +465,6 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/app.module.ts" timestamp="1491020557017">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/files/files.module.ts" timestamp="1490655629750">
         <mark key="'" line="3" column="21" />
         <mark key="[" line="1" column="0" />
@@ -524,6 +519,9 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="38" column="12" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1491315445163">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/HealthCheckController.java" timestamp="1469410179224">
         <mark key="'" line="0" column="0" />
@@ -1286,12 +1284,8 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" timestamp="1491189478303">
-        <mark key="'" line="112" column="50" />
-        <mark key="[" line="124" column="74" />
-        <mark key="]" line="124" column="96" />
-        <mark key="." line="124" column="96" />
-        <mark key="^" line="124" column="96" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" timestamp="1491315298654">
+        <mark key="'" line="125" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab7/base_files/lab07.js" timestamp="1478710407315">
         <mark key="'" line="90" column="0" />
@@ -1342,12 +1336,11 @@
         <mark key="^" line="21" column="62" />
         <mark key="." line="21" column="62" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" timestamp="1491006385875">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" timestamp="1491315279467">
         <mark key="'" line="102" column="8" />
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="31" />
-        <mark key="." line="9" column="32" />
-        <mark key="^" line="9" column="32" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/input-card/input-card.component.html" timestamp="1491060163986">
         <mark key="'" line="4" column="64" />
@@ -1455,7 +1448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="28" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
       <jump line="180" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
       <jump line="84" column="60" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
       <jump line="49" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
@@ -1555,25 +1547,26 @@
       <jump line="100" column="36" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
       <jump line="79" column="2" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="22" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
+      <jump line="125" column="36" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cm0gIiRPVVRQVVRfRElSIi90bXAK</text>
+      <register name="&quot;" type="4">
+        <text>WorkFileState</text>
       </register>
       <register name="-" type="4">
-        <text>fileDownloading</text>
+        <text>WorkFileState</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJR1ZUT09MU19ESVJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>absolutePathToFileForGunzipping</text>
+      <register name="0" type="2">
+        <text encoding="base64">b2JqZWN0IFdvcmtGaWxlU3RhdGUgZXh0ZW5kcyBFbnVtZXJhdGlvbiB7CiAgICB2YWwgUkVBRFkgPSAicmVhZHkiCiAgICB2YWwgRE9XTkxPQURJTkcgPSAiZG93bmxvYWRpbmciCiAgICB2YWwgUVVFVUVEID0gInF1ZXVlZCIKICAgIHZhbCBQUk9DRVNTSU5HID0gInByb2Nlc3NpbmciCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cm0gIiRPVVRQVVRfRElSIi90bXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1581,22 +1574,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfcmVtb3ZlSm9iRnJvbUN1cnJlbnRseVByb2Nlc3NpbmcobmV3RmlsZURvd25sb2FkQmVpbmdaaXBwZWQpCg==</text>
+        <text encoding="base64">cm0gIiRPVVRQVVRfRElSIi90bXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG5ld1VuemlwcGVkRmlsZVBhdGggPSBfcmVtb3ZlRXh0ZW5zaW9uRnJvbUZpbGVQYXRoKCIuZ3oiLCBuZXh0RG93bmxvYWQuY29tcGxldGVkRnVsbEZpbGVQYXRoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfcmVtb3ZlSm9iRnJvbUN1cnJlbnRseVByb2Nlc3NpbmcobmV3RmlsZURvd25sb2FkQmVpbmdaaXBwZWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG5ld1VuemlwcGVkRmlsZWRQYXRoID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG5ld1VuemlwcGVkRmlsZVBhdGggPSBfcmVtb3ZlRXh0ZW5zaW9uRnJvbUZpbGVQYXRoKCIuZ3oiLCBuZXh0RG93bmxvYWQuY29tcGxldGVkRnVsbEZpbGVQYXRoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG5ld1VuemlwcGVkRmlsZWRQYXRoID0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2QgIiRPVVRQVVRfRElSIiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1847,10 +1840,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBSZW1vdmUgZHVwbGljYXRlIGFsbGVscwphd2sgJ3tpZighKCQ0ID09ICQ1ICYmIEZOUj49MjApKSBwcmludCAkMH0nIGRpc2NvUmVzX2tfMzFfY19hdXRvX0RfMTAwX1BfMV9iXzBfY29oZXJlbnRfZm9yX0lHVi52Y2YgPiBwYXNzZXIK</text>
+        <text encoding="base64">Y2QgIiRPVVRQVVRfRElSIiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">SUdWCg==</text>
+        <text encoding="base64">IyBSZW1vdmUgZHVwbGljYXRlIGFsbGVscwphd2sgJ3tpZighKCQ0ID09ICQ1ICYmIEZOUj49MjApKSBwcmludCAkMH0nIGRpc2NvUmVzX2tfMzFfY19hdXRvX0RfMTAwX1BfMV9iXzBfY29oZXJlbnRfZm9yX0lHVi52Y2YgPiBwYXNzZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
