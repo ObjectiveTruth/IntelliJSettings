@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/completed-jobs/completed-jobs.component.ts" timestamp="1490470785386">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="34" column="30" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/completed-jobs/completed-jobs.component.ts" timestamp="1491496421816">
+        <mark key="'" line="66" column="61" />
+        <mark key="[" line="41" column="46" />
+        <mark key="]" line="42" column="19" />
+        <mark key="." line="42" column="19" />
+        <mark key="^" line="42" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/myaccount/MyAccount.java" timestamp="1480299101194">
         <mark key="'" line="115" column="40" />
@@ -251,6 +251,13 @@
         <mark key="." line="85" column="38" />
         <mark key="^" line="85" column="38" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/_shared/shared.module.ts" timestamp="1491493733194">
+        <mark key="'" line="6" column="8" />
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="24" column="28" />
+        <mark key="." line="24" column="28" />
+        <mark key="^" line="24" column="28" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/1.sql" timestamp="1488611287889">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="0" column="0" />
@@ -349,12 +356,12 @@
         <mark key="." line="482" column="49" />
         <mark key="^" line="482" column="49" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/pending-jobs/pending-jobs.component.html" timestamp="1490691063415">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/pending-jobs/pending-jobs.component.html" timestamp="1491493322468">
         <mark key="'" line="7" column="67" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="35" column="72" />
-        <mark key="." line="44" column="98" />
-        <mark key="^" line="44" column="98" />
+        <mark key="[" line="41" column="60" />
+        <mark key="]" line="41" column="81" />
+        <mark key="." line="41" column="81" />
+        <mark key="^" line="41" column="81" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/calendar/grid/Grid.java" timestamp="1472962537091">
         <mark key="'" line="22" column="0" />
@@ -467,9 +474,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="38" column="12" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1491440696157">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/HealthCheckController.java" timestamp="1469410179224">
         <mark key="'" line="0" column="0" />
@@ -1044,11 +1048,12 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1491442455480">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1491497476871">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+        <mark key="^" line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/testResources/server_responses/clickabledate/half_closed_half_open_8am-330pm.aspx" timestamp="1472487590960">
         <mark key="'" line="311" column="0" />
@@ -1204,11 +1209,11 @@
         <mark key="." line="13" column="78" />
         <mark key="^" line="13" column="78" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/landing/landing/landing.component.html" timestamp="1491458003698">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="143" />
-        <mark key="." line="15" column="56" />
-        <mark key="^" line="15" column="56" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/landing/landing/landing.component.html" timestamp="1491497586436">
+        <mark key="[" line="1" column="38" />
+        <mark key="]" line="1" column="39" />
+        <mark key="." line="1" column="39" />
+        <mark key="^" line="1" column="39" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/providers/ng4-flow.ts" timestamp="1487790570761">
         <mark key="'" line="20" column="1" />
@@ -1223,12 +1228,6 @@
         <mark key="]" line="21" column="62" />
         <mark key="^" line="21" column="62" />
         <mark key="." line="21" column="62" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" timestamp="1491315279467">
-        <mark key="'" line="102" column="8" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/input-card/input-card.component.html" timestamp="1491060163986">
         <mark key="'" line="4" column="64" />
@@ -1258,11 +1257,11 @@
         <mark key="." line="25" column="30" />
         <mark key="^" line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/_core/footer/footer.component.html" timestamp="1491450264057">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="12" />
-        <mark key="." line="2" column="12" />
-        <mark key="^" line="2" column="12" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/_core/footer/footer.component.html" timestamp="1491497650898">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="35" />
+        <mark key="." line="2" column="35" />
+        <mark key="^" line="2" column="35" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/HealthCheckController.scala" timestamp="1469465084129">
         <mark key="'" line="16" column="26" />
@@ -1291,6 +1290,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
         <mark key="^" line="36" column="35" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/completed-jobs/completed-jobs.component.html" timestamp="1491497788714">
+        <mark key="[" line="37" column="65" />
+        <mark key="]" line="37" column="69" />
+        <mark key="." line="37" column="65" />
+        <mark key="^" line="37" column="64" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/test/MainSpec.scala" timestamp="1469379055687">
         <mark key="'" line="56" column="2" />
@@ -1336,10 +1341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="41" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
-      <jump line="104" column="41" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
-      <jump line="117" column="27" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
-      <jump line="133" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="105" column="40" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="119" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="150" column="20" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
@@ -1436,25 +1437,29 @@
       <jump line="9" column="32" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/app-routing.module.ts" />
       <jump line="41" column="48" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/file-submit/file-submit.component.html" />
       <jump line="10" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" />
+      <jump line="6" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/_shared/shared.module.ts" />
+      <jump line="32" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/completed-jobs/completed-jobs.component.ts" />
+      <jump line="67" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
+      <jump line="57" column="61" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/completed-jobs/completed-jobs.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>filename</text>
+        <text encoding="base64">PC9wPg==</text>
       </register>
       <register name="-" type="4">
-        <text>filename</text>
+        <text encoding="base64">PC9wPg==</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>isJob</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyMjIE5vRG9jcyAjIyMKR0VUICAgICAvdmVuZG9yLmJ1bmRsZS5qcy5tYXAgICAgICAgICAgIGNvbnRyb2xsZXJzLkFzc2V0cy5hdChwYXRoPSIvcHVibGljIiwgZmlsZT0idmVuZG9yLmJ1bmRsZS5qcy5tYXAiKQo=</text>
+      <register name="0" type="4">
+        <text>setCurrentDownloadZipForModal</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHA+IGZpbmQgPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1462,22 +1467,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHA+Q3JlYXRlZCBhcyBhbiB1bmRlcmdyYWR1YXRlIHRoZXNpcyA8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJy9hcGkvam9iLycgKyBqb2IuaWQgKyAnL3Jlc3VsdC96aXAnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHA+VGhlIGdvYWwgaXMgdG8gY3JlYXRlIGEgPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBqb2JJZCA9IGpvYi5pZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHA+QzwvcD4K</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWpvYikgewogICAgICAgICAgICByZXR1cm4gJyc7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1728,19 +1733,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx1bD4KICAgICAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgICAgIDxoMz5TdGVwIDE8L2gzPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgPGxpPlN0ZXAgMTwvbGk+CiAgICAgICAgICAgICAgICAgICAgPGxpPlN0ZXAgMTwvbGk+CiAgICAgICAgICAgICAgICAgICAgPGxpPlN0ZXAgMTwvbGk+CiAgICAgICAgICAgICAgICA8L3VsPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PHA+CiAgYWJvdXQgd29ya3MhCjwvcD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4uLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>isJob</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>isJob</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1748,7 +1753,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfYWRkSm9iVG9DdXJyZW50bHlQcm9jZXNzaW5nXD4=</entry>
         <entry>_remove</entry>
         <entry encoding="base64">XDxfcmVtb3ZlRXh0ZW5zaW9uRnJvbUZpbGVQYXRoXD4=</entry>
         <entry encoding="base64">XDxfdW5HemlwUG9zdFByb2Nlc3NcPg==</entry>
@@ -1768,6 +1772,7 @@
         <entry>target</entry>
         <entry>assets</entry>
         <entry>&quot;</entry>
+        <entry>isJob</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0dSQVBIVklaWkVSL1VSQkFOR1JJWlpMWS9n</entry>
@@ -1785,11 +1790,11 @@
         <entry>e ../README.md</entry>
         <entry>qqq</entry>
         <entry encoding="base64">JzwsJz5zL1dvcmtGaWxlL0Rvd25sb2FkaW5nRmlsZS9n</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+        <entry>W</entry>
+        <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
-        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
