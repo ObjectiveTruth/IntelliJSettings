@@ -949,10 +949,10 @@
         <mark key="^" line="2" column="49" />
         <mark key="." line="2" column="49" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/file-submit/file-submit.component.html" timestamp="1491449448698">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/file-submit/file-submit.component.html" timestamp="1491453481188">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="24" column="97" />
-        <mark key="]" line="24" column="111" />
+        <mark key="[" line="42" column="48" />
+        <mark key="]" line="42" column="72" />
         <mark key="." line="3" column="71" />
         <mark key="^" line="3" column="71" />
       </file>
@@ -1348,11 +1348,11 @@
         <mark key="." line="13" column="78" />
         <mark key="^" line="13" column="78" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/landing/landing/landing.component.html" timestamp="1491451949433">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="5" />
-        <mark key="." line="8" column="5" />
-        <mark key="^" line="8" column="5" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/landing/landing/landing.component.html" timestamp="1491453652104">
+        <mark key="[" line="4" column="100" />
+        <mark key="]" line="4" column="103" />
+        <mark key="." line="4" column="103" />
+        <mark key="^" line="4" column="103" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/providers/ng4-flow.ts" timestamp="1487790570761">
         <mark key="'" line="20" column="1" />
@@ -1598,16 +1598,16 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PGRpdiBpZD0ibXljYXJvdXNlbCIgY2xhc3M9ImNhcm91c2VsIHNsaWRlIiBkYXRhLXJpZGU9ImNhcm91c2VsIj4KICA8ZGl2IGNsYXNzPSJjYXJvdXNlbC1pbm5lciI+CiAgICA8ZGl2IGNsYXNzPSJpdGVtIGFjdGl2ZSI+CiAgICAgIDxpbWcgc3JjPSJhc3NldHMvVW5pdmVyc2l0eV9vZl9PbnRhcmlvX0luc3RpdHV0ZV9vZl9UZWNobm9sb2d5X0xpYnJhcnkuanBnIgogICAgICAgICAgIGFsdD0idW9pdCBsaWJyYXJ5IiBjbGFzcz0iaW1nLWZsdWlkIj4KICAgICAgPGRpdiBjbGFzcz0iY2Fyb3VzZWwtY2FwdGlvbiI+CiAgICAgICAgSW5zZXJ0IHlvdXIgdGV4dCBoZXJlICEKICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICA8L2Rpdj4KPC9kaXY+</text>
+        <text>Created</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Created</text>
       </register>
       <register name="/" type="4">
         <text>target</text>
       </register>
       <register name="0" type="4">
-        <text>target=&quot;_blank&quot;</text>
+        <text>[routerLink]=&quot;['/files']&quot;</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">PGRpdiBpZD0ibXljYXJvdXNlbCIgY2xhc3M9ImNhcm91c2VsIHNsaWRlIiBkYXRhLXJpZGU9ImNhcm91c2VsIj4KICA8ZGl2IGNsYXNzPSJjYXJvdXNlbC1pbm5lciI+CiAgICA8ZGl2IGNsYXNzPSJpdGVtIGFjdGl2ZSI+CiAgICAgIDxpbWcgc3JjPSJhc3NldHMvVW5pdmVyc2l0eV9vZl9PbnRhcmlvX0luc3RpdHV0ZV9vZl9UZWNobm9sb2d5X0xpYnJhcnkuanBnIgogICAgICAgICAgIGFsdD0idW9pdCBsaWJyYXJ5IiBjbGFzcz0iaW1nLWZsdWlkIj4KICAgICAgPGRpdiBjbGFzcz0iY2Fyb3VzZWwtY2FwdGlvbiI+CiAgICAgICAgSW5zZXJ0IHlvdXIgdGV4dCBoZXJlICEKICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICA8L2Rpdj4KPC9kaXY+</text>
