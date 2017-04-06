@@ -672,9 +672,9 @@
         <mark key="." line="68" column="101" />
         <mark key="^" line="68" column="101" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" timestamp="1491441692553">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" timestamp="1491446934892">
         <mark key="'" line="122" column="53" />
-        <mark key="[" line="129" column="63" />
+        <mark key="[" line="130" column="59" />
         <mark key="]" line="130" column="58" />
         <mark key="." line="130" column="58" />
         <mark key="^" line="130" column="58" />
@@ -926,6 +926,9 @@
         <mark key="]" line="36" column="65" />
         <mark key="^" line="36" column="65" />
         <mark key="." line="36" column="65" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/app-routing.module.ts" timestamp="1491446950197">
+        <mark key="'" line="51" column="0" />
       </file>
       <file name="restClient/response1.json" timestamp="1491019898259">
         <mark key="[" line="2" column="18" />
@@ -1467,8 +1470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="12" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
-      <jump line="150" column="12" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
       <jump line="205" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
       <jump line="124" column="41" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
@@ -1567,6 +1568,8 @@
       <jump line="122" column="53" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
       <jump line="191" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/JobsController.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
+      <jump line="28" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/app-routing.module.ts" />
+      <jump line="51" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/app-routing.module.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1865,7 +1868,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5uZzQK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1916,11 +1919,11 @@
         <entry>e ../README.md</entry>
         <entry>qqq</entry>
         <entry encoding="base64">JzwsJz5zL1dvcmtGaWxlL0Rvd25sb2FkaW5nRmlsZS9n</entry>
-        <entry>W</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
