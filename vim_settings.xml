@@ -1749,7 +1749,7 @@
         <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1802,9 +1802,9 @@
         <entry encoding="base64">JzwsJz5zL1dvcmtGaWxlL0Rvd25sb2FkaW5nRmlsZS9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
