@@ -170,6 +170,12 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="48" column="42" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/DBassignment2/src/main/scala/com/example/Hello.scala" timestamp="1491536498805">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="25" />
+        <mark key="." line="23" column="25" />
+        <mark key="^" line="23" column="25" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/playground/index.html" timestamp="1481986047902">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="33" />
@@ -308,6 +314,12 @@
         <mark key="]" line="55" column="0" />
         <mark key="^" line="52" column="91" />
         <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/DBassignment2/build.sbt" timestamp="1491534792872">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FileSystemDAO.scala" timestamp="1490912961083">
         <mark key="'" line="47" column="4" />
@@ -502,7 +514,7 @@
         <mark key="^" line="38" column="12" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1491533976301">
+      <file name="/dummy.sql" timestamp="1491536472065">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/HealthCheckController.java" timestamp="1469410179224">
@@ -526,7 +538,7 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491521013465">
+      <file name="/Dummy.txt" timestamp="1491535914940">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/common/Utils.java" timestamp="1471757403144">
@@ -1517,20 +1529,20 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>example</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RtdC5zZXROdWxsKDEsIGphdmEuc3FsLlR5cGVzLklOVEVHRVIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>example</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>Action</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUIGxhc3RfbmFtZSBGUk9NIHByb2R1Y2VyIFdIRVJFIGZpcnN0X25hbWUgSU4gKFNFTEVDVCB3cml0ZXIuZmlyc3RfbmFtZSBGUk9NIHdyaXRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RtdC5zZXRJbnQoNCwgMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RtdC5zZXROdWxsKDEsIGphdmEuc3FsLlR5cGVzLklOVEVHRVIpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1538,22 +1550,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGVtZW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VVBEQVRFIHByb2R1Y2VyIFNFVCBmaXJzdF9uYW1lID0gJ0VkJyBXSEVSRSBmaXJzdF9uYW1lID0gJ1RvbmknOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RtdC5zZXRTdHJpbmcoMSwgIiIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">R1JPVVAgQlkgbW92aWUudGl0bGUgSEFWSU5HIENPVU5UKERJU1RJTkNUIGJpcnRoX2xvY2F0aW9uLmNvdW50cnkpID4gMjsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25uZWN0IHRvIHRoZSBkYXRhYmFzZSBuYW1lZCAibXlzcWwiIG9uIHRoZSBsb2NhbGhvc3QK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">R1JPVVAgQlkgYmlydGhfbG9jYXRpb24uY291bnRyeSBIQVZJTkcgQ09VTlQoRElTVElOQ1QgYmlydGhfbG9jYXRpb24uY291bnRyeSkgPiAyOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICBkZWYgbWFpbihhcmdzOiBBcnJheVtTdHJpbmddKTogVW5pdCA9IHsKICAgIHByaW50bG4oIkhlbGxvLCB3b3JsZCEiKQogIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBJTk5FUiBKT0lOIHJhdGluZyBPTiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1804,13 +1816,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUIEFWRyhidWRnZXQpIEFTIGF2ZXJhZ2VfYnVkZ2V0LAogICAgICAgTUlOKGJ1ZGdldCkgQVMgbWluX2J1ZGdldCwKICAgICAgIE1BWChidWRnZXQpIEFTIG1heF9idWRnZXQsIGdlbnJlLm5hbWUgQVMgZ2VucmVfbmFtZSBGUk9NIG1vdmllIElOTkVSIEpPSU4gZ2VucmUKICAgIE9OIG1vdmllLmdlbnJlX2lkID0gZ2VucmUuZ2VucmVfaWQKR1JPVVAgQlkgZ2VucmUuZ2VucmVfaWQ7Cg==</text>
+        <text encoding="base64">VVBEQVRFIHByb2R1Y2VyIFNFVCBmaXJzdF9uYW1lID0gJ0VkJyBXSEVSRSBmaXJzdF9uYW1lID0gJ1RvbmknOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">R1JPVVAgQlkgbW92aWUudGl0bGUgSEFWSU5HIENPVU5UKERJU1RJTkNUIGJpcnRoX2xvY2F0aW9uLmNvdW50cnkpID4gMjsK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1864,8 +1876,8 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>wq</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
