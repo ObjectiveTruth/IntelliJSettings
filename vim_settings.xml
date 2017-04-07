@@ -296,6 +296,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="123" column="27" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/database_assignment2/DBAssignment2/src/main/scala/com/db-assignment2/Hello.scala" timestamp="1491534481629">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/bookinginteractionmodel/BookingInteractionEventType.java" timestamp="1472677927929">
         <mark key="'" line="12" column="16" />
         <mark key="[" line="55" column="0" />
@@ -426,12 +432,12 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="37" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/database_assignment2/2.result.txt" timestamp="1491532559729">
+      <file name="$USER_HOME$/Desktop/repos/database_assignment2/2.result.txt" timestamp="1491534037660">
         <mark key="'" line="25" column="22" />
-        <mark key="[" line="25" column="15" />
-        <mark key="]" line="25" column="22" />
-        <mark key="^" line="25" column="22" />
-        <mark key="." line="25" column="22" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="8" />
+        <mark key="." line="28" column="8" />
+        <mark key="^" line="28" column="8" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/test/resources/logback.xml" timestamp="1470501106113">
         <mark key="'" line="16" column="28" />
@@ -496,7 +502,7 @@
         <mark key="^" line="38" column="12" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1491527647217">
+      <file name="/dummy.sql" timestamp="1491533976301">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/HealthCheckController.java" timestamp="1469410179224">
@@ -866,12 +872,12 @@
         <mark key="^" line="36" column="65" />
         <mark key="." line="36" column="65" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/06aca98c-c34b-4119-abf7-2e741b276880/console_1.sql" timestamp="1491532946131">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/06aca98c-c34b-4119-abf7-2e741b276880/console_1.sql" timestamp="1491533975911">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="56" column="87" />
-        <mark key="]" line="56" column="84" />
-        <mark key="." line="56" column="42" />
-        <mark key="^" line="56" column="42" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="89" />
+        <mark key="^" line="57" column="15" />
+        <mark key="." line="57" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/app-routing.module.ts" timestamp="1491457751717">
         <mark key="'" line="9" column="32" />
@@ -1315,12 +1321,11 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/database_assignment2/2.sql" timestamp="1491532942830">
+      <file name="$USER_HOME$/Desktop/repos/database_assignment2/2.sql" timestamp="1491533983020">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="42" column="85" />
+        <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
-        <mark key="^" line="45" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/01bad72d-6b06-4cba-a63f-1fb7a8eedf95/console.sql" timestamp="1491509443212">
         <mark key="[" line="1" column="35" />
@@ -1513,19 +1518,19 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>daabase</text>
+        <text>example</text>
       </register>
       <register name="-" type="4">
-        <text>daabase</text>
+        <text>example</text>
       </register>
       <register name="/" type="4">
         <text>Action</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUIGJpcnRoX2xvY2F0aW9uLmNvdW50cnksbW92aWUudGl0bGUgIEZST00gYWN0b3IKSU5ORVIgSk9JTiBhY3RvcnNfbW92aWUgT04gYWN0b3IuYWN0b3JfaWQgPSBhY3RvcnNfbW92aWUuYWN0b3JfaWQKSU5ORVIgSk9JTiBtb3ZpZSBPTiBhY3RvcnNfbW92aWUubW92aWVfaWQgPSBtb3ZpZS5tb3ZpZV9pZApJTk5FUiBKT0lOIGJpcnRoX2xvY2F0aW9uIE9OIGFjdG9yLmJpcnRoX2xvY2F0aW9uX2lkID0gYmlydGhfbG9jYXRpb24uYmlydGhfbG9jYXRpb25faWQKR1JPVVAgQlkgYmlydGhfbG9jYXRpb24uY291bnRyeSxtb3ZpZS50aXRsZSBIQVZJTkcgQ09VTlQoYmlydGhfbG9jYXRpb24uY291bnRyeSkgPiAyOwo=</text>
+        <text encoding="base64">U0VMRUNUIGxhc3RfbmFtZSBGUk9NIHByb2R1Y2VyIFdIRVJFIGZpcnN0X25hbWUgSU4gKFNFTEVDVCB3cml0ZXIuZmlyc3RfbmFtZSBGUk9NIHdyaXRlcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">R1JPVVAgQlkgbW92aWUudGl0bGUgSEFWSU5HIENPVU5UKERJU1RJTkNUIGJpcnRoX2xvY2F0aW9uLmNvdW50cnkpID4gMjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1533,22 +1538,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">R1JPVVAgQlkgYmlydGhfbG9jYXRpb24uY291bnRyeSBIQVZJTkcgQ09VTlQoRElTVElOQ1QgYmlydGhfbG9jYXRpb24uY291bnRyeSkgPiAyOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBJTk5FUiBKT0lOIHJhdGluZyBPTiAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">U0VMRUNUIEFWRyhidWRnZXQpIEFTIGF2ZXJhZ2VfYnVkZ2V0LAogICAgICAgTUlOKGJ1ZGdldCkgQVMgbWluX2J1ZGdldCwKICAgICAgIE1BWChidWRnZXQpIEFTIG1heF9idWRnZXQsIGdlbnJlLm5hbWUgQVMgZ2VucmVfbmFtZSBGUk9NIG1vdmllIElOTkVSIEpPSU4gZ2VucmUKICAgIE9OIG1vdmllLmdlbnJlX2lkID0gZ2VucmUuZ2VucmVfaWQKR1JPVVAgQlkgZ2VucmUuZ2VucmVfaWQ7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">VVBEQVRFIHByb2R1Y2VyIFNFVCBmaXJzdF9uYW1lID0gJ0VkJyBXSEVSRSBmaXJzdF9uYW1lID0gJ1RvbmknOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">R1JPVVAgQlkgbW92aWUudGl0bGUgSEFWSU5HIENPVU5UKERJU1RJTkNUIGJpcnRoX2xvY2F0aW9uLmNvdW50cnkpID4gMjsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">R1JPVVAgQlkgYmlydGhfbG9jYXRpb24uY291bnRyeSBIQVZJTkcgQ09VTlQoRElTVElOQ1QgYmlydGhfbG9jYXRpb24uY291bnRyeSkgPiAyOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">U0VMRUNUICogRlJPTSAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">R1JPVVAgQlkgZ2VucmUuZ2VucmVfaWQsIG1vdmllLm1vdmllX2lkOwo=</text>
+        <text encoding="base64">ICBJTk5FUiBKT0lOIHJhdGluZyBPTiAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1799,13 +1804,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUIENPVU5UKERJU1RJTkNUIGJpcnRoX2xvY2F0aW9uLmNvdW50cnkpIGZyb20gbW92aWUgSU5ORVIgSk9JTiBhY3RvcnNfbW92aWUKICAgIE9OIG1vdmllLm1vdmllX2lkID0gYWN0b3JzX21vdmllLm1vdmllX2lkCiAgSU5ORVIgSk9JTiBhY3RvciBPTiBhY3RvcnNfbW92aWUuYWN0b3JfaWQgPSBhY3Rvci5hY3Rvcl9pZAogIElOTkVSIEpPSU4gYmlydGhfbG9jYXRpb24gT04gYWN0b3IuYmlydGhfbG9jYXRpb25faWQgPSBiaXJ0aF9sb2NhdGlvbi5iaXJ0aF9sb2NhdGlvbl9pZApXSEVSRSBtb3ZpZS50aXRsZSA9ICdjb25zZXF1YXR1ciBmdWdpdCBub24nOwo=</text>
+        <text encoding="base64">U0VMRUNUIEFWRyhidWRnZXQpIEFTIGF2ZXJhZ2VfYnVkZ2V0LAogICAgICAgTUlOKGJ1ZGdldCkgQVMgbWluX2J1ZGdldCwKICAgICAgIE1BWChidWRnZXQpIEFTIG1heF9idWRnZXQsIGdlbnJlLm5hbWUgQVMgZ2VucmVfbmFtZSBGUk9NIG1vdmllIElOTkVSIEpPSU4gZ2VucmUKICAgIE9OIG1vdmllLmdlbnJlX2lkID0gZ2VucmUuZ2VucmVfaWQKR1JPVVAgQlkgZ2VucmUuZ2VucmVfaWQ7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1858,9 +1863,9 @@
         <entry encoding="base64">JzwsJz5zL1dvcmtGaWxlL0Rvd25sb2FkaW5nRmlsZS9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
