@@ -652,10 +652,10 @@
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" timestamp="1491751197034">
         <mark key="'" line="94" column="49" />
-        <mark key="[" line="167" column="24" />
-        <mark key="]" line="167" column="32" />
-        <mark key="." line="167" column="32" />
-        <mark key="^" line="167" column="32" />
+        <mark key="[" line="166" column="24" />
+        <mark key="]" line="166" column="32" />
+        <mark key="." line="166" column="32" />
+        <mark key="^" line="166" column="32" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/BookingInteraction.java" timestamp="1472964481022">
         <mark key="'" line="31" column="0" />
@@ -1833,7 +1833,7 @@
         <text encoding="base64">LyogICAgICAgICAgICB2YWwgcmVzdWx0U2V0ID0gc3RhdGVtZW50LmV4ZWN1dGVRdWVyeSgiU0VMRUNUICogRlJPTSBhY3RvciIpCiAgICAgICAgICAgIHdoaWxlICggcmVzdWx0U2V0Lm5leHQoKSApIHsKICAgICAgICAgICAgICAgIHZhbCBmaXJzdE5hbWUgPSByZXN1bHRTZXQuZ2V0U3RyaW5nKCJmaXJzdF9uYW1lIikKICAgICAgICAgICAgICAgIHZhbCBsYXN0TmFtZSA9IHJlc3VsdFNldC5nZXRTdHJpbmcoImxhc3RfbmFtZSIpCiAgICAgICAgICAgICAgICBwcmludGxuKGZpcnN0TmFtZSArICIsICIgKyBsYXN0TmFtZSkKICAgICAgICAgICAgfSovCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1884,11 +1884,11 @@
         <entry>qqq</entry>
         <entry encoding="base64">JzwsJz5zL1dvcmtGaWxlL0Rvd25sb2FkaW5nRmlsZS9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
-        <entry>wq</entry>
         <entry>W</entry>
         <entry>q</entry>
         <entry>Q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
