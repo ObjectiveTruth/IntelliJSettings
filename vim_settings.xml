@@ -107,6 +107,13 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="45" column="107" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/.gitignore" timestamp="1493322758765">
+        <mark key="'" line="131" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/Dockerfile_javadiscosnp/Dockerfile" timestamp="1490895843912">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -1432,10 +1439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
-      <jump line="3" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
-      <jump line="69" column="2" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
-      <jump line="56" column="34" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="397" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/application.conf" />
       <jump line="274" column="6" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="159" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
@@ -1532,13 +1535,17 @@
       <jump line="63" column="45" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
       <jump line="94" column="49" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
       <jump line="32" column="48" filename="$USER_HOME$/Desktop/repos/objectivetruth.github.io/uoit-ugrad.tex" />
+      <jump line="147" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/.gitignore" />
+      <jump line="2" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/.gitignore" />
+      <jump line="145" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>let</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>let</text>
@@ -1549,10 +1556,8 @@
       <register name="0" type="4">
         <text>num_movies</text>
       </register>
-      <register name="1" type="4">
-        <text>SELECT COUNT(DISTINCT actor.last_name) FROM actor INNER JOIN eye_color&quot; +
-                &quot;ON actor.eye_color_id = eye_color.eye_color_id&quot; +
-                &quot;WHERE eye_color = ?&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1560,26 +1565,24 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RtdC5zZXRTdHJpbmcoMiwgIlJvZHJpZ3VleiIpCg==</text>
+        <text encoding="base64">IyBTZW5zaXRpdmUgb3IgaGlnaC1jaHVybiBmaWxlczoKLmlkZWEvKiovZGF0YVNvdXJjZXMvCi5pZGVhLyoqL2RhdGFTb3VyY2VzLmlkcwouaWRlYS8qKi9kYXRhU291cmNlcy54bWwKLmlkZWEvKiovZGF0YVNvdXJjZXMubG9jYWwueG1sCi5pZGVhLyoqL3NxbERhdGFTb3VyY2VzLnhtbAouaWRlYS8qKi9keW5hbWljLnhtbAouaWRlYS8qKi91aURlc2lnbmVyLnhtbAoKIyBHcmFkbGU6Ci5pZGVhLyoqL2dyYWRsZS54bWwKLmlkZWEvKiovbGlicmFyaWVzCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>SELECT movie.title FROM director INNER JOIN director_movie ON&quot; +
-                &quot;director.director_id = director_movie.director_id INNER JOIN movie ON&quot; +
-                &quot;director_movie.movie_id = movie.movie_id WHERE director.first_name = ? &quot; +
-                &quot;AND director.last_name = ?</text>
+      <register name="3" type="2">
+        <text encoding="base64">LmlkZWEvKiovd29ya3NwYWNlLnhtbAouaWRlYS8qKi90YXNrcy54bWwKLmlkZWEvZGljdGlvbmFyaWVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBsYXN0TmFtZSA9IHJlc3VsdFNldC5nZXRTdHJpbmcoImxhc3RfbmFtZSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIiKQo=</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="6" type="4">
-        <text>SELECT * FROM director INNER JOIN birth_location ON&quot; +
-                &quot;director.birth_location_id=birth_location.birth_location_id WHERE country=?</text>
+        <text>SELECT COUNT(DISTINCT actor.last_name) FROM actor INNER JOIN eye_color&quot; +
+                &quot;ON actor.eye_color_id = eye_color.eye_color_id&quot; +
+                &quot;WHERE eye_color = ?&quot;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihzIlVwZGF0ZWQ6ICR7c3RtdC5nZXRVcGRhdGVDb3VudH0gaW4gd3JpdGVyX21vdmllIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RtdC5zZXRTdHJpbmcoMiwgIlJvZHJpZ3VleiIpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1829,11 +1832,14 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RtdC5zZXRJbnQoMiwgMikKICAgICAgICAgICAgc3RtdC5leGVjdXRlKCkK</text>
+      <register name="8" type="4">
+        <text>SELECT movie.title FROM director INNER JOIN director_movie ON&quot; +
+                &quot;director.director_id = director_movie.director_id INNER JOIN movie ON&quot; +
+                &quot;director_movie.movie_id = movie.movie_id WHERE director.first_name = ? &quot; +
+                &quot;AND director.last_name = ?</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyogICAgICAgICAgICB2YWwgcmVzdWx0U2V0ID0gc3RhdGVtZW50LmV4ZWN1dGVRdWVyeSgiU0VMRUNUICogRlJPTSBhY3RvciIpCiAgICAgICAgICAgIHdoaWxlICggcmVzdWx0U2V0Lm5leHQoKSApIHsKICAgICAgICAgICAgICAgIHZhbCBmaXJzdE5hbWUgPSByZXN1bHRTZXQuZ2V0U3RyaW5nKCJmaXJzdF9uYW1lIikKICAgICAgICAgICAgICAgIHZhbCBsYXN0TmFtZSA9IHJlc3VsdFNldC5nZXRTdHJpbmcoImxhc3RfbmFtZSIpCiAgICAgICAgICAgICAgICBwcmludGxuKGZpcnN0TmFtZSArICIsICIgKyBsYXN0TmFtZSkKICAgICAgICAgICAgfSovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBsYXN0TmFtZSA9IHJlc3VsdFNldC5nZXRTdHJpbmcoImxhc3RfbmFtZSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
