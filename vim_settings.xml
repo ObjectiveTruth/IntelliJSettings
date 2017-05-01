@@ -260,11 +260,12 @@
         <mark key="^" line="55" column="90" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" timestamp="1493606288011">
-        <mark key="'" line="172" column="0" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" timestamp="1493643697105">
+        <mark key="'" line="173" column="0" />
+        <mark key="[" line="67" column="68" />
+        <mark key="]" line="68" column="37" />
+        <mark key="." line="68" column="37" />
+        <mark key="^" line="68" column="37" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/_shared/shared.module.ts" timestamp="1491493733194">
         <mark key="'" line="6" column="8" />
@@ -1146,11 +1147,12 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1493602108032">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1493643791657">
         <mark key="'" line="48" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+        <mark key="^" line="12" column="24" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/testResources/server_responses/clickabledate/half_closed_half_open_8am-330pm.aspx" timestamp="1472487590960">
         <mark key="'" line="311" column="0" />
@@ -1380,12 +1382,6 @@
         <mark key="]" line="2" column="35" />
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/database_assignment2/2.sql" timestamp="1491533983020">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/01bad72d-6b06-4cba-a63f-1fb7a8eedf95/console.sql" timestamp="1491509443212">
         <mark key="[" line="1" column="35" />
