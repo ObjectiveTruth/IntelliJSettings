@@ -1452,11 +1452,11 @@
         <mark key="^" line="12" column="54" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" timestamp="1493745924732">
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="30" />
-        <mark key="." line="14" column="15" />
-        <mark key="^" line="14" column="15" />
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" timestamp="1493748872239">
+        <mark key="[" line="16" column="35" />
+        <mark key="]" line="17" column="1" />
+        <mark key="." line="17" column="1" />
+        <mark key="^" line="17" column="1" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/_core/models/job.ts" timestamp="1493604493662">
         <mark key="[" line="7" column="15" />
