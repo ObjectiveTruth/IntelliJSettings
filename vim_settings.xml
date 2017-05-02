@@ -1452,11 +1452,11 @@
         <mark key="^" line="12" column="54" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" timestamp="1493324361575">
-        <mark key="[" line="3" column="1" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" timestamp="1493745924732">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="14" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/_core/models/job.ts" timestamp="1493604493662">
         <mark key="[" line="7" column="15" />
@@ -1487,7 +1487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="44" filename="$USER_HOME$/Desktop/repos/DBassignment2/src/main/scala/com/example/Hello.scala" />
       <jump line="42" column="20" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
       <jump line="25" column="11" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
       <jump line="58" column="45" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
@@ -1587,25 +1586,26 @@
       <jump line="41" column="39" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="43" column="45" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="23" column="60" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-details/job-details.component.html" />
+      <jump line="9" column="1" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">fHwgJ25vbmUnIA==</text>
+        <text>subnet-a7af84d3</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fHwgJ25vbmUnIA==</text>
+        <text>subnet-a7af84d3</text>
       </register>
       <register name="/" type="4">
         <text>\cworkFi</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IHRpdGxlPSJ7eyBqb2JEZXRhaWxzLmRldGFpbHMuaW5wdXRzWzJdIH19Ij4g</text>
+        <text>c58c1dd3</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRmlsZTogPGVtPnt7IGxhc3RTZWxlY3RlZElucHV0Py5uYW1lIHx8ICdub25lJyB8IGVsbGlwc2l6ZSB9fTwvZW0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1613,22 +1613,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cCAqbmdGb3I9ImxldCBpbnB1dEZpbGVuYW1lIG9mIGpvYkRldGFpbHMuZGV0YWlscy5pbnB1dHMiIGNsYXNzPSJjYXJkLXRleHQgdGV4dC1jZW50ZXIiPgogICAgICAgICAgICAgICAgICAgICAgICB7e3t7aW5wdXRGaWxlbmFtZX19CiAgICAgICAgICAgICAgICAgICAgPC9wPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3tqb2JEZXRhaWxzLmpvYi5jcmVhdGlvbkRhdGVUaW1lRXBvY2ggKiAxMDAwIHwgZGF0ZToneXl5eS1NTS1kZCBISDptbTpzcyBaJ319Cg==</text>
+        <text encoding="base64">ICB0YWdzIHsKICAgIGNvc3RfYWxsb2NhdGlvbl90YWcgPSAiY3BzX2VzcF9zdGFnZSIKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGdXR1cmUoT2spCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPawo=</text>
+        <text encoding="base64">ZGF0YSAiYXdzX2FtaSIgInVidW50dSIgewogIG1vc3RfcmVjZW50ID0gdHJ1ZQoKICBmaWx0ZXIgewogICAgbmFtZSAgID0gIm5hbWUiCiAgICB2YWx1ZXMgPSBbInVidW50dS9pbWFnZXMvaHZtLXNzZC91YnVudHUtdHJ1c3R5LTE0LjA0LWFtZDY0LXNlcnZlci0qIl0KICB9CgogIGZpbHRlciB7CiAgICBuYW1lICAgPSAidmlydHVhbGl6YXRpb24tdHlwZSIKICAgIHZhbHVlcyA9IFsiaHZtIl0KICB9CgogIG93bmVycyA9IFsiMDk5NzIwMTA5NDc3Il0gIyBDYW5vbmljYWwKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGdXR1cmUoT2spCg==</text>
+        <text encoding="base64">ICBhbWkgICAgICAgICAgID0gIiR7ZGF0YS5hd3NfYW1pLnVidW50dS5pZH0iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZ1dHVyZShPaykK</text>
+        <text encoding="base64">cmVzb3VyY2UgImF3c192cGMiICJkZWZhdWx0IiB7CiAgY2lkcl9ibG9jayA9ICIxMC4wLjAuMC8xNiIKfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1879,13 +1879,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZ1dHVyZShPaykK</text>
+        <text encoding="base64">ICBpbnN0YW5jZSA9ICIke2F3c19pbnN0YW5jZS53ZWIuaWR9Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNlcSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRmlsZTogPGVtPnt7IGxhc3RTZWxlY3RlZElucHV0Py5uYW1lIHx8ICdub25lJyB8IGVsbGlwc2l6ZSB9fTwvZW0+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>qall</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1939,8 +1939,8 @@
         <entry>Q</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>qall</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
