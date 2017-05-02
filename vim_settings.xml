@@ -382,6 +382,11 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/README.md" timestamp="1493753035326">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/test/ApplicationSpec.scala" timestamp="1469395060636">
         <mark key="'" line="16" column="6" />
         <mark key="[" line="17" column="0" />
@@ -1452,11 +1457,11 @@
         <mark key="^" line="12" column="54" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" timestamp="1493748872239">
-        <mark key="[" line="16" column="35" />
-        <mark key="]" line="17" column="1" />
-        <mark key="." line="17" column="1" />
-        <mark key="^" line="17" column="1" />
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" timestamp="1493753441276">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/_core/models/job.ts" timestamp="1493604493662">
         <mark key="[" line="7" column="15" />
@@ -1487,17 +1492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="20" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
-      <jump line="25" column="11" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
-      <jump line="58" column="45" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
-      <jump line="63" column="45" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
-      <jump line="94" column="49" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
-      <jump line="32" column="48" filename="$USER_HOME$/Desktop/repos/objectivetruth.github.io/uoit-ugrad.tex" />
-      <jump line="147" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/.gitignore" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/.gitignore" />
-      <jump line="2" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/.gitignore" />
-      <jump line="145" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/.gitignore" />
-      <jump line="50" column="21" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.html" />
       <jump line="48" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="144" column="12" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="149" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
@@ -1587,22 +1581,33 @@
       <jump line="43" column="45" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="23" column="60" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-details/job-details.component.html" />
       <jump line="9" column="1" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
+      <jump line="29" column="21" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
+      <jump line="30" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
+      <jump line="10" column="2" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
+      <jump line="41" column="15" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
+      <jump line="40" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
+      <jump line="42" column="17" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
+      <jump line="7" column="35" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
+      <jump line="50" column="17" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
+      <jump line="6" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
+      <jump line="47" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>subnet-a7af84d3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>subnet-a7af84d3</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>\cworkFi</text>
+        <text>subnet</text>
       </register>
-      <register name="0" type="4">
-        <text>c58c1dd3</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAjIERlZmF1bHQgTGludXggQU1JIC0gQW1hem9uIExpbnV4IEFNSSAyMDE3LjAzLjAgKEhWTSksIFNTRCBWb2x1bWUgVHlwZSAtIGFtaS1jNThjMWRkMwogIGFtaSA9ICJhbWktYzU4YzFkZDMiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1616,19 +1621,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0YWdzIHsKICAgIGNvc3RfYWxsb2NhdGlvbl90YWcgPSAiY3BzX2VzcF9zdGFnZSIKICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">b3V0cHV0ICJzdGFnZV9lYzJfaXAiIHsKICB2YWx1ZSA9ICIke2F3c19laXAuaXAucHVibGljX2lwfSIKfQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGF0YSAiYXdzX2FtaSIgInVidW50dSIgewogIG1vc3RfcmVjZW50ID0gdHJ1ZQoKICBmaWx0ZXIgewogICAgbmFtZSAgID0gIm5hbWUiCiAgICB2YWx1ZXMgPSBbInVidW50dS9pbWFnZXMvaHZtLXNzZC91YnVudHUtdHJ1c3R5LTE0LjA0LWFtZDY0LXNlcnZlci0qIl0KICB9CgogIGZpbHRlciB7CiAgICBuYW1lICAgPSAidmlydHVhbGl6YXRpb24tdHlwZSIKICAgIHZhbHVlcyA9IFsiaHZtIl0KICB9CgogIG93bmVycyA9IFsiMDk5NzIwMTA5NDc3Il0gIyBDYW5vbmljYWwKfQo=</text>
+        <text encoding="base64">cmVzb3VyY2UgImF3c19laXAiICJzdGFnZV9laXAiIHsKICB2cGMgICAgICA9IHRydWUKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhbWkgICAgICAgICAgID0gIiR7ZGF0YS5hd3NfYW1pLnVidW50dS5pZH0iCg==</text>
+        <text encoding="base64">ICBpbnN0YW5jZV9pZCAgID0gIiR7YXdzX2luc3RhbmNlLndlYi5pZH0iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImF3c192cGMiICJkZWZhdWx0IiB7CiAgY2lkcl9ibG9jayA9ICIxMC4wLjAuMC8xNiIKfQo=</text>
+        <text encoding="base64">ICBpbnN0YW5jZSA9ICIke2F3c19pbnN0YW5jZS5zdGFnZV9tYWluX2VjMi5pZH0iCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1879,19 +1884,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbnN0YW5jZSA9ICIke2F3c19pbnN0YW5jZS53ZWIuaWR9Igo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRmlsZTogPGVtPnt7IGxhc3RTZWxlY3RlZElucHV0Py5uYW1lIHx8ICdub25lJyB8IGVsbGlwc2l6ZSB9fTwvZW0+Cg==</text>
+        <text encoding="base64">ICB2YXJpYWJsZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\cworkFi</last-search>
+      <last-search>subnet</last-search>
       <last-offset />
-      <last-pattern>\cworkFi</last-pattern>
+      <last-pattern>subnet</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1899,8 +1904,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isForm</entry>
-        <entry encoding="base64">XDxpc0Zvcm1SZWFkeUZvclN1Ym1pdFw+</entry>
         <entry encoding="base64">XDxfaXNGb3JtUmVhZHlcPg==</entry>
         <entry encoding="base64">XDx3b3JrRGlyZWN0b3J5XD4=</entry>
         <entry encoding="base64">XDxCYXNpY0Vycm9yUmVzcG9uc2VcPg==</entry>
@@ -1919,6 +1922,8 @@
         <entry encoding="base64">XDxKb2JcPg==</entry>
         <entry>update</entry>
         <entry>\cworkFi</entry>
+        <entry>vpc</entry>
+        <entry>subnet</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -1937,9 +1942,9 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>W</entry>
         <entry>Q</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>qall</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
