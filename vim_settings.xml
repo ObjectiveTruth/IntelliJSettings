@@ -1488,12 +1488,12 @@
         <mark key="^" line="12" column="54" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" timestamp="1493865538578">
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" timestamp="1493923396381">
         <mark key="'" line="26" column="7" />
-        <mark key="[" line="44" column="20" />
-        <mark key="]" line="44" column="22" />
-        <mark key="." line="44" column="22" />
-        <mark key="^" line="44" column="22" />
+        <mark key="[" line="33" column="22" />
+        <mark key="]" line="33" column="26" />
+        <mark key="." line="33" column="26" />
+        <mark key="^" line="33" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/_core/models/job.ts" timestamp="1493604493662">
         <mark key="[" line="7" column="15" />
@@ -1630,10 +1630,10 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>medium</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>medium</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3b3JkcHJlc3NfY21zX2RiXD4=</text>
