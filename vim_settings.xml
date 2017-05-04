@@ -10,8 +10,8 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="42" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" timestamp="1493835113729">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" timestamp="1493865544078">
+        <mark key="'" line="55" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/myaccount/MyAccount.java" timestamp="1480299101194">
@@ -1485,8 +1485,8 @@
         <mark key="^" line="12" column="54" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" timestamp="1493832167371">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" timestamp="1493865538578">
+        <mark key="'" line="26" column="7" />
         <mark key="[" line="44" column="20" />
         <mark key="]" line="44" column="22" />
         <mark key="." line="44" column="22" />
@@ -1521,7 +1521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="58" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/pending-jobs/pending-jobs.component.ts" />
       <jump line="6" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/default/1.sql" />
       <jump line="13" column="13" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/default/1.sql" />
       <jump line="28" column="13" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/default/1.sql" />
@@ -1593,7 +1592,6 @@
       <jump line="43" column="2" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
       <jump line="3" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
       <jump line="45" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
-      <jump line="26" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
       <jump line="39" column="2" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
       <jump line="4" column="16" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
       <jump line="42" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
@@ -1610,7 +1608,6 @@
       <jump line="29" column="17" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="28" column="6" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="30" column="2" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
-      <jump line="55" column="6" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="56" column="5" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="40" column="6" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="42" column="26" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
@@ -1621,6 +1618,9 @@
       <jump line="34" column="16" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="44" column="17" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
+      <jump line="26" column="7" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
+      <jump line="23" column="8" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
+      <jump line="55" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
