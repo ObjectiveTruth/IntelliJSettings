@@ -10,8 +10,10 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="42" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" timestamp="1494008445672">
-        <mark key="'" line="10" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" timestamp="1494010301196">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/myaccount/MyAccount.java" timestamp="1480299101194">
         <mark key="'" line="115" column="40" />
@@ -1520,11 +1522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/default/1.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/614ce745-81a6-40e9-a84d-349f1c1ab4d1/console.sql" />
-      <jump line="84" column="31" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/default/1.sql" />
-      <jump line="26" column="58" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/default/1.sql" />
-      <jump line="208" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="37" column="34" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="182" column="29" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="186" column="29" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
@@ -1615,21 +1612,26 @@
       <jump line="51" column="2" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="4" column="34" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="69" column="37" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
-      <jump line="76" column="8" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="134" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/FilesController.scala" />
       <jump line="32" column="15" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="55" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
+      <jump line="64" column="15" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
+      <jump line="76" column="6" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
+      <jump line="3" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
+      <jump line="62" column="6" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
+      <jump line="11" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
+      <jump line="25" column="6" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gJy4vd29yZHByZXNzX2Vjb21tZXJjZV9teXNxbC1wZXJzaXN0ZW5jZTovZG9ja2VyLWVudHJ5cG9pbnQtaW5pdGRiLmQnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>home/ec2-user/volumes/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfaXNHb29nbGVGaWxlR3ppcGVkXD4=</text>
@@ -1638,7 +1640,7 @@
         <text>wordpress_cms_db</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSAnNDQzOjQ0MycK</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gJy4vd29yZHByZXNzX2Vjb21tZXJjZV9teXNxbC1wZXJzaXN0ZW5jZTovZG9ja2VyLWVudHJ5cG9pbnQtaW5pdGRiLmQnCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1646,22 +1648,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIy0gLi9wbHVnaW4tbmFtZS90cnVuay86L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3BsdWdpbnMvcGx1Z2luLW5hbWUgIyBQbHVnaW4gZGV2ZWxvcG1lbnQKICAgICAgIy0gLi90aGVtZS1uYW1lL3RydW5rLzovdmFyL3d3dy9odG1sL3dwLWNvbnRlbnQvdGhlbWVzL3RoZW1lLW5hbWUgIyBUaGVtZSBkZXZlbG9wbWVudAo=</text>
+        <text encoding="base64">ICB3b3JkcHJlc3NfY21zOgogICAgaW1hZ2U6IHdvcmRwcmVzczpsYXRlc3QgIyBodHRwczovL2h1Yi5kb2NrZXIuY29tL18vd29yZHByZXNzLwogICAgcG9ydHM6CiAgICAgIC0gJzgwOjgwJwogICAgdm9sdW1lczoKICAgICAgLSAnL2hvbWUvZWMyLXVzZXIvdm9sdW1lcy93b3JkcHJlc3NfY21zLXBlcnNpc3RlbmNlL3dwLWFwcDovdmFyL3d3dy9odG1sJyAjIEZ1bGwgd29yZHByZXNzIHByb2plY3QKICAgIGVudmlyb25tZW50OgogICAgICBXT1JEUFJFU1NfREJfSE9TVDogd29yZHByZXNzX2Ntc19kYgogICAgICBXT1JEUFJFU1NfREJfTkFNRTogd29yZHByZXNzCiAgICAgIFdPUkRQUkVTU19EQl9VU0VSOiByb290CiAgICAgIFdPUkRQUkVTU19EQl9QQVNTV09SRDogcGFzc3dvcmQKICAgIGRlcGVuZHNfb246CiAgICAgIC0gd29yZHByZXNzX2Ntc19kYgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIHdvcmRwcmVzcy1uZXR3b3JrCiAgZGI6CiAgICBpbWFnZTogbXlzcWw6bGF0ZXN0ICMgaHR0cHM6Ly9odWIuZG9ja2VyLmNvbS9fL215c3FsLyAtIG9yIG1hcmlhZGIgaHR0cHM6Ly9odWIuZG9ja2VyLmNvbS9fL21hcmlhZGIKICAgIHBvcnRzOgogICAgICAtIDEyNy4wLjAuMTozMzA2OjMzMDYgIyBjaGFuZ2UgaXAgaWYgcmVxdWlyZWQKICAgIHZvbHVtZXM6CiAgICAgIC0gLi93cC1kYXRhOi9kb2NrZXItZW50cnlwb2ludC1pbml0ZGIuZAogICAgZW52aXJvbm1lbnQ6CiAgICAgIE1ZU1FMX0RBVEFCQVNFOiB3b3JkcHJlc3MKICAgICAgTVlTUUxfUk9PVF9QQVNTV09SRDogcGFzc3dvcmQK</text>
+        <text encoding="base64">ICB3b3JkcHJlc3NfY21zX2RiOgogICAgaW1hZ2U6IG15c3FsOmxhdGVzdCAjIGh0dHBzOi8vaHViLmRvY2tlci5jb20vXy9teXNxbC8gLSBvciBtYXJpYWRiIGh0dHBzOi8vaHViLmRvY2tlci5jb20vXy9tYXJpYWRiCiAgICB2b2x1bWVzOgogICAgICAtICcvaG9tZS9lYzItdXNlci92b2x1bWVzL3dvcmRwcmVzc19jbXNfbXlzcWwtcGVyc2lzdGVuY2U6L2RvY2tlci1lbnRyeXBvaW50LWluaXRkYi5kJwogICAgZW52aXJvbm1lbnQ6CiAgICAgIE1ZU1FMX0RBVEFCQVNFOiB3b3JkcHJlc3MKICAgICAgTVlTUUxfUk9PVF9QQVNTV09SRDogcGFzc3dvcmQKCiAgbWFpbGRldjoKICAgIGltYWdlOiAnaW5ub3ZleGEvbWFpbGRldjpsYXRlc3QnCiAgICBwb3J0czoKICAgICAgLSAnMTA4MDo4MCcKCiAgbW9vZGxlOgogICAgaW1hZ2U6ICdiaXRuYW1pL21vb2RsZTpsYXRlc3QnCiAgICBwb3J0czoKICAgICAgLSAnMjA4MDo4MCcKICAgIHZvbHVtZXM6CiAgICAgIC0gJy9ob21lL2VjMi11c2VyL3ZvbHVtZXMvbW9vZGxlL21vb2RsZS1wZXJzaXN0ZW5jZTovYml0bmFtaS9tb29kbGUnCiAgICAgIC0gJy9ob21lL2VjMi11c2VyL3ZvbHVtZXMvbW9vZGxlL2FwYWNoZS1wZXJzaXN0ZW5jZTovYml0bmFtaS9hcGFjaGUnCiAgICAgIC0gJy9ob21lL2VjMi11c2VyL3ZvbHVtZXMvbW9vZGxlL3BocC1wZXJzaXN0ZW5jZTovYml0bmFtaS9waHAnCiAgICBlbnZpcm9ubWVudDoKICAgICMgRmFpbHMgYmVjYXVzZSBtdXN0IGJlIGFkZGVkIGZyb20gdGhlIEdVSQogICAgIyAgLSBTTVRQX0hPU1Q9bWFpbGRldgogICAgIyAgLSBTTVRQX1BPUlQ9MjUKICAgICMgIC0gU01UUF9VU0VSPXVzZXIKICAgICMgIC0gU01UUF9QQVNTV09SRD1wYXNzd29yZAogICAgICAtIE1BUklBREJfSE9TVD1tb29kbGVfZGIKICAgIGRlcGVuZHNfb246CiAgICAgIC0gbW9vZGxlX2RiCiAgICAgIC0gbWFpbGRldgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIy0gLi9wbHVnaW4tbmFtZS90cnVuay86L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3BsdWdpbnMvcGx1Z2luLW5hbWUgIyBQbHVnaW4gZGV2ZWxvcG1lbnQKICAgICAgIy0gLi90aGVtZS1uYW1lL3RydW5rLzovdmFyL3d3dy9odG1sL3dwLWNvbnRlbnQvdGhlbWVzL3RoZW1lLW5hbWUgIyBUaGVtZSBkZXZlbG9wbWVudAo=</text>
+        <text encoding="base64">ICBtb29kbGVfZGI6CiAgICBpbWFnZTogJ2JpdG5hbWkvbWFyaWFkYjpsYXRlc3QnCiAgICBlbnZpcm9ubWVudDoKICAgICAgLSBBTExPV19FTVBUWV9QQVNTV09SRD15ZXMKICAgIHZvbHVtZXM6CiAgICAgIC0gJy9ob21lL2VjMi11c2VyL3ZvbHVtZXMvbW9vZGxlX21hcmlhZGItcGVyc2lzdGVuY2U6L2JpdG5hbWkvbWFyaWFkYicKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dHlwZSA9ICJtYXAiCmRlZmF1bHQgPSB7CiAga2V5X3BhaXJfZm9yX2VjMiA9IGtrawogIGRldl9tYWluX2VjMl9laXBfYWxsb2NhdGlvbl9pZCA9IAogIHN0YWdlX21haW5fZWMyX2VpcF9hbGxvY2F0aW9uX2lkID0gImVpcGFsbG9jLWE5ZTNkNzk4Igp9Cg==</text>
+        <text encoding="base64">ICAgICAgLSAnNDQzOjQ0MycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0eXBlID0gIm1hcCIKICBkZWZhdWx0ID0gewogICAga2V5X3BhaXJfZm9yX2VjMiA9IGtrawogICAgZGV2X21haW5fZWMyX2VpcF9hbGxvY2F0aW9uX2lkID0gImVpcGFsbG9jLTMwYjI4NDAxIgogICAgc3RhZ2VfbWFpbl9lYzJfZWlwX2FsbG9jYXRpb25faWQgPSAiZWlwYWxsb2MtYTllM2Q3OTgiCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgIy0gLi9wbHVnaW4tbmFtZS90cnVuay86L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3BsdWdpbnMvcGx1Z2luLW5hbWUgIyBQbHVnaW4gZGV2ZWxvcG1lbnQKICAgICAgIy0gLi90aGVtZS1uYW1lL3RydW5rLzovdmFyL3d3dy9odG1sL3dwLWNvbnRlbnQvdGhlbWVzL3RoZW1lLW5hbWUgIyBUaGVtZSBkZXZlbG9wbWVudAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyaWFibGUgImNvbmZpZ3VyYXRpb25zIiB7CiAgdHlwZSA9ICJtYXAiCiAgZGVmYXVsdCA9IHsKICAgIGtleV9wYWlyX2Zvcl9lYzIgPSAib2JqZWN0aXZldHJ1dGgiCiAgICBkZXZfbWFpbl9lYzJfZWlwX2FsbG9jYXRpb25faWQgPSAiZWlwYWxsb2MtMzBiMjg0MDEiCiAgICBzdGFnZV9tYWluX2VjMl9laXBfYWxsb2NhdGlvbl9pZCA9ICJlaXBhbGxvYy1hOWUzZDc5OCIKICB9Cn0K</text>
+        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIHdvcmRwcmVzcy1uZXR3b3JrCiAgZGI6CiAgICBpbWFnZTogbXlzcWw6bGF0ZXN0ICMgaHR0cHM6Ly9odWIuZG9ja2VyLmNvbS9fL215c3FsLyAtIG9yIG1hcmlhZGIgaHR0cHM6Ly9odWIuZG9ja2VyLmNvbS9fL21hcmlhZGIKICAgIHBvcnRzOgogICAgICAtIDEyNy4wLjAuMTozMzA2OjMzMDYgIyBjaGFuZ2UgaXAgaWYgcmVxdWlyZWQKICAgIHZvbHVtZXM6CiAgICAgIC0gLi93cC1kYXRhOi9kb2NrZXItZW50cnlwb2ludC1pbml0ZGIuZAogICAgZW52aXJvbm1lbnQ6CiAgICAgIE1ZU1FMX0RBVEFCQVNFOiB3b3JkcHJlc3MKICAgICAgTVlTUUxfUk9PVF9QQVNTV09SRDogcGFzc3dvcmQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1912,10 +1914,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjdXNlcl9kYXRhID0gIiR7ZmlsZSgiY2xvdWRfY29uZmlnIil9Igo=</text>
+        <text encoding="base64">ICAgICAgIy0gLi9wbHVnaW4tbmFtZS90cnVuay86L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3BsdWdpbnMvcGx1Z2luLW5hbWUgIyBQbHVnaW4gZGV2ZWxvcG1lbnQKICAgICAgIy0gLi90aGVtZS1uYW1lL3RydW5rLzovdmFyL3d3dy9odG1sL3dwLWNvbnRlbnQvdGhlbWVzL3RoZW1lLW5hbWUgIyBUaGVtZSBkZXZlbG9wbWVudAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjdXNlcl9kYXRhID0gIiR7ZmlsZSgiY2xvdWRfY29uZmlnIil9Igo=</text>
+        <text encoding="base64">dHlwZSA9ICJtYXAiCmRlZmF1bHQgPSB7CiAga2V5X3BhaXJfZm9yX2VjMiA9IGtrawogIGRldl9tYWluX2VjMl9laXBfYWxsb2NhdGlvbl9pZCA9IAogIHN0YWdlX21haW5fZWMyX2VpcF9hbGxvY2F0aW9uX2lkID0gImVpcGFsbG9jLWE5ZTNkNzk4Igp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
