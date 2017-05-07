@@ -1498,12 +1498,12 @@
         <mark key="^" line="12" column="54" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" timestamp="1493923396381">
-        <mark key="'" line="26" column="7" />
-        <mark key="[" line="33" column="22" />
-        <mark key="]" line="33" column="26" />
-        <mark key="." line="33" column="26" />
-        <mark key="^" line="33" column="26" />
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" timestamp="1494135243560">
+        <mark key="'" line="27" column="7" />
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="24" />
+        <mark key="." line="23" column="24" />
+        <mark key="^" line="41" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/_core/models/job.ts" timestamp="1493604493662">
         <mark key="[" line="7" column="15" />
@@ -1640,16 +1640,16 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>197509012559.dkr.ecr.us-east-1.amazonaws.com/innovexa/cps-esp/cps-esp-cms:dev</text>
+        <text>security_groups</text>
       </register>
       <register name="-" type="4">
-        <text>197509012559.dkr.ecr.us-east-1.amazonaws.com/innovexa/cps-esp/cps-esp-cms:dev</text>
+        <text>security_groups</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfaXNHb29nbGVGaWxlR3ppcGVkXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">MTk3NTA5MDEyNTU5LmRrci5lY3IudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vY3BzLWVzcC1jbXM6ZGV2IA==</text>
+        <text>vpc_security_group_ids</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAxOTc1MDkwMTI1NTkuZGtyLmVjci51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS9pbm5vdmV4YS9jcHMtZXNwL2Nwcy1lc3AtY21zOmRldgo=</text>
