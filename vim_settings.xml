@@ -10,8 +10,8 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="42" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" timestamp="1494199240879">
-        <mark key="'" line="12" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" timestamp="1494200749527">
+        <mark key="'" line="4" column="0" />
         <mark key="[" line="93" column="46" />
         <mark key="]" line="94" column="5" />
         <mark key="^" line="94" column="5" />
@@ -1606,7 +1606,6 @@
       <jump line="63" column="8" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="77" column="8" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="18" column="2" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
-      <jump line="4" column="34" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="69" column="37" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="134" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/FilesController.scala" />
       <jump line="32" column="15" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
@@ -1638,9 +1637,10 @@
       <jump line="87" column="6" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="88" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="93" column="5" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
+      <jump line="12" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="94" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
-      <jump line="12" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
+      <jump line="4" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
