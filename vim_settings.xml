@@ -1104,12 +1104,12 @@
         <mark key="^" line="6" column="33" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-esp-CMS/circle.yml" timestamp="1494132829871">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="20" column="83" />
-        <mark key="]" line="20" column="90" />
-        <mark key="^" line="20" column="90" />
-        <mark key="." line="20" column="90" />
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-CMS/circle.yml" timestamp="1494197949753">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="8" column="5" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/project/plugins.sbt" timestamp="1488101812181">
         <mark key="'" line="0" column="0" />
@@ -1541,7 +1541,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="36" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" />
       <jump line="28" column="97" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" />
       <jump line="33" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
@@ -1641,16 +1640,17 @@
       <jump line="70" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/.gitignore" />
       <jump line="77" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/.gitignore" />
       <jump line="21" column="1" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/.gitignore" />
+      <jump line="22" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/circle.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">L3NyYy93cC1hcHAvbGljZW5zZS50eHQKL3NyYy93cC1hcHAvcmVhZG1lLmh0bWwK</text>
+        <text encoding="base64">ICBwcmU6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaWNlbnNlXD4=</text>
@@ -1659,7 +1659,7 @@
         <text>vpc_security_group_ids</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">L3NyYy93cC1hcHAvbGljZW5zZS50eHQKL3NyYy93cC1hcHAvcmVhZG1lLmh0bWwK</text>
+        <text encoding="base64">ICBwcmU6Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1667,22 +1667,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">L3NpdGVtYXAueG1sCi9zaXRlbWFwLnhtbC5nego=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly5odGFjY2Vzcwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC0gCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC0gcGlwIGluc3RhbGwgYXdzY2xpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMjIFdvcmRQcmVzcyAjIyMKKi5sb2cKd3AtY29uZmlnLnBocAp3cC1jb250ZW50L2FkdmFuY2VkLWNhY2hlLnBocAp3cC1jb250ZW50L2JhY2t1cC1kYi8Kd3AtY29udGVudC9iYWNrdXBzLwp3cC1jb250ZW50L2Jsb2dzLmRpci8Kd3AtY29udGVudC9jYWNoZS8Kd3AtY29udGVudC91cGdyYWRlLwp3cC1jb250ZW50L3VwbG9hZHMvCndwLWNvbnRlbnQvd3AtY2FjaGUtY29uZmlnLnBocAp3cC1jb250ZW50L3BsdWdpbnMvaGVsbG8ucGhwCg==</text>
+        <text encoding="base64">L3NyYy93cC1hcHAvbGljZW5zZS50eHQKL3NyYy93cC1hcHAvcmVhZG1lLmh0bWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gJy9ob21lL2VjMi11c2VyL3ZvbHVtZXMvd29yZHByZXNzX2Vjb21tZXJjZS1wZXJzaXN0ZW5jZS93cC1hcHA6L3Zhci93d3cvaHRtbCcgIyBGdWxsIHdvcmRwcmVzcyBwcm9qZWN0Cg==</text>
+        <text encoding="base64">L3NpdGVtYXAueG1sCi9zaXRlbWFwLnhtbC5nego=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gJy9ob21lL2VjMi11c2VyL3ZvbHVtZXMvd29yZHByZXNzX2Ntcy1wZXJzaXN0ZW5jZS93cC1hcHA6L3Zhci93d3cvaHRtbCcgIyBGdWxsIHdvcmRwcmVzcyBwcm9qZWN0Cg==</text>
+        <text encoding="base64">Ly5odGFjY2Vzcwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1933,10 +1933,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQ01EIFsiYmluL21haWxkZXYiLCAiLS13ZWIiLCAiODAiLCAiLS1zbXRwIiwgIjI1IiwgIi0taW5jb21pbmctdXNlciIsICJ1c2VyIiwgIi0taW5jb21pbmctcGFzcyIsICJwYXNzd29yZCJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAxOTc1MDkwMTI1NTkuZGtyLmVjci51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS9pbm5vdmV4YS9jcHMtZXNwL2Nwcy1lc3AtY21zOmRldgo=</text>
+        <text encoding="base64">IyMjIFdvcmRQcmVzcyAjIyMKKi5sb2cKd3AtY29uZmlnLnBocAp3cC1jb250ZW50L2FkdmFuY2VkLWNhY2hlLnBocAp3cC1jb250ZW50L2JhY2t1cC1kYi8Kd3AtY29udGVudC9iYWNrdXBzLwp3cC1jb250ZW50L2Jsb2dzLmRpci8Kd3AtY29udGVudC9jYWNoZS8Kd3AtY29udGVudC91cGdyYWRlLwp3cC1jb250ZW50L3VwbG9hZHMvCndwLWNvbnRlbnQvd3AtY2FjaGUtY29uZmlnLnBocAp3cC1jb250ZW50L3BsdWdpbnMvaGVsbG8ucGhwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1992,8 +1992,8 @@
         <entry>Q</entry>
         <entry>qall</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>W</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
