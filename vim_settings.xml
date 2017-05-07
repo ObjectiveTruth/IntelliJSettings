@@ -847,6 +847,11 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-CMS/.gitignore" timestamp="1494195862669">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="23" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/ass1/part3_copy/events.js" timestamp="1476293506672">
         <mark key="'" line="32" column="36" />
         <mark key="[" line="99" column="110" />
@@ -1535,12 +1540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="49" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="43" column="15" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" />
-      <jump line="45" column="34" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" />
-      <jump line="4" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" />
-      <jump line="92" column="13" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" />
-      <jump line="107" column="31" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" />
       <jump line="126" column="36" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" />
       <jump line="28" column="97" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" />
       <jump line="33" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
@@ -1635,25 +1634,31 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="15" column="31" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="82" column="6" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/.gitignore" />
+      <jump line="69" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/.gitignore" />
+      <jump line="19" column="21" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/.gitignore" />
+      <jump line="70" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/.gitignore" />
+      <jump line="77" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/.gitignore" />
+      <jump line="21" column="1" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gJy9ob21lL2VjMi11c2VyL3ZvbHVtZXMvd29yZHByZXNzX2Vjb21tZXJjZS1wZXJzaXN0ZW5jZS93cC1hcHA6L3Zhci93d3cvaHRtbCcgIyBGdWxsIHdvcmRwcmVzcyBwcm9qZWN0Cg==</text>
+        <text encoding="base64">L3NyYy93cC1hcHAvbGljZW5zZS50eHQKL3NyYy93cC1hcHAvcmVhZG1lLmh0bWwK</text>
       </register>
       <register name="-" type="4">
-        <text>innovexa/maildev:latest'</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaXNHb29nbGVGaWxlR3ppcGVkXD4=</text>
+        <text encoding="base64">XDxsaWNlbnNlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>vpc_security_group_ids</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gJy9ob21lL2VjMi11c2VyL3ZvbHVtZXMvd29yZHByZXNzX2Vjb21tZXJjZS1wZXJzaXN0ZW5jZS93cC1hcHA6L3Zhci93d3cvaHRtbCcgIyBGdWxsIHdvcmRwcmVzcyBwcm9qZWN0Cg==</text>
+        <text encoding="base64">L3NyYy93cC1hcHAvbGljZW5zZS50eHQKL3NyYy93cC1hcHAvcmVhZG1lLmh0bWwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1661,22 +1666,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gJy9ob21lL2VjMi11c2VyL3ZvbHVtZXMvd29yZHByZXNzX2Ntcy1wZXJzaXN0ZW5jZS93cC1hcHA6L3Zhci93d3cvaHRtbCcgIyBGdWxsIHdvcmRwcmVzcyBwcm9qZWN0Cg==</text>
+        <text encoding="base64">L3NpdGVtYXAueG1sCi9zaXRlbWFwLnhtbC5nego=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQ01EIFsiYmluL21haWxkZXYiLCAiLS13ZWIiLCAiODAiLCAiLS1zbXRwIiwgIjI1IiwgIi0taW5jb21pbmctdXNlciIsICJ1c2VyIiwgIi0taW5jb21pbmctcGFzcyIsICJwYXNzd29yZCJdCg==</text>
+        <text encoding="base64">Ly5odGFjY2Vzcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAxOTc1MDkwMTI1NTkuZGtyLmVjci51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS9pbm5vdmV4YS9jcHMtZXNwL2Nwcy1lc3AtY21zOmRldgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyMjIFdvcmRQcmVzcyAjIyMKKi5sb2cKd3AtY29uZmlnLnBocAp3cC1jb250ZW50L2FkdmFuY2VkLWNhY2hlLnBocAp3cC1jb250ZW50L2JhY2t1cC1kYi8Kd3AtY29udGVudC9iYWNrdXBzLwp3cC1jb250ZW50L2Jsb2dzLmRpci8Kd3AtY29udGVudC9jYWNoZS8Kd3AtY29udGVudC91cGdyYWRlLwp3cC1jb250ZW50L3VwbG9hZHMvCndwLWNvbnRlbnQvd3AtY2FjaGUtY29uZmlnLnBocAp3cC1jb250ZW50L3BsdWdpbnMvaGVsbG8ucGhwCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIyBHZXQgdGhlIGluc3RhbmNlIElEIHRoYXQgaXMgY3VycmVudGx5IGhvc3RpbmcgdGhlIE1pbmlEb0FsbFNlcnZlcgogICAgICAjIC0gYXdzIGVjMiBkZXNjcmliZS1pbnN0YW5jZXMgLS1maWx0ZXJzIE5hbWU9aXAtYWRkcmVzcyxWYWx1ZXM9MzQuMTkyLjIxMC4zIC0tb3V0cHV0IHRleHQgLS1xdWVyeSAnUmVzZXJ2YXRpb25zWzBdLkluc3RhbmNlc1swXS5JbnN0YW5jZUlkJyA+IC90bXAvaW5zdGFuY2VfaWQKICAgICAgIyAtIGNhdCAvdG1wL2luc3RhbmNlX2lkCiAgICAgICMgVGVybWluYXRlIHRoZSBpbnN0YW5jZQogICAgICAjIC0gYXdzIGVjMiB0ZXJtaW5hdGUtaW5zdGFuY2VzIC0taW5zdGFuY2UtaWRzICQoY2F0IC90bXAvaW5zdGFuY2VfaWQpCg==</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gJy9ob21lL2VjMi11c2VyL3ZvbHVtZXMvd29yZHByZXNzX2Vjb21tZXJjZS1wZXJzaXN0ZW5jZS93cC1hcHA6L3Zhci93d3cvaHRtbCcgIyBGdWxsIHdvcmRwcmVzcyBwcm9qZWN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbImRvY2tlci1lbnRyeXBvaW50LnNoIl0K</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gJy9ob21lL2VjMi11c2VyL3ZvbHVtZXMvd29yZHByZXNzX2Ntcy1wZXJzaXN0ZW5jZS93cC1hcHA6L3Zhci93d3cvaHRtbCcgIyBGdWxsIHdvcmRwcmVzcyBwcm9qZWN0Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1927,19 +1932,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TUFJTlRBSU5FUiAK</text>
+        <text encoding="base64">ICAgICAgQ01EIFsiYmluL21haWxkZXYiLCAiLS13ZWIiLCAiODAiLCAiLS1zbXRwIiwgIjI1IiwgIi0taW5jb21pbmctdXNlciIsICJ1c2VyIiwgIi0taW5jb21pbmctcGFzcyIsICJwYXNzd29yZCJdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAxOTc1MDkwMTI1NTkuZGtyLmVjci51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS9pbm5vdmV4YS9jcHMtZXNwL2Nwcy1lc3AtY21zOmRldgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfaXNHb29nbGVGaWxlR3ppcGVkXD4=</last-search>
+      <last-search encoding="base64">XDxsaWNlbnNlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaXNHb29nbGVGaWxlR3ppcGVkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsaWNlbnNlXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1947,7 +1952,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21wbGV0ZWRfZmlsZXNcPg==</entry>
         <entry encoding="base64">XDxjb21wbGV0ZWRfZmlsZXNfam9ic19tYXBcPg==</entry>
         <entry encoding="base64">XDx3b3JrX2ZpbGVzXD4=</entry>
         <entry encoding="base64">XDx3b3JrX2ZpbGVzX2pvYnNfbWFwXD4=</entry>
@@ -1967,6 +1971,7 @@
         <entry encoding="base64">XDx3b3JkcHJlc3NfZWNvbW1lcmNlXD4=</entry>
         <entry encoding="base64">XDx3b3JkcHJlc3NfY21zX2RiXD4=</entry>
         <entry encoding="base64">XDxfaXNHb29nbGVGaWxlR3ppcGVkXD4=</entry>
+        <entry encoding="base64">XDxsaWNlbnNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
