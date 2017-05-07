@@ -1097,12 +1097,12 @@
         <mark key="^" line="6" column="33" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-esp-CMS/circle.yml" timestamp="1494130366481">
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-CMS/circle.yml" timestamp="1494132120890">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="22" column="88" />
-        <mark key="]" line="22" column="88" />
-        <mark key="^" line="21" column="52" />
-        <mark key="." line="22" column="88" />
+        <mark key="[" line="21" column="81" />
+        <mark key="]" line="21" column="81" />
+        <mark key="^" line="20" column="97" />
+        <mark key="." line="21" column="81" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/project/plugins.sbt" timestamp="1488101812181">
         <mark key="'" line="0" column="0" />
@@ -1640,19 +1640,19 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>cps-esp/cps-esp-cms:dev</text>
+        <text>197509012559.dkr.ecr.us-east-1.amazonaws.com/innovexa/cps-esp/cps-esp-cms:dev</text>
       </register>
       <register name="-" type="4">
-        <text>cps-esp/cps-esp-cms:dev</text>
+        <text>197509012559.dkr.ecr.us-east-1.amazonaws.com/innovexa/cps-esp/cps-esp-cms:dev</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfaXNHb29nbGVGaWxlR3ppcGVkXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>197509012559.dkr.ecr.us-east-1.amazonaws.com/cps-esp/cps-esp-cms:dev</text>
+        <text encoding="base64">MTk3NTA5MDEyNTU5LmRrci5lY3IudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vY3BzLWVzcC1jbXM6ZGV2IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAxOTc1MDkwMTI1NTkuZGtyLmVjci51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS9pbm5vdmV4YS9jcHMtZXNwL2Nwcy1lc3AtY21zOmRldgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1660,22 +1660,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIyBHZXQgdGhlIGluc3RhbmNlIElEIHRoYXQgaXMgY3VycmVudGx5IGhvc3RpbmcgdGhlIE1pbmlEb0FsbFNlcnZlcgogICAgICAjIC0gYXdzIGVjMiBkZXNjcmliZS1pbnN0YW5jZXMgLS1maWx0ZXJzIE5hbWU9aXAtYWRkcmVzcyxWYWx1ZXM9MzQuMTkyLjIxMC4zIC0tb3V0cHV0IHRleHQgLS1xdWVyeSAnUmVzZXJ2YXRpb25zWzBdLkluc3RhbmNlc1swXS5JbnN0YW5jZUlkJyA+IC90bXAvaW5zdGFuY2VfaWQKICAgICAgIyAtIGNhdCAvdG1wL2luc3RhbmNlX2lkCiAgICAgICMgVGVybWluYXRlIHRoZSBpbnN0YW5jZQogICAgICAjIC0gYXdzIGVjMiB0ZXJtaW5hdGUtaW5zdGFuY2VzIC0taW5zdGFuY2UtaWRzICQoY2F0IC90bXAvaW5zdGFuY2VfaWQpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbImRvY2tlci1lbnRyeXBvaW50LnNoIl0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">TUFJTlRBSU5FUiAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIyBHZXQgdGhlIGluc3RhbmNlIElEIHRoYXQgaXMgY3VycmVudGx5IGhvc3RpbmcgdGhlIE1pbmlEb0FsbFNlcnZlcgogICAgICAjIC0gYXdzIGVjMiBkZXNjcmliZS1pbnN0YW5jZXMgLS1maWx0ZXJzIE5hbWU9aXAtYWRkcmVzcyxWYWx1ZXM9MzQuMTkyLjIxMC4zIC0tb3V0cHV0IHRleHQgLS1xdWVyeSAnUmVzZXJ2YXRpb25zWzBdLkluc3RhbmNlc1swXS5JbnN0YW5jZUlkJyA+IC90bXAvaW5zdGFuY2VfaWQKICAgICAgIyAtIGNhdCAvdG1wL2luc3RhbmNlX2lkCiAgICAgICMgVGVybWluYXRlIHRoZSBpbnN0YW5jZQogICAgICAjIC0gYXdzIGVjMiB0ZXJtaW5hdGUtaW5zdGFuY2VzIC0taW5zdGFuY2UtaWRzICQoY2F0IC90bXAvaW5zdGFuY2VfaWQpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">RU5UUllQT0lOVCBbImRvY2tlci1lbnRyeXBvaW50LnNoIl0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">TUFJTlRBSU5FUiAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">dGVzdDoKICBvdmVycmlkZToKICAgIC0gc2J0IGNvdmVyYWdlIHRlc3QgY292ZXJhZ2VSZXBvcnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwb3N0OgogICAgLSBjcCAtcnYgdGFyZ2V0L3Rlc3QtcmVwb3J0cyAkQ0lSQ0xFX1RFU1RfUkVQT1JUUy9qdW5pdAogICAgIyAtIGNwIC1ydiB0YXJnZXQvc2NhbGEtMi4xMS9zY292ZXJhZ2UtcmVwb3J0ICRDSVJDTEVfQVJUSUZBQ1RTCiAgICAtIGJhc2ggPChjdXJsIC1zIGh0dHBzOi8vY29kZWNvdi5pby9iYXNoKQo=</text>
+        <text encoding="base64">dGVzdDoKICBvdmVycmlkZToKICAgIC0gc2J0IGNvdmVyYWdlIHRlc3QgY292ZXJhZ2VSZXBvcnQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1926,10 +1926,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjYWNoZV9kaXJlY3RvcmllczoK</text>
+        <text encoding="base64">ICBwb3N0OgogICAgLSBjcCAtcnYgdGFyZ2V0L3Rlc3QtcmVwb3J0cyAkQ0lSQ0xFX1RFU1RfUkVQT1JUUy9qdW5pdAogICAgIyAtIGNwIC1ydiB0YXJnZXQvc2NhbGEtMi4xMS9zY292ZXJhZ2UtcmVwb3J0ICRDSVJDTEVfQVJUSUZBQ1RTCiAgICAtIGJhc2ggPChjdXJsIC1zIGh0dHBzOi8vY29kZWNvdi5pby9iYXNoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gfi8uc2J0CiAgICAtIH4vLml2eTIKICAgICMgTWFrZXMgc2J0IHJlc29sdXRpb24gZmFzdGVyCiAgICAtIHRhcmdldC9yZXNvbHV0aW9uLWNhY2hlCiAgICAtIHRhcmdldC9zdHJlYW1zCiAgICAtIHByb2plY3QvdGFyZ2V0L3Jlc29sdXRpb24tY2FjaGUKICAgIC0gcHJvamVjdC90YXJnZXQvc3RyZWFtcwo=</text>
+        <text encoding="base64">ICBjYWNoZV9kaXJlY3RvcmllczoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
