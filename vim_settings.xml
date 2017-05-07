@@ -10,12 +10,12 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="42" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" timestamp="1494143697194">
-        <mark key="'" line="87" column="6" />
-        <mark key="[" line="40" column="11" />
-        <mark key="]" line="40" column="11" />
-        <mark key="^" line="40" column="11" />
-        <mark key="." line="40" column="11" />
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" timestamp="1494199240879">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="93" column="46" />
+        <mark key="]" line="94" column="5" />
+        <mark key="^" line="94" column="5" />
+        <mark key="." line="94" column="5" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/myaccount/MyAccount.java" timestamp="1480299101194">
         <mark key="'" line="115" column="40" />
@@ -1541,12 +1541,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="97" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" />
-      <jump line="33" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
-      <jump line="188" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
-      <jump line="198" column="90" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="259" column="21" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="235" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="201" column="22" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="262" column="21" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
@@ -1595,7 +1589,6 @@
       <jump line="4" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/variables.tf" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
       <jump line="29" column="17" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
-      <jump line="28" column="6" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="30" column="2" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="56" column="5" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="40" column="6" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
@@ -1631,7 +1624,6 @@
       <jump line="51" column="36" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="21" column="6" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="76" column="6" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="15" column="31" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="82" column="6" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/.gitignore" />
@@ -1641,6 +1633,14 @@
       <jump line="77" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/.gitignore" />
       <jump line="21" column="1" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/.gitignore" />
       <jump line="22" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/circle.yml" />
+      <jump line="28" column="30" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
+      <jump line="6" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
+      <jump line="87" column="6" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
+      <jump line="88" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
+      <jump line="93" column="5" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
+      <jump line="94" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
+      <jump line="12" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
