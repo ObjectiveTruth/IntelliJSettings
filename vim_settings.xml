@@ -10,12 +10,12 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="42" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" timestamp="1494256727489">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="66" column="16" />
-        <mark key="]" line="66" column="16" />
-        <mark key="^" line="66" column="16" />
-        <mark key="." line="66" column="16" />
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" timestamp="1494272389021">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="94" column="36" />
+        <mark key="]" line="94" column="36" />
+        <mark key="^" line="94" column="46" />
+        <mark key="." line="94" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/myaccount/MyAccount.java" timestamp="1480299101194">
         <mark key="'" line="115" column="40" />
@@ -1518,12 +1518,12 @@
         <mark key="^" line="12" column="54" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" timestamp="1494135243560">
-        <mark key="'" line="27" column="7" />
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="24" />
-        <mark key="." line="23" column="24" />
-        <mark key="^" line="41" column="23" />
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" timestamp="1494272678695">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="49" column="38" />
+        <mark key="]" line="50" column="1" />
+        <mark key="." line="50" column="1" />
+        <mark key="^" line="50" column="1" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/_core/models/job.ts" timestamp="1493604493662">
         <mark key="[" line="7" column="15" />
@@ -1554,8 +1554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="45" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="23" column="60" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-details/job-details.component.html" />
       <jump line="9" column="1" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
       <jump line="29" column="21" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
       <jump line="30" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
@@ -1654,22 +1652,24 @@
       <jump line="563" column="107" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/src/wp-app/wp-content/plugins/polylang/include/model.php" />
       <jump line="555" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/src/wp-app/wp-content/plugins/polylang/include/model.php" />
       <jump line="40" column="22" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/src/wp-app/wp-config.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
+      <jump line="27" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>cps-esp-CMS.localhost</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICByb290X2Jsb2NrX2RldmljZSB7CiAgICB2b2x1bWVfc2l6ZSA9IDUwCiAgICB2b2x1bWVfdHlwZSA9ICJzdGFuZGFyZCIKICAgIGRlbGV0ZV9vbl90ZXJtaW5hdGlvbiA9IHRydWUKICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>cps-esp-CMS.localhost</text>
+        <text encoding="base64">IHdvcmRwcmVzc18=</text>
       </register>
       <register name="/" type="4">
         <text>plugin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">R0VUICAgICAvYXBpL2pvYi9uZXcvOmpvYlR5cGUgICAgICAgICAgIGNvbnRyb2xsZXJzLkpvYnNDb250cm9sbGVyLmdldE5ld0pvYklkRm9ySm9iVHlwZShqb2JUeXBlOiBTdHJpbmcpCg==</text>
+        <text encoding="base64">ICByb290X2Jsb2NrX2RldmljZSB7CiAgICB2b2x1bWVfc2l6ZSA9IDUwCiAgICB2b2x1bWVfdHlwZSA9ICJzdGFuZGFyZCIKICAgIGRlbGV0ZV9vbl90ZXJtaW5hdGlvbiA9IHRydWUKICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">L3NyYy93cC1hcHAvd3AtY29uZmlnLnBocAo=</text>
