@@ -849,11 +849,11 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-esp-CMS/.gitignore" timestamp="1494196606676">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="21" column="4" />
-        <mark key="." line="21" column="4" />
-        <mark key="^" line="21" column="4" />
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-CMS/.gitignore" timestamp="1494261760026">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="22" column="4" />
+        <mark key="." line="22" column="4" />
+        <mark key="^" line="22" column="4" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/ass1/part3_copy/events.js" timestamp="1476293506672">
         <mark key="'" line="32" column="36" />
@@ -1189,6 +1189,13 @@
         <mark key="]" line="42" column="61" />
         <mark key="." line="42" column="108" />
         <mark key="^" line="42" column="108" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-CMS/src/wp-app/wp-content/plugins/polylang/include/model.php" timestamp="1494261925251">
+        <mark key="'" line="555" column="0" />
+        <mark key="[" line="555" column="127" />
+        <mark key="]" line="555" column="126" />
+        <mark key="^" line="555" column="126" />
+        <mark key="." line="555" column="126" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/_core/header/header.component.html" timestamp="1491457770290">
         <mark key="[" line="16" column="57" />
@@ -1543,11 +1550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
-      <jump line="172" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="25" column="11" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="26" column="18" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="41" column="39" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="43" column="45" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="23" column="60" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-details/job-details.component.html" />
@@ -1643,6 +1645,11 @@
       <jump line="28" column="26" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/src/wp-app/wp-config.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/src/wp-app/wp-config.php" />
       <jump line="89" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/src/wp-app/wp-config.php" />
+      <jump line="13" column="17" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/src/wp-app/wp-content/plugins/polylang/include/model.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/src/wp-app/wp-content/plugins/polylang/include/model.php" />
+      <jump line="567" column="25" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/src/wp-app/wp-content/plugins/polylang/include/model.php" />
+      <jump line="563" column="107" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/src/wp-app/wp-content/plugins/polylang/include/model.php" />
+      <jump line="555" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/src/wp-app/wp-content/plugins/polylang/include/model.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1655,7 +1662,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>esp</text>
+        <text>PLL_Links</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">R0VUICAgICAvYXBpL2pvYi9uZXcvOmpvYlR5cGUgICAgICAgICAgIGNvbnRyb2xsZXJzLkpvYnNDb250cm9sbGVyLmdldE5ld0pvYklkRm9ySm9iVHlwZShqb2JUeXBlOiBTdHJpbmcpCg==</text>
@@ -1941,13 +1948,13 @@
         <text encoding="base64">Ly5odGFjY2Vzcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>esp</last-search>
+      <last-search>PLL_Links</last-search>
       <last-offset />
-      <last-pattern>esp</last-pattern>
+      <last-pattern>PLL_Links</last-pattern>
       <last-replace>ecp</last-replace>
       <last-substitute>esp</last-substitute>
       <last-dir>1</last-dir>
@@ -1955,7 +1962,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3b3JrX2ZpbGVzXD4=</entry>
         <entry encoding="base64">XDx3b3JrX2ZpbGVzX2pvYnNfbWFwXD4=</entry>
         <entry encoding="base64">XDxKb2JzVGFibGVcPg==</entry>
         <entry encoding="base64">XDxKb2JcPg==</entry>
@@ -1975,6 +1981,7 @@
         <entry encoding="base64">XDxfaXNHb29nbGVGaWxlR3ppcGVkXD4=</entry>
         <entry encoding="base64">XDxsaWNlbnNlXD4=</entry>
         <entry>esp</entry>
+        <entry>PLL_Links</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzIvMS9n</entry>
@@ -1995,8 +2002,8 @@
         <entry>W</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2VzcC9lY3AvZw==</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
