@@ -10,8 +10,8 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="42" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" timestamp="1494274840481">
-        <mark key="'" line="14" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" timestamp="1494276120133">
+        <mark key="'" line="98" column="0" />
         <mark key="[" line="66" column="72" />
         <mark key="]" line="66" column="80" />
         <mark key="^" line="66" column="80" />
@@ -1554,8 +1554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="1" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
-      <jump line="29" column="21" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
       <jump line="30" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
       <jump line="41" column="15" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
       <jump line="40" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
@@ -1635,7 +1633,6 @@
       <jump line="4" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="86" column="33" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="95" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="22" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/application.conf" />
       <jump line="397" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/application.conf" />
       <jump line="191" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" />
@@ -1654,6 +1651,9 @@
       <jump line="40" column="22" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/src/wp-app/wp-config.php" />
       <jump line="14" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="27" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
+      <jump line="66" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
+      <jump line="98" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2003,11 +2003,11 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>Q</entry>
         <entry>qall</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL2VzcC9lY3AvZw==</entry>
         <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
