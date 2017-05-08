@@ -10,12 +10,12 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="42" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" timestamp="1494272389021">
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" timestamp="1494274840481">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="94" column="36" />
-        <mark key="]" line="94" column="36" />
-        <mark key="^" line="94" column="46" />
-        <mark key="." line="94" column="36" />
+        <mark key="[" line="66" column="72" />
+        <mark key="]" line="66" column="80" />
+        <mark key="^" line="66" column="80" />
+        <mark key="." line="66" column="80" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/myaccount/MyAccount.java" timestamp="1480299101194">
         <mark key="'" line="115" column="40" />
@@ -1659,17 +1659,17 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICByb290X2Jsb2NrX2RldmljZSB7CiAgICB2b2x1bWVfc2l6ZSA9IDUwCiAgICB2b2x1bWVfdHlwZSA9ICJzdGFuZGFyZCIKICAgIGRlbGV0ZV9vbl90ZXJtaW5hdGlvbiA9IHRydWUKICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>cms</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHdvcmRwcmVzc18=</text>
+        <text>cms</text>
       </register>
       <register name="/" type="4">
         <text>plugin</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICByb290X2Jsb2NrX2RldmljZSB7CiAgICB2b2x1bWVfc2l6ZSA9IDUwCiAgICB2b2x1bWVfdHlwZSA9ICJzdGFuZGFyZCIKICAgIGRlbGV0ZV9vbl90ZXJtaW5hdGlvbiA9IHRydWUKICB9Cg==</text>
+      <register name="0" type="4">
+        <text>197509012559.dkr.ecr.us-east-1.amazonaws.com/cps-ecp/cps-ecp-cms:dev</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">L3NyYy93cC1hcHAvd3AtY29uZmlnLnBocAo=</text>
