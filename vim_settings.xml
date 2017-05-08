@@ -1666,7 +1666,7 @@
         <text>cps-esp-CMS.localhost</text>
       </register>
       <register name="/" type="4">
-        <text>PLL_Links</text>
+        <text>plugin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">R0VUICAgICAvYXBpL2pvYi9uZXcvOmpvYlR5cGUgICAgICAgICAgIGNvbnRyb2xsZXJzLkpvYnNDb250cm9sbGVyLmdldE5ld0pvYklkRm9ySm9iVHlwZShqb2JUeXBlOiBTdHJpbmcpCg==</text>
@@ -1956,9 +1956,9 @@
       </register>
     </registers>
     <search>
-      <last-search>PLL_Links</last-search>
+      <last-search>plugin</last-search>
       <last-offset />
-      <last-pattern>PLL_Links</last-pattern>
+      <last-pattern>plugin</last-pattern>
       <last-replace>ecp</last-replace>
       <last-substitute>esp</last-substitute>
       <last-dir>1</last-dir>
@@ -1966,7 +1966,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3b3JrX2ZpbGVzX2pvYnNfbWFwXD4=</entry>
         <entry encoding="base64">XDxKb2JzVGFibGVcPg==</entry>
         <entry encoding="base64">XDxKb2JcPg==</entry>
         <entry>update</entry>
@@ -1986,6 +1985,7 @@
         <entry encoding="base64">XDxsaWNlbnNlXD4=</entry>
         <entry>esp</entry>
         <entry>PLL_Links</entry>
+        <entry>plugin</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzIvMS9n</entry>
