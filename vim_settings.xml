@@ -264,8 +264,11 @@
         <mark key="." line="71" column="89" />
         <mark key="^" line="71" column="89" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1494350878737">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1494361655570">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/.travis.yml" timestamp="1471148061720">
         <mark key="'" line="58" column="65" />
@@ -1666,8 +1669,8 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>latest</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICByb290X2Jsb2NrX2RldmljZSB7CiAgICB2b2x1bWVfc2l6ZSA9IDUwCiAgICB2b2x1bWVfdHlwZSA9ICJzdGFuZGFyZCIKICAgIGRlbGV0ZV9vbl90ZXJtaW5hdGlvbiA9IHRydWUKICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>latest</text>
@@ -1679,7 +1682,7 @@
         <text>197509012559.dkr.ecr.us-east-1.amazonaws.com/cps-ecp/cps-ecp-cms:dev</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">L3NyYy93cC1hcHAvd3AtY29uZmlnLnBocAo=</text>
+        <text encoding="base64">ICByb290X2Jsb2NrX2RldmljZSB7CiAgICB2b2x1bWVfc2l6ZSA9IDUwCiAgICB2b2x1bWVfdHlwZSA9ICJzdGFuZGFyZCIKICAgIGRlbGV0ZV9vbl90ZXJtaW5hdGlvbiA9IHRydWUKICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1690,19 +1693,19 @@
         <text encoding="base64">L3NyYy93cC1hcHAvd3AtY29uZmlnLnBocAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">L3NyYy93cC1hcHAvd3AtY29uZmlnLnBocAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">R0VUICAgICAvYXBpL2luZm8vbmV3Lzpqb2JUeXBlICAgICAgICAgICBjb250cm9sbGVycy5Kb2JzQ29udHJvbGxlci5nZXROZXdKb2JJZEZvckpvYlR5cGUoam9iVHlwZTogU3RyaW5nKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBwcmU6Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">R0VUICAgICAvYXBpL2luZm8vbmV3Lzpqb2JUeXBlICAgICAgICAgICBjb250cm9sbGVycy5Kb2JzQ29udHJvbGxlci5nZXROZXdKb2JJZEZvckpvYlR5cGUoam9iVHlwZTogU3RyaW5nKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwcmU6Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1953,10 +1956,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gcGlwIGluc3RhbGwgYXdzY2xpCg==</text>
+        <text encoding="base64">ICAgIC0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">L3NyYy93cC1hcHAvbGljZW5zZS50eHQKL3NyYy93cC1hcHAvcmVhZG1lLmh0bWwK</text>
+        <text encoding="base64">ICAgIC0gcGlwIGluc3RhbGwgYXdzY2xpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
