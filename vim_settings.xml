@@ -264,6 +264,9 @@
         <mark key="." line="71" column="89" />
         <mark key="^" line="71" column="89" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1494350878737">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/.travis.yml" timestamp="1471148061720">
         <mark key="'" line="58" column="65" />
         <mark key="[" line="10" column="23" />
@@ -1558,9 +1561,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="35" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
-      <jump line="50" column="17" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
-      <jump line="6" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
       <jump line="47" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
       <jump line="17" column="46" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
       <jump line="10" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
@@ -1658,6 +1658,9 @@
       <jump line="82" column="25" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="88" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="23" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="22" column="46" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="62" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
     </jumps>
     <registers>
       <register name="a" type="4">
