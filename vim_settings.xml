@@ -798,6 +798,9 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1494347341377">
+        <mark key="'" line="23" column="2" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/GraphvizCreationController.scala" timestamp="1469592955472">
         <mark key="'" line="33" column="8" />
         <mark key="[" line="63" column="34" />
@@ -1555,9 +1558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
-      <jump line="41" column="15" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
-      <jump line="40" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
       <jump line="7" column="35" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
       <jump line="50" column="17" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
       <jump line="6" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" />
@@ -1655,6 +1655,9 @@
       <jump line="66" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="98" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
+      <jump line="82" column="25" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="88" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="23" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1667,7 +1670,7 @@
         <text>latest</text>
       </register>
       <register name="/" type="4">
-        <text>plugin</text>
+        <text encoding="base64">XDx3b3JkcHJlc3NfY21zX2RiXD4=</text>
       </register>
       <register name="0" type="4">
         <text>197509012559.dkr.ecr.us-east-1.amazonaws.com/cps-ecp/cps-ecp-cms:dev</text>
@@ -1957,9 +1960,9 @@
       </register>
     </registers>
     <search>
-      <last-search>plugin</last-search>
+      <last-search encoding="base64">XDx3b3JkcHJlc3NfY21zX2RiXD4=</last-search>
       <last-offset />
-      <last-pattern>plugin</last-pattern>
+      <last-pattern encoding="base64">XDx3b3JkcHJlc3NfY21zX2RiXD4=</last-pattern>
       <last-replace>ecp</last-replace>
       <last-substitute>esp</last-substitute>
       <last-dir>1</last-dir>
@@ -1981,12 +1984,12 @@
         <entry encoding="base64">XDx3b3JkcHJlc3NfZWNvbW1lcmNlX2RiXD4=</entry>
         <entry encoding="base64">XDx3b3JkcHJlc3NfY21zXD4=</entry>
         <entry encoding="base64">XDx3b3JkcHJlc3NfZWNvbW1lcmNlXD4=</entry>
-        <entry encoding="base64">XDx3b3JkcHJlc3NfY21zX2RiXD4=</entry>
         <entry encoding="base64">XDxfaXNHb29nbGVGaWxlR3ppcGVkXD4=</entry>
         <entry encoding="base64">XDxsaWNlbnNlXD4=</entry>
         <entry>esp</entry>
         <entry>PLL_Links</entry>
         <entry>plugin</entry>
+        <entry encoding="base64">XDx3b3JkcHJlc3NfY21zX2RiXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzIvMS9n</entry>
