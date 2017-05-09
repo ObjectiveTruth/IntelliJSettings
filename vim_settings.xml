@@ -1463,11 +1463,12 @@
         <mark key="^" line="57" column="15" />
         <mark key="." line="57" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-esp-CMS/Dockerfile" timestamp="1494128902469">
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-CMS/Dockerfile" timestamp="1494338357767">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/GlassWildabeast/README.md" timestamp="1474749100732">
         <mark key="'" line="53" column="25" />
@@ -1660,10 +1661,10 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>cms</text>
+        <text>latest</text>
       </register>
       <register name="-" type="4">
-        <text>cms</text>
+        <text>latest</text>
       </register>
       <register name="/" type="4">
         <text>plugin</text>
@@ -2006,8 +2007,8 @@
         <entry encoding="base64">JzwsJz5zL2VzcC9lY3AvZw==</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
