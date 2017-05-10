@@ -404,8 +404,8 @@
         <mark key="^" line="119" column="95" />
         <mark key="." line="119" column="95" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/data/jobs-api/jobs-api.service.ts" timestamp="1493607965956">
-        <mark key="'" line="96" column="49" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/data/jobs-api/jobs-api.service.ts" timestamp="1494429186953">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="20" />
         <mark key="^" line="12" column="20" />
@@ -1282,6 +1282,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="227" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/_core/app-settings.constants.ts" timestamp="1494429217378">
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="6" column="56" />
+        <mark key="." line="6" column="56" />
+        <mark key="^" line="6" column="56" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/package.json" timestamp="1480182181830">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="8" column="19" />
@@ -1595,8 +1601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="16" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
-      <jump line="51" column="36" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="21" column="6" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="76" column="6" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="15" column="31" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
@@ -1695,22 +1699,24 @@
       <jump line="9" column="21" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.module.ts" />
       <jump line="226" column="42" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
       <jump line="30" column="17" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
+      <jump line="54" column="13" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/data/jobs-api/jobs-api.service.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/data/jobs-api/jobs-api.service.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB0YXhvbm9teUlucHV0OiBzdHJpbmc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>jobs</text>
       </register>
       <register name="-" type="4">
-        <text>model1</text>
+        <text>jobs</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBOZ3VpQXV0b0NvbXBsZXRlTW9kdWxlLmZvclJvb3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSk9CUzogQXBwU2V0dGluZ3MuQkFTRV9VUkwgKyAnL2FwaS9qb2JzJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyB0YXhvbm9teUlucHV0OiBzdHJpbmc7Cg==</text>
