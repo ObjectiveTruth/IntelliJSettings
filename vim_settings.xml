@@ -106,12 +106,12 @@
         <mark key="." line="17" column="106" />
         <mark key="^" line="17" column="106" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" timestamp="1494381057932">
-        <mark key="'" line="191" column="0" />
-        <mark key="[" line="77" column="102" />
-        <mark key="]" line="77" column="101" />
-        <mark key="." line="77" column="101" />
-        <mark key="^" line="77" column="101" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" timestamp="1494383548240">
+        <mark key="'" line="204" column="0" />
+        <mark key="[" line="88" column="116" />
+        <mark key="]" line="88" column="115" />
+        <mark key="." line="88" column="115" />
+        <mark key="^" line="88" column="115" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/views/layout.pug" timestamp="1480120241885">
         <mark key="'" line="60" column="59" />
@@ -1670,17 +1670,17 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICByb290X2Jsb2NrX2RldmljZSB7CiAgICB2b2x1bWVfc2l6ZSA9IDUwCiAgICB2b2x1bWVfdHlwZSA9ICJzdGFuZGFyZCIKICAgIGRlbGV0ZV9vbl90ZXJtaW5hdGlvbiA9IHRydWUKICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(state: String = &quot;ready&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>latest</text>
+        <text>(state: String = &quot;ready&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3b3JkcHJlc3NfY21zX2RiXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>197509012559.dkr.ecr.us-east-1.amazonaws.com/cps-ecp/cps-ecp-cms:dev</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyMjCiMgICBzdW1tYXJ5OiBHZXRzIGEgbGlzdCBvZiBhbGwgYXZhaWxhYmxlIGZpbGVzIG9uIHNlcnZlcgojICAgcmVzcG9uc2VzOgojICAgICAyMDA6CiMgICAgICAgZGVzY3JpcHRpb246IHN1Y2Nlc3MKIyAgICAgICBzY2hlbWE6CiMgICAgICAgICAkcmVmOiAnIy9kZWZpbml0aW9ucy9tb2RlbHMuUmVzcG9uc2VzLkZpbGVzUmVzcG9uc2UnCiMgICBwYXJhbWV0ZXJzOgojICAgLSBuYW1lOiBzdGF0ZQojICAgICBkZXNjcmlwdGlvbjogRmlsdGVyIHJlc3VsdHMgYmFzZWQgb24gdGhlIHN0YXRlIG9mIHRoZSBmaWxlLCBkZWZhdWx0IGlzIHJlYWR5LiBNZWFuaW5nIGFsbCBmdWxseSB1cGxvYWRlZCBmaWxlcwojIyMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICByb290X2Jsb2NrX2RldmljZSB7CiAgICB2b2x1bWVfc2l6ZSA9IDUwCiAgICB2b2x1bWVfdHlwZSA9ICJzdGFuZGFyZCIKICAgIGRlbGV0ZV9vbl90ZXJtaW5hdGlvbiA9IHRydWUKICB9Cg==</text>
