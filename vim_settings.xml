@@ -106,11 +106,12 @@
         <mark key="." line="17" column="106" />
         <mark key="^" line="17" column="106" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" timestamp="1494207311675">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" timestamp="1494381057932">
         <mark key="'" line="191" column="0" />
-        <mark key="[" line="233" column="0" />
-        <mark key="]" line="233" column="0" />
-        <mark key="." line="233" column="0" />
+        <mark key="[" line="77" column="102" />
+        <mark key="]" line="77" column="101" />
+        <mark key="." line="77" column="101" />
+        <mark key="^" line="77" column="101" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/views/layout.pug" timestamp="1480120241885">
         <mark key="'" line="60" column="59" />
