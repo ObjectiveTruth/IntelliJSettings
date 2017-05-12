@@ -72,6 +72,13 @@
         <mark key="." line="93" column="75" />
         <mark key="^" line="93" column="75" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-authentication/.gitignore" timestamp="1494602694208">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/providers/ng4-flow.service.ts" timestamp="1490658871678">
         <mark key="'" line="2" column="57" />
         <mark key="[" line="19" column="20" />
@@ -1607,9 +1614,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/application.conf" />
-      <jump line="397" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/application.conf" />
-      <jump line="191" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" />
       <jump line="45" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" />
       <jump line="12" column="27" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/circle.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-esp-CMS/circle.yml" />
@@ -1707,25 +1711,28 @@
       <jump line="79" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/default/1.sql" />
       <jump line="73" column="140" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/GenomesDAO.scala" />
       <jump line="89" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/GenomesDAO.scala" />
+      <jump line="114" column="64" filename="$USER_HOME$/Desktop/repos/cps-ecp-authentication/.gitignore" />
+      <jump line="7" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-authentication/.gitignore" />
+      <jump line="98" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-authentication/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZWZlcmVuY2VHZW5vbWVFbnRyeVw+</text>
+        <text>iml</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAoSnNQYXRoIFwgImdlbm9tZVVybCIpLndyaXRlW1N0cmluZ10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYK</text>
+        <text encoding="base64">LmlkZWEvKiovd29ya3NwYWNlLnhtbAouaWRlYS8qKi90YXNrcy54bWwKLmlkZWEvZGljdGlvbmFyaWVzCgojIFNlbnNpdGl2ZSBvciBoaWdoLWNodXJuIGZpbGVzOgouaWRlYS8qKi9kYXRhU291cmNlcy8KLmlkZWEvKiovZGF0YVNvdXJjZXMuaWRzCi5pZGVhLyoqL2RhdGFTb3VyY2VzLnhtbAouaWRlYS8qKi9kYXRhU291cmNlcy5sb2NhbC54bWwKLmlkZWEvKiovc3FsRGF0YVNvdXJjZXMueG1sCi5pZGVhLyoqL2R5bmFtaWMueG1sCi5pZGVhLyoqL3VpRGVzaWduZXIueG1sCgojIEdyYWRsZToKLmlkZWEvKiovZ3JhZGxlLnhtbAouaWRlYS8qKi9saWJyYXJpZXMK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1733,22 +1740,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZWZlcmVuY2VfZ2Vub21lX2xvY2FsX2Fic29sdXRlX3BhdGggdGV4dCBOT1QgTlVMTCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZWZlcmVuY2VfZ2Vub21lX2xvY2FsX2Fic29sdXRlX3BhdGggdGV4dCBOT1QgTlVMTCwK</text>
+        <text encoding="base64">ICAgICAgICBkZWYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZCBpbnQgQVVUT0lOQ1JFTUVOVCwK</text>
+        <text encoding="base64">ICByZWZlcmVuY2VfZ2Vub21lX2xvY2FsX2Fic29sdXRlX3BhdGggdGV4dCBOT1QgTlVMTCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBnZmZfbG9jYWxfYWJzb2x1dGVfcGF0aCB0ZXh0IE5PVCBOVUxMLAo=</text>
+        <text encoding="base64">ICByZWZlcmVuY2VfZ2Vub21lX2xvY2FsX2Fic29sdXRlX3BhdGggdGV4dCBOT1QgTlVMTCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZWZlcmVuY2VfIHRleHQgTk9UIE5VTEwsCg==</text>
+        <text encoding="base64">ICBpZCBpbnQgQVVUT0lOQ1JFTUVOVCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZGVmIHN0cmVhbVJlc3BvbnNlKHJlcXVlc3Q6IFdTUmVxdWVzdCk6IFNvdXJjZVtCeXRlU3RyaW5nLCBOb3RVc2VkXSA9CiAgICAgICAgU291cmNlLmZyb21GdXR1cmUocmVxdWVzdC5zdHJlYW0oKSkuZmxhdE1hcENvbmNhdChfLmJvZHkpCgo=</text>
+        <text encoding="base64">ICBnZmZfbG9jYWxfYWJzb2x1dGVfcGF0aCB0ZXh0IE5PVCBOVUxMLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1999,19 +2006,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICByZWZlcmVuY2VfIHRleHQgTk9UIE5VTEwsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIE5DQklfQVNTRU1CTFlfUkVQT1JUX1VSTCA9ICJodHRwczovL2Z0cC5uY2JpLm5sbS5uaWguZ292L2dlbm9tZXMvQVNTRU1CTFlfUkVQT1JUUy9hc3NlbWJseV9zdW1tYXJ5X3JlZnNlcS50eHQiCiAgICAgICAgICAgIHZhbCBSRUZFUkVOQ0VfR0VOT01FID0gInJlZmVyZW5jZSBnZW5vbWUiCiAgICAgICAgICAgIHZhbCBnZW5vbWVMaXN0ID0gd3MudXJsKE5DQklfQVNTRU1CTFlfUkVQT1JUX1VSTCkKICAgICAgICAgICAgdmFsIHJldHVyblZhbDogU291cmNlW1N0cmluZywgTm90VXNlZF0gPSBzdHJlYW1SZXNwb25zZShnZW5vbWVMaXN0KQogICAgICAgICAgICAgICAgLnZpYShGcmFtaW5nLmRlbGltaXRlcihCeXRlU3RyaW5nKCJcbiIpLCAxMDAwLCBhbGxvd1RydW5jYXRpb24gPSB0cnVlKSkKICAgICAgICAgICAgICAgIC5maWx0ZXIoIGJ5dGVTdHJpbmcgPT4gewogICAgICAgICAgICAgICAgICAgIGJ5dGVTdHJpbmcudXRmOFN0cmluZy5jb250YWlucyhSRUZFUkVOQ0VfR0VOT01FKQogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIC5tYXAoYnl0ZVN0cmluZyA9PiB7CiAgICAgICAgICAgICAgICAgICAgdmFsIHZhbHVlID0gYnl0ZVN0cmluZy51dGY4U3RyaW5nCiAgICAgICAgICAgICAgICAgICAgdmFsIGNvbHVtbnMgPSB2YWx1ZS5zcGxpdCgiXHQiKQogICAgICAgICAgICAgICAgICAgIHZhbCBhc3NlbWJseURpcmVjdG9yeSA9IGNvbHVtbnMoMTkpCiAgICAgICAgICAgICAgICAgICAgdmFsIGFzc2VtYmx5RGlyZWN0b3J5VXJsID0gbmV3IFVSTChjb2x1bW5zKDE5KSkKICAgICAgICAgICAgICAgICAgICB2YWwgbGFzdFBhdGhTZWdtZW50ID0gYXNzZW1ibHlEaXJlY3RvcnlVcmwuZ2V0UGF0aC5zcGxpdCgiLyIpLmxhc3QKICAgIAogICAgICAgICAgICAgICAgICAgIHZhbCB1cmxUb0Fzc2VtYmx5R0ZGID0gbmV3IFVSTCgiaHR0cCIsCiAgICAgICAgICAgICAgICAgICAgICAgIGFzc2VtYmx5RGlyZWN0b3J5VXJsLmdldEhvc3QsCiAgICAgICAgICAgICAgICAgICAgICAgIGFzc2VtYmx5RGlyZWN0b3J5VXJsLmdldFBvcnQsCiAgICAgICAgICAgICAgICAgICAgICAgIGFzc2VtYmx5RGlyZWN0b3J5VXJsLmdldEZpbGUgKyAiLyIgKyBsYXN0UGF0aFNlZ21lbnQgKyAiX2dlbm9taWMuZ2ZmLmd6IikudG9FeHRlcm5hbEZvcm0KICAgIAogICAgICAgICAgICAgICAgICAgIHZhbCByZWZlcmVuY2VHZW5vbWUgPSBSZWZlcmVuY2VHZW5vbWVFbnRyeShjb2x1bW5zKDcpLCBjb2x1bW5zKDgpLCBhc3NlbWJseURpcmVjdG9yeSwgdXJsVG9Bc3NlbWJseUdGRikKICAgICAgICAgICAgICAgICAgICBnZW5vbWVzREFPLmluc2VyUmVmZXJlbmNlR2Vub21lRW50cnkocmVmZXJlbmNlR2Vub21lKS5tYXAgewogICAgICAgICAgICAgICAgICAgICAgICBjYXNlIFN1Y2Nlc3MocykgPT4KICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBGYWlsdXJlKHQpID0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2dnZXIuZXJyb3IoIlVuYWJsZSB0byBpbnNlcnQgcmVmZXJlbmNlIGdlbm9tZSBlbnRyeSB0byBkYXRhYmFzZTogIiArIHJlZmVyZW5jZUdlbm9tZS50b1N0cmluZywgdCkKICAgICAgICAgICAgICAgICAgICB9CiAgICAKICAgICAgICAgICAgICAgICAgICBMb2dnZXIuZGVidWcocmVmZXJlbmNlR2Vub21lLnRvU3RyaW5nKQogICAgICAgICAgICAgICAgICAgIHJlZmVyZW5jZUdlbm9tZS50b1N0cmluZyArICJcbiIKICAgICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZGVmIHN0cmVhbVJlc3BvbnNlKHJlcXVlc3Q6IFdTUmVxdWVzdCk6IFNvdXJjZVtCeXRlU3RyaW5nLCBOb3RVc2VkXSA9CiAgICAgICAgU291cmNlLmZyb21GdXR1cmUocmVxdWVzdC5zdHJlYW0oKSkuZmxhdE1hcENvbmNhdChfLmJvZHkpCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZWZlcmVuY2VHZW5vbWVFbnRyeVw+</last-search>
+      <last-search>iml</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZWZlcmVuY2VHZW5vbWVFbnRyeVw+</last-pattern>
+      <last-pattern>iml</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2019,7 +2026,6 @@
     </search>
     <history>
       <history-search>
-        <entry>esp</entry>
         <entry>PLL_Links</entry>
         <entry>plugin</entry>
         <entry encoding="base64">XDx3b3JkcHJlc3NfY21zX2RiXD4=</entry>
@@ -2039,6 +2045,7 @@
         <entry encoding="base64">XDxMSU5VWF9HRFJJVkVfQklOQVJJRVNfUkVMRUFTRV9VUkxcPg==</entry>
         <entry encoding="base64">XDxpbnNlclJlZmVyZW5jZUdlbm9tZUVudHJ5XD4=</entry>
         <entry encoding="base64">XDxSZWZlcmVuY2VHZW5vbWVFbnRyeVw+</entry>
+        <entry>iml</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMC9n</entry>
