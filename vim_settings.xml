@@ -2040,7 +2040,7 @@
         <text encoding="base64">ICAgICAgICAgICAgb3JnYW5pc21OYW1lOiBTdHJpbmcsIGluZnJhc3BlY2lmaWNOYW1lOiBTdHJpbmcsIHJlbGVhc2VEYXRlOiBTdHJpbmcsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2093,9 +2093,9 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>q!</entry>
         <entry>W</entry>
-        <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
