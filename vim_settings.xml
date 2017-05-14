@@ -176,12 +176,12 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" timestamp="1494734129337">
-        <mark key="'" line="262" column="13" />
-        <mark key="[" line="109" column="30" />
-        <mark key="]" line="109" column="35" />
-        <mark key="." line="109" column="35" />
-        <mark key="^" line="109" column="35" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" timestamp="1494735342638">
+        <mark key="'" line="268" column="13" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="109" column="27" />
+        <mark key="." line="113" column="18" />
+        <mark key="^" line="113" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/views/index.pug" timestamp="1481487477845">
         <mark key="'" line="30" column="64" />
@@ -619,7 +619,7 @@
         <mark key="^" line="38" column="12" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1494734148709">
+      <file name="/dummy.sql" timestamp="1494734193706">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/HealthCheckController.java" timestamp="1469410179224">
@@ -1412,12 +1412,12 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" timestamp="1494733344885">
-        <mark key="'" line="127" column="16" />
-        <mark key="[" line="109" column="58" />
-        <mark key="]" line="109" column="77" />
-        <mark key="." line="109" column="77" />
-        <mark key="^" line="109" column="77" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" timestamp="1494734729605">
+        <mark key="'" line="129" column="16" />
+        <mark key="[" line="109" column="36" />
+        <mark key="]" line="109" column="48" />
+        <mark key="." line="109" column="48" />
+        <mark key="^" line="109" column="48" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab7/base_files/lab07.js" timestamp="1478710407315">
         <mark key="'" line="90" column="0" />
@@ -1726,23 +1726,23 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgc3RhdGVtZW50MSA9IGdlbm9tZXNEQU8uUmVmZXJlbmNlR2Vub21lcwogICAgICAgICAgICAgICAgLmZpbHRlcihfLm9yZ2FuaXNtX25hbWUgPT09IGpvYi5vcmdhbmlzbU5hbWUpCiAgICAgICAgICAgICAgICAuZmlsdGVyKF8uaW5mcmFzcGVjaWZpY19uYW1lID09PSBqb2IuaW5mcmFzcGVjaWZpY05hbWUpCiAgICAgICAgICAgICAgICAuZmlsdGVyKF8ucmVsZWFzZV9kYXRlID09PSBqb2IucmVsZWFzZURhdGUpCiAgICAgICAgICAgICAgICAubWFwKF8ucmVmZXJlbmNlX3VybCkKICAgICAgICAgICAgICAgIC5yZXN1bHQuaGVhZAo=</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>.asTry</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfdXBkYXRlU3RhcnRUaW1lRm9ySm9iXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcihfLl8yLm9yZ2FuaXNtX25hbWUgPT09IGpvYi5vcmdhbmlzbU5hbWUpICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc3RhdGVtZW50MSA9IGdlbm9tZXNEQU8uUmVmZXJlbmNlR2Vub21lcwogICAgICAgICAgICAgICAgLmZpbHRlcihfLm9yZ2FuaXNtX25hbWUgPT09IGpvYi5vcmdhbmlzbU5hbWUpCiAgICAgICAgICAgICAgICAuZmlsdGVyKF8uaW5mcmFzcGVjaWZpY19uYW1lID09PSBqb2IuaW5mcmFzcGVjaWZpY05hbWUpCiAgICAgICAgICAgICAgICAuZmlsdGVyKF8ucmVsZWFzZV9kYXRlID09PSBqb2IucmVsZWFzZURhdGUpCiAgICAgICAgICAgICAgICAubWFwKF8ucmVmZXJlbmNlX3VybCkKICAgICAgICAgICAgICAgIC5yZXN1bHQuaGVhZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2Vub21lc0RBTy4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1769,22 +1769,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmpvaW4oZ2Vub21lc0RBTy5SZWZlcmVuY2VHZW5vbWVzKS5vbihfLm9yZ2FuaXNtX25hbWUgPT09IF8ub3JnYW5pc21fbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2Vub21lc0RBTy5SZWZlcmVuY2VHZW5vbWVzCiAgICAgICAgICAgICAgICAuZmlsdGVyKF8ub3JnYW5pc21fbmFtZSA9PT0gam9iLm9yZ2FuaXNtTmFtZSkKICAgICAgICAgICAgICAgIC5maWx0ZXIoXy5pbmZyYXNwZWNpZmljX25hbWUgPT09IGpvYi5pbmZyYXNwZWNpZmljTmFtZSkKICAgICAgICAgICAgICAgIC5maWx0ZXIoXy5yZWxlYXNlX2RhdGUgPT09IGpvYi5yZWxlYXNlRGF0ZSkKICAgICAgICAgICAgICAgIC5tYXAoXy5yZWZlcmVuY2VfdXJsKQogICAgICAgICAgICAgICAgLnJlc3VsdC5oZWFkLmFzVHJ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2dnZXIuaW5mbyhnZW5vbWVzLnRvU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBkYkNvbmZpZy5kYi5ydW4gewogICAgICAgIGdlbm9tZXNEQU8uUmVmZXJlbmNlR2Vub21lcwogICAgICAgICAgICAuZmlsdGVyKF8ub3JnYW5pc21fbmFtZSA9PT0gam9iLm9yZ2FuaXNtTmFtZSkKICAgICAgICAgICAgLmZpbHRlcihfLmluZnJhc3BlY2lmaWNfbmFtZSA9PT0gam9iLmluZnJhc3BlY2lmaWNOYW1lKQogICAgICAgICAgICAuZmlsdGVyKF8ucmVsZWFzZV9kYXRlID09PSBqb2IucmVsZWFzZURhdGUpCiAgICAgICAgICAgIC5tYXAoXy5yZWZlcmVuY2VfdXJsKQogICAgICAgICAgICAucmVzdWx0LmhlYWQuYXNUcnkKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IHlpZWxkIGdlbm9tZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnJldHVybmluZygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgZ2Vub21lcyA9IGZvciB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm1hcChfLikgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnZW5vbWVzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBqb2JzREFPLmdldFJlZmVyZW5jZUdlbm9tZUZvckpvYihuZXh0Sm9iVG9Xb3JrT24pLm9uU3VjY2Vzcyh7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgcyA9PiBMb2dnZXIuaW5mbygiVEhlIHJlc3VsdDo6OjogIiArIHMudG9TdHJpbmcoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2035,13 +2035,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnZW5vbWVzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBqb2JSdW5uZXJGb3JKb2IucnVuKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLm9uQ29tcGxldGUocmVzdWx0ID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF91cGRhdGVFbmRUaW1lRm9ySm9iKG5leHRKb2JUb1dvcmtPbi5pZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9vbkpvYkNvbXBsZXRlKHJlc3VsdCwgbmV4dEpvYlRvV29ya09uKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAobmV3IFVSTCgiIikgIz4gbmV3IGphdmEuaW8uRmlsZSgiIikpLiEhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfdXBkYXRlU3RhcnRUaW1lRm9ySm9iKG5leHRKb2JUb1dvcmtPbi5pZCkK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2095,8 +2095,8 @@
         <entry>q!</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
