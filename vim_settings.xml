@@ -1411,8 +1411,8 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" timestamp="1493604377966">
-        <mark key="'" line="201" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" timestamp="1494728263727">
+        <mark key="'" line="153" column="16" />
         <mark key="[" line="129" column="14" />
         <mark key="]" line="129" column="15" />
         <mark key="." line="129" column="15" />
@@ -1620,7 +1620,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/GenomesDAO.scala" />
       <jump line="123" column="52" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" />
       <jump line="129" column="13" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" />
       <jump line="134" column="36" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" />
@@ -1720,6 +1719,7 @@
       <jump line="134" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="135" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="138" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
+      <jump line="153" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1735,7 +1735,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnNlcnRXb3JrRmlsZUludG9EYXRhYmFzZUlmTm90RXhpc3RcPg==</text>
+        <text encoding="base64">XDxfY3JlYXRlQW5kUHJlcGFyZUpvYlJ1bm5lckZvckpvYlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAoSnNQYXRoIFwgImNyZWF0aW9uRGF0ZVRpbWVFcG9jaCIpLndyaXRlW0ludF0gYW5kCg==</text>
@@ -2044,9 +2044,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnNlcnRXb3JrRmlsZUludG9EYXRhYmFzZUlmTm90RXhpc3RcPg==</last-search>
+      <last-search encoding="base64">XDxfY3JlYXRlQW5kUHJlcGFyZUpvYlJ1bm5lckZvckpvYlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnNlcnRXb3JrRmlsZUludG9EYXRhYmFzZUlmTm90RXhpc3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfY3JlYXRlQW5kUHJlcGFyZUpvYlJ1bm5lckZvckpvYlw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2054,7 +2054,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\cgraph</entry>
         <entry encoding="base64">XDxpbmZyYXNwZWNmaWNOYW1lXD4=</entry>
         <entry>\cSubmit</entry>
         <entry>3</entry>
@@ -2074,6 +2073,7 @@
         <entry>insert</entry>
         <entry>insertJob</entry>
         <entry encoding="base64">XDxpbnNlcnRXb3JrRmlsZUludG9EYXRhYmFzZUlmTm90RXhpc3RcPg==</entry>
+        <entry encoding="base64">XDxfY3JlYXRlQW5kUHJlcGFyZUpvYlJ1bm5lckZvckpvYlw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
