@@ -5,6 +5,7 @@
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping pattern="bookinginteraction_credentialslogin_root" type="XML" />
       <mapping pattern="bookinginteraction_credentialslogin" type="XML" />
+      <mapping ext="cloud-init" type="YAML" />
     </extensionMap>
   </component>
 </application>
