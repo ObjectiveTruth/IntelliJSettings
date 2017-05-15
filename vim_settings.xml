@@ -72,11 +72,11 @@
         <mark key="." line="93" column="75" />
         <mark key="^" line="93" column="75" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/dev.cloud-init" timestamp="1494868714282">
-        <mark key="[" line="18" column="750" />
-        <mark key="]" line="18" column="749" />
-        <mark key="." line="18" column="749" />
-        <mark key="^" line="18" column="749" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/dev.cloud-init" timestamp="1494869459872">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-authentication/.gitignore" timestamp="1494602694208">
         <mark key="'" line="98" column="0" />
@@ -1715,13 +1715,13 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>default</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>default</text>
       </register>
       <register name="/" type="4">
         <text>Genome</text>
