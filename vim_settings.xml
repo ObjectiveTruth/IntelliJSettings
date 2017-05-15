@@ -321,11 +321,12 @@
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/GenomesDAO.scala" timestamp="1494740277127">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/GenomesDAO.scala" timestamp="1494740709292">
         <mark key="'" line="35" column="39" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="53" column="22" />
+        <mark key="]" line="53" column="34" />
+        <mark key="." line="53" column="34" />
+        <mark key="^" line="53" column="34" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/_shared/shared.module.ts" timestamp="1494423973128">
         <mark key="'" line="6" column="8" />
@@ -618,7 +619,7 @@
         <mark key="^" line="38" column="12" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1494734193706">
+      <file name="/dummy.sql" timestamp="1494741048553">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/HealthCheckController.java" timestamp="1469410179224">
@@ -1411,11 +1412,11 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" timestamp="1494739637565">
-        <mark key="[" line="160" column="59" />
-        <mark key="]" line="160" column="89" />
-        <mark key="." line="160" column="73" />
-        <mark key="^" line="160" column="72" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" timestamp="1494740898812">
+        <mark key="[" line="120" column="72" />
+        <mark key="]" line="120" column="87" />
+        <mark key="." line="120" column="87" />
+        <mark key="^" line="120" column="87" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab7/base_files/lab07.js" timestamp="1478710407315">
         <mark key="'" line="90" column="0" />
@@ -1724,20 +1725,20 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAoUmVmZXJlbmNlR2Vub21lcyByZXR1cm5pbmcgUmVmZXJlbmNlR2Vub21lcy5tYXAoXy5yZWZlcmVuY2VfdXJsKQogICAgICAgICAgICBpbnRvICgocmVmZXJlbmNlR2Vub21lRW50cnksIHJlZmVyZW5jZV91cmwpID0+IHJlZmVyZW5jZUdlbm9tZUVudHJ5LmNvcHkocmVmZXJlbmNlX3VybD1yZWZlcmVuY2VfdXJsKSkKICAgICAgICAgICAgKz0gUmVmZXJlbmNlR2Vub21lRW50cnkoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>Genome</text>
       </register>
-      <register name="0" type="4">
-        <text>genomeUrl</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiB1cGRhdGVMb2NhbEdmZkZpbGVQYXRoRm9yR2Vub21lKGdlbm9tZURvd25sb2FkVXJsOiBTdHJpbmcsIGxvY2FsRmlsZVBhdGg6IFN0cmluZykgPSBkYkNvbmZpZy5kYi5ydW57CiAgICAgICAgdmFsIHEgPSBmb3IgewogICAgICAgICAgICBjIDwtIFJlZmVyZW5jZUdlbm9tZXMgaWYgYy5yZWZlcmVuY2VfdXJsID09PSBnZW5vbWVEb3dubG9hZFVybAogICAgICAgIH0geWllbGQgYy5yZWZlcmVuY2VfbG9jYWwKICAgICAgICBxLnVwZGF0ZShTb21lKGxvY2FsRmlsZVBhdGgpKQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAoUmVmZXJlbmNlR2Vub21lcyByZXR1cm5pbmcgUmVmZXJlbmNlR2Vub21lcy5tYXAoXy5yZWZlcmVuY2VfdXJsKQogICAgICAgICAgICBpbnRvICgocmVmZXJlbmNlR2Vub21lRW50cnksIHJlZmVyZW5jZV91cmwpID0+IHJlZmVyZW5jZUdlbm9tZUVudHJ5LmNvcHkocmVmZXJlbmNlX3VybD1yZWZlcmVuY2VfdXJsKSkKICAgICAgICAgICAgKz0gUmVmZXJlbmNlR2Vub21lRW50cnkoKQo=</text>
