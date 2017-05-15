@@ -17,11 +17,12 @@
         <mark key="^" line="66" column="80" />
         <mark key="." line="66" column="80" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" timestamp="1494878547517">
-        <mark key="[" line="10" column="62" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" timestamp="1494881623140">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="19" column="3" />
+        <mark key="]" line="19" column="7" />
+        <mark key="." line="19" column="7" />
+        <mark key="^" line="19" column="7" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/myaccount/MyAccount.java" timestamp="1480299101194">
         <mark key="'" line="115" column="40" />
@@ -818,12 +819,12 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1494878759866">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1494882157863">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="65" column="0" />
-        <mark key="." line="75" column="0" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="^" line="101" column="16" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/GraphvizCreationController.scala" timestamp="1469592955472">
         <mark key="'" line="33" column="8" />
@@ -1620,9 +1621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="7" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/GenomesDAO.scala" />
-      <jump line="112" column="30" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/GenomesDAO.scala" />
-      <jump line="57" column="79" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/GenomesDAO.scala" />
       <jump line="114" column="63" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/GenomesDAO.scala" />
       <jump line="113" column="12" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/GenomesDAO.scala" />
       <jump line="127" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/GenomesDAO.scala" />
@@ -1718,7 +1716,10 @@
       <jump line="143" column="54" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="123" column="50" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" />
       <jump line="50" column="37" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="2" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="86" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="98" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="7" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
     </jumps>
     <registers>
@@ -1726,13 +1727,13 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBBCg==</text>
+        <text encoding="base64">ICAgIGV4cG9zZToKICAgICAgLSA3OTQ2CiAgICAgIC0gNzk0Ni91ZHAK</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>build</text>
       </register>
       <register name="/" type="4">
         <text>Genome</text>
@@ -1741,7 +1742,7 @@
         <text encoding="base64">ICAgc3NoLWF1dGhvcml6ZWQta2V5czoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBBCg==</text>
+        <text encoding="base64">ICAgIGV4cG9zZToKICAgICAgLSA3OTQ2CiAgICAgIC0gNzk0Ni91ZHAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1768,22 +1769,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDU0MzIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICR7ZmlsZSgiZG9ja2VyLWNvbXBvc2UueW1sIil9Cg==</text>
+        <text encoding="base64">ICAgICAgLSBjb25zdWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBrb25nLWRhdGFiYXNlOmtvbmctZGF0YWJhc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXJzIHsKICAgIHJlZ2lvbiAgICAgICAgICAgID0gIiIKICB9Cg==</text>
+        <text encoding="base64">ICAgIGxpbmtzOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U01CRE9QVElPTlM9Ii1EIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2034,10 +2035,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB1c2VyX2RhdGEgPSAiJHtmaWxlKCJkZXYuY2xvdWQtaW5pdCIpfSIK</text>
+        <text encoding="base64">d3JpdGVfZmlsZXM6CiAtIGNvbnRlbnQ6ICR7YmFzZTY0ZW5jb2RlKGZpbGUoImRvY2tlci1jb21wb3NlLnltbCIpKX0KICAgZW5jb2Rpbmc6IGI2NAogICBwYXRoOiAvaG9tZS9lYzItdXNlci9kb2NrZXItY29tcG9zZS55bWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbGVfc3lzdGVtX2lkICAgID0gIiR7YXdzX2Vmc19maWxlX3N5c3RlbS5wcm9kLWVmcy5pZH0iCg==</text>
+        <text encoding="base64">d3JpdGVfZmlsZXM6CiAtIGNvbnRlbnQ6ICR7YmFzZTY0ZW5jb2RlKGZpbGUoImRvY2tlci1jb21wb3NlLnltbCIpKX0KICAgZW5jb2Rpbmc6IGI2NAogICBwYXRoOiAvaG9tZS9lYzItdXNlci9kb2NrZXItY29tcG9zZS55bWwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
