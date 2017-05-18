@@ -282,8 +282,8 @@
       <file name="/a.sql" timestamp="1494699058901">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1495130735988">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1495136888270">
+        <mark key="'" line="65" column="36" />
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
         <mark key="^" line="65" column="49" />
@@ -833,8 +833,8 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1495135441338">
-        <mark key="'" line="90" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1495136643038">
+        <mark key="'" line="115" column="0" />
         <mark key="[" line="90" column="0" />
         <mark key="]" line="104" column="33" />
         <mark key="^" line="101" column="16" />
@@ -1641,8 +1641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="41" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
-      <jump line="9" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/default/1.sql" />
       <jump line="87" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/default/1.sql" />
       <jump line="133" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/GenomesDAO.scala" />
       <jump line="49" column="6" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
@@ -1729,7 +1727,6 @@
       <jump line="132" column="74" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="152" column="55" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="19" column="3" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" />
-      <jump line="65" column="49" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="66" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="24" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
@@ -1741,6 +1738,9 @@
       <jump line="14" column="6" filename="$USER_HOME$/Desktop/repos/konggluu/data/docker-compose.yml" />
       <jump line="17" column="2" filename="$USER_HOME$/Desktop/repos/konggluu/data/docker-compose.yml" />
       <jump line="90" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="3" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="115" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="65" column="36" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
     </jumps>
     <registers>
       <register name="a" type="4">
