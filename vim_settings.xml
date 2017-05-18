@@ -17,11 +17,12 @@
         <mark key="^" line="66" column="80" />
         <mark key="." line="66" column="80" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" timestamp="1495128783286">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="23" column="75" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" timestamp="1495134981565">
+        <mark key="'" line="27" column="15" />
+        <mark key="[" line="20" column="54" />
+        <mark key="]" line="20" column="57" />
+        <mark key="." line="20" column="57" />
+        <mark key="^" line="20" column="57" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/myaccount/MyAccount.java" timestamp="1480299101194">
         <mark key="'" line="115" column="40" />
@@ -215,11 +216,6 @@
         <mark key="." line="37" column="55" />
         <mark key="^" line="37" column="55" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/default/2.sql" timestamp="1494720666342">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/FlowInfo.scala" timestamp="1490534124457">
         <mark key="'" line="33" column="20" />
         <mark key="[" line="40" column="0" />
@@ -286,8 +282,8 @@
       <file name="/a.sql" timestamp="1494699058901">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1495124634682">
-        <mark key="'" line="66" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1495130735988">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
         <mark key="^" line="65" column="49" />
@@ -483,10 +479,11 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/konggluu/data/docker-compose.yml" timestamp="1495030211546">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/konggluu/data/docker-compose.yml" timestamp="1495135446592">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+        <mark key="." line="1" column="8" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/common/InteractionFragment.java" timestamp="1480353190529">
         <mark key="'" line="7" column="22" />
@@ -836,10 +833,10 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1495030210670">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1495135441338">
         <mark key="'" line="90" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="104" column="33" />
         <mark key="^" line="101" column="16" />
         <mark key="." line="102" column="0" />
       </file>
@@ -1127,6 +1124,12 @@
         <mark key="]" line="17" column="20" />
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="20" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/bash-config.dev.tpl" timestamp="1495132470353">
+        <mark key="[" line="34" column="6" />
+        <mark key="]" line="34" column="749" />
+        <mark key="^" line="38" column="40" />
+        <mark key="." line="38" column="40" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/app/routes/createImgurLinkForDotString.js" timestamp="1480186503668">
         <mark key="'" line="81" column="0" />
@@ -1638,13 +1641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="11" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
-      <jump line="78" column="13" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
-      <jump line="93" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
-      <jump line="117" column="24" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
-      <jump line="151" column="20" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
-      <jump line="158" column="57" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
-      <jump line="54" column="51" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
       <jump line="79" column="41" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
       <jump line="9" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/default/1.sql" />
       <jump line="87" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/default/1.sql" />
@@ -1700,7 +1696,6 @@
       <jump line="98" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="7" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="90" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="119" column="40" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="39" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
       <jump line="244" column="3" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
@@ -1735,31 +1730,39 @@
       <jump line="152" column="55" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="19" column="3" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" />
       <jump line="65" column="49" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="66" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="24" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="11" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" />
+      <jump line="125" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" />
+      <jump line="27" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" />
+      <jump line="103" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="84" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="14" column="6" filename="$USER_HOME$/Desktop/repos/konggluu/data/docker-compose.yml" />
+      <jump line="17" column="2" filename="$USER_HOME$/Desktop/repos/konggluu/data/docker-compose.yml" />
+      <jump line="90" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAtIFBPU1RHUkVTX1VTRVI9a29uZwogICAgICAtIFBPU1RHUkVTX0RCPWtvbmcKCiAga29uZzoKICAgIGltYWdlOiBrb25nOjAuMTAuMgogICAgcG9ydHM6CiAgICAgIC0gODAwMDo4MDAwCiAgICAgIC0gODQ0Mzo4NDQzCiAgICAgIC0gODAwMTo4MDAxCiAgICBlbnZpcm9ubWVudDoKICAgICAgLSBLT05HX0RBVEFCQVNFPXBvc3RncmVzCiAgICAgIC0K</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>joe</text>
+        <text>objectivetruth</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSRUZFUkVOQ0VfR0VOT01FXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgdW5jb21wcmVzc2VkID0gcmVzLmJvZHkudmlhKENvbXByZXNzaW9uLmd1bnppcCgpKQo=</text>
+        <text encoding="base64">ICBrb25nLWRhdGFiYXNlOgogICAgaW1hZ2U6IHBvc3RncmVzOjkuNAogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gUE9TVEdSRVNfVVNFUj1rb25nCiAgICAgIC0gUE9TVEdSRVNfREI9a29uZwoKICBrb25nOgogICAgaW1hZ2U6IGtvbmc6MC4xMC4yCiAgICBwb3J0czoKICAgICAgLSA4MDAwOjgwMDAKICAgICAgLSA4NDQzOjg0NDMKICAgICAgLSA4MDAxOjgwMDEKICAgIGVudmlyb25tZW50OgogICAgICAtIEtPTkdfREFUQUJBU0U9cG9zdGdyZXMKICAgICAgLSBLT05HX1BHX0hPU1Q9a29uZy1kYXRhYmFzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAtIFBPU1RHUkVTX1VTRVI9a29uZwogICAgICAtIFBPU1RHUkVTX0RCPWtvbmcKCiAga29uZzoKICAgIGltYWdlOiBrb25nOjAuMTAuMgogICAgcG9ydHM6CiAgICAgIC0gODAwMDo4MDAwCiAgICAgIC0gODQ0Mzo4NDQzCiAgICAgIC0gODAwMTo4MDAxCiAgICBlbnZpcm9ubWVudDoKICAgICAgLSBLT05HX0RBVEFCQVNFPXBvc3RncmVzCiAgICAgIC0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1786,19 +1789,27 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlcnM6CiAtIG5hbWU6IG9iamVjdGl2ZXRydXRoCiAgIHNzaF9hdXRob3JpemVkX2tleXM6ICJzc2gtcnNhIEFBQUFCM056YUMxeWMyRUFBQUFEQVFBQkFBQUNBUURHaG1qSE1VcWlWNWI2RVo5dUFJVldmV3ZZU3lIQ1hJUFdYOGpsTFZNM0J1WDN3dWE1dkJsODRsSkQ1cGNNRFlCRTU5bEJ6bERJcTNFMlJYSG9VZG1oSFdSb095ZDA2OXRHeVNGWDNHVmFEUWZMY2J6MEVCbDhiTG9qM1FyL0drMXhPUUhrVDJtRUZYcVptcUVwRjI0ZTJMYk1DU040V0gvOHhsRVBlK3NRVzBiOHhrVlNmSE9QWXk5bnV4VnphS1FJR2ZRSW04WXo0ZUZzOElqQVNWZ0hpOTF1T1hlWkY0VnlaOFRNRTJlUFo0T1k0UzJ1MXloakhZamhiemZYUG01bW9zM3RvOE9hRWZyMWZwQkpTMjZMeFlOY3VBWldFNmY3dThldWd0SFcrYUFacXhlcHBQQ0p2QW0vTW9zUyt1S3haeTJpck9QS1orbnRKSVlEMGlSRTFiL3AzUEM5bFFnTmJCYjlvb1F6bmpUcTRlWEhHeG5RbkVJTFNWaVlacEZjVGJsZzJWTFhtOERiYlJPU1JvK1JmbTBQY3BvS2NLOFdpZDV0RmpnZHB3cE5aWjE4SVRac3FVdTl3L0lhUTFFeGZPb29hWXZicFdQd09paGx2L0xKQUFLQkV6WDJOTGlsam9zaktUUCtNWHJQSWZyMDdGbVJpTUpTQk04WjJId3pKaENOMGtwcHRFaFFKMWZ6S1FrMnBHYnpMSGYwL2VlY0c5TlZhSDcwVGFkeHVZK3l4VjNmMGkxVlZWblZwWS9qUVFYOUVuYkZqUHhNdDhzVFZBeHJteTFTakdDVURzc2NJSklLZ2FKZHEweVFsYlg5NEViTTI3UVNteTFrejIrWVVrcmZyYkE1dXdub2tyS0ZWbEt5bkt0LzBzeXV6U1IySms3dE1GSEFjUT09IGoubWVuZGV6QHJvZ2Vycy5jb20iCg==</text>
+        <text encoding="base64">ICAgIGltYWdlOiBwb3N0Z3Jlczo5LjQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IC0gZG9ja2VyLWNvbXBvc2UgdXAgLWQK</text>
+        <text encoding="base64">LWRhdGFiYXNlOgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhyRqxX9b+XXEjY7tohdT
+oeFl9jXZ6o/n2LPJmVnkHupotMgHBkZ+Q4heRCmloLYaxqiAaGKz8aUKe2ajPHVp
+CsUG5+y0hDs49DUm6PNruwY7y/gWk+08wpGXbjQVK436A+8PlN3FyNvl8b0kN1EG
+rzgkp/ancZb9klZJDUHJwT+OtAEAAKGzkoXLqufGtopP3O6uWYsE4obzd3uc0Duo
+AwSuBQSy1zVfAFNtNoqNkZ2elSY0zlvOyMCEVnBcsAZ+dfTpGQiNeKEqcDfWzB+M
+fDsGvblMaPYXLMvi346x1JhAOUXbpMRYjxPr0xW5fhhw7RifZ47wX7nUcHMVQ+pN
+TQIDAQAB
+-----END PUBLIC KEY----&quot;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgZ3ppcElucHV0U3RyZWFtID0gU3RyZWFtQ29udmVydGVycy5mcm9tSW5wdXRTdHJlYW0oKCkgPT4gbmV3IEdaSVBJbnB1dFN0cmVhbShyZXMuYm9keS5ydW5XaXRoKHNlY29uZFNpbmspKSkK</text>
+        <text encoding="base64">ICAgIC0gInNzaC1yc2EgQUFBQUIzTnphQzF5YzJFQUFBQURBUUFCQUFBQ0FRQytpc3FyZmFRclpuNDNSZVByMnA2c0tqRHlqZnhHYmppOUhLenFIQVhUYS9vNWZvY3RGM0ZubysrOFZKTGhuUzZURHJZaDlwQ3ZwVkJJR1Q4dERQeWZUR2loNlNvaDhTWmRwV2ZrM2liNVpLYkxjSEt4WXFaa05Fb2JDZGI2OHpwKzFtR005YXBuby9YVURuNWdWS3NEWVRVb2Ivd29PU0w0bldMOGYxVnl5MW12NVNrQkQxWUFreWMzTk9ZYWNsVWVnNUdPQVNqc3NrdjF5c0ZGeHBjb2F2dlhPLy9Teml3YWFaYSt6U1l6VW1qb25Bd21td0dDRFdYUExVV1RoNE5YQWxIYmNiY0R2Zkk4WU1MVmdoYkorWlFBSHFPMGlnSnp3RXhMbTVqaDJsTlJrdU8yaVJRSDJST0ZZd2NSTkNFRVA1SjI3VzhnalZGRXlCTmlmaE9uZy9tenNBczM2YUlzMmwrWFc2RjVhM2hlL0VLOTZXRS9jZmpCY0k1SUpsQ3VWdDZycUxsb0VBZ3dGdWVvY056Z0txMENzVW9kNGl0dnlXeU9hS3ZaZ0VuTktDMVZnaDNFREhsejd6RnlVY3l2REhGeEFMMnR4Qys1SUdqSGlGNlc1bjc4SnRBbVEyNlNaWGVQa1dCM3BDR1BoQm5tOEVYSXBEUkF2T1pCQWs1YzlBMzhMb0pUdXlIWGNncnVDTzFEUFhIMFNMS3ZUT1c1OGc0WTVha0NiMGZQUDUwYlU4UmFqcXpwczQ0MUx4U1dVZVFacFNVRWFjbFNQTWFtbCtETGxSSDNrbXRVNmZNU29xSlpuRXBqM3VnYm00MWgzaXRUVDE0WWt6c0tFQmpuTWZWK1JzMnIwWnJVWUxlVEVyK0NyeXNKaGg0NytRaEVaYU1TSGoxWXZRPT0gcGFuYWNlYV8yQE1pZ3VlbHMtTWFjQm9vay1Qcm8tMi5sb2NhbCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgc2Vjb25kU2luayA9IFN0cmVhbUNvbnZlcnRlcnMuYXNJbnB1dFN0cmVhbSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -2052,10 +2063,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgZ3ppcElucHV0U3RyZWFtID0gU3RyZWFtQ29udmVydGVycy5mcm9tSW5wdXRTdHJlYW0oKCkgPT4gbmV3IEdaSVBJbnB1dFN0cmVhbShyZXMuYm9keS5ydW5XaXRoKHNlY29uZFNpbmspKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgc2Vjb25kU2luayA9IFN0cmVhbUNvbnZlcnRlcnMuYXNJbnB1dFN0cmVhbSgpCg==</text>
+        <text encoding="base64">IC0gbmFtZTogc3VtZWVuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2111,8 +2122,8 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>q!</entry>
         <entry>W</entry>
-        <entry>q</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
