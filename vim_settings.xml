@@ -17,12 +17,11 @@
         <mark key="^" line="66" column="80" />
         <mark key="." line="66" column="80" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" timestamp="1495125577001">
-        <mark key="'" line="20" column="3" />
-        <mark key="[" line="24" column="770" />
-        <mark key="]" line="24" column="769" />
-        <mark key="." line="24" column="769" />
-        <mark key="^" line="24" column="769" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" timestamp="1495128783286">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="23" column="75" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/myaccount/MyAccount.java" timestamp="1480299101194">
         <mark key="'" line="115" column="40" />
@@ -1639,7 +1638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="72" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
       <jump line="29" column="11" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
       <jump line="78" column="13" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
       <jump line="93" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
@@ -1739,19 +1737,20 @@
       <jump line="65" column="49" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="66" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="24" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>core</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>core</text>
+        <text>joe</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSRUZFUkVOQ0VfR0VOT01FXD4=</text>
@@ -1787,10 +1786,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgZ3ppcElucHV0U3RyZWFtID0gU3RyZWFtQ29udmVydGVycy5mcm9tSW5wdXRTdHJlYW0oKCkgPT4gbmV3IEdaSVBJbnB1dFN0cmVhbShyZXMuYm9keS5ydW5XaXRoKHNlY29uZFNpbmspKSkK</text>
+        <text encoding="base64">dXNlcnM6CiAtIG5hbWU6IG9iamVjdGl2ZXRydXRoCiAgIHNzaF9hdXRob3JpemVkX2tleXM6ICJzc2gtcnNhIEFBQUFCM056YUMxeWMyRUFBQUFEQVFBQkFBQUNBUURHaG1qSE1VcWlWNWI2RVo5dUFJVldmV3ZZU3lIQ1hJUFdYOGpsTFZNM0J1WDN3dWE1dkJsODRsSkQ1cGNNRFlCRTU5bEJ6bERJcTNFMlJYSG9VZG1oSFdSb095ZDA2OXRHeVNGWDNHVmFEUWZMY2J6MEVCbDhiTG9qM1FyL0drMXhPUUhrVDJtRUZYcVptcUVwRjI0ZTJMYk1DU040V0gvOHhsRVBlK3NRVzBiOHhrVlNmSE9QWXk5bnV4VnphS1FJR2ZRSW04WXo0ZUZzOElqQVNWZ0hpOTF1T1hlWkY0VnlaOFRNRTJlUFo0T1k0UzJ1MXloakhZamhiemZYUG01bW9zM3RvOE9hRWZyMWZwQkpTMjZMeFlOY3VBWldFNmY3dThldWd0SFcrYUFacXhlcHBQQ0p2QW0vTW9zUyt1S3haeTJpck9QS1orbnRKSVlEMGlSRTFiL3AzUEM5bFFnTmJCYjlvb1F6bmpUcTRlWEhHeG5RbkVJTFNWaVlacEZjVGJsZzJWTFhtOERiYlJPU1JvK1JmbTBQY3BvS2NLOFdpZDV0RmpnZHB3cE5aWjE4SVRac3FVdTl3L0lhUTFFeGZPb29hWXZicFdQd09paGx2L0xKQUFLQkV6WDJOTGlsam9zaktUUCtNWHJQSWZyMDdGbVJpTUpTQk04WjJId3pKaENOMGtwcHRFaFFKMWZ6S1FrMnBHYnpMSGYwL2VlY0c5TlZhSDcwVGFkeHVZK3l4VjNmMGkxVlZWblZwWS9qUVFYOUVuYkZqUHhNdDhzVFZBeHJteTFTakdDVURzc2NJSklLZ2FKZHEweVFsYlg5NEViTTI3UVNteTFrejIrWVVrcmZyYkE1dXdub2tyS0ZWbEt5bkt0LzBzeXV6U1IySms3dE1GSEFjUT09IGoubWVuZGV6QHJvZ2Vycy5jb20iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgc2Vjb25kU2luayA9IFN0cmVhbUNvbnZlcnRlcnMuYXNJbnB1dFN0cmVhbSgpCg==</text>
+        <text encoding="base64">IC0gZG9ja2VyLWNvbXBvc2UgdXAgLWQK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1802,7 +1801,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgc2Vjb25kU2luayA9IFN0cmVhbUNvbnZlcnRlcnMuYXNJbnB1dFN0cmVhbSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXMuYm9keS52aWEoQ29tcHJlc3Npb24uZ3VuemlwKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2053,10 +2052,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gY2Qgd2ViZnJvbnRlbmQgJiYgbnBtIGluc3RhbGwgJiYgbnBtIHJ1biBidWlsZC1kaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgZ3ppcElucHV0U3RyZWFtID0gU3RyZWFtQ29udmVydGVycy5mcm9tSW5wdXRTdHJlYW0oKCkgPT4gbmV3IEdaSVBJbnB1dFN0cmVhbShyZXMuYm9keS5ydW5XaXRoKHNlY29uZFNpbmspKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgc2Vjb25kU2luayA9IFN0cmVhbUNvbnZlcnRlcnMuYXNJbnB1dFN0cmVhbSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
