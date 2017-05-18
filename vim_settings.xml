@@ -17,12 +17,12 @@
         <mark key="^" line="66" column="80" />
         <mark key="." line="66" column="80" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" timestamp="1495124298237">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" timestamp="1495125577001">
         <mark key="'" line="20" column="3" />
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="26" />
-        <mark key="." line="9" column="26" />
-        <mark key="^" line="9" column="26" />
+        <mark key="[" line="24" column="770" />
+        <mark key="]" line="24" column="769" />
+        <mark key="." line="24" column="769" />
+        <mark key="^" line="24" column="769" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/myaccount/MyAccount.java" timestamp="1480299101194">
         <mark key="'" line="115" column="40" />
@@ -1745,13 +1745,13 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>user</text>
+        <text>core</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>core</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSRUZFUkVOQ0VfR0VOT01FXD4=</text>
