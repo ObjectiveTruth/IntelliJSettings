@@ -17,12 +17,12 @@
         <mark key="^" line="66" column="80" />
         <mark key="." line="66" column="80" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" timestamp="1495209820034">
-        <mark key="'" line="30" column="15" />
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="8" column="2" />
-        <mark key="." line="8" column="2" />
-        <mark key="^" line="8" column="2" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" timestamp="1495214324163">
+        <mark key="'" line="31" column="15" />
+        <mark key="[" line="33" column="3" />
+        <mark key="]" line="33" column="3" />
+        <mark key="." line="33" column="3" />
+        <mark key="^" line="28" column="16" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/myaccount/MyAccount.java" timestamp="1480299101194">
         <mark key="'" line="115" column="40" />
@@ -1747,20 +1747,20 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSRUZFUkVOQ0VfR0VOT01FXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IC0gY3VybCAtTCBodHRwczovL2dpdGh1Yi5jb20vZG9ja2VyL2NvbXBvc2UvcmVsZWFzZXMvZG93bmxvYWQvMS4xMy4wL2RvY2tlci1jb21wb3NlLWB1bmFtZSAtc2AtYHVuYW1lIC1tYCA+IC91c3IvbG9jYWwvYmluL2RvY2tlci1jb21wb3NlCg==</text>
+        <text encoding="base64">ICAgZ3JvdXBzOiBkb2NrZXIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
