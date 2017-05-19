@@ -1276,12 +1276,12 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1495064764516">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="82" column="142" />
-        <mark key="]" line="82" column="141" />
-        <mark key="." line="82" column="141" />
-        <mark key="^" line="82" column="141" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1495218972307">
+        <mark key="'" line="58" column="4" />
+        <mark key="[" line="35" column="31" />
+        <mark key="]" line="35" column="30" />
+        <mark key="." line="35" column="30" />
+        <mark key="^" line="35" column="30" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3abb79e0-f4f4-493d-ad25-6bb441fcce01/console_1.sql" timestamp="1491520860343">
         <mark key="[" line="0" column="0" />
@@ -1642,11 +1642,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="37" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/default/1.sql" />
-      <jump line="151" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/GenomesDAO.scala" />
-      <jump line="79" column="41" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/default/1.sql" />
-      <jump line="21" column="13" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/default/1.sql" />
-      <jump line="238" column="71" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" />
       <jump line="269" column="58" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
       <jump line="185" column="12" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" />
       <jump line="42" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
@@ -1716,7 +1711,6 @@
       <jump line="28" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="82" column="94" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="84" column="61" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
-      <jump line="77" column="9" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="29" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="40" column="26" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="76" column="9" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
@@ -1742,25 +1736,31 @@
       <jump line="94" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="115" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="77" column="32" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
+      <jump line="55" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
+      <jump line="59" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
+      <jump line="22" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
+      <jump line="35" column="22" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
+      <jump line="58" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZWNobyAiIgo=</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSRUZFUkVOQ0VfR0VOT01FXD4=</text>
+        <text encoding="base64">XDxCV0FfT1BUSU9OXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgZ3JvdXBzOiBkb2NrZXIK</text>
+        <text encoding="base64">ZWNobyAiIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2074,9 +2074,9 @@ TQIDAQAB
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSRUZFUkVOQ0VfR0VOT01FXD4=</last-search>
+      <last-search encoding="base64">XDxCV0FfT1BUSU9OXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSRUZFUkVOQ0VfR0VOT01FXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxCV0FfT1BUSU9OXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2084,8 +2084,6 @@ TQIDAQAB
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxKb2JcPg==</entry>
-        <entry>JobWrites</entry>
         <entry>insert</entry>
         <entry>insertJob</entry>
         <entry encoding="base64">XDxpbnNlcnRXb3JrRmlsZUludG9EYXRhYmFzZUlmTm90RXhpc3RcPg==</entry>
@@ -2104,6 +2102,8 @@ TQIDAQAB
         <entry encoding="base64">XDxHMl9MQU5FMlw+</entry>
         <entry encoding="base64">XDxleG9uc19vbmx5XD4=</entry>
         <entry encoding="base64">XDxSRUZFUkVOQ0VfR0VOT01FXD4=</entry>
+        <entry encoding="base64">XDxCV0FfRElSXD4=</entry>
+        <entry encoding="base64">XDxCV0FfT1BUSU9OXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
