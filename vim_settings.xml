@@ -1282,12 +1282,12 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1495242303513">
-        <mark key="'" line="58" column="4" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="90" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="95" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1495250594794">
+        <mark key="'" line="85" column="22" />
+        <mark key="[" line="85" column="14" />
+        <mark key="]" line="85" column="22" />
+        <mark key="." line="85" column="22" />
+        <mark key="^" line="85" column="22" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3abb79e0-f4f4-493d-ad25-6bb441fcce01/console_1.sql" timestamp="1491520860343">
         <mark key="[" line="0" column="0" />
@@ -1645,11 +1645,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="108" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/Upload.scala" />
-      <jump line="134" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="135" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
-      <jump line="138" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" />
       <jump line="153" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="107" column="58" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="58" column="29" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
@@ -1703,7 +1698,6 @@
       <jump line="266" column="84" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" />
       <jump line="39" column="26" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="28" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
-      <jump line="82" column="94" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="84" column="61" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="29" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="40" column="26" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
@@ -1745,22 +1739,28 @@
       <jump line="42" column="102" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" />
       <jump line="102" column="15" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" />
       <jump line="22" column="128" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" />
+      <jump line="86" column="95" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
+      <jump line="87" column="37" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
+      <jump line="88" column="63" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
+      <jump line="82" column="42" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
+      <jump line="83" column="62" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
+      <jump line="85" column="22" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICYmIFw=</text>
+        <text>DISCOSNP_VCF_RESULT</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmIFw=</text>
+        <text>DISCOSNP_VCF_RESULT</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMSU5VWF9CRURPUFNfQklOQVJJRVNfUkVMRUFTRV9VUkxcPg==</text>
+        <text encoding="base64">XDxtdXRhdGlvbnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVjaG8gIkluc3RhbGxpbmcgQldBIChodHRwczovL2dpdGh1Yi5jb20vbGgzL2J3YSkgLi4uIiAmJiBcCiAgICBta2RpciAiJElOU1RBTExfRElSIi9CV0EgJiYgXAogICAgY3VybCAiJEJXQV9CSU5BUklFU19SRUxFQVNFX1VSTCIgLUwgPiAiJHtJTlNUQUxMX0RJUn0iL0JXQS9id2EudGFyLmJ6MiAmJiBcCiAgICBiemNhdCAiJHtJTlNUQUxMX0RJUn0iL0JXQS9id2EudGFyLmJ6MiB8IHRhciAteHYgLUMgIiR7SU5TVEFMTF9ESVJ9Ii9CV0EvIC0tc3RyaXAtY29tcG9uZW50cyAxICYmIFwKICAgIGNobW9kICt4ICIkSU5TVEFMTF9ESVIiL0JXQS9id2EKICAgIGVjaG8gIkRvbmUiCg==</text>
@@ -2069,9 +2069,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMSU5VWF9CRURPUFNfQklOQVJJRVNfUkVMRUFTRV9VUkxcPg==</last-search>
+      <last-search encoding="base64">XDxtdXRhdGlvbnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMSU5VWF9CRURPUFNfQklOQVJJRVNfUkVMRUFTRV9VUkxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtdXRhdGlvbnNcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2079,7 +2079,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Genome</entry>
         <entry>removeF</entry>
         <entry>remove</entry>
         <entry encoding="base64">XDxzaW5rXD4=</entry>
@@ -2099,6 +2098,7 @@
         <entry>Truth</entry>
         <entry>bzcat</entry>
         <entry encoding="base64">XDxMSU5VWF9CRURPUFNfQklOQVJJRVNfUkVMRUFTRV9VUkxcPg==</entry>
+        <entry encoding="base64">XDxtdXRhdGlvbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
