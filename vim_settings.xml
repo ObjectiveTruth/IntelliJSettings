@@ -793,6 +793,12 @@
         <mark key="^" line="228" column="0" />
         <mark key="." line="228" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/Dockerfile" timestamp="1495248562779">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="31" />
+        <mark key="^" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/files/files/files.component.html" timestamp="1491449160582">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="79" />
@@ -1633,12 +1639,9 @@
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" timestamp="1495247260834">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" timestamp="1495248456924">
         <mark key="'" line="22" column="128" />
-        <mark key="[" line="123" column="184" />
-        <mark key="]" line="123" column="183" />
-        <mark key="^" line="123" column="183" />
-        <mark key="." line="123" column="183" />
+        <mark key="^" line="113" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -1747,23 +1750,23 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bXYgIiRPVVRQVVRfRElSIi90bXAgIiRPVVRQVVRfRElSIi9kaXNjb1Jlc19rXzMxX2NfYXV0b19EXzEwMF9QXzFfYl8wX2NvaGVyZW50X2Zvcl9JR1YudmNmCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICYmIFw=</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text encoding="base64">ICYmIFw=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMSU5VWF9CRURPUFNfQklOQVJJRVNfUkVMRUFTRV9VUkxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bXYgIiRPVVRQVVRfRElSIi90bXAgIiRPVVRQVVRfRElSIi9kaXNjb1Jlc19rXzMxX2NfYXV0b19EXzEwMF9QXzFfYl8wX2NvaGVyZW50X2Zvcl9JR1YudmNmCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIkluc3RhbGxpbmcgQldBIChodHRwczovL2dpdGh1Yi5jb20vbGgzL2J3YSkgLi4uIiAmJiBcCiAgICBta2RpciAiJElOU1RBTExfRElSIi9CV0EgJiYgXAogICAgY3VybCAiJEJXQV9CSU5BUklFU19SRUxFQVNFX1VSTCIgLUwgPiAiJHtJTlNUQUxMX0RJUn0iL0JXQS9id2EudGFyLmJ6MiAmJiBcCiAgICBiemNhdCAiJHtJTlNUQUxMX0RJUn0iL0JXQS9id2EudGFyLmJ6MiB8IHRhciAteHYgLUMgIiR7SU5TVEFMTF9ESVJ9Ii9CV0EvIC0tc3RyaXAtY29tcG9uZW50cyAxICYmIFwKICAgIGNobW9kICt4ICIkSU5TVEFMTF9ESVIiL0JXQS9id2EKICAgIGVjaG8gIkRvbmUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNobW9kICt4ICIkSU5TVEFMTF9ESVIiL0JXQS9id2EK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1790,22 +1793,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgdGFyIC14enYgLUMgIiRJTlNUQUxMX0RJUi9CRURPUFMvIiAtLXN0cmlwLWNvbXBvbmVudHMgMSAmJiBcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJ6Y2F0ICIke0lOU1RBTExfRElSfSIvQldBL2J3YS50YXIuYnoyIHwgdGFyIC14diAtQyAiJHtJTlNUQUxMX0RJUn0iL0JXQS8uLyAtLXN0cmlwLWNvbXBvbmVudHMgMQo=</text>
+        <text encoding="base64">UlVOIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGN1cmwgIiRCV0FfQklOQVJJRVNfUkVMRUFTRV9VUkwiIC1MID4gIiR7SU5TVEFMTF9ESVJ9Ii9CV0EvYndhLnRhci5iejIgJiYgXAo=</text>
+        <text encoding="base64">ICAgIGNobW9kICt4ICIkSU5TVEFMTF9ESVIiL0JXQS9id2EK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJ6Y2F0ICIke0lOU1RBTExfRElSfSIvQldBL2J3YS50YXIuYnoyIHwgdGFyIC14diAtQyAiJHtJTlNUQUxMX0RJUn0iL0JXQS8uLyAtLXN0cmlwLWNvbXBvbmVudHMgMQo=</text>
+        <text encoding="base64">ICAgICAgICAgdGFyIC14enYgLUMgIiRJTlNUQUxMX0RJUi9CRURPUFMvIiAtLXN0cmlwLWNvbXBvbmVudHMgMSAmJiBcCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGN1cmwgIiRCV0FfQklOQVJJRVNfUkVMRUFTRV9VUkwiIC1MID4gIiR7SU5TVEFMTF9ESVJ9Ii9CV0EvYndhLnRhci5iejIgJiYgXAo=</text>
+        <text encoding="base64">ICAgIGJ6Y2F0ICIke0lOU1RBTExfRElSfSIvQldBL2J3YS50YXIuYnoyIHwgdGFyIC14diAtQyAiJHtJTlNUQUxMX0RJUn0iL0JXQS8uLyAtLXN0cmlwLWNvbXBvbmVudHMgMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJ6aXAyIC1kICIke0lOU1RBTExfRElSfSIvQldBL2J3YS50YXIuYnoyIHwgdGFyIC14diAtQyAiJHtJTlNUQUxMX0RJUn0iL0JXQSAtLXN0cmlwLWNvbXBvbmVudHMgMSAmJiBcCg==</text>
+        <text encoding="base64">ICAgIGN1cmwgIiRCV0FfQklOQVJJRVNfUkVMRUFTRV9VUkwiIC1MID4gIiR7SU5TVEFMTF9ESVJ9Ii9CV0EvYndhLnRhci5iejIgJiYgXAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2056,10 +2059,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHwgdGFyIC14enYgLUMgIiRJTlNUQUxMX0RJUiIvQldBLyAtLXN0cmlwLWNvbXBvbmVudHMgMSAmJiBcCg==</text>
+        <text encoding="base64">ICAgIGJ6Y2F0ICIke0lOU1RBTExfRElSfSIvQldBL2J3YS50YXIuYnoyIHwgdGFyIC14diAtQyAiJHtJTlNUQUxMX0RJUn0iL0JXQS8uLyAtLXN0cmlwLWNvbXBvbmVudHMgMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN1cmwgIiRCV0FfQklOQVJJRVNfUkVMRUFTRV9VUkwiIC1MID4gIiR7SU5TVEFMTF9ESVJ9Ii9CV0EvYndhLnRhci5iejIgJiYgXAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
