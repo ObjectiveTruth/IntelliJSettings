@@ -1276,12 +1276,12 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1495240788543">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1495242303513">
         <mark key="'" line="58" column="4" />
-        <mark key="[" line="87" column="158" />
-        <mark key="]" line="87" column="157" />
-        <mark key="." line="87" column="157" />
-        <mark key="^" line="87" column="157" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="90" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="95" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3abb79e0-f4f4-493d-ad25-6bb441fcce01/console_1.sql" timestamp="1491520860343">
         <mark key="[" line="0" column="0" />
@@ -1748,7 +1748,7 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNobW9kICt4ICIkSU5TVEFMTF9ESVIiL0JXQS9id2EK</text>
+        <text encoding="base64">bXYgIiRPVVRQVVRfRElSIi90bXAgIiRPVVRQVVRfRElSIi9kaXNjb1Jlc19rXzMxX2NfYXV0b19EXzEwMF9QXzFfYl8wX2NvaGVyZW50X2Zvcl9JR1YudmNmCg==</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
@@ -1760,7 +1760,7 @@
         <text encoding="base64">XDxMSU5VWF9CRURPUFNfQklOQVJJRVNfUkVMRUFTRV9VUkxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJ6Y2F0ICIke0lOU1RBTExfRElSfSIvQldBL2J3YS50YXIuYnoyIHwgdGFyIC14diAtQyAiJHtJTlNUQUxMX0RJUn0iL0JXQS8uLyAtLXN0cmlwLWNvbXBvbmVudHMgMQo=</text>
+        <text encoding="base64">bXYgIiRPVVRQVVRfRElSIi90bXAgIiRPVVRQVVRfRElSIi9kaXNjb1Jlc19rXzMxX2NfYXV0b19EXzEwMF9QXzFfYl8wX2NvaGVyZW50X2Zvcl9JR1YudmNmCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNobW9kICt4ICIkSU5TVEFMTF9ESVIiL0JXQS9id2EK</text>
