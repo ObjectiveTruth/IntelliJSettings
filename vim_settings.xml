@@ -1282,12 +1282,12 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1495250594794">
-        <mark key="'" line="85" column="22" />
-        <mark key="[" line="85" column="14" />
-        <mark key="]" line="85" column="22" />
-        <mark key="." line="85" column="22" />
-        <mark key="^" line="85" column="22" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1495251881606">
+        <mark key="'" line="91" column="22" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="82" column="50" />
+        <mark key="^" line="82" column="50" />
+        <mark key="." line="82" column="50" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3abb79e0-f4f4-493d-ad25-6bb441fcce01/console_1.sql" timestamp="1491520860343">
         <mark key="[" line="0" column="0" />
@@ -1750,20 +1750,20 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>DISCOSNP_VCF_RESULT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>DISCOSNP_VCF_RESULT</text>
+        <text>exons_only</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtdXRhdGlvbnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIkluc3RhbGxpbmcgQldBIChodHRwczovL2dpdGh1Yi5jb20vbGgzL2J3YSkgLi4uIiAmJiBcCiAgICBta2RpciAiJElOU1RBTExfRElSIi9CV0EgJiYgXAogICAgY3VybCAiJEJXQV9CSU5BUklFU19SRUxFQVNFX1VSTCIgLUwgPiAiJHtJTlNUQUxMX0RJUn0iL0JXQS9id2EudGFyLmJ6MiAmJiBcCiAgICBiemNhdCAiJHtJTlNUQUxMX0RJUn0iL0JXQS9id2EudGFyLmJ6MiB8IHRhciAteHYgLUMgIiR7SU5TVEFMTF9ESVJ9Ii9CV0EvIC0tc3RyaXAtY29tcG9uZW50cyAxICYmIFwKICAgIGNobW9kICt4ICIkSU5TVEFMTF9ESVIiL0JXQS9id2EKICAgIGVjaG8gIkRvbmUiCg==</text>
+        <text encoding="base64">IyBmaWx0ZXIgdGhlIGdmZiB0byBvbmx5IGdpdmUgZXhvbnMKY2F0ICIkUkVGRVJFTkNFX0dFTk9NRV9BTk5PVEFUSU9OUyIgfCBhd2sgJyQzID09ICJleG9uIiB7cHJpbnQgJDB9JyA+ICIkT1VUUFVUX0RJUiIvZXhvbnNfb25seS52Y2YKZW52IFBBVEg9IiRCRURPUFMiICIkQkVET1BTX0RJUiJ2Y2YyYmVkIC0ta2VlcC1oZWFkZXIgPCAiJE9VVFBVVF9ESVIiL2V4b25zX29ubHkudmNmID4gIiRPVVRQVVRfRElSIi9leG9uc19vbmx5LmJlZAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1793,22 +1793,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDb252ZXJ0IHRoZSBtdXRhdGlvbnMgdG8gYmVkIGZvcm1hdAplbnYgUEFUSD0iJEJFRE9QUyIgIiRCRURPUFNfRElSInZjZjJiZWQgLS1rZWVwLWhlYWRlciA8ICIkT1VUUFVUX0RJUiIvbXV0YXRpb25zLnZjZiA+ICIkT1VUUFVUX0RJUiIvbXV0YXRpb25zLmJlZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNobW9kICt4ICIkSU5TVEFMTF9ESVIiL0JXQS9id2EK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgdGFyIC14enYgLUMgIiRJTlNUQUxMX0RJUi9CRURPUFMvIiAtLXN0cmlwLWNvbXBvbmVudHMgMSAmJiBcCg==</text>
+        <text encoding="base64">UlVOIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJ6Y2F0ICIke0lOU1RBTExfRElSfSIvQldBL2J3YS50YXIuYnoyIHwgdGFyIC14diAtQyAiJHtJTlNUQUxMX0RJUn0iL0JXQS8uLyAtLXN0cmlwLWNvbXBvbmVudHMgMQo=</text>
+        <text encoding="base64">ICAgIGNobW9kICt4ICIkSU5TVEFMTF9ESVIiL0JXQS9id2EK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGN1cmwgIiRCV0FfQklOQVJJRVNfUkVMRUFTRV9VUkwiIC1MID4gIiR7SU5TVEFMTF9ESVJ9Ii9CV0EvYndhLnRhci5iejIgJiYgXAo=</text>
+        <text encoding="base64">ICAgICAgICAgdGFyIC14enYgLUMgIiRJTlNUQUxMX0RJUi9CRURPUFMvIiAtLXN0cmlwLWNvbXBvbmVudHMgMSAmJiBcCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2117,9 +2117,9 @@
         <entry encoding="base64">JzwsJz4vcyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>q!</entry>
-        <entry>W</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
