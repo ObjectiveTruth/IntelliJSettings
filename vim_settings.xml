@@ -546,12 +546,11 @@
         <mark key="." line="28" column="8" />
         <mark key="^" line="28" column="8" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/coursera.sc" timestamp="1495488619512">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="33" column="8" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/coursera.sc" timestamp="1495490245108">
+        <mark key="'" line="14" column="1" />
+        <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/test/resources/logback.xml" timestamp="1470501106113">
         <mark key="'" line="16" column="28" />
@@ -1644,8 +1643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="52" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
-      <jump line="136" column="65" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="121" column="44" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="190" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="141" column="63" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
@@ -1744,28 +1741,30 @@
       <jump line="79" column="95" filename="$USER_HOME$/bio.sh" />
       <jump line="21" column="9" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/coursera.sc" />
       <jump line="3" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/coursera.sc" />
+      <jump line="37" column="40" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/coursera.sc" />
+      <jump line="14" column="1" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/coursera.sc" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>A</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IklUTiIubWFwKAo=</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>_.toL(1 until 4)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZmZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZW52IFBBVEg9JEJFRE9QUyAiJEJFRE9QU19ESVIiYmVkb3BzIC0tZWxlbWVudC1vZiAiJE9VVFBVVF9ESVIiL2dlbmVzX29ubHkuYmVkICIkUkVTT1VSQ0VTX0RJUiIvbXV0YXRpb25zX2cxX2V4b25zX29ubHkuYmVkID4gIiRPVVRQVVRfRElSIi9pbnRlcnNlY3Rpb25zX3N0ZXAxLmJlZAo=</text>
+        <text encoding="base64">IksvUSItPiIxMjgiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ImhlbGxvIi50b0xpc3QK</text>
+        <text encoding="base64">IklUTiIubWFwKAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1792,22 +1791,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDEK</text>
+        <text encoding="base64">ICAgICAgICAubWFwKF8udG9TdHJpbmcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlcXVlbmNlLm1hcAo=</text>
+        <text encoding="base64">Zm9vKCJBSSIudG9MaXN0Lm1hcChfLnRvU3RyaW5nKS5wZXJtdXRhdGlvbnMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlcXVlbmNlLmZsYXR0ZW4K</text>
+        <text encoding="base64">IlZBIi50b0xpc3QubWFwKF8udG9TdHJpbmcpLnBlcm11dGF0aW9ucy5ta1N0cmluZygiXG4iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAucGVybXV0YXRpb25zCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZW52IFBBVEg9IiRCRURPUFMiICIkQkVET1BTX0RJUiJ2Y2YyYmVkIC0ta2VlcC1oZWFkZXIgPCAiJE9VVFBVVF9ESVIiL2dlbmVzX29ubHkudmNmID4gIiRPVVRQVVRfRElSIi9nZW5lc19vbmx5LmJlZAo=</text>
+        <text encoding="base64">ICAgIGlmKHNlcXVlbmNlLmxlbmd0aCA9PSAxKSB7CiAgICAgICAgYS5nZXRPckVsc2Uoc2VxdWVuY2UuaGVhZCwgIi05OTk5OTkiKS50b0ludAogICAgfWVsc2Ugewo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2058,10 +2057,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2F0ICIkUkVGRVJFTkNFX0dFTk9NRV9BTk5PVEFUSU9OUyIgfCBhd2sgJyQzID09ICJleG9uIiB7cHJpbnQgJDB9JyA+ICIkT1VUUFVUX0RJUiIvZXhvbnNfb25seS52Y2YK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm1hcChhLmdldE9yRWxzZShfLCAiLTk5OTk5IikpCiAgICAgICAgICAgIC5tYXAoSW50ZWdlci5wYXJzZUludCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRvTGlzdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
