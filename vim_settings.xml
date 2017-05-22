@@ -203,7 +203,8 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="30" column="64" />
       </file>
-      <file name="$USER_HOME$/bio.sh" timestamp="1495475277738">
+      <file name="$USER_HOME$/bio.sh" timestamp="1495478227623">
+        <mark key="'" line="79" column="0" />
         <mark key="[" line="90" column="119" />
         <mark key="]" line="90" column="119" />
         <mark key="^" line="90" column="119" />
@@ -1644,7 +1645,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
       <jump line="244" column="3" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="23" column="19" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
       <jump line="86" column="17" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
@@ -1744,6 +1744,7 @@
       <jump line="93" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="96" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="115" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="79" column="0" filename="$USER_HOME$/bio.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
