@@ -546,6 +546,13 @@
         <mark key="." line="28" column="8" />
         <mark key="^" line="28" column="8" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/coursera.sc" timestamp="1495488619512">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/test/resources/logback.xml" timestamp="1470501106113">
         <mark key="'" line="16" column="28" />
         <mark key="[" line="1" column="28" />
@@ -1637,8 +1644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="99" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" />
-      <jump line="246" column="103" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="134" column="52" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="136" column="65" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="121" column="44" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
@@ -1737,19 +1742,21 @@
       <jump line="77" column="13" filename="$USER_HOME$/bio.sh" />
       <jump line="78" column="95" filename="$USER_HOME$/bio.sh" />
       <jump line="79" column="95" filename="$USER_HOME$/bio.sh" />
+      <jump line="21" column="9" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/coursera.sc" />
+      <jump line="3" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/coursera.sc" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>RESOURCES_DIR</text>
+        <text>A</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>RESOURCES_DIR</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZmZcPg==</text>
@@ -1758,7 +1765,7 @@
         <text encoding="base64">ZW52IFBBVEg9JEJFRE9QUyAiJEJFRE9QU19ESVIiYmVkb3BzIC0tZWxlbWVudC1vZiAiJE9VVFBVVF9ESVIiL2dlbmVzX29ubHkuYmVkICIkUkVTT1VSQ0VTX0RJUiIvbXV0YXRpb25zX2cxX2V4b25zX29ubHkuYmVkID4gIiRPVVRQVVRfRElSIi9pbnRlcnNlY3Rpb25zX3N0ZXAxLmJlZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW52IFBBVEg9IiRCRURPUFMiICIkQkVET1BTX0RJUiJ2Y2YyYmVkIC0ta2VlcC1oZWFkZXIgPCAiJE9VVFBVVF9ESVIiL2dlbmVzX29ubHkudmNmID4gIiRPVVRQVVRfRElSIi9nZW5lc19vbmx5LmJlZAo=</text>
+        <text encoding="base64">ImhlbGxvIi50b0xpc3QK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1785,22 +1792,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2F0ICIkUkVGRVJFTkNFX0dFTk9NRV9BTk5PVEFUSU9OUyIgfCBhd2sgJyQzID09ICJleG9uIiB7cHJpbnQgJDB9JyA+ICIkT1VUUFVUX0RJUiIvZXhvbnNfb25seS52Y2YK</text>
+        <text encoding="base64">ICAgIDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlcXVlbmNlLm1hcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlcXVlbmNlLmZsYXR0ZW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBmaWx0ZXIgdGhlIGdmZiB0byBvbmx5IGdpdmUgR0VORVMKY2F0ICIkUkVGRVJFTkNFX0dFTk9NRV9BTk5PVEFUSU9OUyIgfCBhd2sgJyQzID09ICJnZW5lIiB7cHJpbnQgJDB9JyA+ICIkT1VUUFVUX0RJUiIvZ2VuZXNfb25seS52Y2YKY2F0ICIkUkVGRVJFTkNFX0dFTk9NRV9BTk5PVEFUSU9OUyIgfCBhd2sgJyQzID09ICJleG9uIiB7cHJpbnQgJDB9JyA+ICIkT1VUUFVUX0RJUiIvZXhvbnNfb25seS52Y2YKCgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW52IFBBVEg9IiRCRURPUFMiICIkQkVET1BTX0RJUiJ2Y2YyYmVkIC0ta2VlcC1oZWFkZXIgPCAiJE9VVFBVVF9ESVIiL2dlbmVzX29ubHkudmNmID4gIiRPVVRQVVRfRElSIi9nZW5lc19vbmx5LmJlZAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2051,10 +2058,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBnZW5lQW5ub3RhdGlvbnNBYnNvbHV0ZVBhdGg6IFN0cmluZyA9IHJlc291cmNlc0RpcmVjdG9yeSArIEZpbGUuc2VwYXJhdG9yICsgZ2VuZUFubm90YXRpb25zUmVsYXRpdmVQYXRoCg==</text>
+        <text encoding="base64">Y2F0ICIkUkVGRVJFTkNFX0dFTk9NRV9BTk5PVEFUSU9OUyIgfCBhd2sgJyQzID09ICJleG9uIiB7cHJpbnQgJDB9JyA+ICIkT1VUUFVUX0RJUiIvZXhvbnNfb25seS52Y2YK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBnZW5lQW5ub3RhdGlvbnNSZWxhdGl2ZVBhdGg6IFN0cmluZyA9ICAiQnJhY2h5cG9kaXVtX2Rpc3RhY2h5b24udjEuMC4zNC5jaHIuZ2ZmMyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
