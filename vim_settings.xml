@@ -329,12 +329,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" timestamp="1495494054670">
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" timestamp="1495499034361">
         <mark key="'" line="121" column="16" />
-        <mark key="[" line="161" column="491" />
-        <mark key="]" line="161" column="490" />
-        <mark key="^" line="161" column="490" />
-        <mark key="." line="161" column="490" />
+        <mark key="[" line="125" column="26" />
+        <mark key="]" line="125" column="33" />
+        <mark key="^" line="125" column="33" />
+        <mark key="." line="125" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/GenomesDAO.scala" timestamp="1494740709292">
         <mark key="'" line="35" column="39" />
@@ -1289,11 +1289,11 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1495498858293">
-        <mark key="[" line="139" column="23" />
-        <mark key="]" line="139" column="50" />
-        <mark key="^" line="139" column="50" />
-        <mark key="." line="139" column="50" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1495499008317">
+        <mark key="[" line="142" column="61" />
+        <mark key="]" line="142" column="60" />
+        <mark key="^" line="142" column="60" />
+        <mark key="." line="142" column="60" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3abb79e0-f4f4-493d-ad25-6bb441fcce01/console_1.sql" timestamp="1491520860343">
         <mark key="[" line="0" column="0" />
@@ -1756,8 +1756,8 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>DISCOSNP_VCF_RESULT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdmZkFic1BhdGgsCg==</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
@@ -1769,7 +1769,7 @@
         <text encoding="base64">XDxyZWZlcmVuY2VHZW5vbWVBYnNvbHV0ZVBhdGhcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bXYgIiRPVVRQVVRfRElSIi90bXAgIiRESVNDT1NOUF9WQ0ZfUkVTVUxUIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdmZkFic1BhdGgsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBpbmRleCB0aGUgZ2ZmCg==</text>
@@ -2124,8 +2124,8 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>q!</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
