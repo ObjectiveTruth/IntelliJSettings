@@ -85,12 +85,12 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1495568275691">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="8" />
-        <mark key="^" line="10" column="8" />
-        <mark key="." line="10" column="8" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1495572787495">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="8" column="8" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-authentication/.gitignore" timestamp="1494602694208">
         <mark key="'" line="98" column="0" />
@@ -1658,7 +1658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="84" column="61" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="29" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="40" column="26" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
@@ -1758,6 +1757,7 @@
       <jump line="112" column="9" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="24" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="1" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
+      <jump line="16" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1806,22 +1806,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aG9zdD0iJDEiCnNoaWZ0CmNtZD0iJEAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhlYyAkY21kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhlYyAiJEAiCg==</text>
+        <text encoding="base64">aG9zdD0iJDEiCnNoaWZ0CmNtZD0iJEAiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyB3YWl0LWZvci1wb3N0Z3Jlcy5zaAo=</text>
+        <text encoding="base64">ZXhlYyAkY21kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyB3YWl0LWZvci1wb3N0Z3Jlcy5zaAo=</text>
+        <text encoding="base64">ZXhlYyAiJEAiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBEaXNhYmxpbmcgbmdpbnggZGFlbW9uIG1vZGUKZXhwb3J0IEtPTkdfTkdJTlhfREFFTU9OPSJvZmYiCg==</text>
+        <text encoding="base64">IyB3YWl0LWZvci1wb3N0Z3Jlcy5zaAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2072,10 +2072,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyB3YWl0LWZvci1wb3N0Z3Jlcy5zaAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2V0IC1lCg==</text>
+        <text encoding="base64">IyBEaXNhYmxpbmcgbmdpbnggZGFlbW9uIG1vZGUKZXhwb3J0IEtPTkdfTkdJTlhfREFFTU9OPSJvZmYiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2132,8 +2132,8 @@
         <entry>q!</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
