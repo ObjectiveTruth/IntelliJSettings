@@ -485,10 +485,10 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/konggluu/data/docker-compose.yml" timestamp="1495553333869">
+      <file name="$USER_HOME$/Desktop/repos/konggluu/data/docker-compose.yml" timestamp="1495557867198">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="17" column="33" />
-        <mark key="]" line="18" column="26" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="20" column="20" />
         <mark key="^" line="18" column="26" />
         <mark key="." line="18" column="26" />
       </file>
@@ -847,12 +847,12 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1495548979093">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="104" column="33" />
-        <mark key="^" line="101" column="16" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1495558860608">
+        <mark key="'" line="112" column="9" />
+        <mark key="[" line="80" column="9" />
+        <mark key="]" line="80" column="12" />
+        <mark key="." line="80" column="12" />
+        <mark key="^" line="80" column="12" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/GraphvizCreationController.scala" timestamp="1469592955472">
         <mark key="'" line="33" column="8" />
@@ -1651,10 +1651,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
-      <jump line="24" column="42" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
-      <jump line="177" column="81" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" />
-      <jump line="264" column="84" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" />
       <jump line="266" column="84" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" />
       <jump line="39" column="26" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="28" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
@@ -1681,7 +1677,6 @@
       <jump line="15" column="8" filename="$USER_HOME$/Desktop/repos/konggluu/data/docker-compose.yml" />
       <jump line="1" column="0" filename="$USER_HOME$/Desktop/repos/konggluu/data/docker-compose.yml" />
       <jump line="94" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="77" column="32" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="55" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="59" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
@@ -1735,7 +1730,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="93" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="96" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
-      <jump line="115" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="96" column="13" filename="$USER_HOME$/bio.sh" />
       <jump line="16" column="45" filename="$USER_HOME$/bio.sh" />
       <jump line="77" column="13" filename="$USER_HOME$/bio.sh" />
@@ -1751,28 +1745,34 @@
       <jump line="105" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
       <jump line="121" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
       <jump line="22" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="115" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="108" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="101" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="99" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="112" column="9" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdmZkFic1BhdGgsCg==</text>
+      <register name="&quot;" type="4">
+        <text>80</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>DISCOSNP_VCF_RESULT</text>
+        <text>80</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWZlcmVuY2VHZW5vbWVBYnNvbHV0ZVBhdGhcPg==</text>
+        <text>8081</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdmZkFic1BhdGgsCg==</text>
+        <text encoding="base64">ICBrb25nX2RhdGFiYXNlOgogICAgaW1hZ2U6IHBvc3RncmVzOjkuNAogICAgZW52aXJvbm1lbnQ6CiAgICAgIFBPU1RHUkVTX1VTRVI6IGtvbmcKICAgICAgUE9TVEdSRVNfREI6IGtvbmcKCiAga29uZzoKICAgIGltYWdlOiBrb25nOjAuMTAuMgogICAgcG9ydHM6CiAgICAgIC0gODAwMDo4MDAwCiAgICAgIC0gODQ0Mzo4NDQzCiAgICAgIC0gODAwMTo4MDAxCiAgICBlbnZpcm9ubWVudDoKICAgICAgS09OR19EQVRBQkFTRTogcG9zdGdyZXMKICAgICAgS09OR19QR19IT1NUOiBrb25nX2RhdGFiYXNlCiAgICAgIEtPTkdfTE9HX0xFVkVMOiBkZWJ1ZwogICAgZGVwZW5kc19vbjoKICAgICAgLSBrb25nX2RhdGFiYXNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBpbmRleCB0aGUgZ2ZmCg==</text>
+        <text encoding="base64">ICBrb25nLWRhdGFiYXNlOgogICAgaW1hZ2U6IHBvc3RncmVzOjkuNAogICAgZW52aXJvbm1lbnQ6CiAgICAgIC0gUE9TVEdSRVNfVVNFUj1rb25nCiAgICAgIC0gUE9TVEdSRVNfREI9a29uZwoKICBrb25nOgogICAgaW1hZ2U6IGtvbmc6MC4xMC4yCiAgICBwb3J0czoKICAgICAgLSA4MDAwOjgwMDAKICAgICAgLSA4NDQzOjg0NDMKICAgICAgLSA4MDAxOjgwMDEKICAgIGVudmlyb25tZW50OgogICAgICAtIEtPTkdfREFUQUJBU0U9cG9zdGdyZXMKICAgICAgLSBLT05HX1BHX0hPU1Q9a29uZy1kYXRhYmFzZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1799,22 +1799,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBpbmRleCB0aGUgdmNmIGZpbGUK</text>
+        <text encoding="base64">IyBpbmRleCB0aGUgZ2ZmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyAiUHJlcGFyaW5nIG11dGFudCAxIGFubm90YXRpb25zLi4uIgo=</text>
+        <text encoding="base64">IyBpbmRleCB0aGUgdmNmIGZpbGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBmaWx0ZXIgb3V0IGFsbCBub24taG9tb3p5Z291cyByZWZlcmVuY2UgbXV0YXRpb25zIG9uIGdlbm9tZTEK</text>
+        <text encoding="base64">ZWNobyAiUHJlcGFyaW5nIG11dGFudCAxIGFubm90YXRpb25zLi4uIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">IyBmaWx0ZXIgb3V0IGFsbCBub24taG9tb3p5Z291cyByZWZlcmVuY2UgbXV0YXRpb25zIG9uIGdlbm9tZTEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMgRmluZCB0aGUgR2VuZXMgdGhhdCBpbmNsdWRlIGEgbXV0YXRpb24gZnJvbSBnMSBhbmQgZzIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2065,19 +2065,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyAiRmlsdGVyaW5nIGZvciBleG9ucwo=</text>
+        <text encoding="base64">IyMgRmluZCB0aGUgR2VuZXMgdGhhdCBpbmNsdWRlIGEgbXV0YXRpb24gZnJvbSBnMSBhbmQgZzIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZWNobyAiU29ydGluZyB0aGUgZ2Vub21lIGFubm90YXRpb25zIgo=</text>
+        <text encoding="base64">ZWNobyAiRmlsdGVyaW5nIGZvciBleG9ucwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWZlcmVuY2VHZW5vbWVBYnNvbHV0ZVBhdGhcPg==</last-search>
+      <last-search>8081</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWZlcmVuY2VHZW5vbWVBYnNvbHV0ZVBhdGhcPg==</last-pattern>
+      <last-pattern>8081</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2085,10 +2085,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCV0FfT1BUSU9OXD4=</entry>
-        <entry>BWA</entry>
-        <entry encoding="base64">XDxCV0FfQklOQVJJRVNfUkVMRUFTRV9VUkxcPg==</entry>
-        <entry>tar</entry>
         <entry>object</entry>
         <entry>truth</entry>
         <entry>Truth</entry>
@@ -2105,6 +2101,10 @@
         <entry encoding="base64">XDxCRURPUFNcPg==</entry>
         <entry encoding="base64">XDxnZmZcPg==</entry>
         <entry encoding="base64">XDxyZWZlcmVuY2VHZW5vbWVBYnNvbHV0ZVBhdGhcPg==</entry>
+        <entry>8001</entry>
+        <entry>8000</entry>
+        <entry>8085</entry>
+        <entry>8081</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
