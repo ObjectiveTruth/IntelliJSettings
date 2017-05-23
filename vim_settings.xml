@@ -848,12 +848,12 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1495558860608">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1495577045926">
         <mark key="'" line="112" column="9" />
-        <mark key="[" line="80" column="9" />
-        <mark key="]" line="80" column="12" />
-        <mark key="." line="80" column="12" />
-        <mark key="^" line="80" column="12" />
+        <mark key="[" line="97" column="72" />
+        <mark key="]" line="97" column="82" />
+        <mark key="." line="97" column="82" />
+        <mark key="^" line="97" column="82" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/GraphvizCreationController.scala" timestamp="1469592955472">
         <mark key="'" line="33" column="8" />
@@ -1760,20 +1760,20 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhlYyAiJEAiCg==</text>
+      <register name="&quot;" type="4">
+        <text>cms</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>cms</text>
       </register>
       <register name="/" type="4">
         <text>8081</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBrb25nX2RhdGFiYXNlOgogICAgaW1hZ2U6IHBvc3RncmVzOjkuNAogICAgZW52aXJvbm1lbnQ6CiAgICAgIFBPU1RHUkVTX1VTRVI6IGtvbmcKICAgICAgUE9TVEdSRVNfREI6IGtvbmcKCiAga29uZzoKICAgIGltYWdlOiBrb25nOjAuMTAuMgogICAgcG9ydHM6CiAgICAgIC0gODAwMDo4MDAwCiAgICAgIC0gODQ0Mzo4NDQzCiAgICAgIC0gODAwMTo4MDAxCiAgICBlbnZpcm9ubWVudDoKICAgICAgS09OR19EQVRBQkFTRTogcG9zdGdyZXMKICAgICAgS09OR19QR19IT1NUOiBrb25nX2RhdGFiYXNlCiAgICAgIEtPTkdfTE9HX0xFVkVMOiBkZWJ1ZwogICAgZGVwZW5kc19vbjoKICAgICAgLSBrb25nX2RhdGFiYXNlCg==</text>
+      <register name="0" type="4">
+        <text>197509012559.dkr.ecr.us-east-1.amazonaws.com/cps-ecp/cps-ecp-cms:dev</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZXhlYyAiJEAiCg==</text>
