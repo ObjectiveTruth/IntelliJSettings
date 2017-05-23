@@ -485,12 +485,12 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/konggluu/data/docker-compose.yml" timestamp="1495139584795">
+      <file name="$USER_HOME$/Desktop/repos/konggluu/data/docker-compose.yml" timestamp="1495553333869">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="16" column="21" />
-        <mark key="^" line="16" column="29" />
-        <mark key="." line="16" column="21" />
+        <mark key="[" line="17" column="33" />
+        <mark key="]" line="18" column="26" />
+        <mark key="^" line="18" column="26" />
+        <mark key="." line="18" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/common/InteractionFragment.java" timestamp="1480353190529">
         <mark key="'" line="7" column="22" />
@@ -2125,8 +2125,8 @@
         <entry>q!</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
