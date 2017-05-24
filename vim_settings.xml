@@ -85,12 +85,11 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1495574527202">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-        <mark key="^" line="9" column="18" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1495595461203">
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="15" />
+        <mark key="." line="25" column="15" />
+        <mark key="^" line="25" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-authentication/.gitignore" timestamp="1494602694208">
         <mark key="'" line="98" column="0" />
@@ -1766,22 +1765,22 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSAtLWJhc2UtcGF0aG5hbWUKICAgICAgLSAiL21haWxkZXYvIgo=</text>
+        <text encoding="base64">ICAgIC1kICdzdHJpcF91cmk9dHJ1ZScK</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>email</text>
+        <text>lms</text>
       </register>
       <register name="/" type="4">
         <text>mail</text>
       </register>
-      <register name="0" type="4">
-        <text>http://cps-ecp.dev.innovexa.com</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y3VybCAtaSAtWCBQT1NUIGh0dHA6Ly9sb2NhbGhvc3Q6ODAwMS9hcGlzLyBcCiAgICAtZCAnbmFtZT1sbXMnIFwKICAgIC1kICd1cHN0cmVhbV91cmw9aHR0cDovL21vb2RsZScgXAogICAgLWQgJ3VyaXM9L2xtcycgXAogICAgLWQgJ3N0cmlwX3VyaT10cnVlJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSAtLWJhc2UtcGF0aG5hbWUKICAgICAgLSAiL21haWxkZXYvIgo=</text>
+        <text encoding="base64">ICAgIC1kICdzdHJpcF91cmk9dHJ1ZScK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1808,22 +1807,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhlYyAiJEAiCg==</text>
+        <text encoding="base64">IyMgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbIi9kb2NrZXItZW50cnlwb2ludC5zaCJdCg==</text>
+        <text encoding="base64">ICAgIC1kICdtZXRob2RzPUdFVCxIRUFEJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dW50aWwgcHNxbCAtaCAiJGhvc3QiIC1VICJwb3N0Z3JlcyIgLWMgJ1xsJzsgZG8KICA+JjIgZWNobyAiUG9zdGdyZXMgaXMgdW5hdmFpbGFibGUgLSBzbGVlcGluZyIKICBzbGVlcCAyCmRvbmUKCg==</text>
+        <text encoding="base64">ICAgIC1kICdob3N0cz1leGFtcGxlLmNvbScgXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSAtLWJhc2UtcGF0aG5hbWUKICAgICAgLSAiL21haWxkZXYvIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhlYyAiJEAiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RU5UUllQT0lOVCBbIi9kb2NrZXItZW50cnlwb2ludC5zaCJdCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2074,10 +2073,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aG9zdD0iJDEiCnNoaWZ0CmNtZD0iJEAiCg==</text>
+        <text encoding="base64">dW50aWwgcHNxbCAtaCAiJGhvc3QiIC1VICJwb3N0Z3JlcyIgLWMgJ1xsJzsgZG8KICA+JjIgZWNobyAiUG9zdGdyZXMgaXMgdW5hdmFpbGFibGUgLSBzbGVlcGluZyIKICBzbGVlcCAyCmRvbmUKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhlYyAkY21kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
