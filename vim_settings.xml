@@ -85,12 +85,6 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1495595461203">
-        <mark key="[" line="25" column="17" />
-        <mark key="]" line="25" column="15" />
-        <mark key="." line="25" column="15" />
-        <mark key="^" line="25" column="15" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-authentication/.gitignore" timestamp="1494602694208">
         <mark key="'" line="98" column="0" />
         <mark key="[" line="41" column="0" />
@@ -847,8 +841,8 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1495594052407">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1495597164147">
+        <mark key="'" line="84" column="28" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
@@ -1659,8 +1653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="9" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
-      <jump line="132" column="74" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="152" column="55" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="19" column="3" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" />
       <jump line="66" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
@@ -1670,7 +1662,6 @@
       <jump line="125" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" />
       <jump line="27" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" />
       <jump line="103" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="84" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="14" column="6" filename="$USER_HOME$/Desktop/repos/konggluu/data/docker-compose.yml" />
       <jump line="17" column="2" filename="$USER_HOME$/Desktop/repos/konggluu/data/docker-compose.yml" />
       <jump line="90" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
@@ -1759,28 +1750,31 @@
       <jump line="45" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="128" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="14" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
+      <jump line="84" column="28" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="12" column="60" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC1kICdzdHJpcF91cmk9dHJ1ZScK</text>
+      <register name="&quot;" type="4">
+        <text>maildev</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>lms</text>
+        <text>maildev</text>
       </register>
       <register name="/" type="4">
-        <text>mail</text>
+        <text>admin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y3VybCAtaSAtWCBQT1NUIGh0dHA6Ly9sb2NhbGhvc3Q6ODAwMS9hcGlzLyBcCiAgICAtZCAnbmFtZT1sbXMnIFwKICAgIC1kICd1cHN0cmVhbV91cmw9aHR0cDovL21vb2RsZScgXAogICAgLWQgJ3VyaXM9L2xtcycgXAogICAgLWQgJ3N0cmlwX3VyaT10cnVlJwo=</text>
+        <text encoding="base64">Y3VybCAtaSAtc1MgLVggUE9TVCBodHRwOi8vbG9jYWxob3N0OjgwMDEvYXBpcy8gXAogICAgLWQgJ25hbWU9bWFpbGRldicgXAogICAgLWQgJ3Vwc3RyZWFtX3VybD1odHRwOi8vbWFpbGRldicgXAogICAgLWQgJ3VyaXM9L21haWxkZXYnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC1kICdzdHJpcF91cmk9dHJ1ZScK</text>
+        <text encoding="base64">d2hpbGUgdHJ1ZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1807,22 +1801,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMgCg==</text>
+        <text encoding="base64">ICAgIC1kICdzdHJpcF91cmk9dHJ1ZScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC1kICdtZXRob2RzPUdFVCxIRUFEJwo=</text>
+        <text encoding="base64">IyMgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC1kICdob3N0cz1leGFtcGxlLmNvbScgXAo=</text>
+        <text encoding="base64">ICAgIC1kICdtZXRob2RzPUdFVCxIRUFEJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSAtLWJhc2UtcGF0aG5hbWUKICAgICAgLSAiL21haWxkZXYvIgo=</text>
+        <text encoding="base64">ICAgIC1kICdob3N0cz1leGFtcGxlLmNvbScgXAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhlYyAiJEAiCg==</text>
+        <text encoding="base64">ICAgICAgLSAtLWJhc2UtcGF0aG5hbWUKICAgICAgLSAiL21haWxkZXYvIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbIi9kb2NrZXItZW50cnlwb2ludC5zaCJdCg==</text>
+        <text encoding="base64">ZXhlYyAiJEAiCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2073,19 +2067,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dW50aWwgcHNxbCAtaCAiJGhvc3QiIC1VICJwb3N0Z3JlcyIgLWMgJ1xsJzsgZG8KICA+JjIgZWNobyAiUG9zdGdyZXMgaXMgdW5hdmFpbGFibGUgLSBzbGVlcGluZyIKICBzbGVlcCAyCmRvbmUKCg==</text>
+        <text encoding="base64">RU5UUllQT0lOVCBbIi9kb2NrZXItZW50cnlwb2ludC5zaCJdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dW50aWwgcHNxbCAtaCAiJGhvc3QiIC1VICJwb3N0Z3JlcyIgLWMgJ1xsJzsgZG8KICA+JjIgZWNobyAiUG9zdGdyZXMgaXMgdW5hdmFpbGFibGUgLSBzbGVlcGluZyIKICBzbGVlcCAyCmRvbmUKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mail</last-search>
+      <last-search>admin</last-search>
       <last-offset />
-      <last-pattern>mail</last-pattern>
+      <last-pattern>admin</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2093,7 +2087,6 @@
     </search>
     <history>
       <history-search>
-        <entry>truth</entry>
         <entry>Truth</entry>
         <entry>bzcat</entry>
         <entry encoding="base64">XDxMSU5VWF9CRURPUFNfQklOQVJJRVNfUkVMRUFTRV9VUkxcPg==</entry>
@@ -2113,6 +2106,7 @@
         <entry>8085</entry>
         <entry>8081</entry>
         <entry>mail</entry>
+        <entry>admin</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
