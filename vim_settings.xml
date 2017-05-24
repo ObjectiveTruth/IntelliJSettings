@@ -848,12 +848,11 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1495593074418">
-        <mark key="'" line="109" column="6" />
-        <mark key="[" line="46" column="18" />
-        <mark key="]" line="46" column="18" />
-        <mark key="." line="46" column="18" />
-        <mark key="^" line="46" column="18" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1495594052407">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/GraphvizCreationController.scala" timestamp="1469592955472">
         <mark key="'" line="33" column="8" />
@@ -1661,8 +1660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
-      <jump line="40" column="26" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="76" column="9" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="132" column="74" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
       <jump line="152" column="55" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" />
@@ -1751,7 +1748,6 @@
       <jump line="105" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
       <jump line="121" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
       <jump line="22" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="115" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="108" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="101" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
@@ -1761,13 +1757,16 @@
       <jump line="1" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="16" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="109" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="45" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="128" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>email</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLSAtLWJhc2UtcGF0aG5hbWUKICAgICAgLSAiL21haWxkZXYvIgo=</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
@@ -1782,7 +1781,7 @@
         <text>http://cps-ecp.dev.innovexa.com</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhlYyAiJEAiCg==</text>
+        <text encoding="base64">ICAgICAgLSAtLWJhc2UtcGF0aG5hbWUKICAgICAgLSAiL21haWxkZXYvIgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1809,13 +1808,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbIi9kb2NrZXItZW50cnlwb2ludC5zaCJdCg==</text>
+        <text encoding="base64">ZXhlYyAiJEAiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dW50aWwgcHNxbCAtaCAiJGhvc3QiIC1VICJwb3N0Z3JlcyIgLWMgJ1xsJzsgZG8KICA+JjIgZWNobyAiUG9zdGdyZXMgaXMgdW5hdmFpbGFibGUgLSBzbGVlcGluZyIKICBzbGVlcCAyCmRvbmUKCg==</text>
+        <text encoding="base64">RU5UUllQT0lOVCBbIi9kb2NrZXItZW50cnlwb2ludC5zaCJdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dW50aWwgcHNxbCAtaCAiJGhvc3QiIC1VICJwb3N0Z3JlcyIgLWMgJ1xsJzsgZG8KICA+JjIgZWNobyAiUG9zdGdyZXMgaXMgdW5hdmFpbGFibGUgLSBzbGVlcGluZyIKICBzbGVlcCAyCmRvbmUKCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1824,7 +1823,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aG9zdD0iJDEiCnNoaWZ0CmNtZD0iJEAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2075,10 +2074,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhlYyAkY21kCg==</text>
+        <text encoding="base64">aG9zdD0iJDEiCnNoaWZ0CmNtZD0iJEAiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhlYyAiJEAiCg==</text>
+        <text encoding="base64">ZXhlYyAkY21kCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
