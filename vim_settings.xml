@@ -848,12 +848,12 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1495578940786">
-        <mark key="'" line="112" column="9" />
-        <mark key="[" line="84" column="29" />
-        <mark key="]" line="84" column="15" />
-        <mark key="." line="84" column="15" />
-        <mark key="^" line="84" column="15" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1495592446262">
+        <mark key="'" line="117" column="9" />
+        <mark key="[" line="46" column="18" />
+        <mark key="]" line="46" column="18" />
+        <mark key="." line="46" column="18" />
+        <mark key="^" line="46" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/GraphvizCreationController.scala" timestamp="1469592955472">
         <mark key="'" line="33" column="8" />
@@ -1353,6 +1353,12 @@
         <mark key="^" line="6" column="39" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/README.md" timestamp="1495592082664">
+        <mark key="[" line="9" column="111" />
+        <mark key="]" line="10" column="41" />
+        <mark key="^" line="10" column="41" />
+        <mark key="." line="10" column="41" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/newjobid.resolver.ts" timestamp="1491449202330">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="18" column="39" />
@@ -1761,19 +1767,19 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>cms</text>
+        <text>email</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>cms</text>
+        <text>email</text>
       </register>
       <register name="/" type="4">
         <text>8081</text>
       </register>
       <register name="0" type="4">
-        <text>197509012559.dkr.ecr.us-east-1.amazonaws.com/cps-ecp/cps-ecp-cms:dev</text>
+        <text>http://cps-ecp.dev.innovexa.com</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZXhlYyAiJEAiCg==</text>
