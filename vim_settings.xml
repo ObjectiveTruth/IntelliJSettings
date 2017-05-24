@@ -848,8 +848,8 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1495592446262">
-        <mark key="'" line="117" column="9" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1495593074418">
+        <mark key="'" line="109" column="6" />
         <mark key="[" line="46" column="18" />
         <mark key="]" line="46" column="18" />
         <mark key="." line="46" column="18" />
@@ -1661,7 +1661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="61" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="29" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="40" column="26" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="76" column="9" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
@@ -1761,6 +1760,7 @@
       <jump line="24" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="1" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="16" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
+      <jump line="109" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1776,7 +1776,7 @@
         <text>email</text>
       </register>
       <register name="/" type="4">
-        <text>8081</text>
+        <text>mail</text>
       </register>
       <register name="0" type="4">
         <text>http://cps-ecp.dev.innovexa.com</text>
@@ -2085,9 +2085,9 @@
       </register>
     </registers>
     <search>
-      <last-search>8081</last-search>
+      <last-search>mail</last-search>
       <last-offset />
-      <last-pattern>8081</last-pattern>
+      <last-pattern>mail</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2095,7 +2095,6 @@
     </search>
     <history>
       <history-search>
-        <entry>object</entry>
         <entry>truth</entry>
         <entry>Truth</entry>
         <entry>bzcat</entry>
@@ -2115,6 +2114,7 @@
         <entry>8000</entry>
         <entry>8085</entry>
         <entry>8081</entry>
+        <entry>mail</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
