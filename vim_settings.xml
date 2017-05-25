@@ -188,11 +188,11 @@
         <mark key="^" line="50" column="7" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-authentication/README.md" timestamp="1495735754388">
-        <mark key="[" line="7" column="73" />
-        <mark key="]" line="7" column="73" />
-        <mark key="^" line="7" column="93" />
-        <mark key="." line="7" column="73" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-authentication/README.md" timestamp="1495737373306">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="5" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="10" column="5" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/server.js" timestamp="1481477568427">
         <mark key="'" line="178" column="0" />
@@ -1791,13 +1791,13 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>cmd</text>
+        <text>`</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>cmd</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text>accounting</text>
