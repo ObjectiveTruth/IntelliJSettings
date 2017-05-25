@@ -859,12 +859,12 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1495731802754">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1495744435223">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="8" />
-        <mark key="]" line="50" column="16" />
-        <mark key="." line="50" column="16" />
-        <mark key="^" line="50" column="16" />
+        <mark key="[" line="124" column="76" />
+        <mark key="]" line="124" column="89" />
+        <mark key="." line="124" column="89" />
+        <mark key="^" line="124" column="89" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/GraphvizCreationController.scala" timestamp="1469592955472">
         <mark key="'" line="33" column="8" />
@@ -1791,19 +1791,19 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text>gateway</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>gateway</text>
       </register>
       <register name="/" type="4">
         <text>accounting</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSBhd3MgZWNyIGdldC1sb2dpbiAtLXJlZ2lvbiB1cy1lYXN0LTEgfCBiYXNoIC0K</text>
+      <register name="0" type="4">
+        <text>197509012559.dkr.ecr.us-east-1.amazonaws.com/cps-ecp/cps-ecp-api-gateway:dev</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
