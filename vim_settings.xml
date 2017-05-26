@@ -269,9 +269,9 @@
         <mark key="." line="36" column="14" />
         <mark key="^" line="36" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-authentication/docker-entrypoint.sh" timestamp="1495812795927">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-authentication/docker-entrypoint.sh" timestamp="1495816719390">
         <mark key="[" line="9" column="0" />
-        <mark key="]" line="8" column="0" />
+        <mark key="]" line="9" column="0" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="9" column="0" />
       </file>
@@ -951,9 +951,9 @@
         <mark key="." line="99" column="111" />
         <mark key="^" line="99" column="111" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-authentication/Dockerfile" timestamp="1495768720153">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="94" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-authentication/Dockerfile" timestamp="1495817092403">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="11" column="33" />
         <mark key="." line="3" column="94" />
         <mark key="^" line="3" column="94" />
       </file>
@@ -1788,19 +1788,19 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2VydmljZSBnbHV1LXNlcnZlci0zLjAuMSBsb2dpbiAvaW5zdGFsbC9jb21tdW5pdHktZWRpdGlvbi1zZXR1cC9zZXR1cC5weQo=</text>
+        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlIFwKICAgICYmIGFwdC1nZXQgaW5zdGFsbCAteSBjdXJsIGFwdC10cmFuc3BvcnQtaHR0cHMgbmV0LXRvb2xzIFwKICAgICYmIGVjaG8gImRlYiBodHRwczovL3JlcG8uZ2x1dS5vcmcvdWJ1bnR1LyB4ZW5pYWwgbWFpbiIgPiAvZXRjL2FwdC9zb3VyY2VzLmxpc3QuZC9nbHV1LXJlcG8ubGlzdCBcCiAgICAmJiBjdXJsIGh0dHBzOi8vcmVwby5nbHV1Lm9yZy91YnVudHUvZ2x1dS1hcHQua2V5IHwgYXB0LWtleSBhZGQgLSBcCiAgICAmJiBhcHQtZ2V0IHVwZGF0ZSBcCiAgICAmJiBhcHQtZ2V0IGluc3RhbGwgZ2x1dS1zZXJ2ZXItMy4wLjEgXAogICAgJiYgcm0gLXJmIC92YXIvbGliL2FwdC9saXN0cy8qCg==</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>gateway</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>accounting</text>
       </register>
-      <register name="0" type="4">
-        <text>197509012559.dkr.ecr.us-east-1.amazonaws.com/cps-ecp/cps-ecp-api-gateway:dev</text>
+      <register name="0" type="2">
+        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlIFwKICAgICYmIGFwdC1nZXQgaW5zdGFsbCAteSBjdXJsIGFwdC10cmFuc3BvcnQtaHR0cHMgbmV0LXRvb2xzIFwKICAgICYmIGVjaG8gImRlYiBodHRwczovL3JlcG8uZ2x1dS5vcmcvdWJ1bnR1LyB4ZW5pYWwgbWFpbiIgPiAvZXRjL2FwdC9zb3VyY2VzLmxpc3QuZC9nbHV1LXJlcG8ubGlzdCBcCiAgICAmJiBjdXJsIGh0dHBzOi8vcmVwby5nbHV1Lm9yZy91YnVudHUvZ2x1dS1hcHQua2V5IHwgYXB0LWtleSBhZGQgLSBcCiAgICAmJiBhcHQtZ2V0IHVwZGF0ZSBcCiAgICAmJiBhcHQtZ2V0IGluc3RhbGwgZ2x1dS1zZXJ2ZXItMy4wLjEgXAogICAgJiYgcm0gLXJmIC92YXIvbGliL2FwdC9saXN0cy8qCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2VydmljZSBnbHV1LXNlcnZlci0zLjAuMSBsb2dpbiAvaW5zdGFsbC9jb21tdW5pdHktZWRpdGlvbi1zZXR1cC9zZXR1cC5weQo=</text>
