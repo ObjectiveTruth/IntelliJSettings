@@ -303,12 +303,12 @@
         <mark key="." line="71" column="89" />
         <mark key="^" line="71" column="89" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1495826876855">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="26" column="36" />
-        <mark key="]" line="26" column="48" />
-        <mark key="^" line="26" column="48" />
-        <mark key="." line="26" column="48" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1495833600833">
+        <mark key="'" line="19" column="19" />
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="29" />
+        <mark key="^" line="20" column="29" />
+        <mark key="." line="20" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/.travis.yml" timestamp="1471148061720">
         <mark key="'" line="58" column="65" />
@@ -1688,10 +1688,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="128" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" />
-      <jump line="86" column="95" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
-      <jump line="87" column="37" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
-      <jump line="88" column="63" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="82" column="42" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="83" column="62" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="85" column="22" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
@@ -1788,22 +1784,26 @@
       <jump line="76" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="88" column="14" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="110" column="5" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="20" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="44" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="45" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="19" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>80</text>
+        <text>subnet-a7af84d3</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>80</text>
+        <text>subnet-a7af84d3</text>
       </register>
       <register name="/" type="4">
-        <text>80</text>
+        <text>subnet</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB1c2VyX2RhdGEgPSAiJHtkYXRhLnRlbXBsYXRlX2ZpbGUuZGV2X3VzZXJkYXRhLnJlbmRlcmVkfSIK</text>
@@ -2112,9 +2112,9 @@
       </register>
     </registers>
     <search>
-      <last-search>80</last-search>
+      <last-search>subnet</last-search>
       <last-offset />
-      <last-pattern>80</last-pattern>
+      <last-pattern>subnet</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2122,7 +2122,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZW5lQW5ub3RhdGlvbnNQYXRoXD4=</entry>
         <entry encoding="base64">XDxnZW5lQW5ub3RhdGlvbnNBYnNvbHV0ZVBhdGhcPg==</entry>
         <entry encoding="base64">XDxnZW5lQW5ub3RhdGlvbnNSZWxhdGl2ZVBhdGhcPg==</entry>
         <entry encoding="base64">XDxnZW5lc19vbmx5XD4=</entry>
@@ -2142,6 +2141,7 @@
         <entry>accounting</entry>
         <entry>stage</entry>
         <entry>80</entry>
+        <entry>subnet</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
