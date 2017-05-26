@@ -85,11 +85,11 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1495823995566">
-        <mark key="[" line="37" column="42" />
-        <mark key="]" line="37" column="44" />
-        <mark key="^" line="37" column="44" />
-        <mark key="." line="37" column="44" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1495827848466">
+        <mark key="[" line="37" column="43" />
+        <mark key="]" line="37" column="46" />
+        <mark key="^" line="37" column="46" />
+        <mark key="." line="37" column="46" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-authentication/.gitignore" timestamp="1494602694208">
         <mark key="'" line="98" column="0" />
@@ -859,12 +859,12 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1495823954895">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1495827796455">
+        <mark key="'" line="110" column="5" />
         <mark key="[" line="110" column="7" />
-        <mark key="]" line="110" column="8" />
-        <mark key="." line="110" column="8" />
-        <mark key="^" line="110" column="8" />
+        <mark key="]" line="110" column="10" />
+        <mark key="." line="110" column="10" />
+        <mark key="^" line="110" column="10" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/GraphvizCreationController.scala" timestamp="1469592955472">
         <mark key="'" line="33" column="8" />
@@ -1525,11 +1525,11 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.auth.tpl" timestamp="1495826942459">
-        <mark key="'" line="22" column="3" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.auth.tpl" timestamp="1495827647101">
+        <mark key="'" line="20" column="3" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/.angular-cli.json" timestamp="1491457156577">
         <mark key="'" line="0" column="0" />
@@ -1688,16 +1688,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="22" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
-      <jump line="58" column="4" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
-      <jump line="87" column="11" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" />
-      <jump line="24" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" />
-      <jump line="66" column="51" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" />
-      <jump line="17" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" />
-      <jump line="41" column="0" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" />
-      <jump line="104" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" />
-      <jump line="42" column="102" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" />
-      <jump line="102" column="15" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" />
       <jump line="22" column="128" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/install_dependencies.sh" />
       <jump line="86" column="95" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="87" column="37" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
@@ -1788,28 +1778,38 @@
       <jump line="26" column="48" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="37" column="3" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.auth.tpl" />
       <jump line="71" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="132" column="11" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="134" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="145" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="6" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="42" column="14" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="46" column="9" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="57" column="14" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="76" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="88" column="14" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="110" column="5" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IC0gc2VydmljCg==</text>
+      <register name="&quot;" type="4">
+        <text>80</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>80</text>
       </register>
       <register name="/" type="4">
-        <text>stage</text>
+        <text>80</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB1c2VyX2RhdGEgPSAiJHtkYXRhLnRlbXBsYXRlX2ZpbGUuZGV2X3VzZXJkYXRhLnJlbmRlcmVkfSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IC0gc2VydmljCg==</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgIC0gODAxMDo1MDAwCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1836,22 +1836,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IC0gCg==</text>
+        <text encoding="base64">ICAgZ3JvdXBzOiBkb2NrZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IC0gY3VybCAtTCBodHRwczovL2dpdGh1Yi5jb20vZG9ja2VyL2NvbXBvc2UvcmVsZWFzZXMvZG93bmxvYWQvMS4xMy4wL2RvY2tlci1jb21wb3NlLWB1bmFtZSAtc2AtYHVuYW1lIC1tYCA+IC91c3IvbG9jYWwvYmluL2RvY2tlci1jb21wb3NlCiAtIGNobW9kICt4IC91c3IvbG9jYWwvYmluL2RvY2tlci1jb21wb3NlCiAtIGxuIC1zIC91c3IvbG9jYWwvYmluL2RvY2tlci1jb21wb3NlIC91c3IvYmluL2RvY2tlci1jb21wb3NlCgogLSBwaXAgaW5zdGFsbCAtLXVwZ3JhZGUgYXdzY2xpCiAtIHNlcnZpY2UgZG9ja2VyIHN0YXJ0CiAtIGF3cyBlY3IgZ2V0LWxvZ2luIC0tcmVnaW9uIHVzLWVhc3QtMSAtLW5vLWluY2x1ZGUtZW1haWwgfCBiYXNoCiAtIGRvY2tlci1jb21wb3NlIC0tZmlsZSAvaG9tZS9lYzItdXNlci9kb2NrZXItY29tcG9zZS55bWwgdXAgLWQK</text>
+        <text encoding="base64">ICAgZ3JvdXBzOiBkb2NrZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IC0gc2VydmljCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d3JpdGVfZmlsZXM6CiAtIGNvbnRlbnQ6ICR7YmFzZTY0ZW5jb2RlKGZpbGUoImRvY2tlci1jb21wb3NlLnltbCIpKX0KICAgb3duZXI6IG9iamVjdGl2ZXRydXRoOm9iamVjdGl2ZXRydXRoCiAgIGVuY29kaW5nOiBiNjQKICAgcGF0aDogL2hvbWUvZWMyLXVzZXIvZG9ja2VyLWNvbXBvc2UueW1sCg==</text>
+        <text encoding="base64">IC0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IC0gY3VybCAtTCBodHRwczovL2dpdGh1Yi5jb20vZG9ja2VyL2NvbXBvc2UvcmVsZWFzZXMvZG93bmxvYWQvMS4xMy4wL2RvY2tlci1jb21wb3NlLWB1bmFtZSAtc2AtYHVuYW1lIC1tYCA+IC91c3IvbG9jYWwvYmluL2RvY2tlci1jb21wb3NlCiAtIGNobW9kICt4IC91c3IvbG9jYWwvYmluL2RvY2tlci1jb21wb3NlCiAtIGxuIC1zIC91c3IvbG9jYWwvYmluL2RvY2tlci1jb21wb3NlIC91c3IvYmluL2RvY2tlci1jb21wb3NlCgogLSBwaXAgaW5zdGFsbCAtLXVwZ3JhZGUgYXdzY2xpCiAtIHNlcnZpY2UgZG9ja2VyIHN0YXJ0CiAtIGF3cyBlY3IgZ2V0LWxvZ2luIC0tcmVnaW9uIHVzLWVhc3QtMSAtLW5vLWluY2x1ZGUtZW1haWwgfCBiYXNoCiAtIGRvY2tlci1jb21wb3NlIC0tZmlsZSAvaG9tZS9lYzItdXNlci9kb2NrZXItY29tcG9zZS55bWwgdXAgLWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z3JvdXBzOgogLSBkb2NrZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2102,19 +2102,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d3JpdGVfZmlsZXM6CiAtIGNvbnRlbnQ6ICR7YmFzZTY0ZW5jb2RlKGZpbGUoImRvY2tlci1jb21wb3NlLnltbCIpKX0KICAgb3duZXI6IG9iamVjdGl2ZXRydXRoOm9iamVjdGl2ZXRydXRoCiAgIGVuY29kaW5nOiBiNjQKICAgcGF0aDogL2hvbWUvZWMyLXVzZXIvZG9ja2VyLWNvbXBvc2UueW1sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFja2FnZXM6CiAtIGRvY2tlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>stage</last-search>
+      <last-search>80</last-search>
       <last-offset />
-      <last-pattern>stage</last-pattern>
+      <last-pattern>80</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2122,7 +2122,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaXNjb1Jlc19rXzMxX2NfYXV0b19EXzEwMF9QXzFfYl8wX2NvaGVyZW50X2Zvcl9JR1ZcPg==</entry>
         <entry encoding="base64">XDxnZW5lQW5ub3RhdGlvbnNQYXRoXD4=</entry>
         <entry encoding="base64">XDxnZW5lQW5ub3RhdGlvbnNBYnNvbHV0ZVBhdGhcPg==</entry>
         <entry encoding="base64">XDxnZW5lQW5ub3RhdGlvbnNSZWxhdGl2ZVBhdGhcPg==</entry>
@@ -2142,6 +2141,7 @@
         <entry encoding="base64">XDxhY2NvdW50aW5nX2FwaV9kYlw+</entry>
         <entry>accounting</entry>
         <entry>stage</entry>
+        <entry>80</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
@@ -2160,9 +2160,9 @@
         <entry encoding="base64">JzwsJz4vcyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>q!</entry>
-        <entry>W</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
