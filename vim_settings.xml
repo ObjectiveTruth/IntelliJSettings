@@ -17,12 +17,12 @@
         <mark key="^" line="66" column="80" />
         <mark key="." line="66" column="80" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" timestamp="1495826535389">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" timestamp="1496010471352">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="37" column="408" />
-        <mark key="." line="21" column="23" />
-        <mark key="^" line="21" column="23" />
+        <mark key="[" line="32" column="388" />
+        <mark key="]" line="32" column="387" />
+        <mark key="." line="32" column="387" />
+        <mark key="^" line="32" column="387" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/myaccount/MyAccount.java" timestamp="1480299101194">
         <mark key="'" line="115" column="40" />
@@ -321,8 +321,8 @@
         <mark key="." line="71" column="89" />
         <mark key="^" line="71" column="89" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1495833600833">
-        <mark key="'" line="19" column="19" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1496010631657">
+        <mark key="'" line="55" column="27" />
         <mark key="[" line="20" column="15" />
         <mark key="]" line="20" column="29" />
         <mark key="^" line="20" column="29" />
@@ -1765,7 +1765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="35" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="120" column="35" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="75" column="34" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="117" column="44" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
@@ -1865,22 +1864,23 @@
       <jump line="19" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/.travis.yml" />
       <jump line="8" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.component.ts" />
       <jump line="5" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.settings.ts" />
+      <jump line="55" column="27" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>npm</text>
+        <text>objectivetruth</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>npm</text>
+        <text>objectivetruth</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUaHVtYnNcPg==</text>
+        <text>cost</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLmNhdGNoKChyZWFzb24gPT4gewogICAgICAgICAgY29uc29sZS5sb2cocmVhc29uKQogICAgICB9KSkK</text>
@@ -2185,13 +2185,13 @@
         <text encoding="base64">V09SS0RJUiAvdmFyL3d3dwo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUaHVtYnNcPg==</last-search>
+      <last-search>cost</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUaHVtYnNcPg==</last-pattern>
+      <last-pattern>cost</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2199,7 +2199,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZW5lQW5ub3RhdGlvbnNSZWxhdGl2ZVBhdGhcPg==</entry>
         <entry encoding="base64">XDxnZW5lc19vbmx5XD4=</entry>
         <entry encoding="base64">XDxCRURPUFNcPg==</entry>
         <entry encoding="base64">XDxnZmZcPg==</entry>
@@ -2219,6 +2218,7 @@
         <entry>80</entry>
         <entry>subnet</entry>
         <entry encoding="base64">XDxUaHVtYnNcPg==</entry>
+        <entry>cost</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
@@ -2237,10 +2237,10 @@
         <entry encoding="base64">JzwsJz4vcyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>q!</entry>
-        <entry>W</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
