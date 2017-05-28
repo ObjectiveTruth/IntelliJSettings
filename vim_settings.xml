@@ -17,12 +17,12 @@
         <mark key="^" line="66" column="80" />
         <mark key="." line="66" column="80" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" timestamp="1496010471352">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="388" />
-        <mark key="]" line="32" column="387" />
-        <mark key="." line="32" column="387" />
-        <mark key="^" line="32" column="387" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" timestamp="1496013375112">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="31" column="388" />
+        <mark key="]" line="31" column="398" />
+        <mark key="." line="31" column="398" />
+        <mark key="^" line="31" column="398" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/myaccount/MyAccount.java" timestamp="1480299101194">
         <mark key="'" line="115" column="40" />
@@ -321,12 +321,12 @@
         <mark key="." line="71" column="89" />
         <mark key="^" line="71" column="89" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1496012441498">
-        <mark key="'" line="70" column="4" />
-        <mark key="[" line="3" column="42" />
-        <mark key="]" line="4" column="30" />
-        <mark key="^" line="4" column="30" />
-        <mark key="." line="4" column="30" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1496013173022">
+        <mark key="'" line="34" column="52" />
+        <mark key="[" line="34" column="36" />
+        <mark key="]" line="34" column="36" />
+        <mark key="." line="34" column="39" />
+        <mark key="^" line="59" column="52" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/.travis.yml" timestamp="1471148061720">
         <mark key="'" line="58" column="65" />
@@ -552,6 +552,10 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="7" column="426" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provisioner_rsa.pub" timestamp="1496013315385">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="417" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/guidelinespolicies/GuidelinesAndPolicies.java" timestamp="1472964233852">
         <mark key="'" line="47" column="78" />
         <mark key="[" line="47" column="0" />
@@ -600,6 +604,9 @@
         <mark key="]" line="1" column="34" />
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provisioner_rsa" timestamp="1496013533010">
+        <mark key="'" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.component.ts" timestamp="1496000154706">
         <mark key="'" line="8" column="0" />
@@ -907,8 +914,8 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1495827796455">
-        <mark key="'" line="110" column="5" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1496013025458">
+        <mark key="'" line="17" column="11" />
         <mark key="[" line="110" column="7" />
         <mark key="]" line="110" column="10" />
         <mark key="." line="110" column="10" />
@@ -1606,12 +1613,6 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.auth.tpl" timestamp="1495827647101">
-        <mark key="'" line="20" column="3" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/.angular-cli.json" timestamp="1491457156577">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="20" column="17" />
@@ -1765,14 +1766,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="34" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
-      <jump line="117" column="44" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
-      <jump line="159" column="40" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
-      <jump line="168" column="195" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
-      <jump line="151" column="39" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
-      <jump line="109" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
-      <jump line="125" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
-      <jump line="48" column="84" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
       <jump line="118" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
       <jump line="47" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
       <jump line="113" column="24" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
@@ -1831,7 +1824,6 @@
       <jump line="144" column="12" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-authentication/setup.properties" />
-      <jump line="4" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="35" column="35" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="5" column="36" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="6" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
@@ -1865,28 +1857,37 @@
       <jump line="5" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.settings.ts" />
       <jump line="55" column="27" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="61" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="4" column="30" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="141" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="25" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" />
+      <jump line="17" column="11" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="46" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="34" column="52" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provisioner_rsa" />
+      <jump line="26" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provisioner_rsa" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>key</text>
+        <text>panacea_2@Miguels-MacBook-Pro-2.local</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>key</text>
+        <text>panacea_2@Miguels-MacBook-Pro-2.local</text>
       </register>
       <register name="/" type="4">
         <text>terraform</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKChyZWFzb24gPT4gewogICAgICAgICAgY29uc29sZS5sb2cocmVhc29uKQogICAgICB9KSkK</text>
+      <register name="0" type="4">
+        <text>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDMnEyHdJaAAZ7CWR+VQpYXbchbvC5JHkMllFWI3m8kW7JcVmqCB/nPO37UkTwPk+kLJI6lWB43tQWI+McYTZOsmLO6UaMykoruaiFEn9WKQSKZN+h2Wx1KUmg6dMEahPc3fj7o4yh9xkhYLo3qiO3TjnVT9acHULkBpUdCcmLTrlXGz2iiRzNp5owl7Od70JyhYtpwSE9Sv5HOEVAqa56j7cj8gvNLo+FQYPN28kWCOP+e3GjYebJMAR4zg8H8bt+o8iOmW+sp9kjFTteJHGxWiJlXMZAQqv1S6ZPlb9nFOO45jDnbympGKoZ5v0EPNSYYzJQTWMIbvIcN92RbM23v panacea_2@Miguels-MacBook-Pro-2.local</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBweXRob246CiAgICB2ZXJzaW9uOiAyLjcuNgo=</text>
+        <text encoding="base64">ICAgZ3JvdXBzOiBkb2NrZXIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1913,22 +1914,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">L2Rpc3QK</text>
+        <text encoding="base64">ICAgIHByb2ZpbGUgPSAiaW5ub3ZleGEtY3BzLWVzcCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF0YSAidGVtcGxhdGVfZmlsZSIgImF1dGhfdXNlcmRhdGEiIHsKICB0ZW1wbGF0ZSA9ICIke2ZpbGUoInRlbXBsYXRlcy9jbG91ZC1pbml0LmF1dGgudHBsIil9Igp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICBweXRob246CiAgICB2ZXJzaW9uOiAyLjcuNgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">L3NyYwovZTJlCi9kb2NzCg==</text>
+        <text encoding="base64">L2Rpc3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8vLy8vLy8vLy8vLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyAK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2179,10 +2180,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">L3NyYwovZTJlCi9kb2NzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">V09SS0RJUiAvdmFyL3d3dwo=</text>
+        <text encoding="base64">Ly8vLy8vLy8vLy8vLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2238,8 +2239,8 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>q!</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
