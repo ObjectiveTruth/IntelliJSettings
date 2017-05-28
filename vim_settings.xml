@@ -914,11 +914,11 @@
         <mark key="." line="110" column="10" />
         <mark key="^" line="110" column="10" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/circle.yml" timestamp="1495995240703">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="28" />
-        <mark key="^" line="18" column="28" />
-        <mark key="." line="18" column="28" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/circle.yml" timestamp="1496002584513">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="4" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/GraphvizCreationController.scala" timestamp="1469592955472">
         <mark key="'" line="33" column="8" />
@@ -1188,6 +1188,12 @@
         <mark key="]" line="60" column="13" />
         <mark key="." line="37" column="46" />
         <mark key="^" line="37" column="46" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/.editorconfig" timestamp="1496001754383">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="6" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/CommentDialog.java" timestamp="1471670976133">
         <mark key="'" line="15" column="0" />
@@ -1865,13 +1871,13 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>10.3</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>10.3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaHVtYnNcPg==</text>
@@ -2231,9 +2237,9 @@
         <entry encoding="base64">JzwsJz4vcyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>q!</entry>
-        <entry>wq</entry>
-        <entry>q</entry>
         <entry>W</entry>
+        <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
