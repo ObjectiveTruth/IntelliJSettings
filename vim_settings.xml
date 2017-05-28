@@ -321,12 +321,12 @@
         <mark key="." line="71" column="89" />
         <mark key="^" line="71" column="89" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1496010631657">
-        <mark key="'" line="55" column="27" />
-        <mark key="[" line="20" column="15" />
-        <mark key="]" line="20" column="29" />
-        <mark key="^" line="20" column="29" />
-        <mark key="." line="20" column="29" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1496012441498">
+        <mark key="'" line="70" column="4" />
+        <mark key="[" line="3" column="42" />
+        <mark key="]" line="4" column="30" />
+        <mark key="^" line="4" column="30" />
+        <mark key="." line="4" column="30" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/.travis.yml" timestamp="1471148061720">
         <mark key="'" line="58" column="65" />
@@ -1765,7 +1765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="35" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="75" column="34" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="117" column="44" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="159" column="40" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
@@ -1865,22 +1864,23 @@
       <jump line="8" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.component.ts" />
       <jump line="5" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.settings.ts" />
       <jump line="55" column="27" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="61" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>objectivetruth</text>
+        <text>key</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>objectivetruth</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
-        <text>cost</text>
+        <text>terraform</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLmNhdGNoKChyZWFzb24gPT4gewogICAgICAgICAgY29uc29sZS5sb2cocmVhc29uKQogICAgICB9KSkK</text>
@@ -2189,9 +2189,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cost</last-search>
+      <last-search>terraform</last-search>
       <last-offset />
-      <last-pattern>cost</last-pattern>
+      <last-pattern>terraform</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2199,7 +2199,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZW5lc19vbmx5XD4=</entry>
         <entry encoding="base64">XDxCRURPUFNcPg==</entry>
         <entry encoding="base64">XDxnZmZcPg==</entry>
         <entry encoding="base64">XDxyZWZlcmVuY2VHZW5vbWVBYnNvbHV0ZVBhdGhcPg==</entry>
@@ -2219,6 +2218,7 @@
         <entry>subnet</entry>
         <entry encoding="base64">XDxUaHVtYnNcPg==</entry>
         <entry>cost</entry>
+        <entry>terraform</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
