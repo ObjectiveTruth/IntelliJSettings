@@ -1491,11 +1491,11 @@
         <mark key="." line="2" column="83" />
         <mark key="^" line="2" column="83" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/dontcommit.sc" timestamp="1495946566175">
-        <mark key="[" line="16" column="2" />
-        <mark key="]" line="18" column="2" />
-        <mark key="^" line="18" column="2" />
-        <mark key="." line="18" column="2" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/dontcommit.sc" timestamp="1495947653576">
+        <mark key="[" line="52" column="6" />
+        <mark key="]" line="58" column="7" />
+        <mark key="^" line="58" column="7" />
+        <mark key="." line="58" column="7" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/testResources/server_responses/clickabledate/fully_open_8am-330pm.aspx" timestamp="1472487623620">
         <mark key="'" line="311" column="0" />
@@ -1799,14 +1799,14 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">MSsyKzItMS0xLTEtMSsyKzErMS0xCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>71</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>subnet</text>
@@ -1815,7 +1815,7 @@
         <text encoding="base64">ICB1c2VyX2RhdGEgPSAiJHtkYXRhLnRlbXBsYXRlX2ZpbGUuZGV2X3VzZXJkYXRhLnJlbmRlcmVkfSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MSsyKzItMS0xLTEtMSsyKzErMS0xCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1842,22 +1842,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MTc5IC0gMTE4Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MTMxCgo3MQo=</text>
+        <text encoding="base64">NTctMTc5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGZvbyhpbnB1dDogTGlzdFtTdHJpbmddICk6IExpc3QgPSB7CiAgICAKfQo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgIC0gODAxMDo1MDAwCg==</text>
+        <text encoding="base64">MSsyKzItMS0xLTEtMSsyKzErMS0xCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgZ3JvdXBzOiBkb2NrZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgZ3JvdXBzOiBkb2NrZXIK</text>
+        <text encoding="base64">MTMxCgo3MQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2108,10 +2108,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IC0gc2VydmljCg==</text>
+        <text encoding="base64">ZGVmIGZvbyhpbnB1dDogTGlzdFtTdHJpbmddICk6IExpc3QgPSB7CiAgICAKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IC0gCg==</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgIC0gODAxMDo1MDAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
