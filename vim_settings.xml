@@ -24,6 +24,13 @@
         <mark key="." line="31" column="398" />
         <mark key="^" line="31" column="398" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/circle.yml" timestamp="1496015807125">
+        <mark key="'" line="22" column="4" />
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="7" column="33" />
+        <mark key="^" line="7" column="33" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/myaccount/MyAccount.java" timestamp="1480299101194">
         <mark key="'" line="115" column="40" />
         <mark key="[" line="63" column="56" />
@@ -321,12 +328,12 @@
         <mark key="." line="71" column="89" />
         <mark key="^" line="71" column="89" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1496013173022">
-        <mark key="'" line="34" column="52" />
-        <mark key="[" line="34" column="36" />
-        <mark key="]" line="34" column="36" />
-        <mark key="." line="34" column="39" />
-        <mark key="^" line="59" column="52" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1496016193354">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+        <mark key="^" line="5" column="31" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/.travis.yml" timestamp="1471148061720">
         <mark key="'" line="58" column="65" />
@@ -668,6 +675,10 @@
         <mark key="]" line="52" column="115" />
         <mark key="." line="52" column="115" />
         <mark key="^" line="52" column="115" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/.terraform/terraform.tfstate" timestamp="1496016185638">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="42" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/environments/environment.prod.ts" timestamp="1495996898494">
         <mark key="[" line="2" column="0" />
@@ -1766,9 +1777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="16" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
-      <jump line="47" column="8" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" />
-      <jump line="113" column="24" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="97" column="11" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="100" column="10" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
       <jump line="102" column="10" filename="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" />
@@ -1866,28 +1874,31 @@
       <jump line="34" column="52" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provisioner_rsa" />
       <jump line="26" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provisioner_rsa" />
+      <jump line="33" column="37" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="74" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="16" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/circle.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>panacea_2@Miguels-MacBook-Pro-2.local</text>
+        <text>:</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>panacea_2@Miguels-MacBook-Pro-2.local</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>terraform</text>
       </register>
-      <register name="0" type="4">
-        <text>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDMnEyHdJaAAZ7CWR+VQpYXbchbvC5JHkMllFWI3m8kW7JcVmqCB/nPO37UkTwPk+kLJI6lWB43tQWI+McYTZOsmLO6UaMykoruaiFEn9WKQSKZN+h2Wx1KUmg6dMEahPc3fj7o4yh9xkhYLo3qiO3TjnVT9acHULkBpUdCcmLTrlXGz2iiRzNp5owl7Od70JyhYtpwSE9Sv5HOEVAqa56j7cj8gvNLo+FQYPN28kWCOP+e3GjYebJMAR4zg8H8bt+o8iOmW+sp9kjFTteJHGxWiJlXMZAQqv1S6ZPlb9nFOO45jDnbympGKoZ5v0EPNSYYzJQTWMIbvIcN92RbM23v panacea_2@Miguels-MacBook-Pro-2.local</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgInByb2ZpbGUiOiAiaW5ub3ZleGEtY3BzLWVzcCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgZ3JvdXBzOiBkb2NrZXIK</text>
+        <text encoding="base64">ICAgIC0gcGlwIGluc3RhbGwgYXdzY2xpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1914,22 +1925,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb2ZpbGUgPSAiaW5ub3ZleGEtY3BzLWVzcCIK</text>
+        <text encoding="base64">ICAgIFMzX0JVQ0tFVDogdGVycmFmb3JtLWNpcmNsZWNpLWRlbW8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGF0YSAidGVtcGxhdGVfZmlsZSIgImF1dGhfdXNlcmRhdGEiIHsKICB0ZW1wbGF0ZSA9ICIke2ZpbGUoInRlbXBsYXRlcy9jbG91ZC1pbml0LmF1dGgudHBsIil9Igp9Cg==</text>
+        <text encoding="base64">ICAgIEFXU19ERUZBVUxUX1JFR0lPTjogYXAtbm9ydGhlYXN0LTEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBweXRob246CiAgICB2ZXJzaW9uOiAyLjcuNgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">L2Rpc3QK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVwbG95bWVudDoKICBkZXZlbG9wbWVudDoKICAgIGJyYW5jaDogbWFzdGVyCiAgICBjb21tYW5kczoKICAgICAgIyMgREVWICMjCiAgICAgICMgTG9naW4gd2l0aCBEb2NrZXIgdG8gdGhlIEFXUyBjb250YWluZXIgcmVnaXN0cnkKICAgICAgLSBhd3MgZWNyIGdldC1sb2dpbiAtLXJlZ2lvbiB1cy1lYXN0LTEgfCBiYXNoIC0KICAgICAgLSBkb2NrZXIgdGFnIGNwcy1lY3AtYWNjb3VudGluZzpsYXRlc3QgMTk3NTA5MDEyNTU5LmRrci5lY3IudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vY3BzLWVjcC9jcHMtZWNwLWFjY291bnRpbmc6ZGV2CiAgICAgIC0gZG9ja2VyIHB1c2ggMTk3NTA5MDEyNTU5LmRrci5lY3IudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vY3BzLWVjcC9jcHMtZWNwLWFjY291bnRpbmc6ZGV2Cgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC0gc2J0IG9uZS1qYXIKICAgIC0gZG9ja2VyLWNvbXBvc2UgYnVpbGQKICAgIC0gZG9ja2VyLWNvbXBvc2UgdXAgLWQK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2180,10 +2191,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">L3NyYwovZTJlCi9kb2NzCg==</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzOgogIG92ZXJyaWRlOgogICAgLSBwaXAgaW5zdGFsbCBhd3NjbGkKICAgIC0gcGlwIGluc3RhbGwgZG9ja2VyLWNvbXBvc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8vLy8vLy8vLy8vLwo=</text>
+        <text encoding="base64">ICAgIC0gcGlwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2239,9 +2250,9 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>q!</entry>
         <entry>wq</entry>
-        <entry>W</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
