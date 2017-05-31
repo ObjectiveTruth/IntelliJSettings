@@ -945,11 +945,11 @@
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/circle_ci_pr_commenter.js" timestamp="1496245283614">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="37" />
-        <mark key="^" line="7" column="2" />
-        <mark key="." line="7" column="2" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/circle_ci_pr_commenter.js" timestamp="1496246501112">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+        <mark key="." line="5" column="24" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/GraphvizCreationController.scala" timestamp="1469592955472">
         <mark key="'" line="33" column="8" />
@@ -1899,14 +1899,14 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGxvbmctcnVubmluZy1jb21tYW5kPg==</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>templates</text>
