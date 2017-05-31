@@ -334,12 +334,12 @@
         <mark key="." line="71" column="89" />
         <mark key="^" line="71" column="89" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1496237021038">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="12" column="44" />
-        <mark key="]" line="12" column="57" />
-        <mark key="^" line="12" column="57" />
-        <mark key="." line="12" column="57" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1496244074356">
+        <mark key="'" line="73" column="34" />
+        <mark key="[" line="73" column="22" />
+        <mark key="]" line="73" column="33" />
+        <mark key="^" line="73" column="33" />
+        <mark key="." line="73" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/.travis.yml" timestamp="1471148061720">
         <mark key="'" line="58" column="65" />
@@ -450,8 +450,8 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/provisioner_hosts" timestamp="1496090828551">
-        <mark key="[" line="4" column="106" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/provisioner_hosts" timestamp="1496243822233">
+        <mark key="[" line="4" column="150" />
         <mark key="]" line="4" column="149" />
         <mark key="^" line="4" column="149" />
         <mark key="." line="4" column="149" />
@@ -739,9 +739,6 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495997387259">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/common/Utils.java" timestamp="1471757403144">
         <mark key="'" line="38" column="23" />
         <mark key="[" line="20" column="83" />
@@ -946,6 +943,12 @@
         <mark key="]" line="12" column="9" />
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="9" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/circle_ci_pr_commenter.js" timestamp="1496244243888">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="2" />
+        <mark key="^" line="7" column="2" />
+        <mark key="." line="7" column="2" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/GraphvizCreationController.scala" timestamp="1469592955472">
         <mark key="'" line="33" column="8" />
@@ -1790,7 +1793,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="1" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="16" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="109" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
@@ -1890,6 +1892,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="75" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="17" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="73" column="34" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1905,7 +1908,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>stage</text>
+        <text>templates</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB0YWdzIHsKICAgIE5hbWUgPSAiQ1BTLUVTUCBEZXYgTWFpbiIKICAgIGNvc3RfYWxsb2NhdGlvbl90YWcgPSAiY3BzX2VzcF9kZXYiCiAgfQo=</text>
@@ -2210,13 +2213,13 @@
         <text encoding="base64">ICAtIG5hbWU6IEFkZCBNaWd1ZWwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>stage</last-search>
+      <last-search>templates</last-search>
       <last-offset />
-      <last-pattern>stage</last-pattern>
+      <last-pattern>templates</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2224,7 +2227,6 @@
     </search>
     <history>
       <history-search>
-        <entry>8000</entry>
         <entry>8085</entry>
         <entry>8081</entry>
         <entry>mail</entry>
@@ -2244,6 +2246,7 @@
         <entry encoding="base64">XDxNaWd1ZWxcPg==</entry>
         <entry encoding="base64">XDxDSV9JUF9BRERSRVNTX1RPX1dISVRFTElTVFw+</entry>
         <entry>stage</entry>
+        <entry>templates</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
@@ -2264,8 +2267,8 @@
         <entry>q!</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
