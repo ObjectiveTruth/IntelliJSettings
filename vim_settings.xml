@@ -699,11 +699,6 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="42" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/environments/environment.prod.ts" timestamp="1495996898494">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/ResumableInfoStorage.scala" timestamp="1485120012491">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="0" column="0" />
@@ -884,11 +879,6 @@
         <mark key="]" line="74" column="88" />
         <mark key="." line="74" column="88" />
         <mark key="^" line="74" column="88" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/main.ts" timestamp="1495998494409">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/testResources/server_responses/joinorleave/leave_success_message.aspx" timestamp="1472567071819">
         <mark key="'" line="0" column="0" />
@@ -1505,11 +1495,6 @@
         <mark key="^" line="21" column="26" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/.angular-cli.json" timestamp="1495999940343">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/database_assignment2/1.sql" timestamp="1491525983283">
         <mark key="'" line="22" column="4" />
         <mark key="[" line="24" column="0" />
@@ -1764,6 +1749,9 @@
         <mark key="^" line="182" column="64" />
         <mark key="." line="98" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup.properties" timestamp="1496343326067">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/RedditCommentSentimentHighlighter/README.md" timestamp="1485638482951">
         <mark key="'" line="11" column="17" />
         <mark key="[" line="13" column="0" />
@@ -1800,7 +1788,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="109" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="45" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="128" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
@@ -1900,6 +1887,7 @@
       <jump line="17" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="73" column="34" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="72" column="31" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2220,7 +2208,7 @@
         <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -2273,9 +2261,9 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>q!</entry>
         <entry>W</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
