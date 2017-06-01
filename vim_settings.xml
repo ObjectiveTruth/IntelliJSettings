@@ -335,12 +335,12 @@
         <mark key="." line="71" column="89" />
         <mark key="^" line="71" column="89" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1496244074356">
-        <mark key="'" line="73" column="34" />
-        <mark key="[" line="73" column="22" />
-        <mark key="]" line="73" column="33" />
-        <mark key="^" line="73" column="33" />
-        <mark key="." line="73" column="33" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1496339950580">
+        <mark key="'" line="72" column="31" />
+        <mark key="[" line="74" column="126" />
+        <mark key="]" line="74" column="170" />
+        <mark key="^" line="74" column="170" />
+        <mark key="." line="74" column="170" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/.travis.yml" timestamp="1471148061720">
         <mark key="'" line="58" column="65" />
@@ -668,6 +668,12 @@
         <mark key="]" line="17" column="50" />
         <mark key="^" line="17" column="50" />
         <mark key="." line="17" column="50" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/variables.tf" timestamp="1496338829073">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/usermodel/MyAccountParser.java" timestamp="1480300702363">
         <mark key="'" line="116" column="16" />
@@ -1794,7 +1800,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="16" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="109" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="45" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
@@ -1894,28 +1899,29 @@
       <jump line="75" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="17" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="73" column="34" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="72" column="31" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>stage-main</text>
+        <text>servers</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>stage-main</text>
+        <text>servers</text>
       </register>
       <register name="/" type="4">
-        <text>templates</text>
+        <text encoding="base64">XDxjcHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>dev-authentication</text>
+        <text>${aws_security_group.cps-ecp_dev_servers.id}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNpZHJfYmxvY2tzID0gWyIke2F3c19zZWN1cml0eV9ncm91cC5jcHMtZWNwX2Rldl9zZXJ2ZXJzLmlkfX0iXQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1942,22 +1948,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJvdC5jb21tZW50KCcjIyMgVGVycmFmb3JtIFBsYW4gT3V0cHV0XG5gYGBcbicgKyBzdGRvdXQgKyAnXG5gYGAnKTsK</text>
+        <text encoding="base64">ICAgIHByZWZpeF9saXN0X2lkcyA9IFsicGwtMTJjNGU2NzgiXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhbGxiYWNrKHN0ZG91dCk7IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">ICAgIGJvdC5jb21tZW50KCcjIyMgVGVycmFmb3JtIFBsYW4gT3V0cHV0XG5gYGBcbicgKyBzdGRvdXQgKyAnXG5gYGAnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JHtzdGRvdXR9Cg==</text>
+        <text encoding="base64">ICAgIGNhbGxiYWNrKHN0ZG91dCk7IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">JHtzdGRvdXR9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2208,19 +2214,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>templates</last-search>
+      <last-search encoding="base64">XDxjcHNcPg==</last-search>
       <last-offset />
-      <last-pattern>templates</last-pattern>
+      <last-pattern encoding="base64">XDxjcHNcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2228,7 +2234,6 @@
     </search>
     <history>
       <history-search>
-        <entry>8085</entry>
         <entry>8081</entry>
         <entry>mail</entry>
         <entry>admin</entry>
@@ -2248,6 +2253,7 @@
         <entry encoding="base64">XDxDSV9JUF9BRERSRVNTX1RPX1dISVRFTElTVFw+</entry>
         <entry>stage</entry>
         <entry>templates</entry>
+        <entry encoding="base64">XDxjcHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
