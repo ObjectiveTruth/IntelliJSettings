@@ -145,6 +145,12 @@
         <mark key="^" line="6" column="72" />
         <mark key="." line="6" column="72" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1496344682940">
+        <mark key="[" line="11" column="53" />
+        <mark key="]" line="11" column="52" />
+        <mark key="." line="11" column="52" />
+        <mark key="^" line="11" column="52" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" timestamp="1495062888709">
         <mark key="'" line="266" column="84" />
         <mark key="[" line="90" column="93" />
@@ -1893,8 +1899,8 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>servers</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VydmljZSBnbHV1LXNlcnZlci0zLjAuMSBsb2dpbgo=</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
@@ -1909,7 +1915,7 @@
         <text>${aws_security_group.cps-ecp_dev_servers.id}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNpZHJfYmxvY2tzID0gWyIke2F3c19zZWN1cml0eV9ncm91cC5jcHMtZWNwX2Rldl9zZXJ2ZXJzLmlkfX0iXQo=</text>
+        <text encoding="base64">c2VydmljZSBnbHV1LXNlcnZlci0zLjAuMSBsb2dpbgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1936,22 +1942,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByZWZpeF9saXN0X2lkcyA9IFsicGwtMTJjNGU2NzgiXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvdC5jb21tZW50KCcjIyMgVGVycmFmb3JtIFBsYW4gT3V0cHV0XG5gYGBcbicgKyBzdGRvdXQgKyAnXG5gYGAnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNhbGxiYWNrKHN0ZG91dCk7IAo=</text>
+        <text encoding="base64">ICAgIGNpZHJfYmxvY2tzID0gWyIke2F3c19zZWN1cml0eV9ncm91cC5jcHMtZWNwX2Rldl9zZXJ2ZXJzLmlkfX0iXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">ICAgIHByZWZpeF9saXN0X2lkcyA9IFsicGwtMTJjNGU2NzgiXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JHtzdGRvdXR9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2202,13 +2208,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">ICAgIGJvdC5jb21tZW50KCcjIyMgVGVycmFmb3JtIFBsYW4gT3V0cHV0XG5gYGBcbicgKyBzdGRvdXQgKyAnXG5gYGAnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">ICAgIGNhbGxiYWNrKHN0ZG91dCk7IAo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2262,8 +2268,8 @@
         <entry>q!</entry>
         <entry>W</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
