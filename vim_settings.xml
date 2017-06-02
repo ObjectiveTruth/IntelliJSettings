@@ -146,11 +146,11 @@
         <mark key="^" line="6" column="72" />
         <mark key="." line="6" column="72" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1496435761214">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1496438679625">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="16" />
+        <mark key="^" line="15" column="87" />
+        <mark key="." line="16" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" timestamp="1495062888709">
         <mark key="'" line="266" column="84" />
@@ -342,12 +342,12 @@
         <mark key="." line="71" column="89" />
         <mark key="^" line="71" column="89" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1496429593224">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1496439574834">
         <mark key="'" line="45" column="18" />
-        <mark key="[" line="58" column="2" />
-        <mark key="]" line="58" column="2" />
-        <mark key="." line="58" column="2" />
-        <mark key="^" line="58" column="2" />
+        <mark key="[" line="29" column="11" />
+        <mark key="]" line="29" column="12" />
+        <mark key="." line="29" column="12" />
+        <mark key="^" line="29" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/.travis.yml" timestamp="1471148061720">
         <mark key="'" line="58" column="65" />
@@ -625,10 +625,10 @@
         <mark key="." line="62" column="7" />
         <mark key="^" line="62" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" timestamp="1496433307499">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" timestamp="1496438632566">
         <mark key="'" line="162" column="0" />
-        <mark key="[" line="177" column="12" />
-        <mark key="]" line="177" column="15" />
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="32" />
         <mark key="." line="177" column="15" />
         <mark key="^" line="177" column="15" />
       </file>
@@ -1759,8 +1759,11 @@
         <mark key="^" line="182" column="64" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup.properties" timestamp="1496343326067">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup.properties" timestamp="1496438641024">
+        <mark key="'" line="87" column="10" />
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="0" />
+        <mark key="." line="178" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/RedditCommentSentimentHighlighter/README.md" timestamp="1485638482951">
         <mark key="'" line="11" column="17" />
@@ -1798,7 +1801,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" />
       <jump line="26" column="48" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="37" column="3" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.auth.tpl" />
       <jump line="71" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
@@ -1869,7 +1871,6 @@
       <jump line="17" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="73" column="34" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="72" column="31" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup.properties" />
       <jump line="70" column="26" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="7" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
@@ -1898,28 +1899,30 @@
       <jump line="52" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
       <jump line="116" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
       <jump line="162" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup.properties" />
+      <jump line="87" column="10" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>Secondary Private IP Address</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>Secondary Private IP Address</text>
       </register>
       <register name="/" type="4">
-        <text>install</text>
+        <text>ip=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gcGlwIGluc3RhbGwgYXdzY2xpIC0tdXBncmFkZQo=</text>
+        <text encoding="base64">aXA9PGluc2VydCBwcml2YXRlIElQIG9mIHNlcnZlcj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gcGlwIGluc3RhbGwgYXdzY2xpIC0tdXBncmFkZQo=</text>
+        <text encoding="base64">ICAjIFNlY29uZGFyeSBQcml2YXRlIElQIEFkZHJlc3MK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1946,22 +1949,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBweXRob246CiAgICB2ZXJzaW9uOiAyLjcuNgo=</text>
+        <text encoding="base64">aXA9MTAuMC4xLjE1MQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC1kICdodHRwc19vbmx5PXRydWUnCg==</text>
+        <text encoding="base64">ICAgIC0gcGlwIGluc3RhbGwgYXdzY2xpIC0tdXBncmFkZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC1kICdwcmVzZXJ2ZV9ob3N0PXRydWUnCg==</text>
+        <text encoding="base64">ICBweXRob246CiAgICB2ZXJzaW9uOiAyLjcuNgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC1kICdodHRwc19vbmx5PXRydWUnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjIFNlY29uZGFyeSBQcml2YXRlIElQIEFkZHJlc3MKICBwcml2YXRlX2lwID0gIjEwLjAuMS4xNTEiCg==</text>
+        <text encoding="base64">ICAgIC1kICdwcmVzZXJ2ZV9ob3N0PXRydWUnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlX2RucyA9ICJhdXRoLmRldi5jcHMtZWNwLmlubm92ZXhhLWludGVybmFsLmNvbSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2212,19 +2215,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIFNlY29uZGFyeSBQcml2YXRlIElQIEFkZHJlc3MKICBwcml2YXRlX2lwID0gIjEwLjAuMS4xNTAiCg==</text>
+        <text encoding="base64">ICAjIFNlY29uZGFyeSBQcml2YXRlIElQIEFkZHJlc3MKICBwcml2YXRlX2lwID0gIjEwLjAuMS4xNTEiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IFdhaXQgZm9yIFNTSCB0byBiZSBhdmFpbGFibGUKICAgIGxvY2FsX2FjdGlvbjoKICAgICAgbW9kdWxlOiB3YWl0X2ZvcgogICAgICBob3N0OiAie3sgaG9zdHZhcnMuZGV2LWF1dGhlbnRpY2F0aW9uLmFuc2libGVfc3NoX2hvc3QgfX0iCiAgICAgIHBvcnQ6IDIyCiAgICAgIGRlbGF5OiAxMAogICAgICB0aW1lb3V0OiAzMjAKICAgICAgc3RhdGU6IHN0YXJ0ZWQKCg==</text>
+        <text encoding="base64">ICBwcml2YXRlX2RucyA9ICJhdXRoLmRldi5jcHMtZWNwLmlubm92ZXhhLWludGVybmFsLmNvbSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>install</last-search>
+      <last-search>ip=</last-search>
       <last-offset />
-      <last-pattern>install</last-pattern>
+      <last-pattern>ip=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2232,7 +2235,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhY2NvdW50X2FwaV9kYlw+</entry>
         <entry encoding="base64">XDxhY2NvdW50aW5nX2FwaV9kYlw+</entry>
         <entry>accounting</entry>
         <entry>80</entry>
@@ -2252,6 +2254,7 @@
         <entry>esp</entry>
         <entry>ESP</entry>
         <entry>install</entry>
+        <entry>ip=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
@@ -2270,9 +2273,9 @@
         <entry encoding="base64">JzwsJz4vcyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>q!</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>W</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
