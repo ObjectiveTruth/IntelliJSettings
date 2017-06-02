@@ -145,12 +145,11 @@
         <mark key="^" line="6" column="72" />
         <mark key="." line="6" column="72" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1496353895682">
-        <mark key="'" line="13" column="15" />
-        <mark key="[" line="15" column="58" />
-        <mark key="]" line="15" column="58" />
-        <mark key="^" line="15" column="58" />
-        <mark key="." line="15" column="58" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1496368950660">
+        <mark key="[" line="18" column="58" />
+        <mark key="]" line="18" column="58" />
+        <mark key="^" line="18" column="58" />
+        <mark key="." line="18" column="58" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" timestamp="1495062888709">
         <mark key="'" line="266" column="84" />
@@ -342,12 +341,12 @@
         <mark key="." line="71" column="89" />
         <mark key="^" line="71" column="89" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1496339950580">
-        <mark key="'" line="72" column="31" />
-        <mark key="[" line="74" column="126" />
-        <mark key="]" line="74" column="170" />
-        <mark key="^" line="74" column="170" />
-        <mark key="." line="74" column="170" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1496367719788">
+        <mark key="'" line="42" column="18" />
+        <mark key="[" line="67" column="16" />
+        <mark key="]" line="67" column="16" />
+        <mark key="^" line="42" column="18" />
+        <mark key="." line="67" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/.travis.yml" timestamp="1471148061720">
         <mark key="'" line="58" column="65" />
@@ -624,6 +623,12 @@
         <mark key="]" line="62" column="7" />
         <mark key="." line="62" column="7" />
         <mark key="^" line="62" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" timestamp="1496367465503">
+        <mark key="'" line="196" column="39" />
+        <mark key="[" line="175" column="3" />
+        <mark key="]" line="175" column="31" />
+        <mark key="." line="175" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/test/resources/logback.xml" timestamp="1470501106113">
         <mark key="'" line="16" column="28" />
@@ -1229,12 +1234,12 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" timestamp="1496353173586">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" timestamp="1496367928340">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="110" column="44" />
-        <mark key="]" line="111" column="8" />
-        <mark key="." line="111" column="8" />
-        <mark key="^" line="111" column="8" />
+        <mark key="[" line="83" column="17" />
+        <mark key="]" line="84" column="21" />
+        <mark key="." line="84" column="21" />
+        <mark key="^" line="84" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/CommentDialog.java" timestamp="1471670976133">
         <mark key="'" line="15" column="0" />
@@ -1795,11 +1800,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="14" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
-      <jump line="84" column="28" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="12" column="60" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
-      <jump line="112" column="20" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="107" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="124" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="116" column="27" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
@@ -1885,7 +1885,6 @@
       <jump line="36" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="30" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="33" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="75" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="17" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="73" column="34" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
@@ -1895,28 +1894,34 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="7" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="10" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
+      <jump line="196" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="80" column="21" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="43" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="67" column="28" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="42" column="18" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>cps-ecp_dev</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>cps-ecp_dev</text>
       </register>
       <register name="/" type="4">
-        <text>service</text>
+        <text>ESP</text>
       </register>
       <register name="0" type="4">
-        <text>/opt/gluu-server-$GLUU_VERSION/install/community-edition-setup/cps-ecp_dev.properties</text>
+        <text>/home/ubuntu/cps-ecp_dev.properties</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJlY29tZV91c2VyOiByb290Cg==</text>
+        <text encoding="base64">ICAgICAgIGFuZCBzZXR1cCBzY3JpcHQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1943,22 +1948,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZXM6IC9vcHQvZ2x1dS1zZXJ2ZXItMy4wLjEK</text>
+        <text encoding="base64">Y3AK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY3JlYXRlczogL29wdAo=</text>
+        <text encoding="base64">aXA9PGluc2VydCBwcml2YXRlIElQIG9mIHNlcnZlcj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgW1sgLXogIiR7cGFyYW0vLyB9IiBdXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IENvcHkgdGhlIHNldHVwIHNjcmlwdCBmb3IgZ2x1dQogICAgYmVjb21lOiB0cnVlCiAgICBjb3B5OgogICAgICBzcmM6IGRldl9hdXRoZW50aWNhdGlvbi9zZXR1cF9nbHV1LnNoCiAgICAgIGRlc3Q6IC9ob21lL3VidW50dS9zZXR1cF9nbHV1LnNoCiAgICAgIG93bmVyOiByb290Cg==</text>
+        <text encoding="base64">ICAgIGJlY29tZV91c2VyOiByb290Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZ3JvdXA6IGZvbwo=</text>
+        <text encoding="base64">ICAgIGNyZWF0ZXM6IC9vcHQvZ2x1dS1zZXJ2ZXItMy4wLjEK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2209,19 +2214,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VydmljZSBnbHV1LXNlcnZlci0zLjAuMSBsb2dpbgo=</text>
+        <text encoding="base64">ICAgICAgY3JlYXRlczogL29wdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VydmljZSBnbHV1LXNlcnZlci0zLjAuMSBsb2dpbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>service</last-search>
+      <last-search>ESP</last-search>
       <last-offset />
-      <last-pattern>service</last-pattern>
+      <last-pattern>ESP</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2229,9 +2234,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mail</entry>
-        <entry>admin</entry>
-        <entry encoding="base64">XDxhY2NvdW50aW5nX2FwaVw+</entry>
         <entry encoding="base64">XDxhY2NvdW50X2FwaVw+</entry>
         <entry encoding="base64">XDxhY2NvdW50X2FwaV9kYlw+</entry>
         <entry encoding="base64">XDxhY2NvdW50aW5nX2FwaV9kYlw+</entry>
@@ -2249,6 +2251,9 @@
         <entry>templates</entry>
         <entry encoding="base64">XDxjcHNcPg==</entry>
         <entry>service</entry>
+        <entry>10.</entry>
+        <entry>esp</entry>
+        <entry>ESP</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
