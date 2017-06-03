@@ -951,12 +951,12 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1496505891470">
-        <mark key="'" line="17" column="11" />
-        <mark key="[" line="55" column="72" />
-        <mark key="]" line="55" column="74" />
-        <mark key="." line="55" column="74" />
-        <mark key="^" line="55" column="74" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1496507400090">
+        <mark key="'" line="158" column="0" />
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="28" />
+        <mark key="." line="11" column="28" />
+        <mark key="^" line="11" column="28" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/circle.yml" timestamp="1496467319791">
         <mark key="[" line="12" column="6" />
@@ -1833,7 +1833,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="4" column="30" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="141" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="25" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" />
@@ -1933,6 +1932,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/.angular-cli.json" />
       <jump line="48" column="25" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/theme/sass/conf/_mixins.scss" />
       <jump line="20" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/orchestrate/templates/cloud-init.dev.tpl" />
+      <jump line="158" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2253,7 +2253,7 @@
         <text encoding="base64">ICBsb2dnZXIuaW5mbyhpby5wYXRoKCkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2307,8 +2307,8 @@
         <entry>q!</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
