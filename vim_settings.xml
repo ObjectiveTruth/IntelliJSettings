@@ -325,11 +325,11 @@
         <mark key="^" line="26" column="84" />
         <mark key="." line="26" column="61" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/Dockerfile" timestamp="1496000482188">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="18" />
-        <mark key="^" line="10" column="29" />
-        <mark key="." line="2" column="18" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/Dockerfile" timestamp="1496464191331">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="28" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="6" column="31" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/project/plugins.sbt" timestamp="1471115385319">
         <mark key="'" line="20" column="15" />
@@ -762,7 +762,7 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496461007317">
+      <file name="/Dummy.txt" timestamp="1496462964836">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/common/Utils.java" timestamp="1471757403144">
@@ -1435,6 +1435,12 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="16" column="61" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/docker-entrypoint.sh" timestamp="1496464897095">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1495499008317">
         <mark key="[" line="142" column="61" />
         <mark key="]" line="142" column="60" />
@@ -1934,23 +1940,23 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">awo=</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>file</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3NldHNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bGV0IGlvID0gcmVxdWlyZSgnc29ja2V0LmlvJykoKQo=</text>
+      <register name="0" type="4">
+        <text>CPSECP_DASHBOARD_BASEPATH</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAKICAgIAoK</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1977,22 +1983,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsb2dnZXIuaW5mbyhpby5wYXRoKCkpCg==</text>
+        <text encoding="base64">I3NlZCAtaSAiL148aGVhZD46LyBzLyQvIDxiYXNlIGhyZWY9XCIvJHtDUFNFQ1BfREFTSEJPQVJEX0JBU0VQQVRIfVwiPi8iIC92YXIvd3d3L2luZGV4Lmh0bWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGlvID0gcmVxdWlyZSgnc29ja2V0LmlvJykoKQo=</text>
+        <text encoding="base64">c2VkIC1pICcvXjx0aXRsZT4vYSAiJyBmaWxlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9IGVsc2UgewogICAgaW8ucGF0aCgnLycpCiAgfQo=</text>
+        <text encoding="base64">CiAgICAKICAgIAoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZiAoYmFzZVBhdGhuYW1lKSB7CiAgICBpby5wYXRoKGJhc2VQYXRobmFtZSkKICB9IGVsc2UgewogICAgaW8ucGF0aCgnLycpCiAgfQogIGxvZ2dlci5pbmZvKGlvLnBhdGgoKSkK</text>
+        <text encoding="base64">ICBsb2dnZXIuaW5mbyhpby5wYXRoKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAoYmFzZVBhdGhuYW1lKSB7CiAgICBpby5wYXRoKGJhc2VQYXRobmFtZSkKICB9IGVsc2UgewogICAgaW8ucGF0aCgnLycpCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgbGV0IGlvID0gcmVxdWlyZSgnc29ja2V0LmlvJykoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oaW8ucGF0aCgpKQo=</text>
+        <text encoding="base64">ICB9IGVsc2UgewogICAgaW8ucGF0aCgnLycpCiAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2243,10 +2249,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJhc2VQYXRobmFtZSA9ICcvJwo=</text>
+        <text encoding="base64">ICBpZiAoYmFzZVBhdGhuYW1lKSB7CiAgICBpby5wYXRoKGJhc2VQYXRobmFtZSkKICB9IGVsc2UgewogICAgaW8ucGF0aCgnLycpCiAgfQogIGxvZ2dlci5pbmZvKGlvLnBhdGgoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZiAoYmFzZVBhdGhuYW1lKSB7CiAgICBpby5wYXRoKGJhc2VQYXRobmFtZSArICcvc29ja2V0LmlvJykKICB9IGVsc2UgewogICAgYmFzZVBhdGhuYW1lID0gJy8nCiAgfQoK</text>
+        <text encoding="base64">ICBpZiAoYmFzZVBhdGhuYW1lKSB7CiAgICBpby5wYXRoKGJhc2VQYXRobmFtZSkKICB9IGVsc2UgewogICAgaW8ucGF0aCgnLycpCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
