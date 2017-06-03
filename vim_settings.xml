@@ -92,12 +92,11 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1496499729962">
-        <mark key="'" line="24" column="19" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="24" />
-        <mark key="^" line="40" column="21" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1496512257183">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-authentication/.gitignore" timestamp="1494602694208">
         <mark key="'" line="98" column="0" />
@@ -951,10 +950,10 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1496507400090">
-        <mark key="'" line="158" column="0" />
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="28" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1496509081150">
+        <mark key="'" line="105" column="19" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="138" column="26" />
         <mark key="." line="11" column="28" />
         <mark key="^" line="11" column="28" />
       </file>
@@ -990,6 +989,12 @@
         <mark key="]" line="106" column="51" />
         <mark key="." line="106" column="51" />
         <mark key="^" line="237" column="9" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/Dockerfile" timestamp="1496510404581">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab5/base_files/lab05.js" timestamp="1476892780636">
         <mark key="'" line="54" column="20" />
@@ -1582,7 +1587,7 @@
         <mark key="^" line="3" column="53" />
         <mark key="." line="1" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/circle.yml" timestamp="1496431199027">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/circle.yml" timestamp="1496509752394">
         <mark key="'" line="1" column="44" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/Lab9/MyApplication/app/src/debug/res/values/google_maps_api.xml" timestamp="1480636687544">
@@ -1833,20 +1838,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="30" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
-      <jump line="141" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="25" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" />
-      <jump line="17" column="11" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="46" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
-      <jump line="34" column="52" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provisioner_rsa" />
-      <jump line="26" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provisioner_rsa" />
-      <jump line="74" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
-      <jump line="16" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/circle.yml" />
-      <jump line="5" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
-      <jump line="7" column="24" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/circle.yml" />
-      <jump line="25" column="18" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
-      <jump line="3" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/.gitignore" />
       <jump line="5" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/.gitignore" />
       <jump line="10" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="53" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
@@ -1933,28 +1924,42 @@
       <jump line="48" column="25" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/theme/sass/conf/_mixins.scss" />
       <jump line="20" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/orchestrate/templates/cloud-init.dev.tpl" />
       <jump line="158" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="51" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
+      <jump line="17" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
+      <jump line="15" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
+      <jump line="4" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="101" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="104" column="21" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="105" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="10" column="26" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
+      <jump line="3" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
+      <jump line="79" column="74" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
+      <jump line="57" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
+      <jump line="59" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
+      <jump line="63" column="24" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
+      <jump line="32" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>cms</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>cms</text>
+        <text>Admin API is up</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3NldHNcPg==</text>
+        <text>host</text>
       </register>
-      <register name="0" type="4">
-        <text>197509012559.dkr.ecr.us-east-1.amazonaws.com/cps-ecp/cps-ecp-cms:dev</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZWNobyAiRGF0YWJhc2UgaXMgdXAhIFN0YXJ0aW5nIEtvbmcuLi4iCgojIERhZW1vbml6ZSBrb25nIHNvIHRoYXQgc3Rkb3V0IGlzIHN0aWxsIGF0dGFjaGVkIHRvIHRlcm1pbmFsCmtvbmcgc3RhcnQgJgoKZWNobyAiS29uZyBzdGFydGVkLi4uV2FpdGluZyBmb3IgQWRtaW4gQVBJIHRvIGJlIGF2YWlsYWJsZSIKCnJlcGVhdENNRCBuYyAtencgMiBodHRwOi8vMTI3LjAuMC4xIDgwMDEKCmVjaG8gIkFkbWluIEFQSSBpcyB1cC4gQmVnaW5uaW5nIGNvbmZpZ3VyYXRpb24iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDMwODA6ODA4MAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1981,22 +1986,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VkICJzQFwoW14uXVwpXCgvYXNzZXRzXClAXDEvZm9vL2Fzc2V0c0BnIiBmb28K</text>
+        <text encoding="base64">ZWNobyAiS29uZyBzdGFydGVkLiBCZWdpbm5pbmcgY29uZmlndXJhdGlvbiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAvYXNzZXRzL2Zvby9iYXIgICAgID0+IAo=</text>
+        <text encoding="base64">ZWNobyAiQWRtaW4gQVBJIGlzIHVwLiBCZWdpbm5pbmcgY29uZmlndXJhdGlvbiIK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">cmVwZWF0Q01EIG5jIC16dyAyIGh0dHA6Ly8xMjcuMC4wLjEgODAwMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I3NlZCAtaSAiL148aGVhZD46LyBzLyQvIDxiYXNlIGhyZWY9XCIvJHtDUFNFQ1BfREFTSEJPQVJEX0JBU0VQQVRIfVwiPi8iIC92YXIvd3d3L2luZGV4Lmh0bWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VkIC1pICcvXjx0aXRsZT4vYSAiJyBmaWxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2247,19 +2252,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAKICAgIAoK</text>
+        <text encoding="base64">a29uZyBzdGFydCAmCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2dnZXIuaW5mbyhpby5wYXRoKCkpCg==</text>
+        <text encoding="base64">IyBEYWVtb25pemUga29uZyBzbyB0aGF0IHN0ZG91dCBpcyBzdGlsbCBhdHRhY2hlZCB0byB0ZXJtaW5hbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc3NldHNcPg==</last-search>
+      <last-search>host</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3NldHNcPg==</last-pattern>
+      <last-pattern>host</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2267,9 +2272,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cost</entry>
-        <entry>terraform</entry>
-        <entry encoding="base64">XDxsdWtlXD4=</entry>
         <entry>wheel</entry>
         <entry encoding="base64">XDxNaWd1ZWxcPg==</entry>
         <entry encoding="base64">XDxDSV9JUF9BRERSRVNTX1RPX1dISVRFTElTVFw+</entry>
@@ -2287,6 +2289,9 @@
         <entry encoding="base64">XDxyZXF1aXJlXD4=</entry>
         <entry>assets</entry>
         <entry encoding="base64">XDxhc3NldHNcPg==</entry>
+        <entry>kong</entry>
+        <entry encoding="base64">XDxtYXhjb3VudFw+</entry>
+        <entry>host</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
