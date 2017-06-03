@@ -951,12 +951,12 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1496499875975">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1496505891470">
         <mark key="'" line="17" column="11" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="11" column="27" />
+        <mark key="[" line="55" column="72" />
+        <mark key="]" line="55" column="74" />
+        <mark key="." line="55" column="74" />
+        <mark key="^" line="55" column="74" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/circle.yml" timestamp="1496467319791">
         <mark key="[" line="12" column="6" />
@@ -1938,20 +1938,20 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDMwODA6ODA4MAo=</text>
+      <register name="&quot;" type="4">
+        <text>cms</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>cms</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3NldHNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC1kICdodHRwc19vbmx5PXRydWUnCg==</text>
+      <register name="0" type="4">
+        <text>197509012559.dkr.ecr.us-east-1.amazonaws.com/cps-ecp/cps-ecp-cms:dev</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDMwODA6ODA4MAo=</text>
