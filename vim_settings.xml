@@ -588,10 +588,6 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="7" column="426" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provisioner_rsa.pub" timestamp="1496013315385">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="417" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/guidelinespolicies/GuidelinesAndPolicies.java" timestamp="1472964233852">
         <mark key="'" line="47" column="78" />
         <mark key="[" line="47" column="0" />
@@ -651,11 +647,11 @@
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provisioner_rsa" timestamp="1496013533010">
         <mark key="'" line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.component.ts" timestamp="1496000154706">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.component.ts" timestamp="1496460347892">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="80" column="30" />
-        <mark key="]" line="80" column="30" />
-        <mark key="." line="80" column="30" />
+        <mark key="[" line="72" column="33" />
+        <mark key="]" line="72" column="33" />
+        <mark key="." line="72" column="33" />
         <mark key="^" line="80" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/files/files.module.ts" timestamp="1490655629750">
@@ -717,10 +713,6 @@
         <mark key="]" line="52" column="115" />
         <mark key="." line="52" column="115" />
         <mark key="^" line="52" column="115" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/.terraform/terraform.tfstate" timestamp="1496016185638">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="42" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/ResumableInfoStorage.scala" timestamp="1485120012491">
         <mark key="'" line="36" column="0" />
@@ -1460,6 +1452,12 @@
         <mark key="." line="23" column="39" />
         <mark key="^" line="23" column="39" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/dist/index.html" timestamp="1496460178918">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/test/java/com/objectivetruth/uoitlibrarybooking/data/models/CalendarModelTest.java" timestamp="1472501333613">
         <mark key="'" line="227" column="4" />
         <mark key="[" line="86" column="0" />
@@ -1526,6 +1524,9 @@
         <mark key="]" line="49" column="108" />
         <mark key="^" line="21" column="26" />
         <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/.angular-cli.json" timestamp="1496460456927">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/database_assignment2/1.sql" timestamp="1491525983283">
         <mark key="'" line="22" column="4" />
@@ -1819,7 +1820,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.component.ts" />
       <jump line="5" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.settings.ts" />
       <jump line="55" column="27" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="61" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
@@ -1919,22 +1919,23 @@
       <jump line="10" column="13" filename="$USER_HOME$/Desktop/repos/MailDev/lib/web.js" />
       <jump line="11" column="15" filename="$USER_HOME$/Desktop/repos/MailDev/lib/web.js" />
       <jump line="12" column="13" filename="$USER_HOME$/Desktop/repos/MailDev/lib/web.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/.angular-cli.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAKICAgIAoK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXF1aXJlXD4=</text>
+        <text>assets</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bGV0IGlvID0gcmVxdWlyZSgnc29ja2V0LmlvJykoKQo=</text>
@@ -2243,9 +2244,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXF1aXJlXD4=</last-search>
+      <last-search>assets</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXF1aXJlXD4=</last-pattern>
+      <last-pattern>assets</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2253,7 +2254,6 @@
     </search>
     <history>
       <history-search>
-        <entry>subnet</entry>
         <entry encoding="base64">XDxUaHVtYnNcPg==</entry>
         <entry>cost</entry>
         <entry>terraform</entry>
@@ -2273,6 +2273,7 @@
         <entry>socket</entry>
         <entry encoding="base64">XDxpb1w+</entry>
         <entry encoding="base64">XDxyZXF1aXJlXD4=</entry>
+        <entry>assets</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
