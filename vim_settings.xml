@@ -92,12 +92,12 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1496429849223">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1496499729962">
         <mark key="'" line="24" column="19" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="24" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="47" column="28" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="24" />
+        <mark key="^" line="40" column="21" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-authentication/.gitignore" timestamp="1494602694208">
         <mark key="'" line="98" column="0" />
@@ -346,7 +346,6 @@
         <mark key="^" line="71" column="89" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1496439574834">
-        <mark key="'" line="45" column="18" />
         <mark key="[" line="29" column="11" />
         <mark key="]" line="29" column="12" />
         <mark key="." line="29" column="12" />
@@ -952,12 +951,12 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1496013025458">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1496499875975">
         <mark key="'" line="17" column="11" />
-        <mark key="[" line="110" column="7" />
-        <mark key="]" line="110" column="10" />
-        <mark key="." line="110" column="10" />
-        <mark key="^" line="110" column="10" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="11" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/circle.yml" timestamp="1496467319791">
         <mark key="[" line="12" column="6" />
@@ -1248,10 +1247,6 @@
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" timestamp="1496436010281">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="112" column="0" />
-        <mark key="^" line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/CommentDialog.java" timestamp="1471670976133">
         <mark key="'" line="15" column="0" />
@@ -1435,11 +1430,11 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/docker-entrypoint.sh" timestamp="1496470526366">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/docker-entrypoint.sh" timestamp="1496473406416">
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="11" column="42" />
+        <mark key="." line="11" column="42" />
+        <mark key="^" line="11" column="42" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1495499008317">
         <mark key="[" line="142" column="61" />
@@ -1940,23 +1935,23 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDMwODA6ODA4MAo=</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3NldHNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>CPSECP_DASHBOARD_BASEPATH</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC1kICdodHRwc19vbmx5PXRydWUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDMwODA6ODA4MAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1983,22 +1978,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">c2VkICJzQFwoW14uXVwpXCgvYXNzZXRzXClAXDEvZm9vL2Fzc2V0c0BnIiBmb28K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I3NlZCAtaSAiL148aGVhZD46LyBzLyQvIDxiYXNlIGhyZWY9XCIvJHtDUFNFQ1BfREFTSEJPQVJEX0JBU0VQQVRIfVwiPi8iIC92YXIvd3d3L2luZGV4Lmh0bWwK</text>
+        <text encoding="base64">IyAvYXNzZXRzL2Zvby9iYXIgICAgID0+IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VkIC1pICcvXjx0aXRsZT4vYSAiJyBmaWxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAKICAgIAoK</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsb2dnZXIuaW5mbyhpby5wYXRoKCkpCg==</text>
+        <text encoding="base64">I3NlZCAtaSAiL148aGVhZD46LyBzLyQvIDxiYXNlIGhyZWY9XCIvJHtDUFNFQ1BfREFTSEJPQVJEX0JBU0VQQVRIfVwiPi8iIC92YXIvd3d3L2luZGV4Lmh0bWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGlvID0gcmVxdWlyZSgnc29ja2V0LmlvJykoKQo=</text>
+        <text encoding="base64">c2VkIC1pICcvXjx0aXRsZT4vYSAiJyBmaWxlCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2249,10 +2244,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9IGVsc2UgewogICAgaW8ucGF0aCgnLycpCiAgfQo=</text>
+        <text encoding="base64">CiAgICAKICAgIAoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZiAoYmFzZVBhdGhuYW1lKSB7CiAgICBpby5wYXRoKGJhc2VQYXRobmFtZSkKICB9IGVsc2UgewogICAgaW8ucGF0aCgnLycpCiAgfQogIGxvZ2dlci5pbmZvKGlvLnBhdGgoKSkK</text>
+        <text encoding="base64">ICBsb2dnZXIuaW5mbyhpby5wYXRoKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
