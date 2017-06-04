@@ -392,12 +392,12 @@
         <mark key="^" line="125" column="33" />
         <mark key="." line="125" column="33" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/moodle-config.php" timestamp="1496554541276">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/moodle-config.php" timestamp="1496556335438">
         <mark key="'" line="52" column="16" />
-        <mark key="[" line="76" column="59" />
-        <mark key="]" line="76" column="60" />
-        <mark key="^" line="76" column="40" />
-        <mark key="." line="76" column="60" />
+        <mark key="[" line="76" column="44" />
+        <mark key="]" line="76" column="44" />
+        <mark key="^" line="76" column="44" />
+        <mark key="." line="76" column="44" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/GenomesDAO.scala" timestamp="1494740709292">
         <mark key="'" line="35" column="39" />
@@ -1239,12 +1239,12 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" timestamp="1496554960154">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" timestamp="1496556360299">
         <mark key="'" line="5" column="69" />
-        <mark key="[" line="78" column="58" />
-        <mark key="]" line="78" column="61" />
-        <mark key="." line="78" column="61" />
-        <mark key="^" line="78" column="61" />
+        <mark key="[" line="80" column="78" />
+        <mark key="]" line="80" column="77" />
+        <mark key="." line="80" column="77" />
+        <mark key="^" line="80" column="77" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/ResumableInfo.scala" timestamp="1485119982640">
         <mark key="'" line="50" column="0" />
@@ -1965,14 +1965,14 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC1kICdob3N0cz1jcHMtZWNwLmRldi5pbm5vdmV4YS5jb20nIFwK</text>
+      <register name="&quot;" type="4">
+        <text>+</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>learn</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>www</text>
