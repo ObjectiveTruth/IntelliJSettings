@@ -92,12 +92,12 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1496555323911">
-        <mark key="'" line="69" column="19" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="41" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="37" column="19" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1496596447430">
+        <mark key="'" line="80" column="19" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="26" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="45" column="16" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-authentication/.gitignore" timestamp="1494602694208">
         <mark key="'" line="98" column="0" />
@@ -1961,19 +1961,19 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgV09SRFBSRVNTX1RBQkxFX1BSRUZJWDogd3BfCg==</text>
+        <text encoding="base64">ICAgIC1kICdzdHJpcF91cmk9ZmFsc2UnIFwK</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>wordpress_cms</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3b3JkcHJlc3NfZWNvbW1lcmNlX2RiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgV09SRFBSRVNTX1RBQkxFX1BSRUZJWDogd3BfCg==</text>
+        <text encoding="base64">ICAgIC1kICdzdHJpcF91cmk9ZmFsc2UnIFwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2275,7 +2275,7 @@
         <text encoding="base64">ICAgIC1kICdzdHJpcF91cmk9ZmFsc2UnCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2328,9 +2328,9 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>q!</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
