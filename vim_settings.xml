@@ -875,11 +875,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" timestamp="1496765098052">
-        <mark key="[" line="34" column="22" />
-        <mark key="]" line="35" column="3" />
-        <mark key="." line="35" column="3" />
-        <mark key="^" line="35" column="3" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" timestamp="1496765851006">
+        <mark key="[" line="28" column="28" />
+        <mark key="]" line="28" column="33" />
+        <mark key="." line="28" column="33" />
+        <mark key="^" line="28" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/JoinOrLeave.java" timestamp="1472503983033">
         <mark key="'" line="31" column="0" />
@@ -1784,12 +1784,12 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.yml" timestamp="1496764619387">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.yml" timestamp="1496765870272">
         <mark key="'" line="11" column="30" />
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="20" column="29" />
-        <mark key="." line="20" column="29" />
-        <mark key="^" line="20" column="34" />
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="36" />
+        <mark key="." line="20" column="36" />
+        <mark key="^" line="20" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/HealthCheckController.scala" timestamp="1469465084129">
         <mark key="'" line="16" column="26" />
@@ -1995,14 +1995,14 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgRm9yIGZpbGUgc3luY2luZyAoVXNlZCBpbiBkZXZlbG9wbWVudCBtb2RlKQogICAgaW5vdGlmeS10b29scyAmJiBcCg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>inotify-tools</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>moodle_db</text>
