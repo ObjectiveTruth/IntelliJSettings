@@ -1266,10 +1266,10 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" timestamp="1496773965802">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" timestamp="1496776156553">
         <mark key="'" line="15" column="32" />
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="40" />
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="14" />
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
@@ -2010,7 +2010,7 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>-ravd</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
@@ -2022,7 +2022,7 @@
         <text>else</text>
       </register>
       <register name="0" type="4">
-        <text>--chown www-data:www-data</text>
+        <text>-ravd</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAiLS1yZW1vdmUtc291cmNlLWZpbGVzIiwK</text>
@@ -2324,7 +2324,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2378,8 +2378,8 @@
         <entry>q!</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
