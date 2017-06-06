@@ -831,6 +831,12 @@
         <mark key="^" line="15" column="3" />
         <mark key="." line="15" column="3" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/src/moodle/HHHHHHHHHH" timestamp="1496777111597">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/app/networking/customvolley/CustomNetworkToHandleRedirects.java" timestamp="1472178629651">
         <mark key="'" line="167" column="62" />
         <mark key="[" line="21" column="51" />
@@ -2324,7 +2330,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2378,8 +2384,8 @@
         <entry>q!</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
