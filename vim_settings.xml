@@ -1259,12 +1259,12 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" timestamp="1496765014615">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="4" column="70" />
-        <mark key="]" line="4" column="70" />
-        <mark key="." line="4" column="70" />
-        <mark key="^" line="4" column="70" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" timestamp="1496768657123">
+        <mark key="'" line="17" column="3" />
+        <mark key="[" line="6" column="65" />
+        <mark key="]" line="6" column="65" />
+        <mark key="." line="6" column="65" />
+        <mark key="^" line="5" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/ResumableInfo.scala" timestamp="1485119982640">
         <mark key="'" line="50" column="0" />
@@ -1292,7 +1292,7 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" timestamp="1496436010281">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" timestamp="1496767878539">
         <mark key="'" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/CommentDialog.java" timestamp="1471670976133">
@@ -1784,10 +1784,10 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.yml" timestamp="1496765870272">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.yml" timestamp="1496768653583">
         <mark key="'" line="11" column="30" />
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="20" column="36" />
+        <mark key="[" line="7" column="61" />
+        <mark key="]" line="7" column="83" />
         <mark key="." line="20" column="36" />
         <mark key="^" line="20" column="36" />
       </file>
@@ -1932,7 +1932,6 @@
       <jump line="86" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="8" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="9" column="10" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
-      <jump line="5" column="69" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="52" column="16" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/moodle-config.php" />
       <jump line="19" column="29" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="71" column="22" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
@@ -1990,28 +1989,29 @@
       <jump line="43" column="61" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="11" column="47" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="82" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
+      <jump line="5" column="3" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgRm9yIGZpbGUgc3luY2luZyAoVXNlZCBpbiBkZXZlbG9wbWVudCBtb2RlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>/usr/src/moodle/</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW5vdGlmeS10b29scyAmJiBc</text>
+        <text>/usr/src/moodle/</text>
       </register>
       <register name="/" type="4">
-        <text>moodle_db</text>
+        <text>else</text>
       </register>
       <register name="0" type="4">
-        <text>MOODLE_DEVELOPMENT_MODE</text>
+        <text>/var/moodle_development</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgRm9yIGZpbGUgc3luY2luZyAoVXNlZCBpbiBkZXZlbG9wbWVudCBtb2RlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2038,22 +2038,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgRm9yIGZpbGUgc3luY2luZyAoVXNlZCBpbiBkZXZlbG9wbWVudCBtb2RlKQogICAgaW5vdGlmeS10b29scyAmJiBcCg==</text>
+        <text encoding="base64">ZWNobyAiTW92aW5nIGZpbGVzIGludG8gd2ViIGZvbGRlciIKcnN5bmMgLXJhdmQgLS1jaG93biB3d3ctZGF0YTp3d3ctZGF0YSAvdXNyL3NyYy9tb29kbGUvIC92YXIvd3d3L2h0bWwvCgplY2hvICJGaXhpbmcgZmlsZXMgYW5kIHBlcm1pc3Npb25zIgpjaG93biAtUiB3d3ctZGF0YTp3d3ctZGF0YSAvdmFyL3d3dy9odG1sCmZpbmQgL3Zhci93d3cvaHRtbCAtaW5hbWUgIioucGhwIiB8IHhhcmdzIGNobW9kICt4CgplY2hvICJwbGFjZWhvbGRlciIgPiAvdmFyL21vb2RsZWRhdGEvcGxhY2Vob2xkZXIKY2hvd24gLVIgd3d3LWRhdGE6d3d3LWRhdGEgL3Zhci9tb29kbGVkYXRhCmNobW9kIDc3NyAvdmFyL21vb2RsZWRhdGEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cnN5bmMgLXJhdmQgLS1jaG93biB3d3ctZGF0YTp3d3ctZGF0YSAvdmFyL21vb2RsZV9kZXZlbG9wbWVudCAvdmFyL3d3dy9odG1sLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gJy9ob21lL2VjMi11c2VyL3ZvbHVtZXMvbW9vZGxlX215c3FsLXBlcnNpc3RlbmNlOi92YXIvbGliL215c3FsJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I1VzZXJuYW1lL1Bhc3N3b3JkIDogIHVzZXIvYml0bmFtaQo=</text>
+        <text encoding="base64">ICAgICMgRm9yIGZpbGUgc3luY2luZyAoVXNlZCBpbiBkZXZlbG9wbWVudCBtb2RlKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2304,19 +2304,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSBtYWlsZGV2Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtb29kbGU6CiAgICBpbWFnZTogJ2JpdG5hbWkvbW9vZGxlOmxhdGVzdCcKICAgIHBvcnRzOgogICAgICAtICc4MDgwOjgwJwogICAgICAtICc4NDQzOjQ0MycKICAgIHZvbHVtZXM6CiAgICAgIC0gJy9Vc2Vycy9zdW1lZW4vU2l0ZXMvY3BzLWVjcC1sbXMvc3JjL21vb2RsZTovb3B0L2JpdG5hbWkvbW9vZGxlJwogICAgZGVwZW5kc19vbjoKICAgICAgLSBtYXJpYWRiCg==</text>
+        <text encoding="base64">ICAgICMgRm9yIGZpbGUgc3luY2luZyAoVXNlZCBpbiBkZXZlbG9wbWVudCBtb2RlKQogICAgaW5vdGlmeS10b29scyAmJiBcCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>moodle_db</last-search>
+      <last-search>else</last-search>
       <last-offset />
-      <last-pattern>moodle_db</last-pattern>
+      <last-pattern>else</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2324,7 +2324,6 @@
     </search>
     <history>
       <history-search>
-        <entry>host</entry>
         <entry>moodle</entry>
         <entry>apach</entry>
         <entry>\capache</entry>
@@ -2344,6 +2343,7 @@
         <entry>aws</entry>
         <entry encoding="base64">XDwxMDgwXD4=</entry>
         <entry>moodle_db</entry>
+        <entry>else</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
