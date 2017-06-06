@@ -887,12 +887,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" timestamp="1496778013086">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="22" column="20" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" timestamp="1496780749168">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="23" column="27" />
+        <mark key="^" line="23" column="31" />
+        <mark key="." line="23" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/JoinOrLeave.java" timestamp="1472503983033">
         <mark key="'" line="31" column="0" />
@@ -1132,12 +1132,12 @@
         <mark key="." line="9" column="45" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/ci_resources/lsyncd.conf.lua" timestamp="1496779308827">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/ci_resources/lsyncd.conf.lua" timestamp="1496780601350">
         <mark key="'" line="16" column="38" />
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="38" />
-        <mark key="^" line="16" column="38" />
-        <mark key="." line="16" column="38" />
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="25" />
+        <mark key="." line="16" column="25" />
+        <mark key="^" line="16" column="25" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/aws_deploy/task-definitions.json" timestamp="1471116123824">
         <mark key="'" line="33" column="16" />
@@ -1279,10 +1279,11 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" timestamp="1496777971128">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" timestamp="1496780089867">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="1" column="4" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/ResumableInfo.scala" timestamp="1485119982640">
         <mark key="'" line="50" column="0" />
@@ -1809,10 +1810,10 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.yml" timestamp="1496779455285">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.yml" timestamp="1496780742984">
         <mark key="'" line="11" column="30" />
-        <mark key="[" line="7" column="55" />
-        <mark key="]" line="7" column="62" />
+        <mark key="[" line="20" column="6" />
+        <mark key="]" line="20" column="28" />
         <mark key="." line="7" column="62" />
         <mark key="^" line="7" column="62" />
       </file>
@@ -2021,22 +2022,22 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>moodle_development</text>
+        <text>MOODLE_DEVELOPMENT_MODE</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>moodle_development</text>
+        <text>MOODLE_DEVELOPMENT_MODE</text>
       </register>
       <register name="/" type="4">
         <text>else</text>
       </register>
       <register name="0" type="4">
-        <text>$USER_HOME$/Desktop/repos/cps-ecp-lms/src/moodle/</text>
+        <text>MOODLE_DEVELOPMENT_MODE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJzeW5jT3B0cz17CgogICAgICAgICItLWNob3duIHd3dy1kYXRhOnd3dy1kYXRhIgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIi0tZmFrZS1zdXBlciIsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2063,22 +2064,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJtcyA9IHRydWUsIC0tIEtlZXAgdGhlIHBlcm1pc3Npb25zCiAgICAgICAgb3duZXIgPSB0cnVlLCAtLSBLZWVwIHRoZSBvd25lcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcmNoaXZlID0gdHJ1ZSwgLS0gdXNlIHRoZSBhcmNoaXZlIGZsYWcgaW4gcnN5bmMK</text>
+        <text encoding="base64">ICAgIGVjaG8gIkRldmVsb3BtZW50IE1vZGUgQUNUSVZBVEVEIgogICAgcnN5bmMgLXJhdmQgLS1jaG93biB3d3ctZGF0YTp3d3ctZGF0YSAvdmFyL21vb2RsZV9kZXZlbG9wbWVudC8gL3Zhci93d3cvaHRtbC8KCiAgICBlY2hvICJGaXhpbmcgZmlsZXMgYW5kIHBlcm1pc3Npb25zIgogICAgY2hvd24gLVIgd3d3LWRhdGE6d3d3LWRhdGEgL3Zhci93d3cvaHRtbAogICAgZmluZCAvdmFyL3d3dy9odG1sIC1pbmFtZSAiKi5waHAiIHwgeGFyZ3MgY2htb2QgK3gKCiAgICBlY2hvICJwbGFjZWhvbGRlciIgPiAvdmFyL21vb2RsZWRhdGEvcGxhY2Vob2xkZXIKICAgIGNob3duIC1SIHd3dy1kYXRhOnd3dy1kYXRhIC92YXIvbW9vZGxlZGF0YQogICAgY2htb2QgNzc3IC92YXIvbW9vZGxlZGF0YQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXR1c0ludGVydmFsID0gMQo=</text>
+        <text encoding="base64">ICAgIHJzeW5jT3B0cz17CgogICAgICAgICItLWNob3duIHd3dy1kYXRhOnd3dy1kYXRhIgogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBQbGFjZSBtb29kbGUgY29udGVudCBoZXJlIGZvciBQcm9kdWN0aW9uIGRlcGxveW1lbnQK</text>
+        <text encoding="base64">ICAgICAgICBwZXJtcyA9IHRydWUsIC0tIEtlZXAgdGhlIHBlcm1pc3Npb25zCiAgICAgICAgb3duZXIgPSB0cnVlLCAtLSBLZWVwIHRoZSBvd25lcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcmNoaXZlID0gdHJ1ZSwgLS0gdXNlIHRoZSBhcmNoaXZlIGZsYWcgaW4gcnN5bmMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXR1c0ludGVydmFsID0gMQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2329,7 +2330,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBQbGFjZSBtb29kbGUgY29udGVudCBoZXJlIGZvciBEZXZlbG9wbWVudCBEZXBsb3ltZW50IChzZWUgZG9ja2VyLWVudHJ5cG9pbnQuc2ggZm9yIG1vcmUgaW5mbykKVk9MVU1FIFsiL3Zhci9tb29kbGVfZGV2ZWxvcG1lbnQiXQo=</text>
+        <text encoding="base64">IyBQbGFjZSBtb29kbGUgY29udGVudCBoZXJlIGZvciBQcm9kdWN0aW9uIGRlcGxveW1lbnQK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
