@@ -734,6 +734,12 @@
         <mark key="." line="52" column="115" />
         <mark key="^" line="52" column="115" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/ci_scripts/lsyncd.conf.lua" timestamp="1496773979244">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="8" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/ResumableInfoStorage.scala" timestamp="1485120012491">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="0" column="0" />
@@ -775,9 +781,6 @@
         <mark key="]" line="12" column="43" />
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="43" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1496470539317">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/common/Utils.java" timestamp="1471757403144">
         <mark key="'" line="38" column="23" />
@@ -878,12 +881,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" timestamp="1496772503222">
-        <mark key="'" line="54" column="23" />
-        <mark key="[" line="52" column="15" />
-        <mark key="]" line="52" column="26" />
-        <mark key="." line="52" column="26" />
-        <mark key="^" line="52" column="26" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" timestamp="1496774264514">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="33" column="26" />
+        <mark key="." line="33" column="26" />
+        <mark key="^" line="33" column="25" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/JoinOrLeave.java" timestamp="1472503983033">
         <mark key="'" line="31" column="0" />
@@ -1263,10 +1266,10 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" timestamp="1496771687536">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" timestamp="1496773965802">
         <mark key="'" line="15" column="32" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="81" />
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="40" />
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
@@ -1989,7 +1992,6 @@
       <jump line="105" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="12" column="51" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="5" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
-      <jump line="53" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="58" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="101" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
@@ -2001,28 +2003,29 @@
       <jump line="76" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/config.php.template" />
       <jump line="59" column="28" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="54" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
+      <jump line="53" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>s</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>else</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJzeW5jIC1yYXZkIC0tY2hvd24gd3d3LWRhdGE6d3d3LWRhdGEgL3Zhci9tb29kbGVfZGV2ZWxvcG1lbnQvIC92YXIvd3d3L2h0bWwvCg==</text>
+      <register name="0" type="4">
+        <text>--chown www-data:www-data</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyEvYmluL3NoCg==</text>
+        <text encoding="base64">ICAgICAgICAiLS1yZW1vdmUtc291cmNlLWZpbGVzIiwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2049,22 +2052,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiLS1kZWxheS11cGRhdGVzIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiLS1jaGVja3N1bSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyAiRGV2ZWxvcG1lbnQgTW9kZSBBQ1RJVkFURUQiCg==</text>
+        <text encoding="base64">ICAgIGRlbGV0ZT10cnVlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNob3duIHd3dy1kYXRhOnd3dy1kYXRhIC1SIC91c3Ivc3JjL21vb2RsZQo=</text>
+        <text encoding="base64">ICAgIHNvdXJjZT0iL2hvbWUvdXNlci9kYXRhL3NvdXJjZV9kYXRhLyIsCiAgICB0YXJnZXQ9Ii9ob21lL3VzZXIvZGF0YS9zeW5jZWRfZGF0YS8iLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ago=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSBjaV9zY3JpcHRzL2F1dG9zeW5jLnNoIC9hdXRvX3N5bmMuc2gK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2315,13 +2318,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyAiTW92aW5nIGZpbGVzIGludG8gd2ViIGZvbGRlciIKcnN5bmMgLXJhdmQgLS1jaG93biB3d3ctZGF0YTp3d3ctZGF0YSAvdXNyL3NyYy9tb29kbGUvIC92YXIvd3d3L2h0bWwvCgplY2hvICJGaXhpbmcgZmlsZXMgYW5kIHBlcm1pc3Npb25zIgpjaG93biAtUiB3d3ctZGF0YTp3d3ctZGF0YSAvdmFyL3d3dy9odG1sCmZpbmQgL3Zhci93d3cvaHRtbCAtaW5hbWUgIioucGhwIiB8IHhhcmdzIGNobW9kICt4CgplY2hvICJwbGFjZWhvbGRlciIgPiAvdmFyL21vb2RsZWRhdGEvcGxhY2Vob2xkZXIKY2hvd24gLVIgd3d3LWRhdGE6d3d3LWRhdGEgL3Zhci9tb29kbGVkYXRhCmNobW9kIDc3NyAvdmFyL21vb2RsZWRhdGEK</text>
+        <text encoding="base64">IyEvYmluL3NoCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2375,8 +2378,8 @@
         <entry>q!</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
