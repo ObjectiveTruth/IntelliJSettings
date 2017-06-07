@@ -552,12 +552,12 @@
         <mark key="." line="482" column="49" />
         <mark key="^" line="482" column="49" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/README.md" timestamp="1496843731910">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/README.md" timestamp="1496849762413">
         <mark key="'" line="68" column="0" />
-        <mark key="[" line="53" column="51" />
-        <mark key="]" line="53" column="84" />
-        <mark key="." line="53" column="84" />
-        <mark key="^" line="53" column="84" />
+        <mark key="[" line="55" column="5" />
+        <mark key="]" line="55" column="9" />
+        <mark key="." line="55" column="9" />
+        <mark key="^" line="55" column="9" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/pending-jobs/pending-jobs.component.html" timestamp="1491493322468">
         <mark key="'" line="7" column="67" />
@@ -1314,10 +1314,10 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" timestamp="1496798928842">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="86" column="30" />
-        <mark key="]" line="86" column="30" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" timestamp="1496849656875">
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="32" />
         <mark key="." line="86" column="30" />
         <mark key="^" line="86" column="32" />
       </file>
@@ -1491,12 +1491,12 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.template.yml" timestamp="1496849304700">
-        <mark key="'" line="40" column="41" />
-        <mark key="[" line="8" column="62" />
-        <mark key="]" line="8" column="62" />
-        <mark key="." line="8" column="62" />
-        <mark key="^" line="8" column="62" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.template.yml" timestamp="1496849663307">
+        <mark key="'" line="41" column="41" />
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="36" />
+        <mark key="." line="26" column="36" />
+        <mark key="^" line="26" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/app/networking/MockHttpStack.java" timestamp="1472847829581">
         <mark key="'" line="70" column="85" />
@@ -1954,8 +1954,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="53" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
       <jump line="29" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
       <jump line="4" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
       <jump line="43" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
@@ -2002,7 +2000,6 @@
       <jump line="9" column="11" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="6" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="105" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
-      <jump line="5" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="58" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="101" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="103" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
@@ -2054,25 +2051,28 @@
       <jump line="9" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/.gitignore" />
       <jump line="4" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.template.yml" />
       <jump line="40" column="41" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.template.yml" />
+      <jump line="5" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
+      <jump line="68" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/README.md" />
+      <jump line="97" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>MOODLE_</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>MOODLE_</text>
       </register>
       <register name="/" type="4">
         <text>moodle</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDgwODA6ODAK</text>
+      <register name="0" type="4">
+        <text>MOODLE_DEVELOPMENT_MODE</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgIyMgRGVmYXVsdCBwYXRoLCB5ZXMgaXQgaGFzIGEgc2xhc2ggYXQgdGhlIGVuZCBidXQgbW9vZGxlIHBpY2tzIHVwIHRoaXMgYXMgZGVmYXVsdAogICAgICBNT09ETEVfVVJMX0hPU1Q6IGh0dHA6Ly9leGFtcGxlLmNvbS9tb29kbGUK</text>
@@ -2426,9 +2426,9 @@
         <entry encoding="base64">JzwsJz4vcyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>q!</entry>
-        <entry>W</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
