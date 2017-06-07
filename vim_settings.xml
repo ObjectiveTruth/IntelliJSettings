@@ -1491,12 +1491,12 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.template.yml" timestamp="1496808412202">
-        <mark key="'" line="5" column="9" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="42" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="5" column="9" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.template.yml" timestamp="1496849304700">
+        <mark key="'" line="40" column="41" />
+        <mark key="[" line="8" column="62" />
+        <mark key="]" line="8" column="62" />
+        <mark key="." line="8" column="62" />
+        <mark key="^" line="8" column="62" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/app/networking/MockHttpStack.java" timestamp="1472847829581">
         <mark key="'" line="70" column="85" />
@@ -1954,8 +1954,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="38" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="93" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="18" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="53" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
       <jump line="29" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
@@ -2054,25 +2052,27 @@
       <jump line="21" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.yml" />
       <jump line="5" column="9" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.template.yml" />
       <jump line="9" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/.gitignore" />
+      <jump line="4" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.template.yml" />
+      <jump line="40" column="41" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.template.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Security type(TLS, SSL, etc)</text>
+        <text>j</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>Security type(TLS, SSL, etc)</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>moodle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgTU9PRExFX1NNVFBfSE9TVDogbWFpbAogICAgICBNT09ETEVfU01UUF9TRUNVUklUWTogTm9uZQogICAgICBNT09ETEVfU01UUF9BVVRIX1RZUEU6IExPR0lOCiAgICAgIE1PT0RMRV9TTVRQX1VTRVI6IG1haWxfdXNlcgogICAgICBNT09ETEVfU01UUF9QQVNTOiBwYXNzd29yZAo=</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDgwODA6ODAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgIyMgRGVmYXVsdCBwYXRoLCB5ZXMgaXQgaGFzIGEgc2xhc2ggYXQgdGhlIGVuZCBidXQgbW9vZGxlIHBpY2tzIHVwIHRoaXMgYXMgZGVmYXVsdAogICAgICBNT09ETEVfVVJMX0hPU1Q6IGh0dHA6Ly9leGFtcGxlLmNvbS9tb29kbGUK</text>
