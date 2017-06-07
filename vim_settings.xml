@@ -910,8 +910,8 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" timestamp="1496806713998">
-        <mark key="'" line="19" column="22" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" timestamp="1496854109119">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="41" />
         <mark key="]" line="10" column="42" />
         <mark key="^" line="10" column="42" />
@@ -2019,11 +2019,9 @@
       <jump line="84" column="27" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="32" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/README.md" />
       <jump line="17" column="43" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
-      <jump line="51" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="41" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/README.md" />
       <jump line="11" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="19" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.yml" />
       <jump line="52" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="8" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
@@ -2054,6 +2052,8 @@
       <jump line="5" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="68" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/README.md" />
       <jump line="97" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
+      <jump line="51" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2374,7 +2374,7 @@
         <text encoding="base64">ICAgICMgTU9PRExFX1VSTF9QQVRIIGlmIHlvdSBuZWVkIHRvIHNldCBvbmUK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -2426,10 +2426,10 @@
         <entry encoding="base64">JzwsJz4vcyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>q!</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
