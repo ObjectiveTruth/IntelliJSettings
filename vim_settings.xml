@@ -95,12 +95,12 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1496887552616">
-        <mark key="'" line="80" column="19" />
-        <mark key="[" line="91" column="14" />
-        <mark key="]" line="91" column="16" />
-        <mark key="." line="91" column="16" />
-        <mark key="^" line="91" column="16" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1496964800038">
+        <mark key="'" line="40" column="4" />
+        <mark key="[" line="92" column="14" />
+        <mark key="]" line="92" column="14" />
+        <mark key="^" line="92" column="23" />
+        <mark key="." line="92" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" timestamp="1496598947147">
         <mark key="'" line="4" column="45" />
@@ -361,7 +361,7 @@
         <mark key="." line="71" column="89" />
         <mark key="^" line="71" column="89" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1496932156046">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1496964533100">
         <mark key="'" line="109" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/.travis.yml" timestamp="1471148061720">
@@ -1017,12 +1017,12 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1496868249890">
-        <mark key="'" line="181" column="0" />
-        <mark key="[" line="105" column="12" />
-        <mark key="]" line="107" column="16" />
-        <mark key="." line="107" column="16" />
-        <mark key="^" line="107" column="16" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1496964558492">
+        <mark key="'" line="182" column="0" />
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="27" />
+        <mark key="^" line="18" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/circle.yml" timestamp="1496467319791">
         <mark key="[" line="12" column="6" />
@@ -1311,8 +1311,8 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" timestamp="1496959636573">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" timestamp="1496964980052">
+        <mark key="'" line="15" column="0" />
         <mark key="[" line="87" column="9" />
         <mark key="]" line="87" column="11" />
         <mark key="." line="87" column="11" />
@@ -1955,10 +1955,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="11" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="6" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="46" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="100" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="51" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="72" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="38" column="40" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
@@ -1983,7 +1979,6 @@
       <jump line="105" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="58" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="101" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
-      <jump line="15" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="14" column="3" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/ci_scripts/auto_sync.sh" />
       <jump line="4" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="76" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/config.php.template" />
@@ -2042,7 +2037,6 @@
       <jump line="74" column="7" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="97" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="98" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
-      <jump line="109" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="39" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="51" column="16" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="88" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
@@ -2055,25 +2049,31 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="25" column="61" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="6" column="9" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
+      <jump line="23" column="28" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="109" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="86" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
+      <jump line="67" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
+      <jump line="40" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
+      <jump line="15" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Sets local development mode</text>
+        <text>/</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>Sets local development mode</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>apache2</text>
+        <text>rp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">fCBgTU9PRExFX0RFVkVMT1BNRU5UX01PREVgIHwgU2V0cyBsb2NhbCBkZXZlbG9wbWVudCBtb2RlIHwgZmFsc2UgfAo=</text>
+        <text encoding="base64">Y3VybCAtaSAtc1MgLVggUE9TVCBodHRwOi8vbG9jYWxob3N0OjgwMDEvYXBpcy8gXAogICAgLWQgJ25hbWU9b3hBdXRoJyBcCiAgICAtZCAnaG9zdHM9Y3BzLWVjcC5kZXYuaW5ub3ZleGEuY29tJyBcCiAgICAtZCAndXBzdHJlYW1fdXJsPWh0dHBzOi8vMTAuMC4xLjE1MScgXAogICAgLWQgJ3VyaXM9L294YXV0aCcgXAogICAgLWQgJ3N0cmlwX3VyaT1mYWxzZScgXAogICAgLWQgJ3ByZXNlcnZlX2hvc3Q9dHJ1ZScgXAogICAgLWQgJ2h0dHBzX29ubHk9dHJ1ZScK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGFwYWNoZTJjdGwgcmVzdGFydAo=</text>
@@ -2379,9 +2379,9 @@
       </register>
     </registers>
     <search>
-      <last-search>apache2</last-search>
+      <last-search>rp</last-search>
       <last-offset />
-      <last-pattern>apache2</last-pattern>
+      <last-pattern>rp</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2389,8 +2389,6 @@
     </search>
     <history>
       <history-search>
-        <entry>WP_</entry>
-        <entry>SITE</entry>
         <entry>WP_SITE_URL</entry>
         <entry>WP_SITE</entry>
         <entry>WP_SI</entry>
@@ -2409,6 +2407,8 @@
         <entry encoding="base64">XDxBQUFBQjNOemFDMXljMkVBQUFBREFRQUJBQUFDQVFETHpPS25cPg==</entry>
         <entry>open</entry>
         <entry>apache2</entry>
+        <entry>lms</entry>
+        <entry>rp</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
