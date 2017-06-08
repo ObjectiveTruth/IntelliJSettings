@@ -1311,12 +1311,12 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" timestamp="1496939435346">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" timestamp="1496942102125">
         <mark key="'" line="4" column="32" />
-        <mark key="[" line="87" column="44" />
-        <mark key="]" line="87" column="44" />
-        <mark key="." line="87" column="44" />
-        <mark key="^" line="87" column="44" />
+        <mark key="[" line="96" column="13" />
+        <mark key="]" line="96" column="36" />
+        <mark key="." line="96" column="36" />
+        <mark key="^" line="96" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/ResumableInfo.scala" timestamp="1485119982640">
         <mark key="'" line="50" column="0" />
@@ -2060,23 +2060,23 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGQK</text>
+      <register name="&quot;" type="4">
+        <text>server_domain_or_IP</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>oxauth</text>
+        <text>server_domain_or_IP</text>
       </register>
       <register name="/" type="4">
         <text>apache2</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y3VybCAtaSAtc1MgLVggUE9TVCBodHRwOi8vbG9jYWxob3N0OjgwMDEvYXBpcy8gXAogICAgLWQgJ25hbWU9b3hBdXRoJyBcCiAgICAtZCAnaG9zdHM9Y3BzLWVjcC5kZXYuaW5ub3ZleGEuY29tJyBcCiAgICAtZCAndXBzdHJlYW1fdXJsPWh0dHBzOi8vMTAuMC4xLjE1MScgXAogICAgLWQgJ3VyaXM9L294YXV0aCcgXAogICAgLWQgJ3N0cmlwX3VyaT1mYWxzZScgXAogICAgLWQgJ3ByZXNlcnZlX2hvc3Q9dHJ1ZScgXAogICAgLWQgJ2h0dHBzX29ubHk9dHJ1ZScK</text>
+      <register name="0" type="4">
+        <text>make-ssl-cert /usr/share/ssl-cert/ssleay.cnf /path/to/cert-file.crt</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGQK</text>
+        <text encoding="base64">IyAvZXRjL2FwYWNoZTIvc2l0ZXMtYXZhaWxhYmxlL2RlZmF1bHQtc3NsLmNvbmYKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2103,19 +2103,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyBzdWRvIG9wZW5zc2wgZGhwYXJhbSAtb3V0IC9ldGMvc3NsL2NlcnRzL2RocGFyYW0ucGVtIDIwNDgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBtYWtlLXNzbC1jZXJ0IGdlbmVyYXRlLWRlZmF1bHQtc25ha2VvaWwgLS1mb3JjZS1vdmVyd3JpdGUKIyBtYWtlLXNzbC1jZXJ0IC91c3Ivc2hhcmUvc3NsLWNlcnQvc3NsZWF5LmNuZiAvcGF0aC90by9jZXJ0LWZpbGUuY3J0Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEFwcGxpY2F0aW9uID0gInNlcnZpY2VBIgo=</text>
+        <text encoding="base64">ICAgIGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE5hbWUgPSAicHJvZHVjdGlvbiIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -2369,10 +2369,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVjaG8gInBsYWNlaG9sZGVyIiA+IC92YXIvbW9vZGxlZGF0YS9wbGFjZWhvbGRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAga2V5OiAic3NoLXJzYSBBQUFBQjNOemFDMXljMkVBQUFBREFRQUJBQUFCQVFDSEpHckZmMXY1ZGNTTmp1MmlGMU9oNFdYMk5kbnFqK2ZZczhtWldlUWU2bWkweUFjR1JuNURpRjVFS2FXZ3RockdxSUJvWXJQeHBRcDdacU04ZFdrS3hRYm43TFNFT3pqME5TYm84MnU3Qmp2TCtCYVQ3VHpDa1pkdU5CVXJqZm9EN3crVTNjWEkyK1h4dlNRM1VRYXZPQ1NuOXFkeGx2MlNWa2tOUWNuQlA0NjBBUUFBb2JPU2hjdXE1OGEyaWsvYzdxNVppd1RpaHZOM2U1elFPNmdEQks0RkJMTFhOVjhBVTIwMmlvMlJuWjZWSmpUT1c4N0l3SVJXY0Z5d0JuNTE5T2taQ0kxNG9TcHdOOWJNSDR4OE93YTl1VXhvOWhjc3krTGZqckhVbUVBNVJkdWt4RmlQRSt2VEZibCtHSER0R0o5bmp2QmZ1ZFJ3Y3hWRDZrMU4iCg==</text>
+        <text encoding="base64">ICAgIEFwcGxpY2F0aW9uID0gInNlcnZpY2VBIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
