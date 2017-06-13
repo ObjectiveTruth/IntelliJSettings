@@ -95,12 +95,12 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1496964800038">
-        <mark key="'" line="40" column="4" />
-        <mark key="[" line="92" column="14" />
-        <mark key="]" line="92" column="14" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1497381527292">
+        <mark key="'" line="36" column="29" />
+        <mark key="[" line="36" column="25" />
+        <mark key="]" line="36" column="25" />
         <mark key="^" line="92" column="23" />
-        <mark key="." line="92" column="14" />
+        <mark key="." line="36" column="25" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" timestamp="1496598947147">
         <mark key="'" line="4" column="45" />
@@ -1953,8 +1953,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
-      <jump line="10" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="20" column="22" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="29" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="2" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.yml" />
@@ -2053,22 +2051,24 @@
       <jump line="22" column="22" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="37" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="18" column="41" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
+      <jump line="39" column="28" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
+      <jump line="36" column="29" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>s</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb29kbGVfZGJcPg==</text>
+        <text>moodle</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgTU9PRExFX1VTRV9TRUxGX1NJR05FRF9TU0w6ICdmYWxzZScK</text>
@@ -2377,9 +2377,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb29kbGVfZGJcPg==</last-search>
+      <last-search>moodle</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb29kbGVfZGJcPg==</last-pattern>
+      <last-pattern>moodle</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2398,7 +2398,6 @@
         <entry>wwwroo</entry>
         <entry>echo</entry>
         <entry>maildev</entry>
-        <entry>moodle</entry>
         <entry>luke</entry>
         <entry>moodle_db</entry>
         <entry encoding="base64">XDxBQUFBQjNOemFDMXljMkVBQUFBREFRQUJBQUFDQVFETHpPS25cPg==</entry>
@@ -2407,6 +2406,7 @@
         <entry>lms</entry>
         <entry>rp</entry>
         <entry encoding="base64">XDxtb29kbGVfZGJcPg==</entry>
+        <entry>moodle</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
