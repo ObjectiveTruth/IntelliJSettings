@@ -1343,12 +1343,12 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" timestamp="1496856615475">
-        <mark key="'" line="61" column="20" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-        <mark key="^" line="115" column="392" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" timestamp="1497450795793">
+        <mark key="'" line="96" column="4" />
+        <mark key="[" line="117" column="21" />
+        <mark key="]" line="117" column="21" />
+        <mark key="." line="117" column="21" />
+        <mark key="^" line="117" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/CommentDialog.java" timestamp="1471670976133">
         <mark key="'" line="15" column="0" />
@@ -1959,11 +1959,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
-      <jump line="91" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
-      <jump line="8" column="9" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
-      <jump line="15" column="44" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
-      <jump line="11" column="30" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.yml" />
       <jump line="71" column="38" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="43" column="61" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="11" column="47" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
@@ -2059,28 +2054,33 @@
       <jump line="32" column="5" filename="$USER_HOME$/Desktop/repos/angular_frontend/gulpfile.js" />
       <jump line="259" column="13" filename="$USER_HOME$/Desktop/repos/angular_frontend/app/js/app/app_fakebackend_config.ts" />
       <jump line="394" column="13" filename="$USER_HOME$/Desktop/repos/angular_frontend/app/js/app/app_fakebackend_config.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="131" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="121" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="21" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="96" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>File</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>File</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZ2V0RmFrZU9wZW5BTVNNU1NGb3JtMm9mMlw+</text>
+        <text>linein</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgTU9PRExFX1VTRV9TRUxGX1NJR05FRF9TU0w6ICdmYWxzZScK</text>
+        <text encoding="base64">ICAgIGJlY29tZTogdHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgTU9PRExFX1NTTF9QUk9YWTogJ2ZhbHNlJwo=</text>
+        <text encoding="base64">ICAgICAgdmFsaWRhdGU6ICd2aXN1ZG8gLWNmICVzJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2107,22 +2107,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFwYWNoZTJjdGwgcmVzdGFydAo=</text>
+        <text encoding="base64">ICAgICAgcmVnZXhwOiAnXiV3aGVlbCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgICBhcGFjaGUyY3RsIHJlc3RhcnQKICAgIEFQQUNIRV9TU0xfS0VZX0xPQ0FUSU9OPS9ldGMvc3NsL3ByaXZhdGUvYXBhY2hlLXNlbGZzaWduZWQua2V5Cg==</text>
+        <text encoding="base64">ICAgICAgTU9PRExFX1NTTF9QUk9YWTogJ2ZhbHNlJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgTU9PRExFX1VSTF9IT1NUOiBodHRwczovL2Zvb2Jhcgo=</text>
+        <text encoding="base64">ICAgIGFwYWNoZTJjdGwgcmVzdGFydAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNldCArZQo=</text>
+        <text encoding="base64">IyAgICBhcGFjaGUyY3RsIHJlc3RhcnQKICAgIEFQQUNIRV9TU0xfS0VZX0xPQ0FUSU9OPS9ldGMvc3NsL3ByaXZhdGUvYXBhY2hlLXNlbGZzaWduZWQua2V5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNldCAtZQo=</text>
+        <text encoding="base64">ICAgICAgTU9PRExFX1VSTF9IT1NUOiBodHRwczovL2Zvb2Jhcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNldCAtZQo=</text>
+        <text encoding="base64">ICAgIHNldCArZQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2376,16 +2376,16 @@
         <text encoding="base64">ICAgIHNldCAtZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAvZXRjL2FwYWNoZTIvc2l0ZXMtYXZhaWxhYmxlL2RlZmF1bHQtc3NsLmNvbmYKCiMgQXBhY2hlMiBjb25maWcKIwojIFNTTENlcnRpZmljYXRlRmlsZSAgICAgIC9ldGMvc3NsL2NlcnRzL2FwYWNoZS1zZWxmc2lnbmVkLmNydAojIFNTTENlcnRpZmljYXRlS2V5RmlsZSAvZXRjL3NzbC9wcml2YXRlL2FwYWNoZS1zZWxmc2lnbmVkLmtleQo=</text>
+        <text encoding="base64">ICAgIHNldCAtZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZ2V0RmFrZU9wZW5BTVNNU1NGb3JtMm9mMlw+</last-search>
+      <last-search>linein</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZ2V0RmFrZU9wZW5BTVNNU1NGb3JtMm9mMlw+</last-pattern>
+      <last-pattern>linein</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2393,7 +2393,6 @@
     </search>
     <history>
       <history-search>
-        <entry>aws</entry>
         <entry encoding="base64">XDwxMDgwXD4=</entry>
         <entry>else</entry>
         <entry>host</entry>
@@ -2413,6 +2412,7 @@
         <entry encoding="base64">XDxtb2NraHR0cFw+</entry>
         <entry encoding="base64">XDxfZ2V0RmFrZU9wZW5BTVNNU0Zvcm0yb2YyV3JvbmdPVFBcPg==</entry>
         <entry encoding="base64">XDxfZ2V0RmFrZU9wZW5BTVNNU1NGb3JtMm9mMlw+</entry>
+        <entry>linein</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
