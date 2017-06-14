@@ -670,12 +670,12 @@
         <mark key="." line="62" column="7" />
         <mark key="^" line="62" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" timestamp="1496438632566">
-        <mark key="'" line="162" column="0" />
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="32" />
-        <mark key="." line="177" column="15" />
-        <mark key="^" line="177" column="15" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" timestamp="1497458654375">
+        <mark key="'" line="238" column="0" />
+        <mark key="[" line="193" column="9" />
+        <mark key="]" line="193" column="13" />
+        <mark key="." line="193" column="13" />
+        <mark key="^" line="193" column="13" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/test/resources/logback.xml" timestamp="1470501106113">
         <mark key="'" line="16" column="28" />
@@ -1959,14 +1959,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="38" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
-      <jump line="43" column="61" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
-      <jump line="11" column="47" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
-      <jump line="82" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
-      <jump line="28" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
-      <jump line="6" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
-      <jump line="105" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
-      <jump line="58" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="101" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="14" column="3" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/ci_scripts/auto_sync.sh" />
       <jump line="4" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
@@ -2059,6 +2051,14 @@
       <jump line="121" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="21" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="96" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="26" column="16" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="28" column="16" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="34" column="31" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="7" column="49" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="193" column="14" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="232" column="20" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="238" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2074,7 +2074,7 @@
         <text>File</text>
       </register>
       <register name="/" type="4">
-        <text>linein</text>
+        <text>cps</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJlY29tZTogdHJ1ZQo=</text>
@@ -2383,9 +2383,9 @@
       </register>
     </registers>
     <search>
-      <last-search>linein</last-search>
+      <last-search>cps</last-search>
       <last-offset />
-      <last-pattern>linein</last-pattern>
+      <last-pattern>cps</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2393,8 +2393,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwxMDgwXD4=</entry>
-        <entry>else</entry>
         <entry>host</entry>
         <entry>config.php</entry>
         <entry>wwwroo</entry>
@@ -2413,6 +2411,8 @@
         <entry encoding="base64">XDxfZ2V0RmFrZU9wZW5BTVNNU0Zvcm0yb2YyV3JvbmdPVFBcPg==</entry>
         <entry encoding="base64">XDxfZ2V0RmFrZU9wZW5BTVNNU1NGb3JtMm9mMlw+</entry>
         <entry>linein</entry>
+        <entry>cert</entry>
+        <entry>cps</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
