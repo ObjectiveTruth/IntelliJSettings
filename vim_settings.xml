@@ -361,8 +361,8 @@
         <mark key="." line="71" column="89" />
         <mark key="^" line="71" column="89" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1496964533100">
-        <mark key="'" line="109" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1497467616425">
+        <mark key="'" line="30" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/.travis.yml" timestamp="1471148061720">
         <mark key="'" line="58" column="65" />
@@ -1343,12 +1343,12 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" timestamp="1497450795793">
-        <mark key="'" line="96" column="4" />
-        <mark key="[" line="117" column="21" />
-        <mark key="]" line="117" column="21" />
-        <mark key="." line="117" column="21" />
-        <mark key="^" line="117" column="21" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" timestamp="1497467609210">
+        <mark key="'" line="75" column="28" />
+        <mark key="[" line="75" column="24" />
+        <mark key="]" line="75" column="28" />
+        <mark key="." line="75" column="28" />
+        <mark key="^" line="75" column="28" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/CommentDialog.java" timestamp="1471670976133">
         <mark key="'" line="15" column="0" />
@@ -1966,9 +1966,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="43" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
-      <jump line="41" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/README.md" />
-      <jump line="11" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="19" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.yml" />
       <jump line="52" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="8" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
@@ -2066,25 +2063,28 @@
       <jump line="39" column="3" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="187" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="75" column="28" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="10" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="30" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>moodle_mysql</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>else</text>
+        <text>150</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gJy9ob21lL2VjMi11c2VyL3ZvbHVtZXMvbW9vZGxlX215c3FsLXBlcnNpc3RlbmNlOi92YXIvbGliL215c3FsJwo=</text>
+        <text encoding="base64">ICAtIG5hbWU6IFVwZGF0ZSBob3N0cyBmaWxlIHdpdGggZGV2IGluc3RhbmNlIHJlZmVyZW5jZQogICAgYmVjb21lOiB0cnVlCiAgICBsaW5laW5maWxlOgogICAgICBkZXN0OiAvZXRjL2hvc3RzCiAgICAgIHN0YXRlOiBwcmVzZW50CiAgICAgIGxpbmU6ICcxMC4wLjEuMTUwIGNwcy1lY3AuZGV2Lmlubm92ZXhhLmNvbScK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2390,9 +2390,9 @@
       </register>
     </registers>
     <search>
-      <last-search>else</last-search>
+      <last-search>150</last-search>
       <last-offset />
-      <last-pattern>else</last-pattern>
+      <last-pattern>150</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2400,8 +2400,6 @@
     </search>
     <history>
       <history-search>
-        <entry>maildev</entry>
-        <entry>luke</entry>
         <entry>moodle_db</entry>
         <entry encoding="base64">XDxBQUFBQjNOemFDMXljMkVBQUFBREFRQUJBQUFDQVFETHpPS25cPg==</entry>
         <entry>open</entry>
@@ -2420,6 +2418,8 @@
         <entry>kong</entry>
         <entry>-e</entry>
         <entry>else</entry>
+        <entry>151</entry>
+        <entry>150</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
