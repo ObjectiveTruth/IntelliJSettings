@@ -361,8 +361,12 @@
         <mark key="." line="71" column="89" />
         <mark key="^" line="71" column="89" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1497467616425">
-        <mark key="'" line="30" column="23" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1497468299819">
+        <mark key="'" line="58" column="23" />
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+        <mark key="^" line="23" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/.travis.yml" timestamp="1471148061720">
         <mark key="'" line="58" column="65" />
@@ -670,12 +674,12 @@
         <mark key="." line="62" column="7" />
         <mark key="^" line="62" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" timestamp="1497458654375">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" timestamp="1497468319075">
         <mark key="'" line="238" column="0" />
-        <mark key="[" line="193" column="9" />
-        <mark key="]" line="193" column="13" />
-        <mark key="." line="193" column="13" />
-        <mark key="^" line="193" column="13" />
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="12" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/test/resources/logback.xml" timestamp="1470501106113">
         <mark key="'" line="16" column="28" />
@@ -1016,12 +1020,12 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1497467041902">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1497467757666">
         <mark key="'" line="189" column="0" />
-        <mark key="[" line="108" column="32" />
-        <mark key="]" line="108" column="44" />
-        <mark key="^" line="108" column="44" />
-        <mark key="." line="108" column="44" />
+        <mark key="[" line="12" column="76" />
+        <mark key="]" line="12" column="78" />
+        <mark key="^" line="12" column="78" />
+        <mark key="." line="12" column="78" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/circle.yml" timestamp="1496467319791">
         <mark key="[" line="12" column="6" />
@@ -1966,7 +1970,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.yml" />
       <jump line="52" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="8" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="96" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
@@ -2066,22 +2069,23 @@
       <jump line="75" column="28" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="10" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="30" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="58" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>3072</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>3072</text>
       </register>
       <register name="/" type="4">
-        <text>150</text>
+        <text>medium</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAtIG5hbWU6IFVwZGF0ZSBob3N0cyBmaWxlIHdpdGggZGV2IGluc3RhbmNlIHJlZmVyZW5jZQogICAgYmVjb21lOiB0cnVlCiAgICBsaW5laW5maWxlOgogICAgICBkZXN0OiAvZXRjL2hvc3RzCiAgICAgIHN0YXRlOiBwcmVzZW50CiAgICAgIGxpbmU6ICcxMC4wLjEuMTUwIGNwcy1lY3AuZGV2Lmlubm92ZXhhLmNvbScK</text>
@@ -2390,9 +2394,9 @@
       </register>
     </registers>
     <search>
-      <last-search>150</last-search>
+      <last-search>medium</last-search>
       <last-offset />
-      <last-pattern>150</last-pattern>
+      <last-pattern>medium</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2400,7 +2404,6 @@
     </search>
     <history>
       <history-search>
-        <entry>moodle_db</entry>
         <entry encoding="base64">XDxBQUFBQjNOemFDMXljMkVBQUFBREFRQUJBQUFDQVFETHpPS25cPg==</entry>
         <entry>open</entry>
         <entry>apache2</entry>
@@ -2420,6 +2423,7 @@
         <entry>else</entry>
         <entry>151</entry>
         <entry>150</entry>
+        <entry>medium</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
