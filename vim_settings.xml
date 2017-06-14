@@ -1020,12 +1020,12 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1497467757666">
-        <mark key="'" line="189" column="0" />
-        <mark key="[" line="12" column="76" />
-        <mark key="]" line="12" column="78" />
-        <mark key="^" line="12" column="78" />
-        <mark key="." line="12" column="78" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1497472511706">
+        <mark key="'" line="102" column="14" />
+        <mark key="[" line="35" column="6" />
+        <mark key="]" line="35" column="21" />
+        <mark key="^" line="35" column="21" />
+        <mark key="." line="35" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/circle.yml" timestamp="1496467319791">
         <mark key="[" line="12" column="6" />
@@ -1970,7 +1970,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="8" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="96" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="7" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
@@ -2070,22 +2069,23 @@
       <jump line="10" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="30" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="58" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="102" column="14" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>3072</text>
+        <text>MOODLE_USE_SSL</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>3072</text>
+        <text>MOODLE_USE_SSL</text>
       </register>
       <register name="/" type="4">
-        <text>medium</text>
+        <text>SSL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAtIG5hbWU6IFVwZGF0ZSBob3N0cyBmaWxlIHdpdGggZGV2IGluc3RhbmNlIHJlZmVyZW5jZQogICAgYmVjb21lOiB0cnVlCiAgICBsaW5laW5maWxlOgogICAgICBkZXN0OiAvZXRjL2hvc3RzCiAgICAgIHN0YXRlOiBwcmVzZW50CiAgICAgIGxpbmU6ICcxMC4wLjEuMTUwIGNwcy1lY3AuZGV2Lmlubm92ZXhhLmNvbScK</text>
@@ -2394,9 +2394,9 @@
       </register>
     </registers>
     <search>
-      <last-search>medium</last-search>
+      <last-search>SSL</last-search>
       <last-offset />
-      <last-pattern>medium</last-pattern>
+      <last-pattern>SSL</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2404,7 +2404,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBQUFBQjNOemFDMXljMkVBQUFBREFRQUJBQUFDQVFETHpPS25cPg==</entry>
         <entry>open</entry>
         <entry>apache2</entry>
         <entry>lms</entry>
@@ -2424,6 +2423,7 @@
         <entry>151</entry>
         <entry>150</entry>
         <entry>medium</entry>
+        <entry>SSL</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
