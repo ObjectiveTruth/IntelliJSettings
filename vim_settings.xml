@@ -95,12 +95,12 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1497381527292">
-        <mark key="'" line="36" column="29" />
-        <mark key="[" line="36" column="25" />
-        <mark key="]" line="36" column="25" />
-        <mark key="^" line="92" column="23" />
-        <mark key="." line="36" column="25" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1497462713012">
+        <mark key="'" line="10" column="20" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="41" column="40" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" timestamp="1496598947147">
         <mark key="'" line="4" column="45" />
@@ -907,9 +907,9 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" timestamp="1497376811002">
-        <mark key="[" line="28" column="21" />
-        <mark key="]" line="28" column="25" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" timestamp="1497461381839">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="26" />
         <mark key="." line="28" column="25" />
         <mark key="^" line="28" column="25" />
       </file>
@@ -1016,12 +1016,12 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1496965076334">
-        <mark key="'" line="37" column="8" />
-        <mark key="[" line="110" column="8" />
-        <mark key="]" line="110" column="8" />
-        <mark key="." line="110" column="8" />
-        <mark key="^" line="110" column="8" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1497462312623">
+        <mark key="'" line="158" column="8" />
+        <mark key="[" line="95" column="54" />
+        <mark key="]" line="95" column="54" />
+        <mark key="^" line="95" column="53" />
+        <mark key="." line="95" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/circle.yml" timestamp="1496467319791">
         <mark key="[" line="12" column="6" />
@@ -1056,11 +1056,11 @@
         <mark key="." line="106" column="51" />
         <mark key="^" line="237" column="9" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/Dockerfile" timestamp="1496510404581">
-        <mark key="[" line="2" column="47" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/Dockerfile" timestamp="1497461448311">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="97" />
+        <mark key="." line="4" column="97" />
+        <mark key="^" line="4" column="97" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab5/base_files/lab05.js" timestamp="1476892780636">
         <mark key="'" line="54" column="20" />
@@ -1310,8 +1310,8 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" timestamp="1497376870215">
-        <mark key="'" line="18" column="41" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" timestamp="1497461768982">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="87" column="9" />
         <mark key="]" line="87" column="11" />
         <mark key="." line="87" column="11" />
@@ -1491,8 +1491,8 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.template.yml" timestamp="1497376828079">
-        <mark key="'" line="44" column="41" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.template.yml" timestamp="1497461676270">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
@@ -1957,22 +1957,15 @@
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="33" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/README.md" timestamp="1497461525460">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="94" />
+        <mark key="]" line="15" column="15" />
+        <mark key="." line="15" column="15" />
+        <mark key="^" line="15" column="15" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
-      <jump line="14" column="3" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/ci_scripts/auto_sync.sh" />
-      <jump line="4" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
-      <jump line="76" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/config.php.template" />
-      <jump line="59" column="28" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
-      <jump line="54" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
-      <jump line="53" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
-      <jump line="33" column="26" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
-      <jump line="32" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
-      <jump line="5" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/ci_resources/lsyncd.conf.lua" />
-      <jump line="15" column="38" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/ci_resources/lsyncd.conf.lua" />
-      <jump line="42" column="24" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/src/moodle/config-dist.php" />
-      <jump line="16" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
-      <jump line="84" column="27" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="32" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/README.md" />
       <jump line="17" column="43" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="41" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/README.md" />
@@ -2026,7 +2019,6 @@
       <jump line="21" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="9" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="111" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="25" column="61" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="6" column="9" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="23" column="28" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
@@ -2059,28 +2051,43 @@
       <jump line="232" column="20" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
       <jump line="238" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="36" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="88" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="112" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="110" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="151" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="152" column="16" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="156" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/README.md" />
+      <jump line="15" column="27" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.template.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.template.yml" />
+      <jump line="93" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
+      <jump line="34" column="37" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
+      <jump line="10" column="20" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>File</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>File</text>
+        <text>using</text>
       </register>
       <register name="/" type="4">
-        <text>cps</text>
+        <text>else</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJlY29tZTogdHJ1ZQo=</text>
+        <text encoding="base64">Y3VybCAtaSAtc1MgLVggUE9TVCBodHRwOi8vbG9jYWxob3N0OjgwMDEvYXBpcy8gXAogICAgLWQgJ25hbWU9bG1zJyBcCiAgICAtZCAnaG9zdHM9Y3BzLWVjcC5kZXYuaW5ub3ZleGEuY29tJyBcCiAgICAtZCAndXBzdHJlYW1fdXJsPWh0dHA6Ly9tb29kbGUnIFwKICAgIC1kICd1cmlzPS9tb29kbGUnIFwKICAgIC1kICdzdHJpcF91cmk9ZmFsc2UnIFwKICAgIC1kICdwcmVzZXJ2ZV9ob3N0PXRydWUnIFwKICAgIC1kICdodHRwc19vbmx5PXRydWUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFsaWRhdGU6ICd2aXN1ZG8gLWNmICVzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2106,23 +2113,23 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVnZXhwOiAnXiV3aGVlbCcK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGN1cmwgLWkgLXNTIC1YIFBPU1QgaHR0cDovL2xvY2FsaG9zdDo4MDAxL2FwaXMvIFwKICAgICAgICAtZCAnbmFtZT1sbXMnIFwKICAgICAgICAtZCAnaG9zdHM9Y3BzLWVjcC5kZXYuaW5ub3ZleGEuY29tJyBcCiAgICAgICAgLWQgJ3Vwc3RyZWFtX3VybD1odHRwOi8vbW9vZGxlJyBcCiAgICAgICAgLWQgJ3VyaXM9L21vb2RsZScgXAogICAgICAgIC1kICdzdHJpcF91cmk9ZmFsc2UnIFwKICAgICAgICAtZCAncHJlc2VydmVfaG9zdD10cnVlJyBcCiAgICAgICAgLWQgJ2h0dHBzX29ubHk9dHJ1ZSc=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgTU9PRExFX1NTTF9QUk9YWTogJ2ZhbHNlJwo=</text>
+        <text encoding="base64">Vk9MVU1FIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFwYWNoZTJjdGwgcmVzdGFydAo=</text>
+        <text encoding="base64">ICAgICAgdmFsaWRhdGU6ICd2aXN1ZG8gLWNmICVzJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgICBhcGFjaGUyY3RsIHJlc3RhcnQKICAgIEFQQUNIRV9TU0xfS0VZX0xPQ0FUSU9OPS9ldGMvc3NsL3ByaXZhdGUvYXBhY2hlLXNlbGZzaWduZWQua2V5Cg==</text>
+        <text encoding="base64">ICAgICAgcmVnZXhwOiAnXiV3aGVlbCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgTU9PRExFX1VSTF9IT1NUOiBodHRwczovL2Zvb2Jhcgo=</text>
+        <text encoding="base64">ICAgICAgTU9PRExFX1NTTF9QUk9YWTogJ2ZhbHNlJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNldCArZQo=</text>
+        <text encoding="base64">ICAgIGFwYWNoZTJjdGwgcmVzdGFydAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2373,19 +2380,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNldCAtZQo=</text>
+        <text encoding="base64">IyAgICBhcGFjaGUyY3RsIHJlc3RhcnQKICAgIEFQQUNIRV9TU0xfS0VZX0xPQ0FUSU9OPS9ldGMvc3NsL3ByaXZhdGUvYXBhY2hlLXNlbGZzaWduZWQua2V5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNldCAtZQo=</text>
+        <text encoding="base64">ICAgICAgTU9PRExFX1VSTF9IT1NUOiBodHRwczovL2Zvb2Jhcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cps</last-search>
+      <last-search>else</last-search>
       <last-offset />
-      <last-pattern>cps</last-pattern>
+      <last-pattern>else</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2393,10 +2400,6 @@
     </search>
     <history>
       <history-search>
-        <entry>host</entry>
-        <entry>config.php</entry>
-        <entry>wwwroo</entry>
-        <entry>echo</entry>
         <entry>maildev</entry>
         <entry>luke</entry>
         <entry>moodle_db</entry>
@@ -2413,6 +2416,10 @@
         <entry>linein</entry>
         <entry>cert</entry>
         <entry>cps</entry>
+        <entry>volume</entry>
+        <entry>kong</entry>
+        <entry>-e</entry>
+        <entry>else</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
