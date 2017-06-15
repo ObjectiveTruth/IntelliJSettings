@@ -158,11 +158,12 @@
         <mark key="^" line="6" column="72" />
         <mark key="." line="6" column="72" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1496438679625">
-        <mark key="[" line="16" column="16" />
-        <mark key="]" line="16" column="16" />
-        <mark key="^" line="15" column="87" />
-        <mark key="." line="16" column="20" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1497492071911">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="30" column="76" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" timestamp="1495062888709">
         <mark key="'" line="266" column="84" />
@@ -673,8 +674,8 @@
         <mark key="." line="62" column="7" />
         <mark key="^" line="62" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" timestamp="1497486824739">
-        <mark key="'" line="235" column="27" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" timestamp="1497490209593">
+        <mark key="'" line="169" column="7" />
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="23" />
         <mark key="." line="12" column="23" />
@@ -1346,12 +1347,11 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" timestamp="1497486960719">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" timestamp="1497492037069">
         <mark key="'" line="107" column="0" />
-        <mark key="[" line="80" column="31" />
-        <mark key="]" line="80" column="34" />
-        <mark key="." line="80" column="34" />
-        <mark key="^" line="80" column="34" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/CommentDialog.java" timestamp="1471670976133">
         <mark key="'" line="15" column="0" />
@@ -1969,13 +1969,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
-      <jump line="114" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
-      <jump line="59" column="12" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
-      <jump line="38" column="12" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
-      <jump line="33" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="34" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="115" column="20" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="61" column="20" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="181" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="64" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
@@ -2069,28 +2062,35 @@
       <jump line="235" column="27" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="189" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="230" column="43" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="169" column="7" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="12" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
+      <jump line="32" column="67" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
+      <jump line="34" column="69" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
+      <jump line="2" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
+      <jump line="24" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>h</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2hvd24gcm9vdDpnbHV1IC9vcHQvZ2x1dS1zZXJ2ZXItMy4wLjEvZXRjL2NlcnRzL2h0dHBkLmtleQo=</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>/opt/gluu-server-3.0.1/etc/certs/httpd.key</text>
       </register>
       <register name="/" type="4">
-        <text>cert</text>
+        <text encoding="base64">XDxHTFVVX0hPU1ROQU1FXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSBlY2hvICR7UFJPVklTSU9ORVJfUFJJVkFURV9LRVlfR1BHX1BBU1NQSFJBU0V9IHwgZ3BnIC0tYmF0Y2ggLS1wYXNzcGhyYXNlLWZkIDAgLS1kZWNyeXB0ICJjZXJ0aWZpY2F0ZXMvZGV2X2F1dGhfZnVsbGNoYWluLnBlbS5ncGciID4gY2VydGlmaWNhdGVzL2Rldl9hdXRoX2Z1bGxjaGFpbi5wZW0KICAgICAgLSBlY2hvICR7UFJPVklTSU9ORVJfUFJJVkFURV9LRVlfR1BHX1BBU1NQSFJBU0V9IHwgZ3BnIC0tYmF0Y2ggLS1wYXNzcGhyYXNlLWZkIDAgLS1kZWNyeXB0ICJjZXJ0aWZpY2F0ZXMvZGV2X2F1dGhfcHJpdmtleS5wZW0uZ3BnIiA+IGNlcnRpZmljYXRlcy9kZXZfYXV0aF9wcml2a2V5LnBlbQo=</text>
+      <register name="0" type="4">
+        <text>/opt/gluu-server-3.0.1/etc/certs/httpd.crt</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBlY2hvICR7UFJPVklTSU9ORVJfUFJJVkFURV9LRVlfR1BHX1BBU1NQSFJBU0V9IHwgZ3BnIC0tYmF0Y2ggLS1wYXNzcGhyYXNlLWZkIDAgLS1kZWNyeXB0ICJjZXJ0aWZpY2F0ZXMvZGV2X2F1dGhfZnVsbGNoYWluLnBlbS5ncGciID4gY2VydGlmaWNhdGVzL2Rldl9hdXRoX2Z1bGxjaGFpbi5wZW0KICAgICAgLSBlY2hvICR7UFJPVklTSU9ORVJfUFJJVkFURV9LRVlfR1BHX1BBU1NQSFJBU0V9IHwgZ3BnIC0tYmF0Y2ggLS1wYXNzcGhyYXNlLWZkIDAgLS1kZWNyeXB0ICJjZXJ0aWZpY2F0ZXMvZGV2X2F1dGhfZnVsbGNoYWluLnBlbS5ncGciID4gY2VydGlmaWNhdGVzL2Rldl9hdXRoX2Z1bGxjaGFpbi5wZW0K</text>
+        <text encoding="base64">Y2hvd24gcm9vdDpnbHV1IC9vcHQvZ2x1dS1zZXJ2ZXItMy4wLjEvZXRjL2NlcnRzL2h0dHBkLmtleQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2117,22 +2117,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBjaG1vZCAwNzAwIHByb3Zpc2lvbi9wcm92aXNpb25lcl9yc2EK</text>
+        <text encoding="base64">ICAgICAgZ3JvdXA6IGdsdXUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBjaG1vZCAwNzAwIHByb3Zpc2lvbi9wcm92aXNpb25lcl9yc2EK</text>
+        <text encoding="base64">ICAgICAgZ3JvdXA6IHJvb3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIyBFbnN1cmUgaXRzIG9ubHkgdXNlciByZWFkYWJsZQo=</text>
+        <text encoding="base64">ICAgICAgZGVzdDogL29wdC9nbHV1LXNlcnZlci0zLjAuMS9ldGMvY2VydHMvaW5pdGlhbF9odHRwZC5rZXkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbW9kZTogMDY0NAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2xlZXAgMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC1kICdzdHJpcF91cmk9dHJ1ZScgXAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2383,19 +2383,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC1kICdob3N0cz1jcHMtZWNwLmRldi5pbm5vdmV4YS5jb20nIFwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y3VybCAtaSAtc1MgLVggUE9TVCBodHRwOi8vbG9jYWxob3N0OjgwMDEvYXBpcy8gXAogICAgLWQgJ25hbWU9Y21zJyBcCiAgICAtZCAnaG9zdHM9Y3BzLWVjcC5kZXYuaW5ub3ZleGEuY29tJyBcCiAgICAtZCAndXBzdHJlYW1fdXJsPWh0dHA6Ly93b3JkcHJlc3NfY21zJyBcCiAgICAtZCAndXJpcz0vJyBcCiAgICAtZCAncHJlc2VydmVfaG9zdD10cnVlJwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cert</last-search>
+      <last-search encoding="base64">XDxHTFVVX0hPU1ROQU1FXD4=</last-search>
       <last-offset />
-      <last-pattern>cert</last-pattern>
+      <last-pattern encoding="base64">XDxHTFVVX0hPU1ROQU1FXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2403,9 +2403,6 @@
     </search>
     <history>
       <history-search>
-        <entry>apache2</entry>
-        <entry>lms</entry>
-        <entry>rp</entry>
         <entry encoding="base64">XDxtb29kbGVfZGJcPg==</entry>
         <entry>moodle</entry>
         <entry encoding="base64">XDxtb2NraHR0cFw+</entry>
@@ -2423,6 +2420,9 @@
         <entry>SSL</entry>
         <entry>lets</entry>
         <entry>cert</entry>
+        <entry>mail</entry>
+        <entry>smtp</entry>
+        <entry encoding="base64">XDxHTFVVX0hPU1ROQU1FXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
