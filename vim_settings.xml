@@ -24,12 +24,12 @@
         <mark key="." line="14" column="115" />
         <mark key="^" line="14" column="115" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/circle.yml" timestamp="1496599450859">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="34" />
-        <mark key="." line="27" column="78" />
-        <mark key="^" line="27" column="78" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/circle.yml" timestamp="1497486237023">
+        <mark key="'" line="2" column="23" />
+        <mark key="[" line="56" column="156" />
+        <mark key="]" line="56" column="159" />
+        <mark key="^" line="56" column="159" />
+        <mark key="." line="56" column="159" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/src/moodle/config-dist.php" timestamp="1496783049080">
         <mark key="'" line="42" column="24" />
@@ -673,8 +673,8 @@
         <mark key="." line="62" column="7" />
         <mark key="^" line="62" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" timestamp="1497468319075">
-        <mark key="'" line="238" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" timestamp="1497486824739">
+        <mark key="'" line="235" column="27" />
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="23" />
         <mark key="." line="12" column="23" />
@@ -1019,7 +1019,7 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1497485345124">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1497487057091">
         <mark key="'" line="189" column="0" />
         <mark key="[" line="95" column="43" />
         <mark key="]" line="95" column="49" />
@@ -1346,12 +1346,12 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" timestamp="1497484971865">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" timestamp="1497486960719">
         <mark key="'" line="107" column="0" />
-        <mark key="[" line="85" column="32" />
-        <mark key="]" line="85" column="40" />
-        <mark key="." line="85" column="40" />
-        <mark key="^" line="85" column="40" />
+        <mark key="[" line="80" column="31" />
+        <mark key="]" line="80" column="34" />
+        <mark key="." line="80" column="34" />
+        <mark key="^" line="80" column="34" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/CommentDialog.java" timestamp="1471670976133">
         <mark key="'" line="15" column="0" />
@@ -1969,21 +1969,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
-      <jump line="21" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="30" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="158" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="28" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="31" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="19" column="22" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
-      <jump line="173" column="16" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="21" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.yml" />
-      <jump line="5" column="9" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.template.yml" />
-      <jump line="9" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/.gitignore" />
-      <jump line="4" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.template.yml" />
-      <jump line="40" column="41" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.template.yml" />
-      <jump line="5" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
-      <jump line="68" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="114" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="59" column="12" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
@@ -2031,8 +2016,6 @@
       <jump line="21" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="96" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="26" column="16" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
-      <jump line="28" column="16" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
-      <jump line="34" column="31" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
       <jump line="7" column="49" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
       <jump line="193" column="14" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
       <jump line="232" column="20" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
@@ -2067,6 +2050,23 @@
       <jump line="99" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="162" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="95" column="49" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="2" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/circle.yml" />
+      <jump line="13" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="28" column="16" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="34" column="31" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="58" column="16" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="60" column="17" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="94" column="26" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="101" column="21" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="139" column="20" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="143" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="148" column="48" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="159" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="184" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="188" column="31" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="214" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="227" column="27" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="235" column="27" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="189" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
     </jumps>
@@ -2075,22 +2075,22 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>privkey</text>
+        <text>h</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>privkey</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>lets</text>
+        <text>cert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJlY29tZTogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgLSBlY2hvICR7UFJPVklTSU9ORVJfUFJJVkFURV9LRVlfR1BHX1BBU1NQSFJBU0V9IHwgZ3BnIC0tYmF0Y2ggLS1wYXNzcGhyYXNlLWZkIDAgLS1kZWNyeXB0ICJjZXJ0aWZpY2F0ZXMvZGV2X2F1dGhfZnVsbGNoYWluLnBlbS5ncGciID4gY2VydGlmaWNhdGVzL2Rldl9hdXRoX2Z1bGxjaGFpbi5wZW0KICAgICAgLSBlY2hvICR7UFJPVklTSU9ORVJfUFJJVkFURV9LRVlfR1BHX1BBU1NQSFJBU0V9IHwgZ3BnIC0tYmF0Y2ggLS1wYXNzcGhyYXNlLWZkIDAgLS1kZWNyeXB0ICJjZXJ0aWZpY2F0ZXMvZGV2X2F1dGhfcHJpdmtleS5wZW0uZ3BnIiA+IGNlcnRpZmljYXRlcy9kZXZfYXV0aF9wcml2a2V5LnBlbQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbW9kZTogMDY0NAo=</text>
+        <text encoding="base64">ICAgICAgLSBlY2hvICR7UFJPVklTSU9ORVJfUFJJVkFURV9LRVlfR1BHX1BBU1NQSFJBU0V9IHwgZ3BnIC0tYmF0Y2ggLS1wYXNzcGhyYXNlLWZkIDAgLS1kZWNyeXB0ICJjZXJ0aWZpY2F0ZXMvZGV2X2F1dGhfZnVsbGNoYWluLnBlbS5ncGciID4gY2VydGlmaWNhdGVzL2Rldl9hdXRoX2Z1bGxjaGFpbi5wZW0KICAgICAgLSBlY2hvICR7UFJPVklTSU9ORVJfUFJJVkFURV9LRVlfR1BHX1BBU1NQSFJBU0V9IHwgZ3BnIC0tYmF0Y2ggLS1wYXNzcGhyYXNlLWZkIDAgLS1kZWNyeXB0ICJjZXJ0aWZpY2F0ZXMvZGV2X2F1dGhfZnVsbGNoYWluLnBlbS5ncGciID4gY2VydGlmaWNhdGVzL2Rldl9hdXRoX2Z1bGxjaGFpbi5wZW0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2117,22 +2117,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2xlZXAgMQo=</text>
+        <text encoding="base64">ICAgICAgLSBjaG1vZCAwNzAwIHByb3Zpc2lvbi9wcm92aXNpb25lcl9yc2EK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC1kICdzdHJpcF91cmk9dHJ1ZScgXAo=</text>
+        <text encoding="base64">ICAgICAgLSBjaG1vZCAwNzAwIHByb3Zpc2lvbi9wcm92aXNpb25lcl9yc2EK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC1kICdob3N0cz1jcHMtZWNwLmRldi5pbm5vdmV4YS5jb20nIFwK</text>
+        <text encoding="base64">ICAgICAgIyBFbnN1cmUgaXRzIG9ubHkgdXNlciByZWFkYWJsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y3VybCAtaSAtc1MgLVggUE9TVCBodHRwOi8vbG9jYWxob3N0OjgwMDEvYXBpcy8gXAogICAgLWQgJ25hbWU9Y21zJyBcCiAgICAtZCAnaG9zdHM9Y3BzLWVjcC5kZXYuaW5ub3ZleGEuY29tJyBcCiAgICAtZCAndXBzdHJlYW1fdXJsPWh0dHA6Ly93b3JkcHJlc3NfY21zJyBcCiAgICAtZCAndXJpcz0vJyBcCiAgICAtZCAncHJlc2VydmVfaG9zdD10cnVlJwoK</text>
+        <text encoding="base64">ICAgICAgbW9kZTogMDY0NAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC1kICdzdHJpcF91cmk9ZmFsc2UnIFwK</text>
+        <text encoding="base64">c2xlZXAgMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC1kICdzdHJpcF91cmk9ZmFsc2UnIFwK</text>
+        <text encoding="base64">ICAgIC1kICdzdHJpcF91cmk9dHJ1ZScgXAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2383,19 +2383,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC1kICdzdHJpcF91cmk9ZmFsc2UnIFwK</text>
+        <text encoding="base64">ICAgIC1kICdob3N0cz1jcHMtZWNwLmRldi5pbm5vdmV4YS5jb20nIFwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3VybCAtaSAtc1MgLVggUE9TVCBodHRwOi8vbG9jYWxob3N0OjgwMDEvYXBpcy8gXAogICAgLWQgJ25hbWU9Y21zJyBcCiAgICAtZCAnaG9zdHM9Y3BzLWVjcC5kZXYuaW5ub3ZleGEuY29tJyBcCiAgICAtZCAndXBzdHJlYW1fdXJsPWh0dHA6Ly93b3JkcHJlc3NfY21zJyBcCiAgICAtZCAndXJpcz0vJyBcCiAgICAtZCAncHJlc2VydmVfaG9zdD10cnVlJwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lets</last-search>
+      <last-search>cert</last-search>
       <last-offset />
-      <last-pattern>lets</last-pattern>
+      <last-pattern>cert</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2412,7 +2412,6 @@
         <entry encoding="base64">XDxfZ2V0RmFrZU9wZW5BTVNNU0Zvcm0yb2YyV3JvbmdPVFBcPg==</entry>
         <entry encoding="base64">XDxfZ2V0RmFrZU9wZW5BTVNNU1NGb3JtMm9mMlw+</entry>
         <entry>linein</entry>
-        <entry>cert</entry>
         <entry>cps</entry>
         <entry>volume</entry>
         <entry>kong</entry>
@@ -2423,6 +2422,7 @@
         <entry>medium</entry>
         <entry>SSL</entry>
         <entry>lets</entry>
+        <entry>cert</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
