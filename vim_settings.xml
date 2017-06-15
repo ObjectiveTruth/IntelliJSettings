@@ -158,12 +158,12 @@
         <mark key="^" line="6" column="72" />
         <mark key="." line="6" column="72" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1497496296660">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1497497942982">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="37" column="60" />
-        <mark key="]" line="38" column="3" />
-        <mark key="." line="38" column="3" />
-        <mark key="^" line="38" column="3" />
+        <mark key="[" line="44" column="25" />
+        <mark key="]" line="45" column="14" />
+        <mark key="." line="45" column="14" />
+        <mark key="^" line="45" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" timestamp="1495062888709">
         <mark key="'" line="266" column="84" />
@@ -2074,23 +2074,23 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC1hbGlhcyAke0dMVVVfSE9TVE5BTUV9X2h0dHBkIFwK</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>${GLUU_HOSTNAME}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHTFVVX0hPU1ROQU1FXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC1zdG9yZXBhc3MgY2hhbmdlaXQgXAo=</text>
+        <text encoding="base64">ICAgIC1hbGlhcyBhdXRoLmNwcy1lY3AuZGV2Lmlubm92ZXhhLmNvbV9odHRwZCBcCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U2xlZXAgMTAK</text>
+        <text encoding="base64">ICAgIC1hbGlhcyAke0dMVVVfSE9TVE5BTUV9X2h0dHBkIFwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2117,22 +2117,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2xlZXAgMTIwCg==</text>
+        <text encoding="base64">U2xlZXAgMTAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2xlZXAgMTIwCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2xlZXAgMTIwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VydmljZSBzb2xzZXJ2ZXIgc3RhcnQKc2VydmljZSBhcGFjaGUyIHN0YXJ0CnNlcnZpY2Ugb3hhdXRoIHN0YXJ0CnNlcnZpY2UgaWRlbnRpdHkgc3RhcnQK</text>
+        <text encoding="base64">c2xlZXAgMTIwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VydmljZSBhcGFjaGUyIHN0b3AKc2VydmljZSBveGF1dGggc3RvcApzZXJ2aWNlIGlkZW50aXR5IHN0b3AK</text>
+        <text encoding="base64">c2VydmljZSBzb2xzZXJ2ZXIgc3RhcnQKc2VydmljZSBhcGFjaGUyIHN0YXJ0CnNlcnZpY2Ugb3hhdXRoIHN0YXJ0CnNlcnZpY2UgaWRlbnRpdHkgc3RhcnQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2383,10 +2383,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2hvd24gcm9vdDpnbHV1IC9vcHQvZ2x1dS1zZXJ2ZXItMy4wLjEvZXRjL2NlcnRzL2h0dHBkLmtleQo=</text>
+        <text encoding="base64">c2VydmljZSBhcGFjaGUyIHN0b3AKc2VydmljZSBveGF1dGggc3RvcApzZXJ2aWNlIGlkZW50aXR5IHN0b3AK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZ3JvdXA6IGdsdXUK</text>
+        <text encoding="base64">Y2hvd24gcm9vdDpnbHV1IC9vcHQvZ2x1dS1zZXJ2ZXItMy4wLjEvZXRjL2NlcnRzL2h0dHBkLmtleQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
