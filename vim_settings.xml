@@ -158,12 +158,12 @@
         <mark key="^" line="6" column="72" />
         <mark key="." line="6" column="72" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1497497942982">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1497499474949">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="44" column="25" />
-        <mark key="]" line="45" column="14" />
-        <mark key="." line="45" column="14" />
-        <mark key="^" line="45" column="14" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="40" column="78" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" timestamp="1495062888709">
         <mark key="'" line="266" column="84" />
@@ -1347,11 +1347,12 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" timestamp="1497492037069">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" timestamp="1497499418964">
         <mark key="'" line="107" column="0" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
+        <mark key="[" line="162" column="31" />
+        <mark key="]" line="162" column="34" />
+        <mark key="." line="162" column="34" />
+        <mark key="^" line="162" column="34" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/CommentDialog.java" timestamp="1471670976133">
         <mark key="'" line="15" column="0" />
@@ -2075,22 +2076,22 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC1hbGlhcyAke0dMVVVfSE9TVE5BTUV9X2h0dHBkIFwK</text>
+        <text encoding="base64">c2xlZXAgMzAK</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>${GLUU_HOSTNAME}</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHTFVVX0hPU1ROQU1FXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC1hbGlhcyBhdXRoLmNwcy1lY3AuZGV2Lmlubm92ZXhhLmNvbV9odHRwZCBcCg==</text>
+      <register name="0" type="4">
+        <text>/usr/sbin/chroot /opt/gluu-server-${GLUU_VERSION}/ su - -c &quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC1hbGlhcyAke0dMVVVfSE9TVE5BTUV9X2h0dHBkIFwK</text>
+        <text encoding="base64">c2xlZXAgMzAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2117,22 +2118,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U2xlZXAgMTAK</text>
+        <text encoding="base64">c2xlZXAgMzAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2xlZXAgMTIwCg==</text>
+        <text encoding="base64">ICAgIC1hbGlhcyBhdXRoLmNwcy1lY3AuZGV2Lmlubm92ZXhhLmNvbV9odHRwZCBcCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC1hbGlhcyBhdXRoLmNwcy1lY3AuZGV2Lmlubm92ZXhhLmNvbV9odHRwZCBcCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC1hbGlhcyAke0dMVVVfSE9TVE5BTUV9X2h0dHBkIFwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2xlZXAgMTIwCg==</text>
+        <text encoding="base64">U2xlZXAgMTAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VydmljZSBzb2xzZXJ2ZXIgc3RhcnQKc2VydmljZSBhcGFjaGUyIHN0YXJ0CnNlcnZpY2Ugb3hhdXRoIHN0YXJ0CnNlcnZpY2UgaWRlbnRpdHkgc3RhcnQK</text>
+        <text encoding="base64">c2xlZXAgMTIwCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2383,13 +2384,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VydmljZSBhcGFjaGUyIHN0b3AKc2VydmljZSBveGF1dGggc3RvcApzZXJ2aWNlIGlkZW50aXR5IHN0b3AK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2hvd24gcm9vdDpnbHV1IC9vcHQvZ2x1dS1zZXJ2ZXItMy4wLjEvZXRjL2NlcnRzL2h0dHBkLmtleQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2441,10 +2442,10 @@
         <entry encoding="base64">JzwsJz4vcyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>q!</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
