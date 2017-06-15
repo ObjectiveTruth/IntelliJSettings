@@ -361,12 +361,12 @@
         <mark key="." line="71" column="89" />
         <mark key="^" line="71" column="89" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1497468299819">
-        <mark key="'" line="58" column="23" />
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="26" />
-        <mark key="." line="23" column="26" />
-        <mark key="^" line="23" column="26" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1497551539907">
+        <mark key="'" line="34" column="36" />
+        <mark key="[" line="62" column="26" />
+        <mark key="]" line="62" column="36" />
+        <mark key="." line="62" column="36" />
+        <mark key="^" line="62" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/.travis.yml" timestamp="1471148061720">
         <mark key="'" line="58" column="65" />
@@ -1970,7 +1970,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="98" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
       <jump line="39" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="51" column="16" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
@@ -2070,22 +2069,23 @@
       <jump line="42" column="14" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="63" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="50" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="34" column="36" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IEdpdmUgU1NIIEFjY2VzcyBUbyBTdW1lZW4KICAgIGJlY29tZTogdHJ1ZQogICAgYXV0aG9yaXplZF9rZXk6CiAgICAgIHVzZXI6IHN1bWVlbgogICAgICBzdGF0ZTogcHJlc2VudAogICAgICBrZXk6ICJzc2gtcnNhIEFBQUFCM056YUMxeWMyRUFBQUFEQVFBQkFBQUJBUURZSXJ6MUM5QXV0MzJqM2xCOXdNbjZYSk5mNytQUVp3QXNWRzN6WHRHQWNmczF2WTc4RmczR1YzYm9qVmxxYi9SZFg5K0VsMytjWlFGbmVYaUptWmljbUhIWHkxQmIycGczMXRVd1B4NVh4Ymo4SCtZd05qRUxwZHFLeWIzcTdUTmJKYktTZkUvMnk4Vk8veUFlSE8renJ2Q3VGeml4RXliczF1N3g5anJNL2ppOUNNazcrakR4SjhNbDhicTQrN29kU1QrK213RzdIWWd4WUcrKzBwUmhPV1BXWXJaS0IyNmtTQnNKZzRrdWRaYmhqWGRjSXlCc0lQdzZiYUJSMkZ4N1gzYmNBRUhwRFdLY0pYeHFYbkg2eTNjQ3pvWDI3b045L2tQQUMvdEdaZ2F4OUVhVzc0L05vNlhTZWpTcFYvUEFWNkgyWWRnNnlhOXREQm1hMDl1UiBzdW1lZW5AaW5ub3ZleGEuY29tIgo=</text>
+      <register name="&quot;" type="4">
+        <text>docker_internal_registry_reader</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>luke</text>
+        <text>docker_internal_registry_reader</text>
       </register>
       <register name="/" type="4">
-        <text>kong</text>
+        <text>profile</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAtIG5hbWU6IEdpdmUgU1NIIEFjY2VzcyBUbyBTdW1lZW4KICAgIGJlY29tZTogdHJ1ZQogICAgYXV0aG9yaXplZF9rZXk6CiAgICAgIHVzZXI6IHN1bWVlbgogICAgICBzdGF0ZTogcHJlc2VudAogICAgICBrZXk6ICJzc2gtcnNhIEFBQUFCM056YUMxeWMyRUFBQUFEQVFBQkFBQUJBUURZSXJ6MUM5QXV0MzJqM2xCOXdNbjZYSk5mNytQUVp3QXNWRzN6WHRHQWNmczF2WTc4RmczR1YzYm9qVmxxYi9SZFg5K0VsMytjWlFGbmVYaUptWmljbUhIWHkxQmIycGczMXRVd1B4NVh4Ymo4SCtZd05qRUxwZHFLeWIzcTdUTmJKYktTZkUvMnk4Vk8veUFlSE8renJ2Q3VGeml4RXliczF1N3g5anJNL2ppOUNNazcrakR4SjhNbDhicTQrN29kU1QrK213RzdIWWd4WUcrKzBwUmhPV1BXWXJaS0IyNmtTQnNKZzRrdWRaYmhqWGRjSXlCc0lQdzZiYUJSMkZ4N1gzYmNBRUhwRFdLY0pYeHFYbkg2eTNjQ3pvWDI3b045L2tQQUMvdEdaZ2F4OUVhVzc0L05vNlhTZWpTcFYvUEFWNkgyWWRnNnlhOXREQm1hMDl1UiBzdW1lZW5AaW5ub3ZleGEuY29tIgo=</text>
@@ -2394,9 +2394,9 @@
       </register>
     </registers>
     <search>
-      <last-search>kong</last-search>
+      <last-search>profile</last-search>
       <last-offset />
-      <last-pattern>kong</last-pattern>
+      <last-pattern>profile</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2404,8 +2404,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZ2V0RmFrZU9wZW5BTVNNU0Zvcm0yb2YyV3JvbmdPVFBcPg==</entry>
-        <entry encoding="base64">XDxfZ2V0RmFrZU9wZW5BTVNNU1NGb3JtMm9mMlw+</entry>
         <entry>linein</entry>
         <entry>cps</entry>
         <entry>volume</entry>
@@ -2424,6 +2422,8 @@
         <entry>admin</entry>
         <entry>Sumeen</entry>
         <entry>kong</entry>
+        <entry>role</entry>
+        <entry>profile</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Jhc2VfQS9CQVNFXy9n</entry>
