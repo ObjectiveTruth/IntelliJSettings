@@ -158,10 +158,10 @@
         <mark key="^" line="6" column="72" />
         <mark key="." line="6" column="72" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1497499474949">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1497562048098">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="5" />
         <mark key="^" line="40" column="78" />
         <mark key="." line="22" column="0" />
       </file>
@@ -363,10 +363,10 @@
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1497551539907">
         <mark key="'" line="34" column="36" />
-        <mark key="[" line="62" column="26" />
-        <mark key="]" line="62" column="36" />
-        <mark key="." line="62" column="36" />
-        <mark key="^" line="62" column="36" />
+        <mark key="[" line="34" column="26" />
+        <mark key="]" line="34" column="36" />
+        <mark key="." line="34" column="36" />
+        <mark key="^" line="34" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/.travis.yml" timestamp="1471148061720">
         <mark key="'" line="58" column="65" />
@@ -1021,11 +1021,9 @@
         <mark key="^" line="67" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1497547783631">
-        <mark key="'" line="50" column="33" />
-        <mark key="[" line="176" column="15" />
-        <mark key="]" line="177" column="14" />
-        <mark key="^" line="177" column="14" />
-        <mark key="." line="177" column="14" />
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="7" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/circle.yml" timestamp="1496467319791">
         <mark key="[" line="12" column="6" />
@@ -2075,8 +2073,8 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>docker_internal_registry_reader</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2V0IC1lCnNldCAteAo=</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
@@ -2088,7 +2086,7 @@
         <text>profile</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IEdpdmUgU1NIIEFjY2VzcyBUbyBTdW1lZW4KICAgIGJlY29tZTogdHJ1ZQogICAgYXV0aG9yaXplZF9rZXk6CiAgICAgIHVzZXI6IHN1bWVlbgogICAgICBzdGF0ZTogcHJlc2VudAogICAgICBrZXk6ICJzc2gtcnNhIEFBQUFCM056YUMxeWMyRUFBQUFEQVFBQkFBQUJBUURZSXJ6MUM5QXV0MzJqM2xCOXdNbjZYSk5mNytQUVp3QXNWRzN6WHRHQWNmczF2WTc4RmczR1YzYm9qVmxxYi9SZFg5K0VsMytjWlFGbmVYaUptWmljbUhIWHkxQmIycGczMXRVd1B4NVh4Ymo4SCtZd05qRUxwZHFLeWIzcTdUTmJKYktTZkUvMnk4Vk8veUFlSE8renJ2Q3VGeml4RXliczF1N3g5anJNL2ppOUNNazcrakR4SjhNbDhicTQrN29kU1QrK213RzdIWWd4WUcrKzBwUmhPV1BXWXJaS0IyNmtTQnNKZzRrdWRaYmhqWGRjSXlCc0lQdzZiYUJSMkZ4N1gzYmNBRUhwRFdLY0pYeHFYbkg2eTNjQ3pvWDI3b045L2tQQUMvdEdaZ2F4OUVhVzc0L05vNlhTZWpTcFYvUEFWNkgyWWRnNnlhOXREQm1hMDl1UiBzdW1lZW5AaW5ub3ZleGEuY29tIgo=</text>
+        <text encoding="base64">c2V0IC1lCnNldCAteAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2xlZXAgMzAK</text>
