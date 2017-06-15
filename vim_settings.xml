@@ -158,12 +158,12 @@
         <mark key="^" line="6" column="72" />
         <mark key="." line="6" column="72" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1497492071911">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1497492824522">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="30" column="76" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="31" column="0" />
+        <mark key="[" line="22" column="6" />
+        <mark key="]" line="22" column="8" />
+        <mark key="." line="22" column="8" />
+        <mark key="^" line="22" column="8" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" timestamp="1495062888709">
         <mark key="'" line="266" column="84" />
@@ -2074,14 +2074,14 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2hvd24gcm9vdDpnbHV1IC9vcHQvZ2x1dS1zZXJ2ZXItMy4wLjEvZXRjL2NlcnRzL2h0dHBkLmtleQo=</text>
+      <register name="&quot;" type="4">
+        <text>60</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>/opt/gluu-server-3.0.1/etc/certs/httpd.key</text>
+        <text>60</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHTFVVX0hPU1ROQU1FXD4=</text>
