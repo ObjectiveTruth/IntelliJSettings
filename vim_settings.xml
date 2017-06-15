@@ -158,12 +158,12 @@
         <mark key="^" line="6" column="72" />
         <mark key="." line="6" column="72" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1497494786685">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1497496296660">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="42" column="23" />
-        <mark key="]" line="42" column="24" />
-        <mark key="." line="42" column="24" />
-        <mark key="^" line="42" column="24" />
+        <mark key="[" line="37" column="60" />
+        <mark key="]" line="38" column="3" />
+        <mark key="." line="38" column="3" />
+        <mark key="^" line="38" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" timestamp="1495062888709">
         <mark key="'" line="266" column="84" />
@@ -2074,20 +2074,20 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U2xlZXAgMTAK</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>chown root:gluu /etc/certs/httpd.crt</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHTFVVX0hPU1ROQU1FXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">L3Vzci9zYmluL2Nocm9vdCAvb3B0L2dsdXUtc2VydmVyLSR7R0xVVV9WRVJTSU9OfS8gc3UgLSAtYyAic2VydmljZSBpZGVudGl0eSBzdG9wIgo=</text>
+        <text encoding="base64">ICAgIC1zdG9yZXBhc3MgY2hhbmdlaXQgXAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">U2xlZXAgMTAK</text>
