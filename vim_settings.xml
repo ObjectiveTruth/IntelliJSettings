@@ -496,12 +496,12 @@
         <mark key="^" line="52" column="91" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" timestamp="1497645867735">
-        <mark key="'" line="12" column="38" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="7" column="66" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" timestamp="1497650277318">
+        <mark key="'" line="22" column="31" />
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="49" />
+        <mark key="^" line="22" column="49" />
+        <mark key="." line="22" column="49" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/DBassignment2/build.sbt" timestamp="1491534792872">
         <mark key="[" line="7" column="28" />
@@ -1034,8 +1034,8 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1497646696522">
-        <mark key="'" line="172" column="23" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1497647776453">
+        <mark key="'" line="129" column="2" />
         <mark key="[" line="172" column="23" />
         <mark key="]" line="172" column="23" />
         <mark key="^" line="56" column="29" />
@@ -1299,12 +1299,12 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" timestamp="1497645920316">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="46" column="27" />
-        <mark key="]" line="46" column="28" />
-        <mark key="." line="46" column="28" />
-        <mark key="^" line="46" column="28" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" timestamp="1497650553686">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="21" column="15" />
+        <mark key="." line="21" column="15" />
+        <mark key="^" line="21" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/layout/calendar_dialog_help.xml" timestamp="1471921852368">
         <mark key="'" line="7" column="4" />
@@ -2002,13 +2002,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="95" column="49" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="2" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/circle.yml" />
-      <jump line="13" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
-      <jump line="28" column="16" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
-      <jump line="34" column="31" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
-      <jump line="58" column="16" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
       <jump line="60" column="17" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
       <jump line="94" column="26" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
       <jump line="101" column="21" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
@@ -2090,7 +2083,6 @@
       <jump line="128" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="54" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="125" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="48" column="25" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="40" column="58" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
       <jump line="71" column="24" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="10" column="38" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" />
@@ -2102,25 +2094,33 @@
       <jump line="139" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="142" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="172" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="48" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="58" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="129" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="53" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
+      <jump line="7" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
+      <jump line="24" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" />
+      <jump line="21" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" />
+      <jump line="22" column="31" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>wordpress_</text>
+        <text>MYSQL_PORT</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>wordpress_</text>
+        <text>MYSQL_PORT</text>
       </register>
       <register name="/" type="4">
-        <text>wordpress_cms</text>
+        <text encoding="base64">XDxNWVNRTF9QT1JUXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgV1BfQURNSU5fRU1BSUw6IGFkbWluQHN1cHBvcnQuY29tCiAgICAgIFdQX0FETUlOX1VTRVJOQU1FOiBhZG1pbgogICAgICBXUF9BRE1JTl9QQVNTV09SRDogcGFzc3dvcmQKICAgICAgV1BfU0lURV9USVRMRTogRWNvbW1lcmNlCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">Y2hvd24gLVIgd3d3LWRhdGE6d3d3LWRhdGEgL3Zhci93d3cvaHRtbCAmJiBc</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2150,22 +2150,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2V0IC1lCg==</text>
+        <text encoding="base64">IyBEaXNhYmxpbmcgbmdpbnggZGFlbW9uIG1vZGUKZXhwb3J0IEtPTkdfTkdJTlhfREFFTU9OPSJvZmYiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0IC1lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2V0IC1lCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">c2V0IC1lCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">c2V0IC14Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y2hvd24gLVIgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2QgL3Zhci93d3cvaHRtbAo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2416,19 +2416,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fCBgVEFCTEVfUFJFRklYYCB8IHRhYmxlIHByZWZpeCBmb3IgbXlzcWwgdGFibGVzIGluIHRoaXMgcHJvamVjdCB8IHdwXyB8Cgo=</text>
+        <text encoding="base64">c3UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC0tYWxsb3ctcm9vdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>wordpress_cms</last-search>
+      <last-search encoding="base64">XDxNWVNRTF9QT1JUXD4=</last-search>
       <last-offset />
-      <last-pattern>wordpress_cms</last-pattern>
+      <last-pattern encoding="base64">XDxNWVNRTF9QT1JUXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2436,8 +2436,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mail</entry>
-        <entry>smtp</entry>
         <entry encoding="base64">XDxHTFVVX0hPU1ROQU1FXD4=</entry>
         <entry>\cadmin</entry>
         <entry>admin</entry>
@@ -2453,9 +2451,11 @@
         <entry>json</entry>
         <entry>install</entry>
         <entry>wordpress_ecomm</entry>
-        <entry encoding="base64">XDxlY29tbWVyY2VfZGJcPg==</entry>
         <entry>ecommerce</entry>
         <entry>wordpress_cms</entry>
+        <entry encoding="base64">XDxlY29tbWVyY2VfZGJcPg==</entry>
+        <entry>\cport</entry>
+        <entry encoding="base64">XDxNWVNRTF9QT1JUXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1NFXy8vZw==</entry>
@@ -2474,9 +2474,9 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>q!</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry encoding="base64">L3N0YXQg</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
