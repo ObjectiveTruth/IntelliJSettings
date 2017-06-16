@@ -518,6 +518,9 @@
         <mark key="." line="65" column="23" />
         <mark key="^" line="65" column="23" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" timestamp="1497625073153">
+        <mark key="'" line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/package.json" timestamp="1481506568224">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="13" column="98" />
@@ -1020,7 +1023,8 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1497547783631">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1497625090643">
+        <mark key="'" line="181" column="0" />
         <mark key="]" line="7" column="14" />
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
@@ -1968,9 +1972,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
-      <jump line="39" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
-      <jump line="51" column="16" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" />
       <jump line="88" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="4" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="92" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
@@ -2068,6 +2069,9 @@
       <jump line="63" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="50" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="34" column="36" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="49" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="181" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
