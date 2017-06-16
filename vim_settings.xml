@@ -1033,12 +1033,12 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1497654749601">
-        <mark key="'" line="70" column="15" />
-        <mark key="[" line="62" column="76" />
-        <mark key="]" line="62" column="78" />
-        <mark key="." line="62" column="78" />
-        <mark key="^" line="62" column="78" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1497655402500">
+        <mark key="'" line="37" column="8" />
+        <mark key="[" line="124" column="10" />
+        <mark key="]" line="124" column="10" />
+        <mark key="." line="124" column="10" />
+        <mark key="^" line="124" column="10" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/circle.yml" timestamp="1496467319791">
         <mark key="[" line="12" column="6" />
@@ -1995,15 +1995,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
-      <jump line="181" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="204" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
-      <jump line="5" column="21" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
-      <jump line="11" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
-      <jump line="17" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
-      <jump line="23" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
-      <jump line="53" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
-      <jump line="60" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="67" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
       <jump line="205" column="14" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
@@ -2058,7 +2049,6 @@
       <jump line="139" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="142" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="172" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="48" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="58" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="129" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="53" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
@@ -2089,31 +2079,41 @@
       <jump line="69" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="80" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="145" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="61" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="62" column="72" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="71" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
       <jump line="55" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
       <jump line="86" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
+      <jump line="144" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="68" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="79" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="61" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="62" column="72" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="70" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="134" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="48" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="59" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="122" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="22" column="22" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="37" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>experimental</text>
+        <text>1</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>experimental</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbXNcPg==</text>
+        <text encoding="base64">XDxtb29kbGVfZGJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgTVlTUUxfREFUQUJBU0U6IHdvcmRwcmVzcwogICAgICBNWVNRTF9ST09UX1BBU1NXT1JEOiBwYXNzd29yZAogICAgICBNWVNRTF9VU0VSOiBlY29tbWVyY2UKICAgICAgTVlTUUxfUEFTU1dPUkQ6IHBhc3N3b3JkCg==</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDQzMTY6MzMwNgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgV1BfVVJMX1BBVEg6ICIvZWNvbW1lcmNlIgo=</text>
@@ -2419,9 +2419,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbXNcPg==</last-search>
+      <last-search encoding="base64">XDxtb29kbGVfZGJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtb29kbGVfZGJcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2429,7 +2429,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Sumeen</entry>
         <entry>kong</entry>
         <entry>role</entry>
         <entry>profile</entry>
@@ -2443,12 +2442,13 @@
         <entry>wordpress_ecomm</entry>
         <entry>ecommerce</entry>
         <entry>wordpress_cms</entry>
-        <entry encoding="base64">XDxlY29tbWVyY2VfZGJcPg==</entry>
         <entry>\cport</entry>
         <entry encoding="base64">XDxNWVNRTF9QT1JUXD4=</entry>
         <entry>DEBUG</entry>
         <entry encoding="base64">XDxjbXNfZGJcPg==</entry>
         <entry encoding="base64">XDxjbXNcPg==</entry>
+        <entry encoding="base64">XDxlY29tbWVyY2VfZGJcPg==</entry>
+        <entry encoding="base64">XDxtb29kbGVfZGJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1NFXy8vZw==</entry>
