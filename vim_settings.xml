@@ -99,11 +99,12 @@
         <mark key="^" line="21" column="72" />
         <mark key="." line="21" column="72" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1498064452958">
-        <mark key="'" line="79" column="24" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1498068694142">
+        <mark key="'" line="109" column="0" />
+        <mark key="[" line="36" column="59" />
+        <mark key="]" line="36" column="63" />
+        <mark key="." line="36" column="63" />
+        <mark key="^" line="36" column="63" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-authentication/.gitignore" timestamp="1494602694208">
         <mark key="'" line="98" column="0" />
@@ -1986,8 +1987,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="20" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
-      <jump line="143" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
       <jump line="148" column="48" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
       <jump line="159" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
       <jump line="168" column="58" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
@@ -2086,25 +2085,27 @@
       <jump line="95" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="25" column="40" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="79" column="24" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
+      <jump line="56" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
+      <jump line="109" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>lms</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>mail</text>
+        <text>wordpress</text>
       </register>
       <register name="0" type="4">
-        <text>accounting_api</text>
+        <text>,api.cps-ecp.dev.innovexa.com'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
@@ -2410,9 +2411,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mail</last-search>
+      <last-search>wordpress</last-search>
       <last-offset />
-      <last-pattern>mail</last-pattern>
+      <last-pattern>wordpress</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2420,7 +2421,6 @@
     </search>
     <history>
       <history-search>
-        <entry>role</entry>
         <entry>profile</entry>
         <entry>stat</entry>
         <entry encoding="base64">c3RhdCA=</entry>
@@ -2440,6 +2440,7 @@
         <entry encoding="base64">XDxlY29tbWVyY2VfZGJcPg==</entry>
         <entry encoding="base64">XDxtb29kbGVfZGJcPg==</entry>
         <entry>mail</entry>
+        <entry>wordpress</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1NFXy8vZw==</entry>
