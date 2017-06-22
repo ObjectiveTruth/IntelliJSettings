@@ -1115,6 +1115,9 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
       </file>
+      <file name="$USER_HOME$/foo/foo.txt" timestamp="1498160100136">
+        <mark key="'" line="6" column="82" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/AsyncController.scala" timestamp="1494387339747">
         <mark key="'" line="20" column="58" />
         <mark key="[" line="5" column="0" />
@@ -1982,7 +1985,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" />
       <jump line="3" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" />
       <jump line="39" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-config.php" />
       <jump line="62" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-config.php" />
@@ -2082,6 +2084,7 @@
       <jump line="203" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="217" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="6" column="82" filename="$USER_HOME$/foo/foo.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2097,7 +2100,7 @@
         <text>started</text>
       </register>
       <register name="/" type="4">
-        <text>kong</text>
+        <text>https:</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICBXQVRDSFRPV0VSX0NMRUFOVVA6ICJ0cnVlIgogICAgICBXQVRDSFRPV0VSX09QVFM6IGNtcwo=</text>
@@ -2406,9 +2409,9 @@
       </register>
     </registers>
     <search>
-      <last-search>kong</last-search>
+      <last-search>https:</last-search>
       <last-offset />
-      <last-pattern>kong</last-pattern>
+      <last-pattern>https:</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2416,7 +2419,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stat</entry>
         <entry encoding="base64">c3RhdCA=</entry>
         <entry encoding="base64">XDxhd3Nsb2dzX3NlcnZpY2NlX3N0YXR1c1w+</entry>
         <entry encoding="base64">XDxhd3Nsb2dzX3NlcnZpY2Vfc3RhdHVzXD4=</entry>
@@ -2436,6 +2438,7 @@
         <entry>mail</entry>
         <entry>wordpress</entry>
         <entry>kong</entry>
+        <entry>https:</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1NFXy8vZw==</entry>
