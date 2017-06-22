@@ -1026,7 +1026,7 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1498155646651">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1498164140628">
         <mark key="'" line="217" column="0" />
         <mark key="[" line="193" column="0" />
         <mark key="]" line="195" column="25" />
@@ -2082,9 +2082,9 @@
       <jump line="89" column="61" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="107" column="14" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="203" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="6" column="82" filename="$USER_HOME$/foo/foo.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="217" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="6" column="82" filename="$USER_HOME$/foo/foo.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
