@@ -1026,10 +1026,10 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1498078624998">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1498140657230">
         <mark key="'" line="117" column="66" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="195" column="25" />
         <mark key="^" line="117" column="66" />
         <mark key="." line="118" column="0" />
       </file>
@@ -2087,8 +2087,8 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>started</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICBXQVRDSFRPV0VSX0NMRUFOVVA6ICJ0cnVlIgogICAgICBXQVRDSFRPV0VSX09QVFM6IGNtcwo=</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
@@ -2100,7 +2100,7 @@
         <text>kong</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YC9rb25nLWNlcnRzL21haW4tcHJpdmF0ZS5wZW1gCg==</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICBXQVRDSFRPV0VSX0NMRUFOVVA6ICJ0cnVlIgogICAgICBXQVRDSFRPV0VSX09QVFM6IGNtcwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLSAnL2hvbWUvZWMyLXVzZXIvdm9sdW1lcy9rb25nLWNlcnRzL3B1YmxpYy5wZW06L2tvbmctY2VydHMvcHVibGljLnBlbScK</text>
