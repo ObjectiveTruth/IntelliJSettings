@@ -1026,8 +1026,8 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1498146819736">
-        <mark key="'" line="203" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1498155646651">
+        <mark key="'" line="217" column="0" />
         <mark key="[" line="193" column="0" />
         <mark key="]" line="195" column="25" />
         <mark key="^" line="117" column="66" />
@@ -1982,7 +1982,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-config.php" />
       <jump line="130" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" />
       <jump line="3" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" />
       <jump line="39" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-config.php" />
@@ -1996,7 +1995,6 @@
       <jump line="21" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-config.php" />
       <jump line="9" column="21" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
       <jump line="46" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="66" column="38" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="128" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="54" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
@@ -2082,6 +2080,8 @@
       <jump line="89" column="61" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="107" column="14" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="203" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="217" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
