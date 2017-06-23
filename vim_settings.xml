@@ -153,12 +153,12 @@
         <mark key="^" line="6" column="72" />
         <mark key="." line="6" column="72" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1498236307419">
-        <mark key="'" line="46" column="45" />
-        <mark key="[" line="46" column="31" />
-        <mark key="]" line="46" column="31" />
-        <mark key="^" line="29" column="65" />
-        <mark key="." line="46" column="45" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1498239914213">
+        <mark key="'" line="16" column="22" />
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="34" />
+        <mark key="^" line="16" column="34" />
+        <mark key="." line="16" column="34" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" timestamp="1495062888709">
         <mark key="'" line="266" column="84" />
@@ -452,12 +452,6 @@
         <mark key="." line="24" column="22" />
         <mark key="^" line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" timestamp="1497652597527">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="47" column="9" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/README.MD" timestamp="1490895581317">
         <mark key="'" line="51" column="19" />
         <mark key="[" line="47" column="86" />
@@ -517,6 +511,9 @@
         <mark key="]" line="65" column="23" />
         <mark key="." line="65" column="23" />
         <mark key="^" line="65" column="23" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" timestamp="1498239289703">
+        <mark key="'" line="137" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/package.json" timestamp="1481506568224">
         <mark key="'" line="48" column="0" />
@@ -686,8 +683,8 @@
         <mark key="." line="62" column="7" />
         <mark key="^" line="62" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" timestamp="1498236370023">
-        <mark key="'" line="212" column="78" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" timestamp="1498239323233">
+        <mark key="'" line="66" column="0" />
         <mark key="[" line="212" column="78" />
         <mark key="]" line="212" column="78" />
         <mark key="." line="212" column="78" />
@@ -814,6 +811,9 @@
         <mark key="]" line="12" column="43" />
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="43" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1498239888890">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/common/Utils.java" timestamp="1471757403144">
         <mark key="'" line="38" column="23" />
@@ -1186,12 +1186,6 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" timestamp="1497652944550">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/aws_deploy/task-def.json" timestamp="1471097115945">
         <mark key="'" line="13" column="9" />
         <mark key="[" line="22" column="20" />
@@ -1364,8 +1358,8 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" timestamp="1498091100219">
-        <mark key="'" line="89" column="61" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" timestamp="1498239300114">
+        <mark key="'" line="240" column="0" />
         <mark key="[" line="234" column="17" />
         <mark key="]" line="234" column="22" />
         <mark key="." line="234" column="22" />
@@ -1985,16 +1979,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="40" column="58" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
-      <jump line="71" column="24" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
-      <jump line="10" column="38" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" />
-      <jump line="24" column="44" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
-      <jump line="8" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
-      <jump line="60" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="65" column="25" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="74" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="139" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="142" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="172" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="58" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
@@ -2085,6 +2069,16 @@
       <jump line="210" column="49" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
       <jump line="211" column="60" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
       <jump line="212" column="78" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="229" column="3" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="137" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="234" column="22" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="240" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="238" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="66" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
+      <jump line="16" column="22" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2100,7 +2094,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>3</text>
+        <text encoding="base64">XDxHTFVVX1ZFUlNJT05cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICBXQVRDSFRPV0VSX0NMRUFOVVA6ICJ0cnVlIgogICAgICBXQVRDSFRPV0VSX09QVFM6IGNtcwo=</text>
@@ -2409,18 +2403,16 @@
       </register>
     </registers>
     <search>
-      <last-search>3</last-search>
+      <last-search encoding="base64">XDxHTFVVX1ZFUlNJT05cPg==</last-search>
       <last-offset />
-      <last-pattern>3</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern encoding="base64">XDxHTFVVX1ZFUlNJT05cPg==</last-pattern>
+      <last-replace>3.0.2</last-replace>
+      <last-substitute>3.0.1</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
-        <entry>install</entry>
         <entry>wordpress_ecomm</entry>
         <entry>ecommerce</entry>
         <entry>wordpress_cms</entry>
@@ -2437,11 +2429,12 @@
         <entry>https:</entry>
         <entry>3316</entry>
         <entry>3306</entry>
-        <entry encoding="base64">XDxHTFVVX1ZFUlNJT05cPg==</entry>
         <entry>3</entry>
+        <entry>3.</entry>
+        <entry>3.0.1</entry>
+        <entry encoding="base64">XDxHTFVVX1ZFUlNJT05cPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1NFXy8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL19TRV8vXy9n</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz5zIi8nL2c=</entry>
@@ -2458,8 +2451,9 @@
         <entry>q!</entry>
         <entry>W</entry>
         <entry encoding="base64">L3N0YXQg</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zLzMuMC4xLzMuMC4yL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
