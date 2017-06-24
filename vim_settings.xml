@@ -153,12 +153,12 @@
         <mark key="^" line="6" column="72" />
         <mark key="." line="6" column="72" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1498242810930">
-        <mark key="'" line="11" column="34" />
-        <mark key="[" line="11" column="34" />
-        <mark key="]" line="11" column="34" />
-        <mark key="." line="11" column="34" />
-        <mark key="^" line="11" column="34" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1498277941535">
+        <mark key="'" line="62" column="24" />
+        <mark key="[" line="63" column="24" />
+        <mark key="]" line="63" column="24" />
+        <mark key="." line="63" column="24" />
+        <mark key="^" line="63" column="24" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" timestamp="1495062888709">
         <mark key="'" line="266" column="84" />
@@ -396,6 +396,13 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="8" column="14" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/roles/authentication/tasks/main.yml" timestamp="1498277864524">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="31" column="78" />
+        <mark key="]" line="31" column="92" />
+        <mark key="^" line="31" column="92" />
+        <mark key="." line="31" column="92" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" timestamp="1495499034361">
         <mark key="'" line="121" column="16" />
         <mark key="[" line="125" column="26" />
@@ -512,8 +519,12 @@
         <mark key="." line="65" column="23" />
         <mark key="^" line="65" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" timestamp="1498239289703">
-        <mark key="'" line="137" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" timestamp="1498275008053">
+        <mark key="'" line="131" column="33" />
+        <mark key="[" line="134" column="24" />
+        <mark key="]" line="134" column="24" />
+        <mark key="." line="134" column="39" />
+        <mark key="^" line="3" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/package.json" timestamp="1481506568224">
         <mark key="'" line="48" column="0" />
@@ -601,6 +612,13 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" timestamp="1498275522314">
+        <mark key="'" line="21" column="41" />
+        <mark key="[" line="229" column="123" />
+        <mark key="]" line="229" column="123" />
+        <mark key="." line="229" column="138" />
+        <mark key="^" line="13" column="82" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/konggluu/data/docker-compose.yml" timestamp="1495557867198">
         <mark key="'" line="1" column="0" />
@@ -1214,6 +1232,13 @@
         <mark key="." line="23" column="47" />
         <mark key="^" line="23" column="47" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.j2.sh" timestamp="1498277048445">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="14" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/webapps_labs/exam/final_exam_base/views/layout.pug" timestamp="1482004193192">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="17" column="0" />
@@ -1358,12 +1383,12 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" timestamp="1498239300114">
-        <mark key="'" line="240" column="0" />
-        <mark key="[" line="234" column="17" />
-        <mark key="]" line="234" column="22" />
-        <mark key="." line="234" column="22" />
-        <mark key="^" line="234" column="22" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" timestamp="1498277880927">
+        <mark key="'" line="101" column="2" />
+        <mark key="[" line="172" column="93" />
+        <mark key="]" line="172" column="117" />
+        <mark key="." line="172" column="117" />
+        <mark key="^" line="172" column="117" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/CommentDialog.java" timestamp="1471670976133">
         <mark key="'" line="15" column="0" />
@@ -1979,86 +2004,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="58" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="129" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="53" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
-      <jump line="7" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
-      <jump line="24" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" />
-      <jump line="21" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" />
-      <jump line="30" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" />
-      <jump line="54" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
-      <jump line="42" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-config.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-config.php" />
-      <jump line="11" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
-      <jump line="49" column="25" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
-      <jump line="21" column="72" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" />
-      <jump line="2" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" />
-      <jump line="15" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" />
-      <jump line="2" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" />
-      <jump line="23" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
-      <jump line="218" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
-      <jump line="22" column="51" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
-      <jump line="48" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
-      <jump line="86" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/wp-config.php" />
-      <jump line="55" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/wp-config.php" />
-      <jump line="79" column="70" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/wp-config.php" />
-      <jump line="87" column="11" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/wp-config.php" />
-      <jump line="69" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="80" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="145" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="71" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
-      <jump line="55" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
-      <jump line="86" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
-      <jump line="144" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="68" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="79" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="61" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="62" column="72" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="70" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="134" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="48" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="59" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="122" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="22" column="22" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="37" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="15" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/circle_ci_pr_commenter.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/circle_ci_pr_commenter.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/circle_ci_pr_commenter.js" />
-      <jump line="23" column="93" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/circle.yml" />
-      <jump line="9" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/circle_ci_pr_commenter.js" />
-      <jump line="46" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/README.md" />
-      <jump line="6" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/README.md" />
-      <jump line="12" column="10" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="51" column="7" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="218" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="48" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
-      <jump line="94" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="95" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
-      <jump line="25" column="40" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
-      <jump line="79" column="24" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
-      <jump line="56" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
-      <jump line="109" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
-      <jump line="28" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/circle.yml" />
-      <jump line="93" column="43" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
-      <jump line="104" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
-      <jump line="117" column="66" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="89" column="61" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
-      <jump line="107" column="14" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="203" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="6" column="82" filename="$USER_HOME$/foo/foo.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="217" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="102" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="14" column="30" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
-      <jump line="30" column="65" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
-      <jump line="37" column="31" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
-      <jump line="40" column="45" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
-      <jump line="42" column="111" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
       <jump line="46" column="45" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
       <jump line="183" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
       <jump line="196" column="35" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
@@ -2072,35 +2017,115 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
       <jump line="137" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
       <jump line="234" column="22" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="240" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
       <jump line="238" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
       <jump line="66" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" />
       <jump line="16" column="22" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
       <jump line="11" column="34" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
+      <jump line="114" column="7" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="2" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/roles/authentication/tasks/main.yml" />
+      <jump line="112" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="130" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/roles/authentication/tasks/main.yml" />
+      <jump line="60" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/roles/authentication/tasks/main.yml" />
+      <jump line="175" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="110" column="5" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="9" column="45" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/roles/authentication/tasks/main.yml" />
+      <jump line="130" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="3" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="6" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="11" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="14" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="19" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="22" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="27" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="30" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="35" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="38" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="43" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="46" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="51" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="54" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="59" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="62" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="67" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="70" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="75" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="78" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="83" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="86" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="91" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="94" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="99" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="102" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="107" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="110" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="115" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="118" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="123" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="126" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="131" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
+      <jump line="12" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
+      <jump line="13" column="118" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
+      <jump line="75" column="106" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
+      <jump line="87" column="103" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
+      <jump line="99" column="101" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
+      <jump line="100" column="40" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
+      <jump line="104" column="107" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
+      <jump line="129" column="25" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
+      <jump line="161" column="109" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
+      <jump line="205" column="116" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
+      <jump line="212" column="100" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
+      <jump line="229" column="96" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
+      <jump line="238" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
+      <jump line="26" column="9" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
+      <jump line="18" column="43" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
+      <jump line="21" column="41" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
+      <jump line="55" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
+      <jump line="16" column="35" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/roles/authentication/tasks/main.yml" />
+      <jump line="7" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.j2.sh" />
+      <jump line="18" column="30" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.j2.sh" />
+      <jump line="20" column="22" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.j2.sh" />
+      <jump line="38" column="41" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/roles/authentication/tasks/main.yml" />
+      <jump line="71" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/roles/authentication/tasks/main.yml" />
+      <jump line="1" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/roles/authentication/tasks/main.yml" />
+      <jump line="47" column="16" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.j2.sh" />
+      <jump line="29" column="37" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.j2.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.j2.sh" />
+      <jump line="56" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.j2.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/roles/authentication/tasks/main.yml" />
+      <jump line="64" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/roles/authentication/tasks/main.yml" />
+      <jump line="101" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="1" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
+      <jump line="59" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
+      <jump line="58" column="3" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
+      <jump line="7" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
+      <jump line="62" column="24" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text># Insta</text>
+        <text>'</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text># Insta</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHTFVVX1ZFUlNJT05cPg==</text>
+        <text encoding="base64">XDxMREFQX1BBU1NXT1JEXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICBXQVRDSFRPV0VSX0NMRUFOVVA6ICJ0cnVlIgogICAgICBXQVRDSFRPV0VSX09QVFM6IGNtcwo=</text>
+      <register name="0" type="4">
+        <text>gluu_version</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXB0LWdldCAK</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2127,22 +2152,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAiVXBncmFkaW5nIAo=</text>
+        <text encoding="base64">c2V0IC1lCnNldCAtdQpzZXQgLXgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXB0LWdldCBpbnN0YWxsIGdsdXUtc2VydmVyLTMuMC4xCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSAnL2hvbWUvZWMyLXVzZXIvdm9sdW1lcy9rb25nLWNlcnRzL3B1YmxpYy5wZW06L2tvbmctY2VydHMvcHVibGljLnBlbScK</text>
+        <text encoding="base64">LSBuYW1lOiBVcGRhdGUgaG9zdHMgZmlsZSB3aXRoIGRldiBpbnN0YW5jZSByZWZlcmVuY2UKICBiZWNvbWU6IHRydWUKICBsaW5laW5maWxlOgogICAgZGVzdDogL2V0Yy9ob3N0cwogICAgc3RhdGU6IHByZXNlbnQKICAgIGxpbmU6ICcxMC4wLjEuMTUwIGNwcy1lY3AuZGV2Lmlubm92ZXhhLmNvbScKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">L2NlcnRpZmljYXRlcy9kZXZfYXV0aF9wcml2a2V5LnBlbQovY2VydGlmaWNhdGVzL2Rldl9tYWluX2Z1bGxjaGFpbi5wZW0KL2NlcnRpZmljYXRlcy9kZXZfbWFpbl9wcml2a2V5LnBlbQo=</text>
+        <text encoding="base64">R0xVVV9WRVJTSU9OPXt7Z2x1dV92ZXJzaW9ufX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtRiAnc25pcz1jcHMtZWNwLmRldi5pbm5vdmV4YS5jb20sYXBpLmNwcy1lY3AuZGV2Lmlubm92ZXhhLmNvbScgXAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtRiAnc25pcz1hcGkuY3BzLWVjcC5kZXYuaW5ub3ZleGEuY29tJwo=</text>
+        <text encoding="base64">LSBuYW1lOiBDcmVhdGUgd2hlZWwgZ3JvdXAKICBiZWNvbWU6IHllcwogIGdyb3VwOgogICAgbmFtZTogd2hlZWwKICAgIHN0YXRlOiBwcmVzZW50CgotIG5hbWU6IEFkZCBNaWd1ZWwKICBiZWNvbWU6IHRydWUKICB1c2VyOgogICAgbmFtZTogb2JqZWN0aXZldHJ1dGgKICAgIGdyb3Vwczogd2hlZWwKICAgIGFwcGVuZDogeWVzCiAgICBzaGVsbDogL2Jpbi9iYXNoCgotIG5hbWU6IEFkZCBMdWtlCiAgYmVjb21lOiB0cnVlCiAgdXNlcjoKICAgIG5hbWU6IGx1a2UKICAgIGdyb3Vwczogd2hlZWwKICAgIGFwcGVuZDogeWVzCiAgICBzaGVsbDogL2Jpbi9iYXNoCgotIG5hbWU6IEFkZCBTdW1lZW4KICBiZWNvbWU6IHRydWUKICB1c2VyOgogICAgbmFtZTogc3VtZWVuCiAgICBncm91cHM6IHdoZWVsCiAgICBhcHBlbmQ6IHllcwogICAgc2hlbGw6IC9iaW4vYmFzaAoKLSBuYW1lOiBBbGxvdyB3aGVlbCBncm91cCB0byBoYXZlIHBhc3N3b3JkbGVzcyBzdWRvCiAgYmVjb21lOiB5ZXMKICBsaW5laW5maWxlOgogICAgZGVzdDogL2V0Yy9zdWRvZXJzCiAgICBzdGF0ZTogcHJlc2VudAogICAgcmVnZXhwOiAnXiV3aGVlbCcKICAgIGxpbmU6ICcld2hlZWwgQUxMPShBTEwpIE5PUEFTU1dEOiBBTEwnCiAgICB2YWxpZGF0ZTogJ3Zpc3VkbyAtY2YgJXMnCgotIG5hbWU6IEdpdmUgU1NIIEFjY2VzcyBUbyBNaWd1ZWwKICBiZWNvbWU6IHRydWUKICBhdXRob3JpemVkX2tleToKICAgIHVzZXI6IG9iamVjdGl2ZXRydXRoCiAgICBzdGF0ZTogcHJlc2VudAogICAga2V5OiAic3NoLXJzYSBBQUFBQjNOemFDMXljMkVBQUFBREFRQUJBQUFCQVFDSEpHckZmMXY1ZGNTTmp1MmlGMU9oNFdYMk5kbnFqK2ZZczhtWldlUWU2bWkweUFjR1JuNURpRjVFS2FXZ3RockdxSUJvWXJQeHBRcDdacU04ZFdrS3hRYm43TFNFT3pqME5TYm84MnU3Qmp2TCtCYVQ3VHpDa1pkdU5CVXJqZm9EN3crVTNjWEkyK1h4dlNRM1VRYXZPQ1NuOXFkeGx2MlNWa2tOUWNuQlA0NjBBUUFBb2JPU2hjdXE1OGEyaWsvYzdxNVppd1RpaHZOM2U1elFPNmdEQks0RkJMTFhOVjhBVTIwMmlvMlJuWjZWSmpUT1c4N0l3SVJXY0Z5d0JuNTE5T2taQ0kxNG9TcHdOOWJNSDR4OE93YTl1VXhvOWhjc3krTGZqckhVbUVBNVJkdWt4RmlQRSt2VEZibCtHSER0R0o5bmp2QmZ1ZFJ3Y3hWRDZrMU4iCgotIG5hbWU6IEdpdmUgU1NIIEFjY2VzcyBUbyBMdWtlCiAgYmVjb21lOiB0cnVlCiAgYXV0aG9yaXplZF9rZXk6CiAgICB1c2VyOiBsdWtlCiAgICBzdGF0ZTogcHJlc2VudAogICAga2V5OiAic3NoLXJzYSBBQUFBQjNOemFDMXljMkVBQUFBREFRQUJBQUFDQVFETHpPS24rcDFOd1VsaTAzb09qNXJrTHQ2QmxxT2h3TkhiS2ZpUEFZR2tEQkl2TFI3d2JyMkYyWmZNOXdIdmZQQ1I0d1VoNkxEQmtrVjFKSXBScno5MlBjWUUweUpxQk12ZVFNYVdTRFBaakZFVnVsUHlOcEpQdWIrOXg4TjRxVnpqay8xOWEwdWE3c1dYTHZTK25LdnpsN25pN0svUlFmc0NCRzVXTE5McVREaVpwU1pDQ3dpZ2M0aFgyMGJWTkk0TGZZN3U4VVR4dE1oZHhiYXRtTDJhS3B0SmhTUDYyMy9UVElld28ybDNydERTOHo2VXpYUjdjUXpFclduZE9wcWJpQUJ6OExTMEMwR2NBMnpwM3BMMTB3TCtFaU00WVRHSVAvQnpFTnR5OWMweTRsem1rUnRqamhjWk9ueFVhL0UxQVlXdUdLMC9VR1AwTTJhWjRZOENMR280OS9DZXpQSVBwOXVNQUNsUDBldzBFZGNrUlp4K3djN3l3VGFQV0FKb1UrV2trdm9QeHdETlFIK2hBTlJKUFc4Ny9QSk53dTlvUXBVb1YrSUVSdVRMZmg2VGE0cDNHNWFKYUpTdXRteTZlZFlkV0c1Rk95VzE3N3dibDJsclpCSm8za2p4cWs5ZGhVU21oOFhXdkFpQUhsdEthdlViWDJUYlJFNVcyWmR3Q2t1SU55cWZsVWVWUSs0YWRaUFFSODUyYTRzRGFyeFBJQzZ5V0hPb3VKaDB6MUYrRCtqNFM3eEsxYzdrdWxKUmhRL1dEeHMxQ3kxc0l3dWE3c1IxRXdnZnhjQlhGV012Ni9oQUswWVQxNkxTZmJUM3RxN3MyYUd2YitlMDUzKzJRRkJJY1Q0QmxkSk1yVys3LzY5YmNKZnJDSUx4aTc5M2VoUmc2ajFCMXc9PSBsdWtlQGlubm92ZXhhLmNvbSIKCi0gbmFtZTogR2l2ZSBTU0ggQWNjZXNzIFRvIFN1bWVlbgogIGJlY29tZTogdHJ1ZQogIGF1dGhvcml6ZWRfa2V5OgogICAgdXNlcjogc3VtZWVuCiAgICBzdGF0ZTogcHJlc2VudAogICAga2V5OiAic3NoLXJzYSBBQUFBQjNOemFDMXljMkVBQUFBREFRQUJBQUFCQVFEWUlyejFDOUF1dDMyajNsQjl3TW42WEpOZjcrUFFad0FzVkczelh0R0FjZnMxdlk3OEZnM0dWM2JvalZscWIvUmRYOStFbDMrY1pRRm5lWGlKbVppY21ISFh5MUJiMnBnMzF0VXdQeDVYeGJqOEgrWXdOakVMcGRxS3liM3E3VE5iSmJLU2ZFLzJ5OFZPL3lBZUhPK3pydkN1RnppeEV5YnMxdTd4OWpyTS9qaTlDTWs3K2pEeEo4TWw4YnE0KzdvZFNUKyttd0c3SFlneFlHKyswcFJoT1dQV1lyWktCMjZrU0JzSmc0a3VkWmJoalhkY0l5QnNJUHc2YmFCUjJGeDdYM2JjQUVIcERXS2NKWHhxWG5INnkzY0N6b1gyN29OOS9rUEFDL3RHWmdheDlFYVc3NC9ObzZYU2VqU3BWL1BBVjZIMllkZzZ5YTl0REJtYTA5dVIgc3VtZWVuQGlubm92ZXhhLmNvbSIKCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2393,19 +2418,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">LSBuYW1lOiBDcmVhdGUgd2hlZWwgZ3JvdXAKICBiZWNvbWU6IHllcwogIGdyb3VwOgogICAgbmFtZTogd2hlZWwKICAgIHN0YXRlOiBwcmVzZW50CgotIG5hbWU6IEFkZCBNaWd1ZWwKICBiZWNvbWU6IHRydWUKICB1c2VyOgogICAgbmFtZTogb2JqZWN0aXZldHJ1dGgKICAgIGdyb3Vwczogd2hlZWwKICAgIGFwcGVuZDogeWVzCiAgICBzaGVsbDogL2Jpbi9iYXNoCgotIG5hbWU6IEFkZCBMdWtlCiAgYmVjb21lOiB0cnVlCiAgdXNlcjoKICAgIG5hbWU6IGx1a2UKICAgIGdyb3Vwczogd2hlZWwKICAgIGFwcGVuZDogeWVzCiAgICBzaGVsbDogL2Jpbi9iYXNoCgotIG5hbWU6IEFkZCBTdW1lZW4KICBiZWNvbWU6IHRydWUKICB1c2VyOgogICAgbmFtZTogc3VtZWVuCiAgICBncm91cHM6IHdoZWVsCiAgICBhcHBlbmQ6IHllcwogICAgc2hlbGw6IC9iaW4vYmFzaAoKLSBuYW1lOiBBbGxvdyB3aGVlbCBncm91cCB0byBoYXZlIHBhc3N3b3JkbGVzcyBzdWRvCiAgYmVjb21lOiB5ZXMKICBsaW5laW5maWxlOgogICAgZGVzdDogL2V0Yy9zdWRvZXJzCiAgICBzdGF0ZTogcHJlc2VudAogICAgcmVnZXhwOiAnXiV3aGVlbCcKICAgIGxpbmU6ICcld2hlZWwgQUxMPShBTEwpIE5PUEFTU1dEOiBBTEwnCiAgICB2YWxpZGF0ZTogJ3Zpc3VkbyAtY2YgJXMnCgotIG5hbWU6IEdpdmUgU1NIIEFjY2VzcyBUbyBNaWd1ZWwKICBiZWNvbWU6IHRydWUKICBhdXRob3JpemVkX2tleToKICAgIHVzZXI6IG9iamVjdGl2ZXRydXRoCiAgICBzdGF0ZTogcHJlc2VudAogICAga2V5OiAic3NoLXJzYSBBQUFBQjNOemFDMXljMkVBQUFBREFRQUJBQUFCQVFDSEpHckZmMXY1ZGNTTmp1MmlGMU9oNFdYMk5kbnFqK2ZZczhtWldlUWU2bWkweUFjR1JuNURpRjVFS2FXZ3RockdxSUJvWXJQeHBRcDdacU04ZFdrS3hRYm43TFNFT3pqME5TYm84MnU3Qmp2TCtCYVQ3VHpDa1pkdU5CVXJqZm9EN3crVTNjWEkyK1h4dlNRM1VRYXZPQ1NuOXFkeGx2MlNWa2tOUWNuQlA0NjBBUUFBb2JPU2hjdXE1OGEyaWsvYzdxNVppd1RpaHZOM2U1elFPNmdEQks0RkJMTFhOVjhBVTIwMmlvMlJuWjZWSmpUT1c4N0l3SVJXY0Z5d0JuNTE5T2taQ0kxNG9TcHdOOWJNSDR4OE93YTl1VXhvOWhjc3krTGZqckhVbUVBNVJkdWt4RmlQRSt2VEZibCtHSER0R0o5bmp2QmZ1ZFJ3Y3hWRDZrMU4iCgotIG5hbWU6IEdpdmUgU1NIIEFjY2VzcyBUbyBMdWtlCiAgYmVjb21lOiB0cnVlCiAgYXV0aG9yaXplZF9rZXk6CiAgICB1c2VyOiBsdWtlCiAgICBzdGF0ZTogcHJlc2VudAogICAga2V5OiAic3NoLXJzYSBBQUFBQjNOemFDMXljMkVBQUFBREFRQUJBQUFDQVFETHpPS24rcDFOd1VsaTAzb09qNXJrTHQ2QmxxT2h3TkhiS2ZpUEFZR2tEQkl2TFI3d2JyMkYyWmZNOXdIdmZQQ1I0d1VoNkxEQmtrVjFKSXBScno5MlBjWUUweUpxQk12ZVFNYVdTRFBaakZFVnVsUHlOcEpQdWIrOXg4TjRxVnpqay8xOWEwdWE3c1dYTHZTK25LdnpsN25pN0svUlFmc0NCRzVXTE5McVREaVpwU1pDQ3dpZ2M0aFgyMGJWTkk0TGZZN3U4VVR4dE1oZHhiYXRtTDJhS3B0SmhTUDYyMy9UVElld28ybDNydERTOHo2VXpYUjdjUXpFclduZE9wcWJpQUJ6OExTMEMwR2NBMnpwM3BMMTB3TCtFaU00WVRHSVAvQnpFTnR5OWMweTRsem1rUnRqamhjWk9ueFVhL0UxQVlXdUdLMC9VR1AwTTJhWjRZOENMR280OS9DZXpQSVBwOXVNQUNsUDBldzBFZGNrUlp4K3djN3l3VGFQV0FKb1UrV2trdm9QeHdETlFIK2hBTlJKUFc4Ny9QSk53dTlvUXBVb1YrSUVSdVRMZmg2VGE0cDNHNWFKYUpTdXRteTZlZFlkV0c1Rk95VzE3N3dibDJsclpCSm8za2p4cWs5ZGhVU21oOFhXdkFpQUhsdEthdlViWDJUYlJFNVcyWmR3Q2t1SU55cWZsVWVWUSs0YWRaUFFSODUyYTRzRGFyeFBJQzZ5V0hPb3VKaDB6MUYrRCtqNFM3eEsxYzdrdWxKUmhRL1dEeHMxQ3kxc0l3dWE3c1IxRXdnZnhjQlhGV012Ni9oQUswWVQxNkxTZmJUM3RxN3MyYUd2YitlMDUzKzJRRkJJY1Q0QmxkSk1yVys3LzY5YmNKZnJDSUx4aTc5M2VoUmc2ajFCMXc9PSBsdWtlQGlubm92ZXhhLmNvbSIKCi0gbmFtZTogR2l2ZSBTU0ggQWNjZXNzIFRvIFN1bWVlbgogIGJlY29tZTogdHJ1ZQogIGF1dGhvcml6ZWRfa2V5OgogICAgdXNlcjogc3VtZWVuCiAgICBzdGF0ZTogcHJlc2VudAogICAga2V5OiAic3NoLXJzYSBBQUFBQjNOemFDMXljMkVBQUFBREFRQUJBQUFCQVFEWUlyejFDOUF1dDMyajNsQjl3TW42WEpOZjcrUFFad0FzVkczelh0R0FjZnMxdlk3OEZnM0dWM2JvalZscWIvUmRYOStFbDMrY1pRRm5lWGlKbVppY21ISFh5MUJiMnBnMzF0VXdQeDVYeGJqOEgrWXdOakVMcGRxS3liM3E3VE5iSmJLU2ZFLzJ5OFZPL3lBZUhPK3pydkN1RnppeEV5YnMxdTd4OWpyTS9qaTlDTWs3K2pEeEo4TWw4YnE0KzdvZFNUKyttd0c3SFlneFlHKyswcFJoT1dQV1lyWktCMjZrU0JzSmc0a3VkWmJoalhkY0l5QnNJUHc2YmFCUjJGeDdYM2JjQUVIcERXS2NKWHhxWG5INnkzY0N6b1gyN29OOS9rUEFDL3RHWmdheDlFYVc3NC9ObzZYU2VqU3BWL1BBVjZIMllkZzZ5YTl0REJtYTA5dVIgc3VtZWVuQGlubm92ZXhhLmNvbSIKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICB0YXNrczoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHTFVVX1ZFUlNJT05cPg==</last-search>
+      <last-search encoding="base64">XDxMREFQX1BBU1NXT1JEXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHTFVVX1ZFUlNJT05cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxMREFQX1BBU1NXT1JEXD4=</last-pattern>
       <last-replace>3.0.2</last-replace>
       <last-substitute>3.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -2413,12 +2438,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wordpress_ecomm</entry>
-        <entry>ecommerce</entry>
-        <entry>wordpress_cms</entry>
-        <entry>\cport</entry>
-        <entry encoding="base64">XDxNWVNRTF9QT1JUXD4=</entry>
-        <entry>DEBUG</entry>
         <entry encoding="base64">XDxjbXNfZGJcPg==</entry>
         <entry encoding="base64">XDxjbXNcPg==</entry>
         <entry encoding="base64">XDxlY29tbWVyY2VfZGJcPg==</entry>
@@ -2432,7 +2451,13 @@
         <entry>3</entry>
         <entry>3.</entry>
         <entry>3.0.1</entry>
+        <entry>3.0</entry>
+        <entry>3.0.2</entry>
+        <entry>password</entry>
+        <entry>setup</entry>
+        <entry>}}</entry>
         <entry encoding="base64">XDxHTFVVX1ZFUlNJT05cPg==</entry>
+        <entry encoding="base64">XDxMREFQX1BBU1NXT1JEXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL19TRV8vXy9n</entry>
@@ -2452,8 +2477,8 @@
         <entry>W</entry>
         <entry encoding="base64">L3N0YXQg</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLzMuMC4xLzMuMC4yL2c=</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
