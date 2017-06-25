@@ -471,7 +471,7 @@
         <mark key="." line="24" column="22" />
         <mark key="^" line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" timestamp="1498352303612">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" timestamp="1498354792303">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -2200,14 +2200,14 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgV1BfSE9NRV9IT1NUOiBodHRwOi8vbG9jYWxob3N0OjgwODEKICAgICAgV1BfU0lURVVSTF9IT1NUOiBodHRwOi8vbG9jYWxob3N0OjgwODEK</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>http://localhost:8081</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>moodle</text>
