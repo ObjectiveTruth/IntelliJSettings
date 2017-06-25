@@ -458,8 +458,8 @@
         <mark key="." line="24" column="22" />
         <mark key="^" line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" timestamp="1498331574695">
-        <mark key="'" line="29" column="1" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" timestamp="1498349840904">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/README.MD" timestamp="1490895581317">
         <mark key="'" line="51" column="19" />
@@ -1219,8 +1219,8 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" timestamp="1498331578484">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" timestamp="1498349847171">
+        <mark key="'" line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/aws_deploy/task-def.json" timestamp="1471097115945">
         <mark key="'" line="13" column="9" />
@@ -1368,7 +1368,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" timestamp="1497461768982">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" timestamp="1498349862451">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="87" column="9" />
         <mark key="]" line="87" column="11" />
@@ -2043,10 +2043,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
-      <jump line="83" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
-      <jump line="86" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
-      <jump line="91" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
       <jump line="94" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
       <jump line="99" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
       <jump line="102" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" />
@@ -2143,6 +2139,10 @@
       <jump line="183" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="96" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="89" column="16" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
+      <jump line="44" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
+      <jump line="105" column="16" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
