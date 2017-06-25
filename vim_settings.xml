@@ -52,10 +52,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-compose.template.yml" timestamp="1498353015925">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-compose.template.yml" timestamp="1498356510398">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="47" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="33" column="58" />
         <mark key="." line="11" column="48" />
         <mark key="^" line="10" column="52" />
       </file>
@@ -99,12 +99,12 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" timestamp="1497652560585">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="26" column="123" />
-        <mark key="^" line="21" column="72" />
-        <mark key="." line="21" column="72" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" timestamp="1498356733692">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="69" column="36" />
+        <mark key="]" line="69" column="36" />
+        <mark key="^" line="69" column="36" />
+        <mark key="." line="69" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1498321929042">
         <mark key="'" line="102" column="0" />
@@ -159,12 +159,6 @@
         <mark key="]" line="6" column="72" />
         <mark key="^" line="6" column="72" />
         <mark key="." line="6" column="72" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1498317039415">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" timestamp="1495062888709">
         <mark key="'" line="266" column="84" />
@@ -437,10 +431,10 @@
         <mark key="^" line="28" column="74" />
         <mark key="." line="28" column="74" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/.gitignore" timestamp="1498351720782">
-        <mark key="'" line="6" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/.gitignore" timestamp="1498356198348">
+        <mark key="'" line="18" column="39" />
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
+        <mark key="]" line="3" column="20" />
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/1.sql" timestamp="1488611287889">
@@ -471,8 +465,8 @@
         <mark key="." line="24" column="22" />
         <mark key="^" line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" timestamp="1498354792303">
-        <mark key="'" line="26" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" timestamp="1498356174422">
+        <mark key="'" line="35" column="25" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="^" line="44" column="0" />
@@ -484,6 +478,11 @@
         <mark key="]" line="47" column="86" />
         <mark key="^" line="47" column="34" />
         <mark key="." line="47" column="86" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/lsyncd.conf.template.lua" timestamp="1498356655180">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="22" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/calendarmodel/CalendarWebService.java" timestamp="1472840431755">
         <mark key="'" line="167" column="19" />
@@ -505,12 +504,17 @@
         <mark key="^" line="52" column="91" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" timestamp="1497652587773">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" timestamp="1498356381138">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="47" column="8" />
         <mark key="^" line="22" column="51" />
         <mark key="." line="22" column="51" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/.gitignore" timestamp="1498356200024">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/DBassignment2/build.sbt" timestamp="1491534792872">
         <mark key="[" line="7" column="28" />
@@ -911,7 +915,7 @@
         <mark key="." line="21" column="54" />
         <mark key="^" line="21" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/lsyncd.conf.template.lua" timestamp="1498351571266">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/lsyncd.conf.template.lua" timestamp="1498356654119">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="22" column="0" />
@@ -1115,6 +1119,13 @@
         <mark key="." line="63" column="40" />
         <mark key="^" line="63" column="40" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-compose.template.yml" timestamp="1498356753399">
+        <mark key="'" line="30" column="29" />
+        <mark key="[" line="25" column="11" />
+        <mark key="]" line="25" column="11" />
+        <mark key="." line="25" column="11" />
+        <mark key="^" line="25" column="11" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/routes/register.ts" timestamp="1481508426051">
         <mark key="'" line="4" column="14" />
         <mark key="[" line="2" column="0" />
@@ -1250,10 +1261,10 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" timestamp="1498353921471">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="28" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" timestamp="1498356156769">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="31" />
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="28" />
       </file>
@@ -1368,12 +1379,12 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" timestamp="1497654268596">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="54" column="26" />
-        <mark key="." line="11" column="15" />
-        <mark key="^" line="11" column="15" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" timestamp="1498356159304">
+        <mark key="'" line="14" column="31" />
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="14" column="31" />
+        <mark key="." line="14" column="31" />
+        <mark key="^" line="14" column="31" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/layout/calendar_dialog_help.xml" timestamp="1471921852368">
         <mark key="'" line="7" column="4" />
@@ -1680,10 +1691,6 @@
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-config.php" timestamp="1497653323807">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="26" column="75" />
-        <mark key="." line="42" column="23" />
-        <mark key="^" line="42" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/test/java/com/objectivetruth/uoitlibrarybooking/data/models/CalendarModelTest.java" timestamp="1472501333613">
         <mark key="'" line="227" column="4" />
@@ -1801,10 +1808,10 @@
         <mark key="." line="17" column="89" />
         <mark key="^" line="17" column="129" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" timestamp="1498352221597">
-        <mark key="'" line="22" column="77" />
-        <mark key="[" line="20" column="3" />
-        <mark key="]" line="20" column="15" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" timestamp="1498356350343">
+        <mark key="'" line="29" column="3" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="72" column="0" />
         <mark key="." line="22" column="77" />
         <mark key="^" line="22" column="77" />
       </file>
@@ -2095,26 +2102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
-      <jump line="1" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
-      <jump line="59" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
-      <jump line="58" column="3" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
-      <jump line="7" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
-      <jump line="62" column="24" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
-      <jump line="64" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
-      <jump line="178" column="15" filename="$USER_HOME$/Desktop/repos/oxTrust/server/src/main/java/org/gluu/oxtrust/ldap/service/Shibboleth3ConfService.java" />
-      <jump line="99" column="31" filename="$USER_HOME$/Desktop/repos/oxTrust/server/src/main/java/org/gluu/oxtrust/ldap/service/Shibboleth3ConfService.java" />
-      <jump line="105" column="32" filename="$USER_HOME$/Desktop/repos/oxTrust/server/src/main/java/org/gluu/oxtrust/ldap/service/Shibboleth3ConfService.java" />
-      <jump line="7" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/README.md" />
-      <jump line="9" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/README.md" />
-      <jump line="78" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
-      <jump line="76" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
-      <jump line="29" column="27" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
-      <jump line="68" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
-      <jump line="186" column="7" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
-      <jump line="205" column="101" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
-      <jump line="212" column="85" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
       <jump line="229" column="123" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
       <jump line="13" column="103" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
       <jump line="177" column="25" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" />
@@ -2181,12 +2168,10 @@
       <jump line="8" column="53" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/lsyncd.conf.template.lua" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/lsyncd.conf.template.lua" />
       <jump line="19" column="26" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/lsyncd.conf.template.lua" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/lsyncd.conf.template.lua" />
       <jump line="11" column="52" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/lsyncd.conf.lua" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/lsyncd.conf.lua" />
       <jump line="48" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
       <jump line="33" column="44" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-compose.template.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-compose.template.yml" />
       <jump line="22" column="77" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" />
       <jump line="5" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
       <jump line="4" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
@@ -2195,28 +2180,50 @@
       <jump line="11" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="117" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" />
+      <jump line="53" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
+      <jump line="15" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
+      <jump line="14" column="31" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
+      <jump line="28" column="42" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" />
+      <jump line="35" column="25" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
+      <jump line="18" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/.gitignore" />
+      <jump line="29" column="3" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" />
+      <jump line="22" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" />
+      <jump line="29" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" />
+      <jump line="57" column="69" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" />
+      <jump line="65" column="31" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" />
+      <jump line="47" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" />
+      <jump line="72" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" />
+      <jump line="18" column="25" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-compose.template.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-compose.template.yml" />
+      <jump line="2" column="10" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-compose.template.yml" />
+      <jump line="69" column="36" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/lsyncd.conf.template.lua" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" />
+      <jump line="30" column="29" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-compose.template.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2V0dGluZ3MgewogICAgbG9nZmlsZSA9ICIvdmFyL2xvZy9sc3luY2QvbHN5bmNkX2Ntcy5sb2ciLAogICAgc3RhdHVzRmlsZSA9ICIvdmFyL2xvZy9sc3luY2QvbHN5bmNkX2Ntcy5zdGF0dXMiLAogICAgbm9kYWVtb24gICA9IHRydWUKfQpzeW5jewogICAgZGVmYXVsdC5yc3luYywKICAgIC0tIERpcmVjdG9yeSB3aXRoIHRoZSBzb3VyY2UgY29kZS4gTXVzdCBiZSBpbiBhYnNvbHV0ZSBmb3JtIGFuZCBlbmQgd2l0aCAvCiAgICBzb3VyY2UgPSAiL2Ntc19zb3VyY2VfY29kZV9kaXJlY3Rvcnkvc3JjL3dwLWFwcC8iLAogICAgLS0gRGlyZWN0b3J5IHdoZXJlIHRoZSB2b2x1bWUgaXMgbWFwcGVkIHRvLiBNdXN0IGJlIGluIGFic29sdXRlIGZvcm0gYW5kIGVuZCB3aXRoIC8KICAgIC0tIGZvciBleGFtcGxlIC9Vc2Vycy9mb28vY21zX3ZvbHVtZV9kaXJlY3RvcnkvCiAgICB0YXJnZXQgPSAiL2Ntc192b2x1bWVfZGlyZWN0b3J5LyIsCiAgICBkZWxldGUgPSB0cnVlLAogICAgcnN5bmMgPSB7CiAgICAgICAgYmluYXJ5ID0gIi91c3IvbG9jYWwvYmluL3JzeW5jIiwKICAgICAgICBfZXh0cmEgPSB7CiAgICAgICAgICAgICItYSIsCiAgICAgICAgICAgICItbyIsCiAgICAgICAgICAgICItZyIsCiAgICAgICAgICAgICItLWNob3duPTMzOjMzIgogICAgICAgIH0KICAgIH0sCn0K</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>moodle</text>
+        <text>build</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgV1BfSE9NRV9IT1NUOiBodHRwOi8vMTcyLjE2LjU5LjEyODo4MDgxCiAgICAgIFdQX1NJVEVVUkxfSE9TVDogaHR0cDovLzE3Mi4xNi41OS4xMjg6ODA4MQo=</text>
+        <text encoding="base64">c2V0dGluZ3MgewogICAgbG9nZmlsZSA9ICIvdmFyL2xvZy9sc3luY2QvbHN5bmNkX2Ntcy5sb2ciLAogICAgc3RhdHVzRmlsZSA9ICIvdmFyL2xvZy9sc3luY2QvbHN5bmNkX2Ntcy5zdGF0dXMiLAogICAgbm9kYWVtb24gICA9IHRydWUKfQpzeW5jewogICAgZGVmYXVsdC5yc3luYywKICAgIC0tIERpcmVjdG9yeSB3aXRoIHRoZSBzb3VyY2UgY29kZS4gTXVzdCBiZSBpbiBhYnNvbHV0ZSBmb3JtIGFuZCBlbmQgd2l0aCAvCiAgICBzb3VyY2UgPSAiL2Ntc19zb3VyY2VfY29kZV9kaXJlY3Rvcnkvc3JjL3dwLWFwcC8iLAogICAgLS0gRGlyZWN0b3J5IHdoZXJlIHRoZSB2b2x1bWUgaXMgbWFwcGVkIHRvLiBNdXN0IGJlIGluIGFic29sdXRlIGZvcm0gYW5kIGVuZCB3aXRoIC8KICAgIC0tIGZvciBleGFtcGxlIC9Vc2Vycy9mb28vY21zX3ZvbHVtZV9kaXJlY3RvcnkvCiAgICB0YXJnZXQgPSAiL2Ntc192b2x1bWVfZGlyZWN0b3J5LyIsCiAgICBkZWxldGUgPSB0cnVlLAogICAgcnN5bmMgPSB7CiAgICAgICAgYmluYXJ5ID0gIi91c3IvbG9jYWwvYmluL3JzeW5jIiwKICAgICAgICBfZXh0cmEgPSB7CiAgICAgICAgICAgICItYSIsCiAgICAgICAgICAgICItbyIsCiAgICAgICAgICAgICItZyIsCiAgICAgICAgICAgICItLWNob3duPTMzOjMzIgogICAgICAgIH0KICAgIH0sCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgV1BfSE9NRV9IT1NUOiBodHRwOi8vbG9jYWxob3N0OjgwODEKICAgICAgV1BfU0lURVVSTF9IT1NUOiBodHRwOi8vbG9jYWxob3N0OjgwODEK</text>
+        <text encoding="base64">L3NyYy93cC1hcHAvZXJyb3JfbG9nCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2243,22 +2250,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">L3NyYy9tb29kbGUvY29uZmlnLnBocAo=</text>
+        <text encoding="base64">ICAgICAgV1BfSE9NRV9IT1NUOiBodHRwOi8vbG9jYWxob3N0OjgwODEKICAgICAgV1BfU0lURVVSTF9IT1NUOiBodHRwOi8vbG9jYWxob3N0OjgwODEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBJbm5vdmV4YSBzcGVjaWZpYwo=</text>
+        <text encoding="base64">L3NyYy9tb29kbGUvY29uZmlnLnBocAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">L3NyYy9tb29kbGUvY29uZmlnLnBocAovbHN5bmNkLmNvbmYubHVhCi9kb2NrZXItY29tcG9zZS55bWwK</text>
+        <text encoding="base64">IyBJbm5vdmV4YSBzcGVjaWZpYwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2V0dGluZ3MgewogICAgbG9nZmlsZSA9ICIvdmFyL2xvZy9sc3luY2QvbHN5bmNkLmxvZyIsCiAgICBzdGF0dXNGaWxlID0gIi92YXIvbG9nL2xzeW5jZC9sc3luY2Quc3RhdHVzIiwKICAgIG5vZGFlbW9uICAgPSB0cnVlCn0Kc3luY3sKICAgIGRlZmF1bHQucnN5bmMsCiAgICAtLSBEaXJlY3Rvcnkgd2l0aCB0aGUgc291cmNlIGNvZGUuIE11c3QgYmUgaW4gYWJzb2x1dGUgZm9ybSBhbmQgZW5kIHdpdGggLwogICAgc291cmNlID0gIi9tb29kbGVfc291cmNlX2NvZGVfZGlyZWN0b3J5L3NyYy9tb29kbGUiLAogICAgLS0gRGlyZWN0b3J5IHdoZXJlIHRoZSB2b2x1bWUgaXMgbWFwcGVkIHRvLiBNdXN0IGJlIGluIGFic29sdXRlIGZvcm0gYW5kIGVuZCB3aXRoIC8KICAgIC0tIGZvciBleGFtcGxlIC9Vc2Vycy9mb28vbW9vZGxlX3ZvbHVtZV9kYXRhLwogICAgdGFyZ2V0ID0gIi9tb29kbGVfdm91bWVfZGlyZWN0b3J5LyIsCiAgICBkZWxldGUgPSB0cnVlLAogICAgcnN5bmMgPSB7CiAgICAgICAgYmluYXJ5ID0gIi91c3IvbG9jYWwvYmluL3JzeW5jIiwKICAgICAgICBfZXh0cmEgPSB7CiAgICAgICAgICAgICItYSIsCiAgICAgICAgICAgICItbyIsCiAgICAgICAgICAgICItZyIsCiAgICAgICAgICAgICItLWNob3duPTMzOjMzIgogICAgICAgIH0KICAgIH0sCn0K</text>
+        <text encoding="base64">L3NyYy9tb29kbGUvY29uZmlnLnBocAovbHN5bmNkLmNvbmYubHVhCi9kb2NrZXItY29tcG9zZS55bWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">c2V0dGluZ3MgewogICAgbG9nZmlsZSA9ICIvdmFyL2xvZy9sc3luY2QvbHN5bmNkLmxvZyIsCiAgICBzdGF0dXNGaWxlID0gIi92YXIvbG9nL2xzeW5jZC9sc3luY2Quc3RhdHVzIiwKICAgIG5vZGFlbW9uICAgPSB0cnVlCn0Kc3luY3sKICAgIGRlZmF1bHQucnN5bmMsCiAgICAtLSBEaXJlY3Rvcnkgd2l0aCB0aGUgc291cmNlIGNvZGUuIE11c3QgYmUgaW4gYWJzb2x1dGUgZm9ybSBhbmQgZW5kIHdpdGggLwogICAgc291cmNlID0gIi9tb29kbGVfc291cmNlX2NvZGVfZGlyZWN0b3J5L3NyYy9tb29kbGUiLAogICAgLS0gRGlyZWN0b3J5IHdoZXJlIHRoZSB2b2x1bWUgaXMgbWFwcGVkIHRvLiBNdXN0IGJlIGluIGFic29sdXRlIGZvcm0gYW5kIGVuZCB3aXRoIC8KICAgIC0tIGZvciBleGFtcGxlIC9Vc2Vycy9mb28vbW9vZGxlX3ZvbHVtZV9kYXRhLwogICAgdGFyZ2V0ID0gIi9tb29kbGVfdm91bWVfZGlyZWN0b3J5LyIsCiAgICBkZWxldGUgPSB0cnVlLAogICAgcnN5bmMgPSB7CiAgICAgICAgYmluYXJ5ID0gIi91c3IvbG9jYWwvYmluL3JzeW5jIiwKICAgICAgICBfZXh0cmEgPSB7CiAgICAgICAgICAgICItYSIsCiAgICAgICAgICAgICItbyIsCiAgICAgICAgICAgICItZyIsCiAgICAgICAgICAgICItLWNob3duPTMzOjMzIgogICAgICAgIH0KICAgIH0sCn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgTU9PRExFX0RCX1RZUEU6IG15c3FsaQogICAgICBNT09ETEVfVVJMX0hPU1Q6IGh0dHA6Ly9sb2NhbGhvc3Q6ODA4MAogICAgICAjTU9PRExFX1VSTF9QQVRIOiAvbW9vZGxlCiAgICAgIE1PT0RMRV9EQl9IT1NUOiBtb29kbGVfZGIKICAgICAgTU9PRExFX0RCX1BBU1NXT1JEOiBwYXNzd29yZAogICAgICBNT09ETEVfREJfVVNFUjogbW9vZGxlCiAgICAgIE1PT0RMRV9EQl9OQU1FOiBtb29kbGUKICAgICAgTU9PRExFX0RCX1BPUlQ6IDMzMDYKICAgICAgTU9PRExFX0FETUlOOiBhZG1pbgogICAgICBNT09ETEVfQURNSU5fUEFTU1dPUkQ6IHBhc3N3b3JkCiAgICAgIE1PT0RMRV9BRE1JTl9FTUFJTDogYWRtaW5AZXhhbXBsZS5jb20KICAgICAgTU9PRExFX1NNVFBfSE9TVDogbWFpbAogICAgICBNT09ETEVfU01UUF9TRUNVUklUWTogTm9uZQogICAgICBNT09ETEVfU01UUF9BVVRIX1RZUEU6IExPR0lOCiAgICAgIE1PT0RMRV9TTVRQX1VTRVI6IG1haWxfdXNlcgogICAgICBNT09ETEVfU01UUF9QQVNTOiBwYXNzd29yZAogICAgICBNT09ETEVfREVWRUxPUE1FTlRfTU9ERTogJ3RydWUnCiAgICAgICNNdXN0IG5vdCB1c2UgYSBwb3J0IGluIHRoZSBNT09ETEVfVVJMX0hPU1QgYW5kIGJ5IGRlZmF1bHQgdXNlcywgc2VsZi1zaWduZWQgY2VydGlmaWNhdGUKICAgICAgTU9PRExFX1VTRV9TRUxGX1NJR05FRF9TU0w6ICdmYWxzZScK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2509,19 +2516,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IEluc3RhbGwgQVdTIEVDUiBDcmVkZW50aWFscyBoZWxwZXIgY29uZmlnIGZvciBNaWd1ZWwKICAgIGJlY29tZTogdHJ1ZQogICAgY29weToKICAgICAgc3JjOiBkZXZfbWFpbi9maWxlcy9jb25maWcuanNvbgogICAgICBkZXN0OiAvaG9tZS9vYmplY3RpdmV0cnV0aC8uZG9ja2VyL2NvbmZpZy5qc29uCiAgICAgIG93bmVyOiBvYmplY3RpdmV0cnV0aAogICAgICBncm91cDogb2JqZWN0aXZldHJ1dGgKICAgICAgCiAgLSBuYW1lOiBJbnN0YWxsIEFXUyBFQ1IgQ3JlZGVudGlhbHMgaGVscGVyIGNvbmZpZyBmb3IgTHVrZQogICAgYmVjb21lOiB0cnVlCiAgICBjb3B5OgogICAgICBzcmM6IGRldl9tYWluL2ZpbGVzL2NvbmZpZy5qc29uCiAgICAgIGRlc3Q6IC9ob21lL2x1a2UvLmRvY2tlci9jb25maWcuanNvbgogICAgICBvd25lcjogbHVrZQogICAgICBncm91cDogbHVrZQogICAgICAKICAtIG5hbWU6IEluc3RhbGwgQVdTIEVDUiBDcmVkZW50aWFscyBoZWxwZXIgY29uZmlnIGZvciBTdW1lZW4KICAgIGJlY29tZTogdHJ1ZQogICAgY29weToKICAgICAgc3JjOiBkZXZfbWFpbi9maWxlcy9jb25maWcuanNvbgogICAgICBkZXN0OiAvaG9tZS9zdW1lZW4vLmRvY2tlci9jb25maWcuanNvbgogICAgICBvd25lcjogc3VtZWVuCiAgICAgIGdyb3VwOiBzdW1lZW4KCg==</text>
+        <text encoding="base64">ICAgICAgTU9PRExFX0RCX1RZUEU6IG15c3FsaQogICAgICBNT09ETEVfVVJMX0hPU1Q6IGh0dHA6Ly9sb2NhbGhvc3Q6ODA4MAogICAgICAjTU9PRExFX1VSTF9QQVRIOiAvbW9vZGxlCiAgICAgIE1PT0RMRV9EQl9IT1NUOiBtb29kbGVfZGIKICAgICAgTU9PRExFX0RCX1BBU1NXT1JEOiBwYXNzd29yZAogICAgICBNT09ETEVfREJfVVNFUjogbW9vZGxlCiAgICAgIE1PT0RMRV9EQl9OQU1FOiBtb29kbGUKICAgICAgTU9PRExFX0RCX1BPUlQ6IDMzMDYKICAgICAgTU9PRExFX0FETUlOOiBhZG1pbgogICAgICBNT09ETEVfQURNSU5fUEFTU1dPUkQ6IHBhc3N3b3JkCiAgICAgIE1PT0RMRV9BRE1JTl9FTUFJTDogYWRtaW5AZXhhbXBsZS5jb20KICAgICAgTU9PRExFX1NNVFBfSE9TVDogbWFpbAogICAgICBNT09ETEVfU01UUF9TRUNVUklUWTogTm9uZQogICAgICBNT09ETEVfU01UUF9BVVRIX1RZUEU6IExPR0lOCiAgICAgIE1PT0RMRV9TTVRQX1VTRVI6IG1haWxfdXNlcgogICAgICBNT09ETEVfU01UUF9QQVNTOiBwYXNzd29yZAogICAgICBNT09ETEVfREVWRUxPUE1FTlRfTU9ERTogJ3RydWUnCiAgICAgICNNdXN0IG5vdCB1c2UgYSBwb3J0IGluIHRoZSBNT09ETEVfVVJMX0hPU1QgYW5kIGJ5IGRlZmF1bHQgdXNlcywgc2VsZi1zaWduZWQgY2VydGlmaWNhdGUKICAgICAgTU9PRExFX1VTRV9TRUxGX1NJR05FRF9TU0w6ICdmYWxzZScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIG5hbWU6IEluc3RhbGwgQVdTIEVDUiBDcmVkZW50aWFscyBoZWxwZXIgY29uZmlnIGZvciBNaWd1ZWwKICAgIGJlY29tZTogdHJ1ZQogICAgY29weToKICAgICAgc3JjOiBkZXZfbWFpbi9maWxlcy9jb25maWcuanNvbgogICAgICBkZXN0OiAvaG9tZS9vYmplY3RpdmV0cnV0aC8uZG9ja2VyL2NvbmZpZy5qc29uCiAgICAgIG93bmVyOiBvYmplY3RpdmV0cnV0aAogICAgICBncm91cDogb2JqZWN0aXZldHJ1dGgKICAgICAgCiAgLSBuYW1lOiBJbnN0YWxsIEFXUyBFQ1IgQ3JlZGVudGlhbHMgaGVscGVyIGNvbmZpZyBmb3IgTHVrZQogICAgYmVjb21lOiB0cnVlCiAgICBjb3B5OgogICAgICBzcmM6IGRldl9tYWluL2ZpbGVzL2NvbmZpZy5qc29uCiAgICAgIGRlc3Q6IC9ob21lL2x1a2UvLmRvY2tlci9jb25maWcuanNvbgogICAgICBvd25lcjogbHVrZQogICAgICBncm91cDogbHVrZQogICAgICAKICAtIG5hbWU6IEluc3RhbGwgQVdTIEVDUiBDcmVkZW50aWFscyBoZWxwZXIgY29uZmlnIGZvciBTdW1lZW4KICAgIGJlY29tZTogdHJ1ZQogICAgY29weToKICAgICAgc3JjOiBkZXZfbWFpbi9maWxlcy9jb25maWcuanNvbgogICAgICBkZXN0OiAvaG9tZS9zdW1lZW4vLmRvY2tlci9jb25maWcuanNvbgogICAgICBvd25lcjogc3VtZWVuCiAgICAgIGdyb3VwOiBzdW1lZW4KCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>moodle</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern>moodle</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-replace>3.0.2</last-replace>
       <last-substitute>3.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -2529,8 +2536,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTSElCM19JRFBfU1BfTUVUQURBVEFfRklMRVw+</entry>
-        <entry encoding="base64">XDxTSElCM19TUF9NRVRBREFUQV9GSUxFX1BBVFRFUk5cPg==</entry>
         <entry>uma</entry>
         <entry>\cuma</entry>
         <entry>inse</entry>
@@ -2549,6 +2554,8 @@
         <entry>creates</entry>
         <entry>src</entry>
         <entry>moodle</entry>
+        <entry>cms</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL19TRV8vXy9n</entry>
