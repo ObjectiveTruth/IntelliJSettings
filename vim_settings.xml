@@ -786,11 +786,12 @@
         <mark key="^" line="23" column="58" />
         <mark key="." line="23" column="58" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config-metarefresh.php" timestamp="1498368121222">
-        <mark key="[" line="70" column="50" />
-        <mark key="]" line="70" column="53" />
-        <mark key="." line="70" column="53" />
-        <mark key="^" line="70" column="53" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config-metarefresh.php" timestamp="1498498235488">
+        <mark key="'" line="59" column="50" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="41" column="81" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-details/job-details.component.ts" timestamp="1493608011726">
         <mark key="'" line="29" column="8" />
@@ -1844,7 +1845,7 @@
         <mark key="." line="17" column="89" />
         <mark key="^" line="17" column="129" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" timestamp="1498369159410">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" timestamp="1498498334159">
         <mark key="'" line="76" column="0" />
         <mark key="[" line="25" column="3" />
         <mark key="]" line="25" column="35" />
@@ -2133,7 +2134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="96" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="89" column="16" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="44" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
@@ -2233,19 +2233,20 @@
       <jump line="71" column="5" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
       <jump line="18" column="37" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
       <jump line="60" column="11" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
+      <jump line="70" column="50" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config-metarefresh.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>SIMPLESAMLPHP_SHOULD_CONFIGURE_SP</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQknY2VydGlmaWNhdGVzJyA9PiBhcnJheSgKCQkJCQkJJ2N1cnJlbnQuY3J0JywKCQkJCQkJJ3JvbGxvdmVyLmNydCcsCgkJCQkJKSwKCQkJCQkndmFsaWRhdGVGaW5nZXJwcmludCcgPT4gJzU5OjFEOjRCOjQ2OjcwOjQ2OjNFOkVEOkE5OjFGOkNDOjgxOjZEOkMwOkFGOjJBOjA5OjJBOkE4OjAxJywKCQkJCQkndGVtcGxhdGUnID0+IGFycmF5KAoJCQkJCQkndGFncycJPT4gYXJyYXkoJ2thbG1hcicpLAoJCQkJCQknYXV0aHByb2MnID0+IGFycmF5KAoJCQkJCQkJNTEgPT4gYXJyYXkoJ2NsYXNzJyA9PiAnY29yZTpBdHRyaWJ1dGVNYXAnLCAnb2lkMm5hbWUnKSwKCQkJCQkJKSwKCQkJCQkpLAo=</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text encoding="base64">a2FsbWFyMi5vcmcvc2ltcGxlc2FtbC9tb2R1bGUucGhwL2FnZ3JlZ2F0b3IvP2lkPWthbG1hcmNlbnRyYWwmc2V0PXNhbWwyJmV4Y2x1ZGU9bm9yd2F5</text>
       </register>
       <register name="/" type="4">
         <text>-u</text>
@@ -2254,7 +2255,7 @@
         <text>SIMPLESAMLPHP_SHOULD_CONFIGURE_SP</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWYgWyAhIC16ICRTSU1QTEVTQU1MUEhQX0NPTkZJR1VSRV9TUCBdOyB0aGVuCg==</text>
+        <text encoding="base64">CQkJCQknY2VydGlmaWNhdGVzJyA9PiBhcnJheSgKCQkJCQkJJ2N1cnJlbnQuY3J0JywKCQkJCQkJJ3JvbGxvdmVyLmNydCcsCgkJCQkJKSwKCQkJCQkndmFsaWRhdGVGaW5nZXJwcmludCcgPT4gJzU5OjFEOjRCOjQ2OjcwOjQ2OjNFOkVEOkE5OjFGOkNDOjgxOjZEOkMwOkFGOjJBOjA5OjJBOkE4OjAxJywKCQkJCQkndGVtcGxhdGUnID0+IGFycmF5KAoJCQkJCQkndGFncycJPT4gYXJyYXkoJ2thbG1hcicpLAoJCQkJCQknYXV0aHByb2MnID0+IGFycmF5KAoJCQkJCQkJNTEgPT4gYXJyYXkoJ2NsYXNzJyA9PiAnY29yZTpBdHRyaWJ1dGVNYXAnLCAnb2lkMm5hbWUnKSwKCQkJCQkJKSwKCQkJCQkpLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2281,22 +2282,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIgo=</text>
+        <text encoding="base64">aWYgWyAhIC16ICRTSU1QTEVTQU1MUEhQX0NPTkZJR1VSRV9TUCBdOyB0aGVuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0lNUExFU0FNTFBIUF9NRVRBUkVGUkVTSF9DUk9OPSIKIyBSdW4gY3JvbiBbaG91cmx5XQowMSAqICogKiAqIGN1cmwgLS1zaWxlbnQgXCJodHRwczovL1lPVVJfU0VSVkVSL3NpbXBsZXNhbWwvbW9kdWxlLnBocC9jcm9uL2Nyb24ucGhwP2tleT0ke1NJTVBMRVNBTUxQSFBfQ1JPTl9TRUNSRVR9JnRhZz1ob3VybHlcIiA+IC9kZXYvbnVsbCAyPiYxCiIKKGNyb250YWIgLWwgMj4vZGV2L251bGw7IGVjaG8gIiR7U0lNUExFU0FNTFBIUF9NRVRBUkVGUkVTSF9DUk9OfSIpIHwgY3JvbnRhYiAtCnRvdWNoIC92YXIvc2ltcGxlc2FtbHBocC9tb2R1bGVzL21ldGFyZWZyZXNoL2VuYWJsZQp0b3VjaCAvdmFyL3NpbXBsZXNhbWxwaHAvbW9kdWxlcy9jcm9uL2VuYWJsZQpta2RpciAvdmFyL3NpbXBsZXNhbWxwaHAvbWV0YWRhdGEvbWV0YXJlZnJlc2gtZ2x1dSAtcApjaG93biB3d3ctZGF0YTp3d3ctZGF0YSAvdmFyL3NpbXBsZXNhbWxwaHAvbWV0YWRhdGEvbWV0YXJlZnJlc2gtZ2x1dQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IFNJTVBMRVNBTUxQSFBfQ1JPTl9TRUNSRVQ9YHRyIC1jIC1kICcwMTIzNDU2Nzg5YWJjZGVmZ2hpamtsbW5vcHFyc3R1dnd4eXonIDwvZGV2L3VyYW5kb20gfCBkZCBicz0zMiBjb3VudD0xIDI+L2Rldi9udWxsO2VjaG9gCg==</text>
+        <text encoding="base64">U0lNUExFU0FNTFBIUF9NRVRBUkVGUkVTSF9DUk9OPSIKIyBSdW4gY3JvbiBbaG91cmx5XQowMSAqICogKiAqIGN1cmwgLS1zaWxlbnQgXCJodHRwczovL1lPVVJfU0VSVkVSL3NpbXBsZXNhbWwvbW9kdWxlLnBocC9jcm9uL2Nyb24ucGhwP2tleT0ke1NJTVBMRVNBTUxQSFBfQ1JPTl9TRUNSRVR9JnRhZz1ob3VybHlcIiA+IC9kZXYvbnVsbCAyPiYxCiIKKGNyb250YWIgLWwgMj4vZGV2L251bGw7IGVjaG8gIiR7U0lNUExFU0FNTFBIUF9NRVRBUkVGUkVTSF9DUk9OfSIpIHwgY3JvbnRhYiAtCnRvdWNoIC92YXIvc2ltcGxlc2FtbHBocC9tb2R1bGVzL21ldGFyZWZyZXNoL2VuYWJsZQp0b3VjaCAvdmFyL3NpbXBsZXNhbWxwaHAvbW9kdWxlcy9jcm9uL2VuYWJsZQpta2RpciAvdmFyL3NpbXBsZXNhbWxwaHAvbWV0YWRhdGEvbWV0YXJlZnJlc2gtZ2x1dSAtcApjaG93biB3d3ctZGF0YTp3d3ctZGF0YSAvdmFyL3NpbXBsZXNhbWxwaHAvbWV0YWRhdGEvbWV0YXJlZnJlc2gtZ2x1dQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IFNJTVBMRVNBTUxQSFBfQ1JPTl9TRUNSRVQ9YHRyIC1jIC1kICcwMTIzNDU2Nzg5YWJjZGVmZ2hpamtsbW5vcHFyc3R1dnd4eXonIDwvZGV2L3VyYW5kb20gfCBkZCBicz0zMiBjb3VudD0xIDI+L2Rldi9udWxsO2VjaG9gCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2547,7 +2548,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IFNJTVBMRVNBTUxQSFBfU0VDUkVUX1NBTFQ9YHRyIC1jIC1kICcwMTIzNDU2Nzg5YWJjZGVmZ2hpamtsbW5vcHFyc3R1dnd4eXonIDwvZGV2L3VyYW5kb20gfCBkZCBicz0zMiBjb3VudD0xIDI+L2Rldi9udWxsO2VjaG9gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ZXhwb3J0IFNJTVBMRVNBTUxQSFBfU0VDUkVUX1NBTFQ9YHRyIC1jIC1kICcwMTIzNDU2Nzg5YWJjZGVmZ2hpamtsbW5vcHFyc3R1dnd4eXonIDwvZGV2L3VyYW5kb20gfCBkZCBicz0zMiBjb3VudD0xIDI+L2Rldi9udWxsO2VjaG9gCg==</text>
@@ -2605,9 +2606,9 @@
         <entry>q!</entry>
         <entry encoding="base64">L3N0YXQg</entry>
         <entry encoding="base64">JzwsJz5zLzMuMC4xLzMuMC4yL2c=</entry>
-        <entry>W</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
