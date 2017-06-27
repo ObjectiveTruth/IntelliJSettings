@@ -806,12 +806,11 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/wp-content/themes/cps-ecp/functions.php" timestamp="1498579120452">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/wp-content/themes/cps-ecp/functions.php" timestamp="1498580980077">
         <mark key="'" line="159" column="8" />
-        <mark key="[" line="183" column="40" />
-        <mark key="]" line="185" column="7" />
-        <mark key="^" line="185" column="7" />
-        <mark key="." line="185" column="7" />
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
+        <mark key="." line="184" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/usermodel/MyAccountParser.java" timestamp="1480300702363">
         <mark key="'" line="116" column="16" />
@@ -1310,8 +1309,8 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" timestamp="1498537847591">
-        <mark key="'" line="60" column="11" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" timestamp="1498580398654">
+        <mark key="'" line="18" column="42" />
         <mark key="[" line="18" column="45" />
         <mark key="]" line="18" column="42" />
         <mark key="." line="18" column="42" />
@@ -2218,7 +2217,6 @@
       <jump line="53" column="46" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
       <jump line="71" column="5" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
-      <jump line="18" column="37" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
       <jump line="60" column="11" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
       <jump line="70" column="50" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config-metarefresh.php" />
       <jump line="41" column="37" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config-metarefresh.php" />
@@ -2240,13 +2238,14 @@
       <jump line="90" column="30" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/wp-content/themes/cps-ecp/functions.php" />
       <jump line="159" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/wp-content/themes/cps-ecp/functions.php" />
       <jump line="87" column="30" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
+      <jump line="18" column="42" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC0tcGF0aD0vdmFyL3d3dy9odG1s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVjaG8gJ2hlbGxvJzsKICAgIGRpZTsK</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
@@ -2255,13 +2254,13 @@
         <text encoding="base64">IC0tcGF0aD0vdmFyL3d3dy9odG1s</text>
       </register>
       <register name="/" type="4">
-        <text>else</text>
+        <text>docker-en</text>
       </register>
       <register name="0" type="4">
         <text>WP_ENABLE_SSO</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFdQX0VOQUJMRV9TU089J2ZhbHNlJwo=</text>
+        <text encoding="base64">ICAgIGVjaG8gJ2hlbGxvJzsKICAgIGRpZTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2288,22 +2287,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fCBgU0lNUExFU0FNTF9QSFBfVkVSU0lPTmAgfCBWZXJzaW9uIG9mIFNpbXBsZVNhbWxQSFAgdG8gdXNlIHwgMS4xNC4xNCB8Cg==</text>
+        <text encoding="base64">ICAgIFdQX0VOQUJMRV9TU089J2ZhbHNlJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">YWRkX2ZpbHRlciggJ3dwX3NhbWxfYXV0aF9vcHRpb24nLCAnd3BzYXhfZmlsdGVyX29wdGlvbicsIDEwLCAyICk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">fCBgV1BfRU5BQkxFX1NTT2AgfCBFbmFibGUgdGhlIGNvbmZpZ3VyaW5nIG9mIFNpbmdsZSBTaWduIG9uIHVzaW5nIHRoZSBTSU1QTEVTQU1MIGVudiB2YXJpYWJsZXN8IGZhbHNlICB8Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">fCBgU0lNUExFU0FNTF9QSFBfVkVSU0lPTmAgfCBWZXJzaW9uIG9mIFNpbXBsZVNhbWxQSFAgdG8gdXNlIHwgMS4xNC4xNCB8Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">YWRkX2ZpbHRlciggJ3dwX3NhbWxfYXV0aF9vcHRpb24nLCAnd3BzYXhfZmlsdGVyX29wdGlvbicsIDEwLCAyICk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">fCBgV1BfRU5BQkxFX1NTT2AgfCBFbmFibGUgdGhlIGNvbmZpZ3VyaW5nIG9mIFNpbmdsZSBTaWduIG9uIHVzaW5nIHRoZSBTSU1QTEVTQU1MIGVudiB2YXJpYWJsZXN8IGZhbHNlICB8Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">fCBgU0lNUExFU0FNTF9QSFBfVkVSU0lPTmAgfCBWZXJzaW9uIG9mIFNpbXBsZVNhbWxQSFAgdG8gdXNlIHwgMS4xNC4xNCB8Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2554,19 +2553,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNsZWVwIDUK</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>else</last-search>
+      <last-search>docker-en</last-search>
       <last-offset />
-      <last-pattern>else</last-pattern>
+      <last-pattern>docker-en</last-pattern>
       <last-replace>3.0.2</last-replace>
       <last-substitute>3.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -2574,7 +2573,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pre_</entry>
         <entry>creates</entry>
         <entry>src</entry>
         <entry>moodle</entry>
@@ -2594,6 +2592,7 @@
         <entry encoding="base64">XDxET01BSU5fTkFNRVw+</entry>
         <entry>proc</entry>
         <entry>else</entry>
+        <entry>docker-en</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL19TRV8vXy9n</entry>
