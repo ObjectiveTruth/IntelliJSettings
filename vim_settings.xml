@@ -472,12 +472,12 @@
         <mark key="." line="24" column="22" />
         <mark key="^" line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" timestamp="1498505184853">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" timestamp="1498537467870">
         <mark key="'" line="24" column="4" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="25" column="45" />
+        <mark key="[" line="87" column="30" />
+        <mark key="]" line="87" column="30" />
+        <mark key="." line="87" column="30" />
+        <mark key="^" line="87" column="42" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/README.MD" timestamp="1490895581317">
         <mark key="'" line="51" column="19" />
@@ -806,6 +806,13 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/wp-content/themes/cps-ecp/functions.php" timestamp="1498537713136">
+        <mark key="'" line="159" column="8" />
+        <mark key="[" line="159" column="37" />
+        <mark key="]" line="159" column="45" />
+        <mark key="^" line="159" column="45" />
+        <mark key="." line="159" column="45" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/usermodel/MyAccountParser.java" timestamp="1480300702363">
         <mark key="'" line="116" column="16" />
         <mark key="[" line="99" column="89" />
@@ -1067,6 +1074,9 @@
         <mark key="^" line="228" column="0" />
         <mark key="." line="228" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/wp-activate.php" timestamp="1498536508933">
+        <mark key="'" line="89" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/files/files/files.component.html" timestamp="1491449160582">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="79" />
@@ -1127,12 +1137,12 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1498502550620">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1498537217928">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="91" column="39" />
-        <mark key="]" line="91" column="39" />
-        <mark key="." line="91" column="39" />
-        <mark key="^" line="75" column="87" />
+        <mark key="[" line="91" column="6" />
+        <mark key="]" line="91" column="18" />
+        <mark key="." line="91" column="18" />
+        <mark key="^" line="91" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/circle.yml" timestamp="1497888406351">
         <mark key="'" line="29" column="93" />
@@ -1300,12 +1310,12 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" timestamp="1498369256166">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" timestamp="1498537847591">
         <mark key="'" line="60" column="11" />
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="18" column="36" />
-        <mark key="." line="60" column="11" />
-        <mark key="^" line="61" column="31" />
+        <mark key="[" line="18" column="45" />
+        <mark key="]" line="18" column="42" />
+        <mark key="." line="18" column="42" />
+        <mark key="^" line="18" column="42" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/aws_deploy/task-def.json" timestamp="1471097115945">
         <mark key="'" line="13" column="9" />
@@ -1842,12 +1852,11 @@
         <mark key="." line="17" column="89" />
         <mark key="^" line="17" column="129" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" timestamp="1498501625489">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="26" column="14" />
-        <mark key="]" line="26" column="17" />
-        <mark key="." line="26" column="17" />
-        <mark key="^" line="26" column="17" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" timestamp="1498537528225">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/usermodel/UserWebService.java" timestamp="1472840175608">
         <mark key="'" line="65" column="0" />
@@ -2131,10 +2140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" />
-      <jump line="72" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" />
-      <jump line="24" column="27" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.template.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.template.yml" />
       <jump line="63" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" />
       <jump line="8" column="53" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/lsyncd.conf.template.lua" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/lsyncd.conf.template.lua" />
@@ -2231,28 +2236,32 @@
       <jump line="168" column="11" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
       <jump line="171" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
       <jump line="509" column="22" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
+      <jump line="71" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/wp-content/themes/cps-ecp/functions.php" />
+      <jump line="89" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/wp-activate.php" />
+      <jump line="90" column="30" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/wp-content/themes/cps-ecp/functions.php" />
+      <jump line="159" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/wp-content/themes/cps-ecp/functions.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>removeurnprefix</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFdQX0VOQUJMRV9TU089J2ZhbHNlJwo=</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>removeurnprefix</text>
+        <text>SIMPLESAMLPHP_SHOULD_CONFIGURE_SP</text>
       </register>
       <register name="/" type="4">
-        <text>proc</text>
+        <text>else</text>
       </register>
       <register name="0" type="4">
-        <text>run_first_time_metarefresh_once_apache_is_up</text>
+        <text>WP_ENABLE_SSO</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFdQX0VOQUJMRV9TU089J2ZhbHNlJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2279,22 +2288,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">fCBgU0lNUExFU0FNTF9QSFBfVkVSU0lPTmAgfCBWZXJzaW9uIG9mIFNpbXBsZVNhbWxQSFAgdG8gdXNlIHwgMS4xNC4xNCB8Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNsZWVwIDUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGN1cmwgLS1mYWlsICJodHRwczovL2Nwcy1lY3AuZGV2Lmlubm92ZXhhLmNvbS9zaW1wbGVzYW1sL21vZHVsZS5waHAvY3Jvbi9jcm9uLnBocD9rZXk9JnRhZz1ob3VybHkiCg==</text>
+        <text encoding="base64">YWRkX2ZpbHRlciggJ3dwX3NhbWxfYXV0aF9vcHRpb24nLCAnd3BzYXhfZmlsdGVyX29wdGlvbicsIDEwLCAyICk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzbGVlcCAK</text>
+        <text encoding="base64">fCBgV1BfRU5BQkxFX1NTT2AgfCBFbmFibGUgdGhlIGNvbmZpZ3VyaW5nIG9mIFNpbmdsZSBTaWduIG9uIHVzaW5nIHRoZSBTSU1QTEVTQU1MIGVudiB2YXJpYWJsZXN8IGZhbHNlICB8Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fCBgU0lNUExFU0FNTF9QSFBfVkVSU0lPTmAgfCBWZXJzaW9uIG9mIFNpbXBsZVNhbWxQSFAgdG8gdXNlIHwgMS4xNC4xNCB8Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsb2NhbCB1cmw9JDEKICBsb2NhbCBjYWxsYmFjaz0kMgogIGxvY2FsIHNlY29uZHM9JDMK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2545,19 +2554,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGh0dHBzOi8vWU9VUl9TRVJWRVIvc2ltcGxlc2FtbC9tb2R1bGUucGhwL2Nyb24vY3Jvbi5waHA/a2V5PVJBTkRPTV9LRVkmdGFnPWhvdXJseQo=</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIkRvaW5nIGluaXRpYWwgbWV0YWRhdGEgcmVmcmVzaCAiCg==</text>
+        <text encoding="base64">ICAgIHNsZWVwIDUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>proc</last-search>
+      <last-search>else</last-search>
       <last-offset />
-      <last-pattern>proc</last-pattern>
+      <last-pattern>else</last-pattern>
       <last-replace>3.0.2</last-replace>
       <last-substitute>3.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -2565,7 +2574,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pre</entry>
         <entry>pre_</entry>
         <entry>creates</entry>
         <entry>src</entry>
@@ -2585,6 +2593,7 @@
         <entry encoding="base64">XDxydW5fZmlyc3RfdGltZV9tZXRhcmVmcmVzaF9vbmNlX2FwYWNoZV9pc191cFw+</entry>
         <entry encoding="base64">XDxET01BSU5fTkFNRVw+</entry>
         <entry>proc</entry>
+        <entry>else</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL19TRV8vXy9n</entry>
@@ -2604,8 +2613,8 @@
         <entry encoding="base64">L3N0YXQg</entry>
         <entry encoding="base64">JzwsJz5zLzMuMC4xLzMuMC4yL2c=</entry>
         <entry>W</entry>
-        <entry>q</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
