@@ -525,8 +525,8 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce-api/.gitignore" timestamp="1498583422210">
-        <mark key="'" line="98" column="15" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce-api/.gitignore" timestamp="1498584334571">
+        <mark key="'" line="54" column="13" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/final_exam_base/FinalExamStarter/app/src/main/java/ca/uoit/csci4100/assessments/finalexamstarter/DownloadStoreLocationsTask.java" timestamp="1481816613159">
         <mark key="'" line="13" column="0" />
@@ -2133,10 +2133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-lms/lsyncd.conf.template.lua" />
-      <jump line="19" column="26" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/lsyncd.conf.template.lua" />
-      <jump line="11" column="52" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/lsyncd.conf.lua" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/lsyncd.conf.lua" />
       <jump line="48" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
       <jump line="33" column="44" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-compose.template.yml" />
       <jump line="22" column="77" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" />
@@ -2233,6 +2229,10 @@
       <jump line="87" column="30" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
       <jump line="18" column="42" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
       <jump line="98" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce-api/.gitignore" />
+      <jump line="152" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce-api/.gitignore" />
+      <jump line="1" column="77" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce-api/.gitignore" />
+      <jump line="3" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce-api/.gitignore" />
+      <jump line="55" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce-api/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2248,7 +2248,7 @@
         <text encoding="base64">IC0tcGF0aD0vdmFyL3d3dy9odG1s</text>
       </register>
       <register name="/" type="4">
-        <text>Dockerfile</text>
+        <text>iml</text>
       </register>
       <register name="0" type="4">
         <text>WP_ENABLE_SSO</text>
@@ -2557,9 +2557,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Dockerfile</last-search>
+      <last-search>iml</last-search>
       <last-offset />
-      <last-pattern>Dockerfile</last-pattern>
+      <last-pattern>iml</last-pattern>
       <last-replace>3.0.2</last-replace>
       <last-substitute>3.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -2567,7 +2567,6 @@
     </search>
     <history>
       <history-search>
-        <entry>src</entry>
         <entry>moodle</entry>
         <entry>cms</entry>
         <entry>build</entry>
@@ -2587,6 +2586,7 @@
         <entry>else</entry>
         <entry>docker-en</entry>
         <entry>Dockerfile</entry>
+        <entry>iml</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL19TRV8vXy9n</entry>
