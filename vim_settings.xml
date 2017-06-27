@@ -1128,12 +1128,12 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1498597221378">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1498599939428">
         <mark key="'" line="12" column="87" />
         <mark key="[" line="12" column="76" />
-        <mark key="]" line="12" column="87" />
-        <mark key="." line="12" column="87" />
-        <mark key="^" line="12" column="87" />
+        <mark key="]" line="12" column="78" />
+        <mark key="." line="12" column="78" />
+        <mark key="^" line="12" column="78" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/circle.yml" timestamp="1497888406351">
         <mark key="'" line="29" column="93" />
@@ -2238,13 +2238,13 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>username</text>
+        <text>experimental</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>username</text>
+        <text>experimental</text>
       </register>
       <register name="/" type="4">
         <text>cms</text>
