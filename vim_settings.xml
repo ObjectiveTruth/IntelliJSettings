@@ -590,12 +590,11 @@
         <mark key="." line="482" column="49" />
         <mark key="^" line="482" column="49" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/README.md" timestamp="1498350094651">
-        <mark key="'" line="29" column="21" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="27" column="23" />
-        <mark key="." line="27" column="23" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/README.md" timestamp="1498591339793">
+        <mark key="[" line="31" column="49" />
+        <mark key="]" line="31" column="49" />
+        <mark key="^" line="31" column="45" />
+        <mark key="." line="31" column="49" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/pending-jobs/pending-jobs.component.html" timestamp="1491493322468">
         <mark key="'" line="7" column="67" />
@@ -991,11 +990,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" timestamp="1497461381839">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="28" column="25" />
-        <mark key="^" line="28" column="25" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" timestamp="1498591262328">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="27" column="29" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/JoinOrLeave.java" timestamp="1472503983033">
         <mark key="'" line="31" column="0" />
@@ -1456,12 +1455,12 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" timestamp="1498369125105">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" timestamp="1498591313108">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="48" />
-        <mark key="." line="87" column="11" />
-        <mark key="^" line="87" column="11" />
+        <mark key="[" line="131" column="68" />
+        <mark key="]" line="131" column="86" />
+        <mark key="^" line="130" column="61" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/ResumableInfo.scala" timestamp="1485119982640">
         <mark key="'" line="50" column="0" />
@@ -2238,23 +2237,23 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJ2hlbGxvJzsKICAgIGRpZTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0tcGF0aD0vdmFyL3d3dy9odG1s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>iml</text>
       </register>
       <register name="0" type="4">
-        <text>WP_ENABLE_SSO</text>
+        <text>MOODLE_IDP_METADATA</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJ2hlbGxvJzsKICAgIGRpZTsK</text>
+        <text encoding="base64">TU9PRExFX0lEUF9NRVRBREFUQQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2281,22 +2280,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFdQX0VOQUJMRV9TU089J2ZhbHNlJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fCBgU0lNUExFU0FNTF9QSFBfVkVSU0lPTmAgfCBWZXJzaW9uIG9mIFNpbXBsZVNhbWxQSFAgdG8gdXNlIHwgMS4xNC4xNCB8Cg==</text>
+        <text encoding="base64">ICAgIGlmIFsgIiRNT09ETEVfREVWRUxPUE1FTlRfTU9ERSIgPSAidHJ1ZSIgXTsgdGhlbgogICAgICAgIGVjaG8gIlVwZGF0aW5nIFNBTUwyIGNvbmZpZ3VyYXRpb24gc2V0dGluZ3MgYmFzZWQgb24gZGV2ZWxvcG1lbnQgbW9kZSIKICAgICAgICBwaHAgL3Zhci93d3cvaHRtbC9hZG1pbi9jbGkvY2ZnLnBocCAtLW5hbWU9ZGVidWcgLS1zZXQ9JzEnIC0tY29tcG9uZW50PWF1dGhfc2FtbDIKICAgICAgICBwaHAgL3Zhci93d3cvaHRtbC9hZG1pbi9jbGkvY2ZnLnBocCAtLW5hbWU9ZHVhbGxvZ2luIC0tc2V0PScxJyAtLWNvbXBvbmVudD1hdXRoX3NhbWwyCiAgICBmaQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICMgU0FNTCBNT09ETEUgREVGQVVMVCBTRVRUSU5HUwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWRkX2ZpbHRlciggJ3dwX3NhbWxfYXV0aF9vcHRpb24nLCAnd3BzYXhfZmlsdGVyX29wdGlvbicsIDEwLCAyICk7Cg==</text>
+        <text encoding="base64">ICAgIE1PT0RMRV9TQU1MX0ZJRUxEX01BUF9GSVJTVE5BTUU9J2dpdmVuTmFtZScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fCBgV1BfRU5BQkxFX1NTT2AgfCBFbmFibGUgdGhlIGNvbmZpZ3VyaW5nIG9mIFNpbmdsZSBTaWduIG9uIHVzaW5nIHRoZSBTSU1QTEVTQU1MIGVudiB2YXJpYWJsZXN8IGZhbHNlICB8Cg==</text>
+        <text encoding="base64">ICAgIE1PT0RMRV9TQU1MX0lEUEFUVFI9J3VpZCcgXAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fCBgU0lNUExFU0FNTF9QSFBfVkVSU0lPTmAgfCBWZXJzaW9uIG9mIFNpbXBsZVNhbWxQSFAgdG8gdXNlIHwgMS4xNC4xNCB8Cg==</text>
+        <text encoding="base64">fCBgTU9PRExFX1NBTUxfRklFTERfTUFQX0ZJUlNUTkFNRWAgfCBTQU1MIERlZmF1bHQgZmllbGRfbWFwX2ZpcnN0bmFtZSBTZXR0aW5nfCBnaXZlbk5hbWUgfAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2547,10 +2546,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">fCBgTU9PRExFX1NBTUxfSURQQVRUUmAgfCBTQU1MIERlZmF1bHQgaXBkYXR0ciBTZXR0aW5nfCB1aWQgfAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">IyMgVVNJTkcgR0xVIEFTIFRIRSBERUZBVUxUIElERU5USVRZIFBST1ZJREVSLSBTTyBVU0lORyBJVFMgTUFQUElORyBGSUVMRFMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
