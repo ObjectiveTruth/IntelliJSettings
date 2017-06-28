@@ -106,12 +106,12 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" timestamp="1498356733692">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="69" column="36" />
-        <mark key="]" line="69" column="36" />
-        <mark key="^" line="69" column="36" />
-        <mark key="." line="69" column="36" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" timestamp="1498623712055">
+        <mark key="'" line="68" column="12" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="25" column="58" />
+        <mark key="^" line="72" column="36" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1498623341324">
         <mark key="'" line="71" column="19" />
@@ -1849,10 +1849,10 @@
         <mark key="." line="17" column="89" />
         <mark key="^" line="17" column="129" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" timestamp="1498537528225">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" timestamp="1498623710223">
         <mark key="'" line="75" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="25" column="57" />
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/usermodel/UserWebService.java" timestamp="1472840175608">
@@ -2137,7 +2137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="36" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/lsyncd.conf.template.lua" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" />
       <jump line="30" column="29" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-compose.template.yml" />
@@ -2237,13 +2236,14 @@
       <jump line="53" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="62" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="71" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
+      <jump line="65" column="12" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>PATCH</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fCBgV1BfRU5BQkxFX1NTT2AgfCBFbmFibGUgdGhlIGNvbmZpZ3VyaW5nIG9mIFNpbmdsZSBTaWduIG9uIHVzaW5nIHRoZSBTSU1QTEVTQU1MIGVudiB2YXJpYWJsZXN8IGZhbHNlICB8CnwgYFNJTVBMRVNBTUxQSFBfQURNSU5fUEFTU1dPUkRgIHwgQWRtaW4gcGFzc3dvcmQgZm9yIHNpbXBsZXNhbWwgaW50ZXJmYWNlIHwgcGFzc3dvcmQgfAp8IGBTSU1QTEVTQU1MX0lEUF9NRVRBREFUQV9VUkxgIHwgTWV0YWRhdGEgVVJMIG9mIElEUCB8ICB8Cg==</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
@@ -2255,7 +2255,7 @@
         <text>POST</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgV1BfRU5BQkxFX1NTTzogJ3RydWUnCiAgICAgIFNJTVBMRVNBTUxfSURQX01FVEFEQVRBX1VSTDogJ2h0dHBzOi8vYXV0aC5jcHMtZWNwLmRldi5pbm5vdmV4YS5jb20vaWRwL3NoaWJib2xldGgnCg==</text>
+        <text encoding="base64">fCBgV1BfRU5BQkxFX1NTT2AgfCBFbmFibGUgdGhlIGNvbmZpZ3VyaW5nIG9mIFNpbmdsZSBTaWduIG9uIHVzaW5nIHRoZSBTSU1QTEVTQU1MIGVudiB2YXJpYWJsZXN8IGZhbHNlICB8CnwgYFNJTVBMRVNBTUxQSFBfQURNSU5fUEFTU1dPUkRgIHwgQWRtaW4gcGFzc3dvcmQgZm9yIHNpbXBsZXNhbWwgaW50ZXJmYWNlIHwgcGFzc3dvcmQgfAp8IGBTSU1QTEVTQU1MX0lEUF9NRVRBREFUQV9VUkxgIHwgTWV0YWRhdGEgVVJMIG9mIElEUCB8ICB8Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
