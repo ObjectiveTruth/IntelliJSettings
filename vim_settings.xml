@@ -1134,8 +1134,8 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1498609257000">
-        <mark key="'" line="208" column="8" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1498616710405">
+        <mark key="'" line="222" column="0" />
         <mark key="[" line="208" column="8" />
         <mark key="]" line="208" column="8" />
         <mark key="." line="208" column="8" />
@@ -2137,7 +2137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/.gitignore" />
       <jump line="22" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" />
       <jump line="29" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" />
       <jump line="57" column="69" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" />
@@ -2237,6 +2236,7 @@
       <jump line="68" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-content/themes/cps-ecp/functions.php" />
       <jump line="29" column="42" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="208" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="222" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
