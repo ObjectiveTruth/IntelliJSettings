@@ -441,6 +441,12 @@
         <mark key="^" line="28" column="74" />
         <mark key="." line="28" column="74" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/.gitignore" timestamp="1498769227329">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/1.sql" timestamp="1488611287889">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="0" column="0" />
@@ -469,12 +475,8 @@
         <mark key="." line="24" column="22" />
         <mark key="^" line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" timestamp="1498767815943">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" timestamp="1498770235473">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="90" column="25" />
-        <mark key="]" line="90" column="25" />
-        <mark key="." line="90" column="25" />
-        <mark key="^" line="90" column="25" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/README.MD" timestamp="1490895581317">
         <mark key="'" line="51" column="19" />
@@ -1294,8 +1296,8 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" timestamp="1498767305776">
-        <mark key="'" line="49" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" timestamp="1498770266033">
+        <mark key="'" line="48" column="0" />
         <mark key="[" line="70" column="47" />
         <mark key="]" line="70" column="41" />
         <mark key="." line="70" column="41" />
@@ -1533,6 +1535,12 @@
         <mark key="]" line="51" column="31" />
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="31" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/.htaccess" timestamp="1498768990314">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="10" />
+        <mark key="^" line="8" column="10" />
+        <mark key="." line="8" column="10" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab4/MyApplication/app/src/main/java/com/sansalex/lab4/NewMessageNotification.java" timestamp="1475871296831">
         <mark key="'" line="44" column="68" />
@@ -2124,9 +2132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
-      <jump line="29" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" />
-      <jump line="73" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" />
       <jump line="62" column="75" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
       <jump line="104" column="34" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
       <jump line="598" column="78" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
@@ -2224,19 +2229,22 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="90" column="25" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
+      <jump line="19" column="42" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/.gitignore" />
+      <jump line="7" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/.gitignore" />
+      <jump line="48" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">L3NyYy93cC1hcHAvX2h0YWNjZXNzCg==</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>.htaccess</text>
       </register>
       <register name="/" type="4">
         <text>experi</text>
@@ -2245,7 +2253,7 @@
         <text encoding="base64">d3AgcGx1Z2luIGluc3RhbGwgd3Atc2FtbC1hdXRoIC0tYWN0aXZhdGUgLS1hbGxvdy1yb290Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgSW5zdGFsbCBXUCBsaWJhcnkvdmVuZG9yIGRlcGVuZGFuY2llcyB1c2luZyBjb21wb3Nlcgo=</text>
+        <text encoding="base64">L3NyYy93cC1hcHAvX2h0YWNjZXNzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2272,22 +2280,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aHR0cHM6Ly9pLmltZ3VyLmNvbS9obzR0VGk5LnBuZwo=</text>
+        <text encoding="base64">L3NyYy93cC1hcHAvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBvc2VyIGluc3RhbGwgLS13b3JraW5nLWRpcj0vdmFyL3d3dy9odG1sL3dwLWNvbnRlbnQvdGhlbWVzL2Nwcy1lY3AvbGlicmFyeQo=</text>
+        <text encoding="base64">ICAgICMgSW5zdGFsbCBXUCBsaWJhcnkvdmVuZG9yIGRlcGVuZGFuY2llcyB1c2luZyBjb21wb3Nlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aHR0cHM6Ly9pLmltZ3VyLmNvbS9obzR0VGk5LnBuZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBvc2VyIGluc3RhbGwgLS13b3JraW5nLWRpcj0vdmFyL3d3dy9odG1sL3dwLWNvbnRlbnQvdGhlbWVzL2Nwcy1lY3AvbGlicmFyeQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNkIC8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2538,13 +2546,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">ICAgIGNkIC8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2558,7 +2566,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getenv</entry>
         <entry>salt</entry>
         <entry>metadata</entry>
         <entry>sources</entry>
@@ -2577,6 +2584,7 @@
         <entry>apt-get</entry>
         <entry>chmod</entry>
         <entry>moodle</entry>
+        <entry>.htaccess</entry>
         <entry>experi</entry>
       </history-search>
       <history-cmd>
@@ -2598,8 +2606,8 @@
         <entry encoding="base64">JzwsJz5zLzMuMC4xLzMuMC4yL2c=</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
