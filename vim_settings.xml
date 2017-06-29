@@ -108,10 +108,7 @@
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" timestamp="1498623712055">
         <mark key="'" line="68" column="12" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="25" column="58" />
         <mark key="^" line="72" column="36" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1498623341324">
         <mark key="'" line="71" column="19" />
@@ -423,12 +420,6 @@
         <mark key="^" line="125" column="33" />
         <mark key="." line="125" column="33" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-content/themes/cps-ecp/functions.php" timestamp="1498601667071">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/moodle-config.php" timestamp="1496556335438">
         <mark key="'" line="52" column="16" />
         <mark key="[" line="76" column="44" />
@@ -509,7 +500,6 @@
         <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" timestamp="1498601578221">
-        <mark key="'" line="76" column="16" />
         <mark key="[" line="19" column="1" />
         <mark key="]" line="20" column="0" />
         <mark key="^" line="20" column="0" />
@@ -1419,8 +1409,7 @@
         <mark key="." line="9" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" timestamp="1498601404926">
-        <mark key="'" line="21" column="13" />
-        <mark key="[" line="65" column="80" />
+        <mark key="[" line="6" column="80" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
