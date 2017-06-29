@@ -2235,7 +2235,7 @@
         <text>lms</text>
       </register>
       <register name="/" type="4">
-        <text>moodle</text>
+        <text>experi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">fCBgV1BfRU5BQkxFX1NTT2AgfCBFbmFibGUgdGhlIGNvbmZpZ3VyaW5nIG9mIFNpbmdsZSBTaWduIG9uIHVzaW5nIHRoZSBTSU1QTEVTQU1MIGVudiB2YXJpYWJsZXN8IGZhbHNlICB8CnwgYFNJTVBMRVNBTUxQSFBfQURNSU5fUEFTU1dPUkRgIHwgQWRtaW4gcGFzc3dvcmQgZm9yIHNpbXBsZXNhbWwgaW50ZXJmYWNlIHwgcGFzc3dvcmQgfAp8IGBTSU1QTEVTQU1MX0lEUF9NRVRBREFUQV9VUkxgIHwgTWV0YWRhdGEgVVJMIG9mIElEUCB8ICB8Cg==</text>
@@ -2540,13 +2540,13 @@
         <text encoding="base64">fCBgTU9PRExFX1NBTUxfRFVBTExPR0lOYCB8IEVuYWJsZSBNdWx0aXBsZSBTaWduIGluIGF1dGhlbnRpY2F0aW9uIHNvdXJjZXMsIHVzZWZ1bCBmb3IgZGV2ZWxvcG1lbnQgfCAxIHwK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>moodle</last-search>
+      <last-search>experi</last-search>
       <last-offset />
-      <last-pattern>moodle</last-pattern>
+      <last-pattern>experi</last-pattern>
       <last-replace>3.0.2</last-replace>
       <last-substitute>3.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -2572,8 +2572,8 @@
         <entry>POST</entry>
         <entry>apt-get</entry>
         <entry>chmod</entry>
-        <entry>experi</entry>
         <entry>moodle</entry>
+        <entry>experi</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL19TRV8vXy9n</entry>
@@ -2594,8 +2594,8 @@
         <entry encoding="base64">JzwsJz5zLzMuMC4xLzMuMC4yL2c=</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
