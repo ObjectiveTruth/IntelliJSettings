@@ -1117,12 +1117,12 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1498621707532">
-        <mark key="'" line="224" column="0" />
-        <mark key="[" line="56" column="82" />
-        <mark key="]" line="56" column="93" />
-        <mark key="." line="56" column="93" />
-        <mark key="^" line="56" column="93" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1498764523516">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="21" column="29" />
+        <mark key="." line="21" column="29" />
+        <mark key="^" line="21" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/circle.yml" timestamp="1497888406351">
         <mark key="'" line="29" column="93" />
@@ -2120,14 +2120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="134" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
-      <jump line="10" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
-      <jump line="58" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
-      <jump line="4" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/simplesaml.config.php" />
-      <jump line="8" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
-      <jump line="78" column="37" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/simplesaml.config.php" />
-      <jump line="101" column="81" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/simplesaml.config.php" />
-      <jump line="77" column="28" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/simplesaml.config.php" />
       <jump line="23" column="42" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/simplesaml.config.php" />
       <jump line="38" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
       <jump line="29" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" />
@@ -2200,7 +2192,6 @@
       <jump line="29" column="42" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="208" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="222" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="224" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="91" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="92" column="28" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="90" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
@@ -2220,22 +2211,31 @@
       <jump line="75" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" />
       <jump line="84" column="38" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
       <jump line="50" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
+      <jump line="7" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="21" column="26" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="11" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="22" column="22" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="17" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="149" column="18" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="24" column="27" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="224" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>lms</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29tcG9zZXIg</text>
+        <text>lms</text>
       </register>
       <register name="/" type="4">
-        <text>chmod</text>
+        <text>moodle</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">fCBgV1BfRU5BQkxFX1NTT2AgfCBFbmFibGUgdGhlIGNvbmZpZ3VyaW5nIG9mIFNpbmdsZSBTaWduIG9uIHVzaW5nIHRoZSBTSU1QTEVTQU1MIGVudiB2YXJpYWJsZXN8IGZhbHNlICB8CnwgYFNJTVBMRVNBTUxQSFBfQURNSU5fUEFTU1dPUkRgIHwgQWRtaW4gcGFzc3dvcmQgZm9yIHNpbXBsZXNhbWwgaW50ZXJmYWNlIHwgcGFzc3dvcmQgfAp8IGBTSU1QTEVTQU1MX0lEUF9NRVRBREFUQV9VUkxgIHwgTWV0YWRhdGEgVVJMIG9mIElEUCB8ICB8Cg==</text>
@@ -2540,13 +2540,13 @@
         <text encoding="base64">fCBgTU9PRExFX1NBTUxfRFVBTExPR0lOYCB8IEVuYWJsZSBNdWx0aXBsZSBTaWduIGluIGF1dGhlbnRpY2F0aW9uIHNvdXJjZXMsIHVzZWZ1bCBmb3IgZGV2ZWxvcG1lbnQgfCAxIHwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>chmod</last-search>
+      <last-search>moodle</last-search>
       <last-offset />
-      <last-pattern>chmod</last-pattern>
+      <last-pattern>moodle</last-pattern>
       <last-replace>3.0.2</last-replace>
       <last-substitute>3.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -2554,7 +2554,6 @@
     </search>
     <history>
       <history-search>
-        <entry>base</entry>
         <entry>getenv</entry>
         <entry>salt</entry>
         <entry>metadata</entry>
@@ -2567,13 +2566,14 @@
         <entry>docker-en</entry>
         <entry>Dockerfile</entry>
         <entry>iml</entry>
-        <entry>moodle</entry>
         <entry>feid</entry>
         <entry>cms</entry>
         <entry>wordpress</entry>
         <entry>POST</entry>
         <entry>apt-get</entry>
         <entry>chmod</entry>
+        <entry>experi</entry>
+        <entry>moodle</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL19TRV8vXy9n</entry>
@@ -2594,8 +2594,8 @@
         <entry encoding="base64">JzwsJz5zLzMuMC4xLzMuMC4yL2c=</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
