@@ -478,12 +478,8 @@
         <mark key="." line="24" column="22" />
         <mark key="^" line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" timestamp="1498601574840">
-        <mark key="'" line="88" column="30" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="77" column="55" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" timestamp="1498754476188">
+        <mark key="'" line="50" column="8" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/README.MD" timestamp="1490895581317">
         <mark key="'" line="51" column="19" />
@@ -1304,12 +1300,12 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" timestamp="1498748856682">
-        <mark key="'" line="6" column="4" />
-        <mark key="[" line="61" column="37" />
-        <mark key="]" line="61" column="31" />
-        <mark key="." line="61" column="31" />
-        <mark key="^" line="61" column="31" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" timestamp="1498756676564">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="72" column="59" />
+        <mark key="]" line="72" column="81" />
+        <mark key="." line="72" column="81" />
+        <mark key="^" line="72" column="81" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/aws_deploy/task-def.json" timestamp="1471097115945">
         <mark key="'" line="13" column="9" />
@@ -1846,11 +1842,12 @@
         <mark key="." line="17" column="89" />
         <mark key="^" line="17" column="129" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" timestamp="1498623710223">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="25" column="57" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" timestamp="1498756711483">
+        <mark key="'" line="87" column="0" />
+        <mark key="[" line="35" column="20" />
+        <mark key="]" line="35" column="44" />
+        <mark key="." line="35" column="44" />
+        <mark key="^" line="35" column="44" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/usermodel/UserWebService.java" timestamp="1472840175608">
         <mark key="'" line="65" column="0" />
@@ -2134,15 +2131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/lsyncd.conf.template.lua" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" />
-      <jump line="30" column="29" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-compose.template.yml" />
-      <jump line="52" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
-      <jump line="54" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
-      <jump line="55" column="120" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
-      <jump line="56" column="120" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
-      <jump line="10" column="21" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
       <jump line="30" column="134" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
       <jump line="10" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
       <jump line="58" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
@@ -2234,28 +2222,37 @@
       <jump line="62" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="71" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="65" column="12" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" />
+      <jump line="66" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" />
+      <jump line="45" column="31" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
+      <jump line="74" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
+      <jump line="49" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
+      <jump line="40" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" />
+      <jump line="75" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" />
+      <jump line="84" column="38" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
+      <jump line="50" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>PATCH</text>
+        <text encoding="base64">Y29tcG9zZXIg</text>
       </register>
       <register name="/" type="4">
-        <text>POST</text>
+        <text>chmod</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">fCBgV1BfRU5BQkxFX1NTT2AgfCBFbmFibGUgdGhlIGNvbmZpZ3VyaW5nIG9mIFNpbmdsZSBTaWduIG9uIHVzaW5nIHRoZSBTSU1QTEVTQU1MIGVudiB2YXJpYWJsZXN8IGZhbHNlICB8CnwgYFNJTVBMRVNBTUxQSFBfQURNSU5fUEFTU1dPUkRgIHwgQWRtaW4gcGFzc3dvcmQgZm9yIHNpbXBsZXNhbWwgaW50ZXJmYWNlIHwgcGFzc3dvcmQgfAp8IGBTSU1QTEVTQU1MX0lEUF9NRVRBREFUQV9VUkxgIHwgTWV0YWRhdGEgVVJMIG9mIElEUCB8ICB8Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2285,19 +2282,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBBZGQgZGlyZWN0aXZlIHRvIGFwYWNoZSB0byBmb3J3YXJkIHVybHMgcHJvcGVybHkgaWYgdGhlIHVybCBwYXRoIGhhcyBiZWVuIHNldAppZiBbICEgLXogJFdQX1VSTF9QQVRIIF07IHRoZW4KICAgIGVjaG8gIldyaXRpbmcgQXBhY2hlIEFsaWFzIgogICAgZWNobyAtZSAiIyBBZGRlZCB2aWEgZG9ja2VyLWVudHJ5cG9pbnQuc2hcbiBBbGlhcyAke1dQX1VSTF9QQVRIfSAvdmFyL3d3dy9odG1sIFxuIiA+PiAvZXRjL2FwYWNoZTIvYXBhY2hlMi5jb25mCmZpCg==</text>
+        <text encoding="base64">ICAgIGNkIC8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fCBgTU9PRExFX1NBTUxfRFVBTExPR0lOYCB8IEVuYWJsZSBNdWx0aXBsZSBTaWduIGluIGF1dGhlbnRpY2F0aW9uIHNvdXJjZXMsIHVzZWZ1bCBmb3IgZGV2ZWxvcG1lbnQgfCAxIHwK</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE1PT0RMRV9GT1JDRV9TQU1MX09OTFk9JzAnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBocCAvdmFyL3d3dy9odG1sL2FkbWluL2NsaS9jZmcucGhwIC0tbmFtZT1maWVsZF9tYXBfZW1haWwgLS1zZXQ9bWFpbCAtLWNvbXBvbmVudD1hdXRoX3NhbWwyCg==</text>
+        <text encoding="base64">IyBBZGQgZGlyZWN0aXZlIHRvIGFwYWNoZSB0byBmb3J3YXJkIHVybHMgcHJvcGVybHkgaWYgdGhlIHVybCBwYXRoIGhhcyBiZWVuIHNldAppZiBbICEgLXogJFdQX1VSTF9QQVRIIF07IHRoZW4KICAgIGVjaG8gIldyaXRpbmcgQXBhY2hlIEFsaWFzIgogICAgZWNobyAtZSAiIyBBZGRlZCB2aWEgZG9ja2VyLWVudHJ5cG9pbnQuc2hcbiBBbGlhcyAke1dQX1VSTF9QQVRIfSAvdmFyL3d3dy9odG1sIFxuIiA+PiAvZXRjL2FwYWNoZTIvYXBhY2hlMi5jb25mCmZpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2548,19 +2545,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBocCAvdmFyL3d3dy9odG1sL2FkbWluL2NsaS9jZmcucGhwIC0tbmFtZT1zaG93aWRwbGluayAtLXNldD0xIC0tY29tcG9uZW50PWF1dGhfc2FtbDIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TU9PRExFX0lEUF9NRVRBREFUQQo=</text>
+        <text encoding="base64">fCBgTU9PRExFX1NBTUxfRFVBTExPR0lOYCB8IEVuYWJsZSBNdWx0aXBsZSBTaWduIGluIGF1dGhlbnRpY2F0aW9uIHNvdXJjZXMsIHVzZWZ1bCBmb3IgZGV2ZWxvcG1lbnQgfCAxIHwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>POST</last-search>
+      <last-search>chmod</last-search>
       <last-offset />
-      <last-pattern>POST</last-pattern>
+      <last-pattern>chmod</last-pattern>
       <last-replace>3.0.2</last-replace>
       <last-substitute>3.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -2568,13 +2565,11 @@
     </search>
     <history>
       <history-search>
-        <entry>ssl</entry>
         <entry>base</entry>
         <entry>getenv</entry>
         <entry>salt</entry>
         <entry>metadata</entry>
         <entry>sources</entry>
-        <entry>apt-get</entry>
         <entry>-u</entry>
         <entry encoding="base64">XDxydW5fZmlyc3RfdGltZV9tZXRhcmVmcmVzaF9vbmNlX2FwYWNoZV9pc191cFw+</entry>
         <entry encoding="base64">XDxET01BSU5fTkFNRVw+</entry>
@@ -2588,6 +2583,8 @@
         <entry>cms</entry>
         <entry>wordpress</entry>
         <entry>POST</entry>
+        <entry>apt-get</entry>
+        <entry>chmod</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL19TRV8vXy9n</entry>
@@ -2607,8 +2604,8 @@
         <entry encoding="base64">L3N0YXQg</entry>
         <entry encoding="base64">JzwsJz5zLzMuMC4xLzMuMC4yL2c=</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
