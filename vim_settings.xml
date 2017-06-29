@@ -1414,7 +1414,8 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" timestamp="1498601404926">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" timestamp="1498772642983">
+        <mark key="'" line="58" column="0" />
         <mark key="[" line="6" column="80" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
@@ -2132,7 +2133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="75" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
       <jump line="104" column="34" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
       <jump line="598" column="78" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
       <jump line="599" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
@@ -2232,6 +2232,7 @@
       <jump line="19" column="42" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/.gitignore" />
       <jump line="7" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/.gitignore" />
       <jump line="48" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
+      <jump line="58" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2552,7 +2553,7 @@
         <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2606,8 +2607,8 @@
         <entry encoding="base64">JzwsJz5zLzMuMC4xLzMuMC4yL2c=</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
