@@ -1300,12 +1300,12 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" timestamp="1498797732949">
-        <mark key="'" line="72" column="73" />
-        <mark key="[" line="72" column="154" />
-        <mark key="]" line="72" column="154" />
-        <mark key="." line="72" column="154" />
-        <mark key="^" line="72" column="154" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" timestamp="1498839006451">
+        <mark key="'" line="73" column="73" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="72" column="53" />
+        <mark key="." line="72" column="53" />
+        <mark key="^" line="72" column="53" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/aws_deploy/task-def.json" timestamp="1471097115945">
         <mark key="'" line="13" column="9" />
@@ -2247,13 +2247,13 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>fr</text>
+        <text>/</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>fr</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>\csite</text>
@@ -2561,7 +2561,7 @@
         <text encoding="base64">c2V0ICtlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2615,8 +2615,8 @@
         <entry encoding="base64">JzwsJz5zLzMuMC4xLzMuMC4yL2c=</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
