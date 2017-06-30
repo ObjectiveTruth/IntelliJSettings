@@ -870,9 +870,6 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498501620082">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.metarefresh.cron" timestamp="1498367776589">
         <mark key="[" line="1" column="125" />
         <mark key="]" line="1" column="124" />
@@ -1417,12 +1414,12 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" timestamp="1498772642983">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="6" column="80" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="66" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" timestamp="1498800016373">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="59" column="32" />
+        <mark key="]" line="60" column="3" />
+        <mark key="." line="60" column="3" />
+        <mark key="^" line="60" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/layout/calendar_dialog_help.xml" timestamp="1471921852368">
         <mark key="'" line="7" column="4" />
@@ -1728,8 +1725,12 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-config.php" timestamp="1497653323807">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-config.php" timestamp="1498799822014">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="75" />
+        <mark key="^" line="26" column="75" />
+        <mark key="." line="26" column="75" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/test/java/com/objectivetruth/uoitlibrarybooking/data/models/CalendarModelTest.java" timestamp="1472501333613">
         <mark key="'" line="227" column="4" />
@@ -2136,7 +2137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="602" column="17" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
       <jump line="604" column="53" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
       <jump line="749" column="5" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
       <jump line="594" column="65" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
@@ -2236,13 +2236,14 @@
       <jump line="98" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
       <jump line="28" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
       <jump line="72" column="73" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">CWRlZmluZSgnV1BfSE9NRScsIGdldGVudignV1BfSE9NRScpIC4gKTsKCWRlZmluZSgnV1BfU0lURVVSTCcsIGdldGVudignV1BfU0lURVVSTCcpKTs=</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
@@ -2256,8 +2257,8 @@
       <register name="0" type="4">
         <text>SERVER_HOSTNAME_ONLY</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CWRlZmluZSgnV1BfSE9NRScsIGdldGVudignV1BfSE9NRScpIC4gKTsKCWRlZmluZSgnV1BfU0lURVVSTCcsIGdldGVudignV1BfU0lURVVSTCcpKTs=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2284,22 +2285,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SEVBTFRIQ0hFQ0sgLS1pbnRlcnZhbD01bSAtLXRpbWVvdXQ9M3MgQ01EIGN1cmwgLS1mYWlsIC0taW5zZWN1cmUgaHR0cDovL2xvY2FsaG9zdC8ke30K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">SEVBTFRIQ0hFQ0sgY3VybCAtLWZhaWwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">d3AgcGxsIGxhbmcgY3JlYXRlIEVuZ2xpc2ggZW4gZW5fVVMgLS1ydGw9ZmFsc2UgLS1mbGFnPWNhIC0tYWxsb3ctcm9vdCB8fCB0cnVlICMgU3VjY2VlZHMgZXZlbiBpZiBsYW5ndWFnZSBhbHJlYWR5IGV4aXN0cwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">SEVBTFRIQ0hFQ0sgLS1pbnRlcnZhbD01bSAtLXRpbWVvdXQ9M3MgQ01EIGN1cmwgLS1mYWlsIC0taW5zZWN1cmUgaHR0cDovL2xvY2FsaG9zdC8ke30K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">SEVBTFRIQ0hFQ0sgY3VybCAtLWZhaWwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">d3AgcGxsIGxhbmcgY3JlYXRlIEVuZ2xpc2ggZW4gZW5fVVMgLS1ydGw9ZmFsc2UgLS1mbGFnPWNhIC0tYWxsb3ctcm9vdCB8fCB0cnVlICMgU3VjY2VlZHMgZXZlbiBpZiBsYW5ndWFnZSBhbHJlYWR5IGV4aXN0cwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBTZXQgdGhlIHNpdGUgdXJsIHN0cnVjdHVyZQp3cCByZXdyaXRlIHN0cnVjdHVyZSAvJXBvc3RuYW1lJS8gLS1hbGxvdy1yb290Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2V0IC1lCg==</text>
+        <text encoding="base64">IyBTZXQgdGhlIHNpdGUgdXJsIHN0cnVjdHVyZQp3cCByZXdyaXRlIHN0cnVjdHVyZSAvJXBvc3RuYW1lJS8gLS1hbGxvdy1yb290Cgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2550,7 +2551,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2V0ICtlCg==</text>
+        <text encoding="base64">c2V0IC1lCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">c2V0ICtlCg==</text>
