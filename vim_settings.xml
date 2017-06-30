@@ -232,6 +232,9 @@
         <mark key="^" line="50" column="7" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-settings.php" timestamp="1498800818150">
+        <mark key="'" line="450" column="9" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-authentication/README.md" timestamp="1495737373306">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="10" column="5" />
@@ -508,7 +511,8 @@
         <mark key="^" line="52" column="91" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" timestamp="1498601578221">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" timestamp="1498800670562">
+        <mark key="'" line="20" column="0" />
         <mark key="[" line="19" column="1" />
         <mark key="]" line="20" column="0" />
         <mark key="^" line="20" column="0" />
@@ -2137,19 +2141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="604" column="53" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
-      <jump line="749" column="5" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
-      <jump line="594" column="65" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
-      <jump line="595" column="26" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
-      <jump line="640" column="41" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
-      <jump line="643" column="17" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
-      <jump line="647" column="17" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
-      <jump line="653" column="17" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
-      <jump line="659" column="17" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
-      <jump line="664" column="17" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
-      <jump line="669" column="17" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
-      <jump line="50" column="48" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
-      <jump line="27" column="12" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
       <jump line="61" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
       <jump line="53" column="46" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
       <jump line="71" column="5" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
@@ -2237,6 +2228,19 @@
       <jump line="28" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
       <jump line="72" column="73" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
+      <jump line="20" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" />
+      <jump line="67" column="34" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-settings.php" />
+      <jump line="118" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-settings.php" />
+      <jump line="119" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-settings.php" />
+      <jump line="120" column="42" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-settings.php" />
+      <jump line="124" column="28" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-settings.php" />
+      <jump line="125" column="18" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-settings.php" />
+      <jump line="245" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-settings.php" />
+      <jump line="246" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-settings.php" />
+      <jump line="265" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-settings.php" />
+      <jump line="280" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-settings.php" />
+      <jump line="283" column="31" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-settings.php" />
+      <jump line="450" column="9" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-settings.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2252,7 +2256,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxXUF9IT01FX0hPU1RcPg==</text>
+        <text>\csite</text>
       </register>
       <register name="0" type="4">
         <text>SERVER_HOSTNAME_ONLY</text>
@@ -2561,9 +2565,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxXUF9IT01FX0hPU1RcPg==</last-search>
+      <last-search>\csite</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxXUF9IT01FX0hPU1RcPg==</last-pattern>
+      <last-pattern>\csite</last-pattern>
       <last-replace>3.0.2</last-replace>
       <last-substitute>3.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -2571,7 +2575,6 @@
     </search>
     <history>
       <history-search>
-        <entry>metadata</entry>
         <entry>sources</entry>
         <entry>-u</entry>
         <entry encoding="base64">XDxydW5fZmlyc3RfdGltZV9tZXRhcmVmcmVzaF9vbmNlX2FwYWNoZV9pc191cFw+</entry>
@@ -2591,6 +2594,7 @@
         <entry>.htaccess</entry>
         <entry>experi</entry>
         <entry encoding="base64">XDxXUF9IT01FX0hPU1RcPg==</entry>
+        <entry>\csite</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL19TRV8vXy9n</entry>
@@ -2610,8 +2614,8 @@
         <entry encoding="base64">L3N0YXQg</entry>
         <entry encoding="base64">JzwsJz5zLzMuMC4xLzMuMC4yL2c=</entry>
         <entry>W</entry>
-        <entry>q</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
