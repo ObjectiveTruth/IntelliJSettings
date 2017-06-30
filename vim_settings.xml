@@ -475,12 +475,11 @@
         <mark key="." line="24" column="22" />
         <mark key="^" line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" timestamp="1498793697744">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
-        <mark key="^" line="94" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" timestamp="1498795439255">
+        <mark key="[" line="63" column="159" />
+        <mark key="]" line="63" column="158" />
+        <mark key="." line="63" column="158" />
+        <mark key="^" line="63" column="158" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/README.MD" timestamp="1490895581317">
         <mark key="'" line="51" column="19" />
@@ -1300,12 +1299,12 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" timestamp="1498770266033">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="70" column="47" />
-        <mark key="]" line="70" column="41" />
-        <mark key="." line="70" column="41" />
-        <mark key="^" line="70" column="41" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" timestamp="1498795601600">
+        <mark key="'" line="72" column="73" />
+        <mark key="[" line="72" column="73" />
+        <mark key="]" line="72" column="84" />
+        <mark key="." line="72" column="84" />
+        <mark key="^" line="72" column="84" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/aws_deploy/task-def.json" timestamp="1471097115945">
         <mark key="'" line="13" column="9" />
@@ -2137,8 +2136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="598" column="78" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
-      <jump line="599" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
       <jump line="602" column="17" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
       <jump line="604" column="53" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
       <jump line="749" column="5" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
@@ -2237,25 +2234,27 @@
       <jump line="48" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
       <jump line="58" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
       <jump line="98" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
+      <jump line="28" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
+      <jump line="72" column="73" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>MOODLE_URL_HOST</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>MOODLE_URL_HOST</text>
       </register>
       <register name="/" type="4">
-        <text>experi</text>
+        <text encoding="base64">XDxXUF9IT01FX0hPU1RcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2V0IC1lCg==</text>
+      <register name="0" type="4">
+        <text>SERVER_HOSTNAME_ONLY</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2285,22 +2284,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBTZXQgdGhlIHNpdGUgdXJsIHN0cnVjdHVyZQp3cCByZXdyaXRlIHN0cnVjdHVyZSAvJXBvc3RuYW1lJS8gLS1hbGxvdy1yb290Cgo=</text>
+        <text encoding="base64">SEVBTFRIQ0hFQ0sgLS1pbnRlcnZhbD01bSAtLXRpbWVvdXQ9M3MgQ01EIGN1cmwgLS1mYWlsIC0taW5zZWN1cmUgaHR0cDovL2xvY2FsaG9zdC8ke30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2V0IC1lCg==</text>
+        <text encoding="base64">SEVBTFRIQ0hFQ0sgY3VybCAtLWZhaWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2V0ICtlCg==</text>
+        <text encoding="base64">d3AgcGxsIGxhbmcgY3JlYXRlIEVuZ2xpc2ggZW4gZW5fVVMgLS1ydGw9ZmFsc2UgLS1mbGFnPWNhIC0tYWxsb3ctcm9vdCB8fCB0cnVlICMgU3VjY2VlZHMgZXZlbiBpZiBsYW5ndWFnZSBhbHJlYWR5IGV4aXN0cwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2V0ICtlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGhwIC1kIG1lbW9yeV9saW1pdD01MTJNIC91c3IvbG9jYWwvYmluL3dwIHBhY2thZ2UgaW5zdGFsbCBnaXRAZ2l0aHViLmNvbTpkaWdneS9wb2x5bGFuZy1jbGkuZ2l0IC0tYWxsb3ctcm9vdAo=</text>
+        <text encoding="base64">IyBTZXQgdGhlIHNpdGUgdXJsIHN0cnVjdHVyZQp3cCByZXdyaXRlIHN0cnVjdHVyZSAvJXBvc3RuYW1lJS8gLS1hbGxvdy1yb290Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">L3NyYy93cC1hcHAvX2h0YWNjZXNzCg==</text>
+        <text encoding="base64">c2V0IC1lCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2551,19 +2550,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">L3NyYy93cC1hcHAvCg==</text>
+        <text encoding="base64">c2V0ICtlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgSW5zdGFsbCBXUCBsaWJhcnkvdmVuZG9yIGRlcGVuZGFuY2llcyB1c2luZyBjb21wb3Nlcgo=</text>
+        <text encoding="base64">c2V0ICtlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>experi</last-search>
+      <last-search encoding="base64">XDxXUF9IT01FX0hPU1RcPg==</last-search>
       <last-offset />
-      <last-pattern>experi</last-pattern>
+      <last-pattern encoding="base64">XDxXUF9IT01FX0hPU1RcPg==</last-pattern>
       <last-replace>3.0.2</last-replace>
       <last-substitute>3.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -2571,7 +2570,6 @@
     </search>
     <history>
       <history-search>
-        <entry>salt</entry>
         <entry>metadata</entry>
         <entry>sources</entry>
         <entry>-u</entry>
@@ -2591,6 +2589,7 @@
         <entry>moodle</entry>
         <entry>.htaccess</entry>
         <entry>experi</entry>
+        <entry encoding="base64">XDxXUF9IT01FX0hPU1RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL19TRV8vXy9n</entry>
