@@ -1299,12 +1299,12 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" timestamp="1498795601600">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" timestamp="1498797732949">
         <mark key="'" line="72" column="73" />
-        <mark key="[" line="72" column="73" />
-        <mark key="]" line="72" column="84" />
-        <mark key="." line="72" column="84" />
-        <mark key="^" line="72" column="84" />
+        <mark key="[" line="72" column="154" />
+        <mark key="]" line="72" column="154" />
+        <mark key="." line="72" column="154" />
+        <mark key="^" line="72" column="154" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/aws_deploy/task-def.json" timestamp="1471097115945">
         <mark key="'" line="13" column="9" />
@@ -2242,13 +2242,13 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>MOODLE_URL_HOST</text>
+        <text>&quot;</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>MOODLE_URL_HOST</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXUF9IT01FX0hPU1RcPg==</text>
