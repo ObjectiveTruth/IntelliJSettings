@@ -475,12 +475,12 @@
         <mark key="." line="24" column="22" />
         <mark key="^" line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" timestamp="1498791770222">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="95" column="18" />
-        <mark key="]" line="96" column="108" />
-        <mark key="." line="96" column="108" />
-        <mark key="^" line="96" column="108" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" timestamp="1498793697744">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+        <mark key="^" line="94" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/README.MD" timestamp="1490895581317">
         <mark key="'" line="51" column="19" />
@@ -2137,7 +2137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="34" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
       <jump line="598" column="78" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
       <jump line="599" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
       <jump line="602" column="17" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" />
@@ -2237,28 +2236,29 @@
       <jump line="7" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/.gitignore" />
       <jump line="48" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
       <jump line="58" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
+      <jump line="98" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGhwIC1kIG1lbW9yeV9saW1pdD01MTJNIC91c3IvbG9jYWwvYmluL3dwIHBhY2thZ2UgaW5zdGFsbCBnaXRAZ2l0aHViLmNvbTpkaWdneS9wb2x5bGFuZy1jbGkuZ2l0IC0tYWxsb3ctcm9vdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>.htaccess</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>experi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">d3AgcGx1Z2luIGluc3RhbGwgd3Atc2FtbC1hdXRoIC0tYWN0aXZhdGUgLS1hbGxvdy1yb290Cg==</text>
+        <text encoding="base64">c2V0IC1lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGhwIC1kIG1lbW9yeV9saW1pdD01MTJNIC91c3IvbG9jYWwvYmluL3dwIHBhY2thZ2UgaW5zdGFsbCBnaXRAZ2l0aHViLmNvbTpkaWdneS9wb2x5bGFuZy1jbGkuZ2l0IC0tYWxsb3ctcm9vdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2285,22 +2285,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">L3NyYy93cC1hcHAvX2h0YWNjZXNzCg==</text>
+        <text encoding="base64">IyBTZXQgdGhlIHNpdGUgdXJsIHN0cnVjdHVyZQp3cCByZXdyaXRlIHN0cnVjdHVyZSAvJXBvc3RuYW1lJS8gLS1hbGxvdy1yb290Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">L3NyYy93cC1hcHAvCg==</text>
+        <text encoding="base64">c2V0IC1lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgSW5zdGFsbCBXUCBsaWJhcnkvdmVuZG9yIGRlcGVuZGFuY2llcyB1c2luZyBjb21wb3Nlcgo=</text>
+        <text encoding="base64">c2V0ICtlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aHR0cHM6Ly9pLmltZ3VyLmNvbS9obzR0VGk5LnBuZwo=</text>
+        <text encoding="base64">c2V0ICtlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBvc2VyIGluc3RhbGwgLS13b3JraW5nLWRpcj0vdmFyL3d3dy9odG1sL3dwLWNvbnRlbnQvdGhlbWVzL2Nwcy1lY3AvbGlicmFyeQo=</text>
+        <text encoding="base64">cGhwIC1kIG1lbW9yeV9saW1pdD01MTJNIC91c3IvbG9jYWwvYmluL3dwIHBhY2thZ2UgaW5zdGFsbCBnaXRAZ2l0aHViLmNvbTpkaWdneS9wb2x5bGFuZy1jbGkuZ2l0IC0tYWxsb3ctcm9vdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">L3NyYy93cC1hcHAvX2h0YWNjZXNzCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2551,10 +2551,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">L3NyYy93cC1hcHAvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNkIC8K</text>
+        <text encoding="base64">ICAgICMgSW5zdGFsbCBXUCBsaWJhcnkvdmVuZG9yIGRlcGVuZGFuY2llcyB1c2luZyBjb21wb3Nlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
