@@ -2568,7 +2568,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2621,9 +2621,9 @@
         <entry encoding="base64">L3N0YXQg</entry>
         <entry encoding="base64">JzwsJz5zLzMuMC4xLzMuMC4yL2c=</entry>
         <entry>W</entry>
+        <entry>w</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
