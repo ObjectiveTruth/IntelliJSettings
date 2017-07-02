@@ -478,9 +478,9 @@
         <mark key="." line="24" column="22" />
         <mark key="^" line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" timestamp="1498838259448">
-        <mark key="[" line="101" column="56" />
-        <mark key="]" line="101" column="61" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" timestamp="1498970694500">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="55" />
         <mark key="." line="101" column="61" />
         <mark key="^" line="101" column="61" />
       </file>
@@ -511,12 +511,12 @@
         <mark key="^" line="52" column="91" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" timestamp="1498800670562">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="19" column="1" />
-        <mark key="]" line="20" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" timestamp="1498970740560">
+        <mark key="'" line="74" column="5" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
         <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/DBassignment2/build.sbt" timestamp="1491534792872">
         <mark key="[" line="7" column="28" />
@@ -1300,10 +1300,10 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" timestamp="1498839006451">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" timestamp="1498970637685">
         <mark key="'" line="73" column="73" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="72" column="53" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="20" />
         <mark key="." line="72" column="53" />
         <mark key="^" line="72" column="53" />
       </file>
@@ -1418,12 +1418,12 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" timestamp="1498800016373">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" timestamp="1498970639579">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="59" column="32" />
-        <mark key="]" line="60" column="3" />
-        <mark key="." line="60" column="3" />
-        <mark key="^" line="60" column="3" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="20" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/layout/calendar_dialog_help.xml" timestamp="1471921852368">
         <mark key="'" line="7" column="4" />
@@ -2141,7 +2141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
       <jump line="53" column="46" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
       <jump line="71" column="5" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
       <jump line="60" column="11" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
@@ -2241,13 +2240,14 @@
       <jump line="280" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-settings.php" />
       <jump line="283" column="31" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-settings.php" />
       <jump line="450" column="9" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-settings.php" />
+      <jump line="74" column="5" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cmVwZWF0Q01EIG5jIC13IDIgJHtEQl9IT1NUfSAke1NUQU5EQVJEX01ZU1FMX1BPUlR9Owo=</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
@@ -2256,13 +2256,13 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>\csite</text>
+        <text>netcat</text>
       </register>
-      <register name="0" type="4">
-        <text>SERVER_HOSTNAME_ONLY</text>
+      <register name="0" type="2">
+        <text encoding="base64">cmVwZWF0Q01EIG5jIC13IDIgJHtEQl9IT1NUfSAke1NUQU5EQVJEX01ZU1FMX1BPUlR9IC16dgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CWRlZmluZSgnV1BfSE9NRScsIGdldGVudignV1BfSE9NRScpIC4gKTsKCWRlZmluZSgnV1BfU0lURVVSTCcsIGdldGVudignV1BfU0lURVVSTCcpKTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">cmVwZWF0Q01EIG5jIC13IDIgJHtEQl9IT1NUfSAke1NUQU5EQVJEX01ZU1FMX1BPUlR9Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2288,23 +2288,23 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CWRlZmluZSgnV1BfSE9NRScsIGdldGVudignV1BfSE9NRScpIC4gKTsKCWRlZmluZSgnV1BfU0lURVVSTCcsIGdldGVudignV1BfU0lURVVSTCcpKTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SEVBTFRIQ0hFQ0sgLS1pbnRlcnZhbD01bSAtLXRpbWVvdXQ9M3MgQ01EIGN1cmwgLS1mYWlsIC0taW5zZWN1cmUgaHR0cDovL2xvY2FsaG9zdC8ke30K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">SEVBTFRIQ0hFQ0sgY3VybCAtLWZhaWwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">d3AgcGxsIGxhbmcgY3JlYXRlIEVuZ2xpc2ggZW4gZW5fVVMgLS1ydGw9ZmFsc2UgLS1mbGFnPWNhIC0tYWxsb3ctcm9vdCB8fCB0cnVlICMgU3VjY2VlZHMgZXZlbiBpZiBsYW5ndWFnZSBhbHJlYWR5IGV4aXN0cwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">SEVBTFRIQ0hFQ0sgLS1pbnRlcnZhbD01bSAtLXRpbWVvdXQ9M3MgQ01EIGN1cmwgLS1mYWlsIC0taW5zZWN1cmUgaHR0cDovL2xvY2FsaG9zdC8ke30K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">SEVBTFRIQ0hFQ0sgY3VybCAtLWZhaWwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">d3AgcGxsIGxhbmcgY3JlYXRlIEVuZ2xpc2ggZW4gZW5fVVMgLS1ydGw9ZmFsc2UgLS1mbGFnPWNhIC0tYWxsb3ctcm9vdCB8fCB0cnVlICMgU3VjY2VlZHMgZXZlbiBpZiBsYW5ndWFnZSBhbHJlYWR5IGV4aXN0cwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBTZXQgdGhlIHNpdGUgdXJsIHN0cnVjdHVyZQp3cCByZXdyaXRlIHN0cnVjdHVyZSAvJXBvc3RuYW1lJS8gLS1hbGxvdy1yb290Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2555,19 +2555,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2V0IC1lCg==</text>
+        <text encoding="base64">IyBTZXQgdGhlIHNpdGUgdXJsIHN0cnVjdHVyZQp3cCByZXdyaXRlIHN0cnVjdHVyZSAvJXBvc3RuYW1lJS8gLS1hbGxvdy1yb290Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2V0ICtlCg==</text>
+        <text encoding="base64">c2V0IC1lCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\csite</last-search>
+      <last-search>netcat</last-search>
       <last-offset />
-      <last-pattern>\csite</last-pattern>
+      <last-pattern>netcat</last-pattern>
       <last-replace>3.0.2</last-replace>
       <last-substitute>3.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -2575,8 +2575,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sources</entry>
-        <entry>-u</entry>
         <entry encoding="base64">XDxydW5fZmlyc3RfdGltZV9tZXRhcmVmcmVzaF9vbmNlX2FwYWNoZV9pc191cFw+</entry>
         <entry encoding="base64">XDxET01BSU5fTkFNRVw+</entry>
         <entry>proc</entry>
@@ -2595,6 +2593,8 @@
         <entry>experi</entry>
         <entry encoding="base64">XDxXUF9IT01FX0hPU1RcPg==</entry>
         <entry>\csite</entry>
+        <entry>net</entry>
+        <entry>netcat</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL19TRV8vXy9n</entry>
