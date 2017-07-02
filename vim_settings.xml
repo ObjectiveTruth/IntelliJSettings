@@ -429,8 +429,8 @@
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-content/themes/cps-ecp/functions.php" timestamp="1498974433985">
         <mark key="'" line="9" column="34" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="165" column="0" />
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="170" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/moodle-config.php" timestamp="1496556335438">
         <mark key="'" line="52" column="16" />
@@ -521,8 +521,8 @@
         <mark key="^" line="52" column="91" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" timestamp="1498972321773">
-        <mark key="'" line="80" column="5" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" timestamp="1499004501854">
+        <mark key="'" line="37" column="4" />
         <mark key="[" line="37" column="0" />
         <mark key="]" line="42" column="16" />
         <mark key="^" line="36" column="38" />
@@ -585,11 +585,11 @@
         <mark key="." line="32" column="26" />
         <mark key="^" line="32" column="26" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/wp-config.php" timestamp="1498974520227">
-        <mark key="[" line="29" column="5" />
-        <mark key="]" line="30" column="3" />
-        <mark key="^" line="30" column="3" />
-        <mark key="." line="30" column="3" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/wp-config.php" timestamp="1499004992318">
+        <mark key="[" line="25" column="75" />
+        <mark key="]" line="25" column="75" />
+        <mark key="^" line="25" column="76" />
+        <mark key="." line="25" column="75" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/views/_layout.pug" timestamp="1481488491017">
         <mark key="'" line="49" column="47" />
@@ -1557,7 +1557,8 @@
         <mark key="^" line="51" column="30" />
         <mark key="." line="51" column="31" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/.htaccess" timestamp="1498768990314">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/.htaccess" timestamp="1499004597888">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="10" />
         <mark key="^" line="8" column="10" />
@@ -1745,12 +1746,12 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-config.php" timestamp="1498974516104">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-config.php" timestamp="1499004984195">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="30" column="4" />
-        <mark key="." line="27" column="3" />
-        <mark key="^" line="27" column="3" />
+        <mark key="[" line="26" column="75" />
+        <mark key="]" line="26" column="75" />
+        <mark key="." line="26" column="75" />
+        <mark key="^" line="26" column="76" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/test/java/com/objectivetruth/uoitlibrarybooking/data/models/CalendarModelTest.java" timestamp="1472501333613">
         <mark key="'" line="227" column="4" />
@@ -2163,9 +2164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="141" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="143" column="22" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="145" column="18" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="12" column="87" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="17" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
@@ -2263,19 +2261,22 @@
       <jump line="271" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-includes/general-template.php" />
       <jump line="273" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-includes/general-template.php" />
       <jump line="300" column="9" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-includes/general-template.php" />
+      <jump line="37" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" />
+      <jump line="8" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/.htaccess" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/.htaccess" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CS8vZmVzZmFmZXMK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>latest</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>wp_lo</text>
