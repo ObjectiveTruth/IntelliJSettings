@@ -1433,12 +1433,12 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" timestamp="1499177942219">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="58" column="25" />
-        <mark key="]" line="58" column="25" />
-        <mark key="." line="58" column="25" />
-        <mark key="^" line="58" column="28" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" timestamp="1499191249573">
+        <mark key="'" line="61" column="9" />
+        <mark key="[" line="59" column="46" />
+        <mark key="]" line="59" column="46" />
+        <mark key="." line="59" column="46" />
+        <mark key="^" line="59" column="46" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/layout/calendar_dialog_help.xml" timestamp="1471921852368">
         <mark key="'" line="7" column="4" />
@@ -2163,8 +2163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
-      <jump line="92" column="28" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="90" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="100" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="38" column="23" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
@@ -2263,28 +2261,30 @@
       <jump line="99" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="195" column="34" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="196" column="18" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="59" column="43" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
+      <jump line="61" column="9" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRhciBjZiAtIC0tb25lLWZpbGUtc3lzdGVtIC1DIC91c3Ivc3JjL3dvcmRwcmVzcyAuIHwgdGFyIHhmIC07Cg==</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>store</text>
+        <text>wp-a</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dGFyIGNmIC0gLS1vbmUtZmlsZS1zeXN0ZW0gLUMgL3Vzci9zcmMvd29yZHByZXNzIC4gfCB0YXIgeGYgLQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGFyIGNmIC0gLS1vbmUtZmlsZS1zeXN0ZW0gLUMgL3Vzci9zcmMvd29yZHByZXNzIC4gfCB0YXIgeGYgLQo=</text>
+        <text encoding="base64">ICAgIHRhciBjZiAtIC0tb25lLWZpbGUtc3lzdGVtIC1DIC91c3Ivc3JjL3dvcmRwcmVzcyAuIHwgdGFyIHhmIC07Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2311,22 +2311,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXRhciAteHpmIHdvcmRwcmVzcy50YXIuZ3ogLUMgL3Zhci93d3cvaHRtbDsgXAo=</text>
+        <text encoding="base64">CWVjaG8gIiRXT1JEUFJFU1NfU0hBMSAqd29yZHByZXNzLnRhci5neiIgfCBzaGExc3VtIC1jIC0gJiYgXAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q09QWSBzcmMvd3AtYXBwIC92YXIvd3d3L2h0bWwvCg==</text>
+        <text encoding="base64">ICAgIHRhciBjZiAtIC0tb25lLWZpbGUtc3lzdGVtIC1DIC91c3Ivc3JjL3dvcmRwcmVzcyAuIHwgdGFyIHhmIC0gLUMgL3Zhci93d3cvaHRtbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vZmVzZmFmZXMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRfZmlsdGVyKCAnd3Bfc2FtbF9hdXRoX29wdGlvbicsICd3cHNheF9maWx0ZXJfb3B0aW9uJywgMTAsIDIgKTsK</text>
+        <text encoding="base64">dGFyIGNmIC0gLS1vbmUtZmlsZS1zeXN0ZW0gLUMgL3Vzci9zcmMvd29yZHByZXNzIC4gfCB0YXIgeGYgLQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+        <text encoding="base64">CXRhciAteHpmIHdvcmRwcmVzcy50YXIuZ3ogLUMgL3Zhci93d3cvaHRtbDsgXAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEFsaWFzICR7V1BfVVJMX1BBVEh9L3NpbXBsZXNhbWwgL3Zhci9zaW1wbGVzYW1scGhwL3d3dwo=</text>
+        <text encoding="base64">Q09QWSBzcmMvd3AtYXBwIC92YXIvd3d3L2h0bWwvCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2577,19 +2577,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFsaWFzICR7V1BfVVJMX1BBVEh9L3NpbXBsZXNhbWwgL3Zhci9zaW1wbGVzYW1scGhwL3d3dwo=</text>
+        <text encoding="base64">CS8vZmVzZmFmZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVwZWF0Q01EIG5jIC13IDIgJHtEQl9IT1NUfSAke1NUQU5EQVJEX01ZU1FMX1BPUlR9Owo=</text>
+        <text encoding="base64">ICAgICAgICBhZGRfZmlsdGVyKCAnd3Bfc2FtbF9hdXRoX29wdGlvbicsICd3cHNheF9maWx0ZXJfb3B0aW9uJywgMTAsIDIgKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>store</last-search>
+      <last-search>wp-a</last-search>
       <last-offset />
-      <last-pattern>store</last-pattern>
+      <last-pattern>wp-a</last-pattern>
       <last-replace>3.0.2</last-replace>
       <last-substitute>3.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -2597,7 +2597,6 @@
     </search>
     <history>
       <history-search>
-        <entry>netcat</entry>
         <entry encoding="base64">XDxXUF9VUkxfUEFUSFw+</entry>
         <entry>URLPA</entry>
         <entry>URLPATH</entry>
@@ -2617,6 +2616,7 @@
         <entry encoding="base64">XDxzdG9yZVw+</entry>
         <entry encoding="base64">XDxzdG9yZV9kYlw+</entry>
         <entry>store</entry>
+        <entry>wp-a</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL19TRV8vXy9n</entry>
