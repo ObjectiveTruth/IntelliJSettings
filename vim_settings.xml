@@ -521,12 +521,11 @@
         <mark key="^" line="52" column="91" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" timestamp="1499004501854">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" timestamp="1499177894528">
         <mark key="'" line="37" column="4" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="42" column="16" />
-        <mark key="^" line="36" column="38" />
-        <mark key="." line="37" column="0" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/DBassignment2/build.sbt" timestamp="1491534792872">
         <mark key="[" line="7" column="28" />
@@ -1434,12 +1433,12 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" timestamp="1499176189856">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" timestamp="1499177942219">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="20" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="54" column="0" />
+        <mark key="[" line="58" column="25" />
+        <mark key="]" line="58" column="25" />
+        <mark key="." line="58" column="25" />
+        <mark key="^" line="58" column="28" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/layout/calendar_dialog_help.xml" timestamp="1471921852368">
         <mark key="'" line="7" column="4" />
@@ -2270,22 +2269,22 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ecommerce</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>ecommerce</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>store</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBlY29tbWVyY2VfZGI6CiAgICBpbWFnZTogbXlzcWw6bGF0ZXN0ICMgaHR0cHM6Ly9odWIuZG9ja2VyLmNvbS9fL215c3FsLyAtIG9yIG1hcmlhZGIgaHR0cHM6Ly9odWIuZG9ja2VyLmNvbS9fL21hcmlhZGIKICAgIHBvcnRzOgogICAgICAtIDMzMDY6MzMwNgogICAgdm9sdW1lczoKICAgICAgLSAnL2hvbWUvZWMyLXVzZXIvdm9sdW1lcy9lY29tbWVyY2VfbXlzcWwtcGVyc2lzdGVuY2U6L3Zhci9saWIvbXlzcWwnCiAgICBlbnZpcm9ubWVudDoKICAgICAgTVlTUUxfREFUQUJBU0U6IHdvcmRwcmVzcwogICAgICBNWVNRTF9ST09UX1BBU1NXT1JEOiBwYXNzd29yZAogICAgICBNWVNRTF9VU0VSOiBlY29tbWVyY2UKICAgICAgTVlTUUxfUEFTU1dPUkQ6IHBhc3N3b3JkCg==</text>
+        <text encoding="base64">dGFyIGNmIC0gLS1vbmUtZmlsZS1zeXN0ZW0gLUMgL3Vzci9zcmMvd29yZHByZXNzIC4gfCB0YXIgeGYgLQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vZmVzZmFmZXMK</text>
+        <text encoding="base64">dGFyIGNmIC0gLS1vbmUtZmlsZS1zeXN0ZW0gLUMgL3Vzci9zcmMvd29yZHByZXNzIC4gfCB0YXIgeGYgLQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2312,22 +2311,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRfZmlsdGVyKCAnd3Bfc2FtbF9hdXRoX29wdGlvbicsICd3cHNheF9maWx0ZXJfb3B0aW9uJywgMTAsIDIgKTsK</text>
+        <text encoding="base64">CXRhciAteHpmIHdvcmRwcmVzcy50YXIuZ3ogLUMgL3Zhci93d3cvaHRtbDsgXAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+        <text encoding="base64">Q09QWSBzcmMvd3AtYXBwIC92YXIvd3d3L2h0bWwvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEFsaWFzICR7V1BfVVJMX1BBVEh9L3NpbXBsZXNhbWwgL3Zhci9zaW1wbGVzYW1scGhwL3d3dwo=</text>
+        <text encoding="base64">CS8vZmVzZmFmZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEFsaWFzICR7V1BfVVJMX1BBVEh9L3NpbXBsZXNhbWwgL3Zhci9zaW1wbGVzYW1scGhwL3d3dwo=</text>
+        <text encoding="base64">ICAgICAgICBhZGRfZmlsdGVyKCAnd3Bfc2FtbF9hdXRoX29wdGlvbicsICd3cHNheF9maWx0ZXJfb3B0aW9uJywgMTAsIDIgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVwZWF0Q01EIG5jIC13IDIgJHtEQl9IT1NUfSAke1NUQU5EQVJEX01ZU1FMX1BPUlR9Owo=</text>
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CWRlZmluZSgnV1BfSE9NRScsIGdldGVudignV1BfSE9NRScpIC4gKTsKCWRlZmluZSgnV1BfU0lURVVSTCcsIGdldGVudignV1BfU0lURVVSTCcpKTs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEFsaWFzICR7V1BfVVJMX1BBVEh9L3NpbXBsZXNhbWwgL3Zhci9zaW1wbGVzYW1scGhwL3d3dwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2578,10 +2577,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFsaWFzICR7V1BfVVJMX1BBVEh9L3NpbXBsZXNhbWwgL3Zhci9zaW1wbGVzYW1scGhwL3d3dwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">SEVBTFRIQ0hFQ0sgLS1pbnRlcnZhbD01bSAtLXRpbWVvdXQ9M3MgQ01EIGN1cmwgLS1mYWlsIC0taW5zZWN1cmUgaHR0cDovL2xvY2FsaG9zdC8ke30K</text>
+        <text encoding="base64">cmVwZWF0Q01EIG5jIC13IDIgJHtEQl9IT1NUfSAke1NUQU5EQVJEX01ZU1FMX1BPUlR9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
