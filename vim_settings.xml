@@ -106,8 +106,10 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" timestamp="1498623712055">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" timestamp="1499217498107">
         <mark key="'" line="68" column="12" />
+        <mark key="[" line="10" column="3" />
+        <mark key="]" line="10" column="13" />
         <mark key="^" line="72" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1498623341324">
@@ -427,8 +429,8 @@
         <mark key="^" line="125" column="33" />
         <mark key="." line="125" column="33" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-content/themes/cps-ecp/functions.php" timestamp="1498974433985">
-        <mark key="'" line="9" column="34" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-content/themes/cps-ecp/functions.php" timestamp="1499217011999">
+        <mark key="'" line="78" column="30" />
         <mark key="[" line="168" column="0" />
         <mark key="]" line="170" column="0" />
       </file>
@@ -1433,8 +1435,8 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" timestamp="1499215690088">
-        <mark key="'" line="50" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" timestamp="1499217484655">
+        <mark key="'" line="60" column="3" />
         <mark key="[" line="60" column="41" />
         <mark key="]" line="60" column="3" />
         <mark key="." line="60" column="3" />
@@ -1798,6 +1800,12 @@
         <mark key="]" line="61" column="33" />
         <mark key="." line="61" column="33" />
         <mark key="^" line="61" column="33" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/deploy/simplesaml.config.php" timestamp="1499217998759">
+        <mark key="[" line="23" column="66" />
+        <mark key="]" line="23" column="69" />
+        <mark key="^" line="23" column="69" />
+        <mark key="." line="23" column="69" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/newjobid.resolver.ts" timestamp="1491449202330">
         <mark key="'" line="3" column="0" />
@@ -2163,7 +2171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" />
       <jump line="65" column="12" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/README.md" />
       <jump line="66" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" />
       <jump line="45" column="31" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
@@ -2258,30 +2265,31 @@
       <jump line="61" column="9" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
       <jump line="101" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" />
-      <jump line="60" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
       <jump line="88" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
       <jump line="56" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
       <jump line="50" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
+      <jump line="78" column="30" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-content/themes/cps-ecp/functions.php" />
+      <jump line="60" column="3" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdwIGNvcmUgZG93bmxvYWQgLS1wYXRoPS92YXIvd3d3L2h0bWwgLS1hbGxvdy1yb290ICYmIFwK</text>
+      <register name="&quot;" type="4">
+        <text>W</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>W</text>
       </register>
       <register name="/" type="4">
         <text>wp-a</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dGFyIGNmIC0gLS1vbmUtZmlsZS1zeXN0ZW0gLUMgL3Vzci9zcmMvd29yZHByZXNzIC4gfCB0YXIgeGYgLQo=</text>
+      <register name="0" type="4">
+        <text>WP_URL_PATH</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHdwIGNvcmUgZG93bmxvYWQgLS1wYXRoPS92YXIvd3d3L2h0bWwgLS1hbGxvdy1yb290ICYmIFwK</text>
