@@ -112,12 +112,12 @@
         <mark key="]" line="10" column="13" />
         <mark key="^" line="72" column="36" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1498623341324">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1499372385596">
         <mark key="'" line="71" column="19" />
-        <mark key="[" line="100" column="48" />
-        <mark key="]" line="100" column="54" />
-        <mark key="." line="100" column="54" />
-        <mark key="^" line="100" column="54" />
+        <mark key="[" line="122" column="14" />
+        <mark key="]" line="122" column="23" />
+        <mark key="." line="122" column="23" />
+        <mark key="^" line="122" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-authentication/.gitignore" timestamp="1494602694208">
         <mark key="'" line="98" column="0" />
@@ -1144,8 +1144,8 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1499370676519">
-        <mark key="'" line="52" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1499372324285">
+        <mark key="'" line="70" column="32" />
         <mark key="[" line="84" column="8" />
         <mark key="]" line="84" column="16" />
         <mark key="^" line="84" column="16" />
@@ -2171,7 +2171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="34" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-settings.php" />
       <jump line="118" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-settings.php" />
       <jump line="119" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-settings.php" />
       <jump line="120" column="42" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-settings.php" />
@@ -2271,25 +2270,26 @@
       <jump line="220" column="43" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="222" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="52" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="70" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>moodle</text>
+        <text>ecommerce</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>moodle</text>
+        <text>ecommerce</text>
       </register>
       <register name="/" type="4">
-        <text>api</text>
+        <text>accounting</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gbW9vZGxlCg==</text>
+        <text encoding="base64">Y3VybCAtaSAtc1MgLVggUE9TVCBodHRwOi8vbG9jYWxob3N0OjgwMDEvYXBpcy8gXAogICAgLWQgJ25hbWU9ZWNvbW1lcmNlX2FwaScgXAogICAgLWQgJ2hvc3RzPWFwaS5jcHMtZWNwLmRldi5pbm5vdmV4YS5jb20nIFwKICAgIC1kICd1cHN0cmVhbV91cmw9aHR0cDovL2Vjb21tZXJjZV9hcGk6OTAwMCcgXAogICAgLWQgJ3VyaXM9L2Vjb21tZXJjZScgXAogICAgLWQgJ3N0cmlwX3VyaT10cnVlJyBcCiAgICAtZCAncHJlc2VydmVfaG9zdD10cnVlJyBcCiAgICAtZCAnaHR0cHNfb25seT10cnVlJwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2595,9 +2595,9 @@
       </register>
     </registers>
     <search>
-      <last-search>api</last-search>
+      <last-search>accounting</last-search>
       <last-offset />
-      <last-pattern>api</last-pattern>
+      <last-pattern>accounting</last-pattern>
       <last-replace>3.0.2</last-replace>
       <last-substitute>3.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -2605,7 +2605,6 @@
     </search>
     <history>
       <history-search>
-        <entry>redir</entry>
         <entry>HTTPS</entry>
         <entry>SERVER</entry>
         <entry>wp_redi</entry>
@@ -2625,6 +2624,7 @@
         <entry>course</entry>
         <entry>ecommerce</entry>
         <entry>api</entry>
+        <entry>accounting</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL19TRV8vXy9n</entry>
