@@ -1144,12 +1144,12 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1499368890399">
-        <mark key="'" line="11" column="1" />
-        <mark key="[" line="192" column="32" />
-        <mark key="]" line="192" column="36" />
-        <mark key="." line="192" column="36" />
-        <mark key="^" line="192" column="36" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1499370676519">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="84" column="8" />
+        <mark key="]" line="84" column="16" />
+        <mark key="^" line="84" column="16" />
+        <mark key="." line="84" column="16" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/circle.yml" timestamp="1497888406351">
         <mark key="'" line="29" column="93" />
@@ -2171,26 +2171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" />
-      <jump line="84" column="38" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
-      <jump line="50" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
-      <jump line="7" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="21" column="26" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="22" column="22" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="149" column="18" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="24" column="27" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="224" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="90" column="25" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
-      <jump line="19" column="42" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/.gitignore" />
-      <jump line="7" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/.gitignore" />
-      <jump line="48" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
-      <jump line="58" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
-      <jump line="98" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" />
-      <jump line="28" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
-      <jump line="72" column="73" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" />
-      <jump line="20" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" />
       <jump line="67" column="34" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-settings.php" />
       <jump line="118" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-settings.php" />
       <jump line="119" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-settings.php" />
@@ -2240,11 +2220,9 @@
       <jump line="8" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/.htaccess" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/.htaccess" />
       <jump line="205" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="76" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="81" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="227" column="12" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="190" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="187" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="78" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="85" column="21" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="88" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
@@ -2271,28 +2249,50 @@
       <jump line="172" column="18" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="17" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="11" column="1" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="27" column="24" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="55" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="62" column="21" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="63" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="65" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="76" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="175" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="180" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="184" column="18" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="56" column="3" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="187" column="18" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="79" column="88" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="129" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="134" column="30" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="137" column="48" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="138" column="38" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="143" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="146" column="72" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="217" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="220" column="43" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="222" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="52" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>W</text>
+        <text>moodle</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>W</text>
+        <text>moodle</text>
       </register>
       <register name="/" type="4">
-        <text>course</text>
+        <text>api</text>
       </register>
-      <register name="0" type="4">
-        <text>WP_URL_PATH</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gbW9vZGxlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdwIGNvcmUgZG93bmxvYWQgLS1wYXRoPS92YXIvd3d3L2h0bWwgLS1hbGxvdy1yb290ICYmIFwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2319,22 +2319,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q09QWSBzcmMvd3AtYXBwL3dwLWNvbmZpZy5waHAgL3Zhci93d3cvaHRtbC93cC1jb25maWcucGhwCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d3AgY29yZSBkb3dubG9hZCAtLXBhdGg9L3Zhci93d3cvaHRtbCAtLWFsbG93LXJvb3QK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d3AgY29yZSBkb3dubG9hZCAtLXBhdGg9L3Zhci93d3cvaHRtbCAtLWFsbG93LXJvb3QK</text>
+        <text encoding="base64">ICAgIENPTlNUX0lOTk9fRUNPTU1FUkNFX1dPT0NPTU1FUkNFX0hPU1QgPSAkez9JTk5PX0VDT01NRVJDRV9XT09DT01NRVJDRV9IT1NUfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RU5WIFdPUkRQUkVTU19WRVJTSU9OIDQuNy41Cg==</text>
+        <text encoding="base64">ICAgIENPTlNUX0lOTk9fRUNPTU1FUkNFX1dPT0NPTU1FUkNFX0hPU1QgPSAiaHR0cDovL2Nwcy1lY3AtZWNvbW1lcmNlLmxvY2FsaG9zdCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIENPTlNUX0lOTk9fRUNPTU1FUkNFX0NIQU5ORUwgPSAkez9JTk5PX0VDT01NRVJDRV9DSEFOTkVMfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2585,19 +2585,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RU5WIFdPUkRQUkVTU19TSEExIGZiZTBlZTFkOTAxMDI2NWJlMjAwZmU1MGI4NmYzNDE1ODcxODczMDIK</text>
+        <text encoding="base64">ICAgIE9OU1RfSU5OT19FQ09NTUVSQ0VfQ0hBTk5FTCA9ICJXb29Db21tZXJjZSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdwIGNvcmUgZG93bmxvYWQgLS1wYXRoPS92YXIvd3d3L2h0bWwgLS1hbGxvdy1yb290ICYmIFwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>course</last-search>
+      <last-search>api</last-search>
       <last-offset />
-      <last-pattern>course</last-pattern>
+      <last-pattern>api</last-pattern>
       <last-replace>3.0.2</last-replace>
       <last-substitute>3.0.1</last-substitute>
       <last-dir>1</last-dir>
@@ -2605,8 +2605,6 @@
     </search>
     <history>
       <history-search>
-        <entry>URLPATH</entry>
-        <entry encoding="base64">XDxXUF9VUkxQQVRIXD4=</entry>
         <entry>redir</entry>
         <entry>HTTPS</entry>
         <entry>SERVER</entry>
@@ -2625,6 +2623,8 @@
         <entry>wp-a</entry>
         <entry>moodle</entry>
         <entry>course</entry>
+        <entry>ecommerce</entry>
+        <entry>api</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL19TRV8vXy9n</entry>
@@ -2663,6 +2663,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
