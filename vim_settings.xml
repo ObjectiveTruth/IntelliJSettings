@@ -1141,12 +1141,12 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1499373121705">
-        <mark key="'" line="87" column="82" />
-        <mark key="[" line="56" column="82" />
-        <mark key="]" line="56" column="84" />
-        <mark key="^" line="56" column="84" />
-        <mark key="." line="56" column="84" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1499448062515">
+        <mark key="'" line="93" column="82" />
+        <mark key="[" line="9" column="33" />
+        <mark key="]" line="9" column="33" />
+        <mark key="^" line="13" column="94" />
+        <mark key="." line="9" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/circle.yml" timestamp="1497888406351">
         <mark key="'" line="29" column="93" />
@@ -2279,14 +2279,14 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>experi</text>
@@ -2594,7 +2594,7 @@
         <text encoding="base64">ICAgIENPTlNUX0lOTk9fRUNPTU1FUkNFX1dPT0NPTU1FUkNFX0hPU1QgPSAiaHR0cDovL2Nwcy1lY3AtZWNvbW1lcmNlLmxvY2FsaG9zdCIK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2648,8 +2648,8 @@
         <entry encoding="base64">JzwsJz5zLzMuMC4xLzMuMC4yL2c=</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
