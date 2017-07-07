@@ -1706,10 +1706,10 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/docker-entrypoint.sh" timestamp="1499445435451">
-        <mark key="[" line="13" column="38" />
-        <mark key="]" line="13" column="51" />
-        <mark key="." line="13" column="38" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/docker-entrypoint.sh" timestamp="1499446545710">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
         <mark key="^" line="13" column="37" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1495499008317">
@@ -2279,8 +2279,8 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>string</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
@@ -2295,7 +2295,7 @@
         <text>DASHBOARD_REDIRECT_URI</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2322,22 +2322,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhlbGxvOiBwcm9jZXNzLmVudi5QQVRICg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGhlbGxvOiBwcm9jZXNzLmVudi5QQVRICg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIENPTlNUX0lOTk9fRUNPTU1FUkNFX1dPT0NPTU1FUkNFX0hPU1QgPSAkez9JTk5PX0VDT01NRVJDRV9XT09DT01NRVJDRV9IT1NUfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2588,13 +2588,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIENPTlNUX0lOTk9fRUNPTU1FUkNFX1dPT0NPTU1FUkNFX0hPU1QgPSAiaHR0cDovL2Nwcy1lY3AtZWNvbW1lcmNlLmxvY2FsaG9zdCIK</text>
+        <text encoding="base64">ICAgIENPTlNUX0lOTk9fRUNPTU1FUkNFX1dPT0NPTU1FUkNFX0hPU1QgPSAkez9JTk5PX0VDT01NRVJDRV9XT09DT01NRVJDRV9IT1NUfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENPTlNUX0lOTk9fRUNPTU1FUkNFX0NIQU5ORUwgPSAkez9JTk5PX0VDT01NRVJDRV9DSEFOTkVMfQo=</text>
+        <text encoding="base64">ICAgIENPTlNUX0lOTk9fRUNPTU1FUkNFX1dPT0NPTU1FUkNFX0hPU1QgPSAiaHR0cDovL2Nwcy1lY3AtZWNvbW1lcmNlLmxvY2FsaG9zdCIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2648,8 +2648,8 @@
         <entry encoding="base64">JzwsJz5zLzMuMC4xLzMuMC4yL2c=</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
