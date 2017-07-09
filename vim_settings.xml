@@ -287,8 +287,8 @@
         <mark key="." line="37" column="55" />
         <mark key="^" line="37" column="55" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.module.ts" timestamp="1499573160890">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.module.ts" timestamp="1499573897235">
+        <mark key="'" line="80" column="0" />
         <mark key="[" line="36" column="32" />
         <mark key="]" line="36" column="31" />
         <mark key="^" line="36" column="31" />
@@ -355,11 +355,11 @@
         <mark key="^" line="26" column="84" />
         <mark key="." line="26" column="61" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/Dockerfile" timestamp="1499445372959">
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="4" column="26" />
-        <mark key="^" line="4" column="26" />
-        <mark key="." line="4" column="26" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/Dockerfile" timestamp="1499574859206">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+        <mark key="." line="4" column="35" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/project/plugins.sbt" timestamp="1471115385319">
         <mark key="'" line="20" column="15" />
@@ -435,6 +435,12 @@
         <mark key="[" line="168" column="0" />
         <mark key="]" line="170" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/load_env_vars.js" timestamp="1499574504327">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="36" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/moodle-config.php" timestamp="1496556335438">
         <mark key="'" line="52" column="16" />
         <mark key="[" line="76" column="44" />
@@ -455,12 +461,6 @@
         <mark key="]" line="28" column="74" />
         <mark key="^" line="28" column="74" />
         <mark key="." line="28" column="74" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/.gitignore" timestamp="1498769227329">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/1.sql" timestamp="1488611287889">
         <mark key="'" line="20" column="0" />
@@ -523,12 +523,6 @@
         <mark key="]" line="55" column="0" />
         <mark key="^" line="52" column="91" />
         <mark key="." line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" timestamp="1499215640081">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/DBassignment2/build.sbt" timestamp="1491534792872">
         <mark key="[" line="7" column="28" />
@@ -637,11 +631,12 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.settings.ts" timestamp="1499572167510">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="59" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="28" column="34" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.settings.ts" timestamp="1499574492066">
+        <mark key="'" line="29" column="40" />
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="2" column="55" />
+        <mark key="^" line="2" column="55" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/test/ApplicationSpec.scala" timestamp="1495063099148">
         <mark key="[" line="14" column="42" />
@@ -757,12 +752,10 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.component.ts" timestamp="1499572150455">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="53" />
-        <mark key="^" line="63" column="11" />
-        <mark key="." line="63" column="11" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.component.ts" timestamp="1499574933437">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/files/files.module.ts" timestamp="1490655629750">
         <mark key="'" line="3" column="21" />
@@ -886,10 +879,10 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/pages/auth-guard.service.ts" timestamp="1499573102783">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/pages/auth-guard.service.ts" timestamp="1499573831581">
         <mark key="'" line="15" column="61" />
-        <mark key="[" line="22" column="7" />
-        <mark key="]" line="22" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="22" />
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
@@ -1527,11 +1520,11 @@
         <mark key="^" line="48" column="0" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/generate_env_vars.js" timestamp="1499445571993">
-        <mark key="[" line="6" column="63" />
-        <mark key="]" line="6" column="61" />
-        <mark key="^" line="6" column="61" />
-        <mark key="." line="6" column="61" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/generate_env_vars.js" timestamp="1499574063414">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/RedditCommentSentimentHighlighter/main.js" timestamp="1485638493378">
         <mark key="'" line="58" column="35" />
@@ -1711,11 +1704,11 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/docker-entrypoint.sh" timestamp="1499446545710">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="13" column="37" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/docker-entrypoint.sh" timestamp="1499574816011">
+        <mark key="[" line="5" column="112" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+        <mark key="^" line="6" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1495499008317">
         <mark key="[" line="142" column="61" />
@@ -1749,9 +1742,9 @@
         <mark key="." line="23" column="39" />
         <mark key="^" line="23" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/dist/index.html" timestamp="1496460178918">
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="8" column="14" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/dist/index.html" timestamp="1499574694604">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="112" />
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
@@ -1828,6 +1821,12 @@
         <mark key="]" line="2" column="70" />
         <mark key="^" line="2" column="69" />
         <mark key="." line="2" column="70" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/generate_env_var_loading_script.js" timestamp="1499574561779">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="43" />
+        <mark key="^" line="6" column="43" />
+        <mark key="." line="6" column="43" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/flows/ViewLeaveOrJoin.java" timestamp="1480374367900">
         <mark key="'" line="26" column="0" />
@@ -2013,12 +2012,6 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-includes/general-template.php" timestamp="1498975565402">
-        <mark key="'" line="300" column="9" />
-        <mark key="[" line="332" column="0" />
-        <mark key="]" line="332" column="0" />
-        <mark key="." line="332" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/server.js" timestamp="1480187458389">
         <mark key="'" line="178" column="0" />
         <mark key="[" line="17" column="32" />
@@ -2179,9 +2172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="22" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-includes/general-template.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-includes/general-template.php" />
-      <jump line="12" column="30" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-includes/general-template.php" />
       <jump line="90" column="31" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-includes/general-template.php" />
       <jump line="51" column="30" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-includes/general-template.php" />
       <jump line="269" column="9" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-includes/general-template.php" />
@@ -2279,28 +2269,31 @@
       <jump line="62" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.component.ts" />
       <jump line="38" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.module.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.module.ts" />
+      <jump line="34" column="35" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.settings.ts" />
+      <jump line="28" column="40" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.settings.ts" />
+      <jump line="80" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.module.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>boolean</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMuX2xvYWRFbnZpcm9ubWVudGFsVmFyaWFibGVzSWZQcm9kdWN0aW9uKCk7Cg==</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>boolean</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfbG9hZEVudmlyb25tZW50YWxWYXJpYWJsZXNJZlByb2R1Y3Rpb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0xvYWRpbmcgZW52aXJvbm1lbnRhbCBWYXJpYWJsZXMnKTsK</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2Nkbi5yYXdnaXQuY29tL0dsdXVGZWRlcmF0aW9uL29wZW5pZC1pbXBsaWNpdC1jbGllbnQvbWFzdGVyL29wZW5pZGNvbm5lY3QuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmV0Y2goJ2Vudi12YXJzLmpzb24nLCB7IG1ldGhvZDogJ2dldCcgfSkKICAgICAgICAgICAgLnRoZW4oKHJlc3BvbnNlKSA9PiB7CiAgICAgICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UuanNvbigpLnRoZW4oKGVudlZhcnNSZXN1bHQ6IElFbnZWYXJzKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgdGhpcy5hcHBTZXR0aW5ncy5lbnZWYXJzID0gZW52VmFyc1Jlc3VsdDsKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnRW52aXJvbm1lbnRhbCBWYXJpYWJsZXMgc2V0JywgZW52VmFyc1Jlc3VsdCk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZShlbnZWYXJzUmVzdWx0KTsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9KQogICAgICAgICAgICAuY2F0Y2gocmVhc29uID0+IHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdDb3VsZCBub3QgcmV0cmlldmUgdGhlIGVudmlyb25tZW50YWwgdmFyaWFibGVzIGZyb20gdGhlIHNlcnZlciBldmVuIHRob3VnaCBzZXQgdG8gcnVuIGluJyArCiAgICAgICAgICAgICAgICAgICAgJ3Byb2R1Y3Rpb24gbW9kZScsIHJlYXNvbik7CiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuX2xvYWRFbnZpcm9ubWVudGFsVmFyaWFibGVzSWZQcm9kdWN0aW9uKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2327,22 +2320,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9CYVRoZW1lUHJlbG9hZGVyLnJlZ2lzdGVyTG9hZGVyKHRoaXMuX2xvYWRFbnZpcm9ubWVudGFsVmFyaWFibGVzVG9BcHBTZXR0aW5ncygpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtlbnZpcm9ubWVudH0gZnJvbSAiLi4vZW52aXJvbm1lbnRzL2Vudmlyb25tZW50IjsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogUmVnaXN0ZXJzIGEgcHJvbWlzZSB3aXRoIHRoZSBsb2FkZXIgc28gdGhhdCB0aGUgYXBwIGRvZXNuJ3Qgc3RhcnQgdW50aWwgd2UndmUgZ290dGVuIHRoZSBlbnZpcm9ubWVudGFsIHZhcmlhYmxlcwogICAgICogQHByaXZhdGUKICAgICAqLwogIHByaXZhdGUgX2xvYWRFbnZpcm9ubWVudGFsVmFyaWFibGVzSWZQcm9kdWN0aW9uKCkgewogICAgICBpZiAoZW52aXJvbm1lbnQucHJvZHVjdGlvbikgewogICAgICAgICAgLy9CYVRoZW1lUHJlbG9hZGVyLnJlZ2lzdGVyTG9hZGVyKHRoaXMuX2xvYWRFbnZpcm9ubWVudGFsVmFyaWFibGVzVG9BcHBTZXR0aW5ncygpKQogICAgICB9CiAgfQoKICAgIC8qKgogICAgICogTG9va3MgZm9yIC9lbnYtdmFycy5qc29uIGZpbGUgb24gdGhlIHNlcnZlciB0byBwb3B1bGF0ZSB0aGUgYXBwLnNldHRpbmdzLnRzIGZpbGUKICAgICAqIEByZXR1cm5zIHtQcm9taXNlPFJlc3BvbnNlPn0KICAgICAqIEBwcml2YXRlCiAgICAgKi8KICBwcml2YXRlIF9sb2FkRW52aXJvbm1lbnRhbFZhcmlhYmxlc1RvQXBwU2V0dGluZ3MoKTogUHJvbWlzZTxJRW52VmFycz4gewogICAgICBjb25zdCByZXR1cm5Qcm9taXNlID0KICAgICAgY29uc29sZS5sb2coJ0xvYWRpbmcgZW52aXJvbm1lbnRhbCBWYXJpYWJsZXMnKTsKICAgICAgcmV0dXJuIGZldGNoKCdlbnYtdmFycy5qc29uJywgeyBtZXRob2Q6ICdnZXQnIH0pCiAgICAgIC50aGVuKChyZXNwb25zZSkgPT4gewogICAgICAgICAgcmV0dXJuIHJlc3BvbnNlLmpzb24oKS50aGVuKChlbnZWYXJzUmVzdWx0OiBJRW52VmFycykgPT4gewogICAgICAgICAgICAgIHRoaXMuYXBwU2V0dGluZ3MuZW52VmFycyA9IGVudlZhcnNSZXN1bHQ7CiAgICAgICAgICAgICAgY29uc29sZS5sb2coJ0Vudmlyb25tZW50YWwgVmFyaWFibGVzIHNldCcsIGVudlZhcnNSZXN1bHQpOwogICAgICAgICAgICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoZW52VmFyc1Jlc3VsdCk7CiAgICAgICAgICB9KTsKICAgICAgfSkKICAgICAgLmNhdGNoKHJlYXNvbiA9PiB7CiAgICAgICAgICBjb25zb2xlLmxvZygnQ291bGQgbm90IHJldHJpZXZlIHRoZSBlbnZpcm9ubWVudGFsIHZhcmlhYmxlcyBmcm9tIHRoZSBzZXJ2ZXIgZXZlbiB0aG91Z2ggc2V0IHRvIHJ1biBpbicgKwogICAgICAgICAgICAgICdwcm9kdWN0aW9uIG1vZGUnLCByZWFzb24pOwogICAgICB9KTsKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3IoIk1ldGhvZCBub3QgaW1wbGVtZW50ZWQuIik7Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2Nkbi5yYXdnaXQuY29tL0dsdXVGZWRlcmF0aW9uL29wZW5pZC1pbXBsaWNpdC1jbGllbnQvbWFzdGVyL29wZW5pZGNvbm5lY3QuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHJldHVyblByb21pc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcmVzb2x2ZShlbnZWYXJzUmVzdWx0KTsKICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">bm9kZSAvZ2VuZXJhdGVfZW52X3ZhcnMuanMgPiAvdmFyL3d3dy9lbnYtdmFycy5qc29uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGhpcy5hcHBTZXR0aW5ncy5lbnZWYXJzID0gZW52VmFyc1Jlc3VsdDsKICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ0Vudmlyb25tZW50YWwgVmFyaWFibGVzIHNldCcsIGVudlZhcnNSZXN1bHQpOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkob3V0cHV0KSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2593,13 +2586,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLmFwcFNldHRpbmdzLmVudlZhcnMgPSBlbnZWYXJzUmVzdWx0OwogICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdFbnZpcm9ubWVudGFsIFZhcmlhYmxlcyBzZXQnLCBlbnZWYXJzUmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2653,8 +2646,8 @@
         <entry>W</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
