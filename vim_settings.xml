@@ -287,8 +287,8 @@
         <mark key="." line="37" column="55" />
         <mark key="^" line="37" column="55" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.module.ts" timestamp="1499561788940">
-        <mark key="'" line="73" column="3" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.module.ts" timestamp="1499573160890">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="36" column="32" />
         <mark key="]" line="36" column="31" />
         <mark key="^" line="36" column="31" />
@@ -886,12 +886,12 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/pages/auth-guard.service.ts" timestamp="1499565199643">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/pages/auth-guard.service.ts" timestamp="1499573102783">
         <mark key="'" line="15" column="61" />
-        <mark key="[" line="7" column="2" />
-        <mark key="]" line="7" column="2" />
-        <mark key="^" line="7" column="2" />
-        <mark key="." line="7" column="2" />
+        <mark key="[" line="22" column="7" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.metarefresh.cron" timestamp="1498367776589">
         <mark key="[" line="1" column="125" />
@@ -2179,8 +2179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1026" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-includes/pluggable.php" />
-      <jump line="1199" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-includes/pluggable.php" />
       <jump line="331" column="22" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-includes/general-template.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-includes/general-template.php" />
       <jump line="12" column="30" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-includes/general-template.php" />
@@ -2279,19 +2277,21 @@
       <jump line="61" column="10" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.component.ts" />
       <jump line="38" column="9" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.component.ts" />
       <jump line="62" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.component.ts" />
+      <jump line="38" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.module.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.module.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0xvYWRpbmcgZW52aXJvbm1lbnRhbCBWYXJpYWJsZXMnKTsK</text>
+      <register name="&quot;" type="4">
+        <text>boolean</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>boolean</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfbG9hZEVudmlyb25tZW50YWxWYXJpYWJsZXNJZlByb2R1Y3Rpb25cPg==</text>
