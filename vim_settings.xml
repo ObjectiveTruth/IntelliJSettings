@@ -637,11 +637,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.settings.ts" timestamp="1499571512331">
-        <mark key="[" line="27" column="34" />
-        <mark key="]" line="27" column="34" />
-        <mark key="." line="27" column="34" />
-        <mark key="^" line="27" column="34" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.settings.ts" timestamp="1499572167510">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="59" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="28" column="34" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/test/ApplicationSpec.scala" timestamp="1495063099148">
         <mark key="[" line="14" column="42" />
@@ -757,10 +757,10 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.component.ts" timestamp="1499571436889">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.component.ts" timestamp="1499572150455">
         <mark key="'" line="62" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="58" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="53" />
         <mark key="^" line="63" column="11" />
         <mark key="." line="63" column="11" />
       </file>
@@ -2284,8 +2284,8 @@
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0xvYWRpbmcgZW52aXJvbm1lbnRhbCBWYXJpYWJsZXMnKTsK</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
@@ -2297,7 +2297,7 @@
         <text encoding="base64">XDxfbG9hZEVudmlyb25tZW50YWxWYXJpYWJsZXNJZlByb2R1Y3Rpb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZW52aXJvbm1lbnQgfSBmcm9tICcuLi9lbnZpcm9ubWVudHMvZW52aXJvbm1lbnQnOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0xvYWRpbmcgZW52aXJvbm1lbnRhbCBWYXJpYWJsZXMnKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gZmV0Y2goJ2Vudi12YXJzLmpzb24nLCB7IG1ldGhvZDogJ2dldCcgfSkKICAgICAgICAgICAgLnRoZW4oKHJlc3BvbnNlKSA9PiB7CiAgICAgICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UuanNvbigpLnRoZW4oKGVudlZhcnNSZXN1bHQ6IElFbnZWYXJzKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgdGhpcy5hcHBTZXR0aW5ncy5lbnZWYXJzID0gZW52VmFyc1Jlc3VsdDsKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnRW52aXJvbm1lbnRhbCBWYXJpYWJsZXMgc2V0JywgZW52VmFyc1Jlc3VsdCk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZShlbnZWYXJzUmVzdWx0KTsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9KQogICAgICAgICAgICAuY2F0Y2gocmVhc29uID0+IHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdDb3VsZCBub3QgcmV0cmlldmUgdGhlIGVudmlyb25tZW50YWwgdmFyaWFibGVzIGZyb20gdGhlIHNlcnZlciBldmVuIHRob3VnaCBzZXQgdG8gcnVuIGluJyArCiAgICAgICAgICAgICAgICAgICAgJ3Byb2R1Y3Rpb24gbW9kZScsIHJlYXNvbik7CiAgICAgICAgICAgIH0pOwo=</text>
