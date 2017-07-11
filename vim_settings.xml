@@ -1489,8 +1489,8 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" timestamp="1499786996752">
-        <mark key="'" line="113" column="16" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" timestamp="1499797974562">
+        <mark key="'" line="229" column="46" />
         <mark key="[" line="229" column="46" />
         <mark key="]" line="229" column="46" />
         <mark key="." line="229" column="46" />
@@ -2169,7 +2169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
       <jump line="56" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
       <jump line="50" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" />
       <jump line="78" column="30" filename="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-content/themes/cps-ecp/functions.php" />
@@ -2269,19 +2268,20 @@
       <jump line="151" column="62" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="154" column="53" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="155" column="25" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="229" column="46" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyAiSW5zZXJ0aW5nIG1haW4gY3BzLWVjcCBzZXJ2ZXIgdG8gY2hyb290IGhvc3QgZmlsZShTSE9VTEQgT05MWSBCRSBET05FIElOIERFViIKZWNobyAtZSAiMTAuMC4xLjE1MCBjcHMtZWNwLmRldi5pbm5vdmV4YS5jb20iID4+IC9vcHQvZ2x1dS1zZXJ2ZXItJHtHTFVVX1ZFUlNJT059L2V0Yy9ob3N0cwoK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
