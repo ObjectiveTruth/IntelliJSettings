@@ -38,6 +38,12 @@
         <mark key="^" line="50" column="155" />
         <mark key="." line="50" column="155" />
       </file>
+      <file name="restClient/response0.txt" timestamp="1499878382274">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/myaccount/MyAccount.java" timestamp="1480299101194">
         <mark key="'" line="115" column="40" />
         <mark key="[" line="63" column="56" />
@@ -485,9 +491,6 @@
         <mark key="." line="24" column="22" />
         <mark key="^" line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-entrypoint.sh" timestamp="1499461775863">
-        <mark key="'" line="36" column="32" />
-      </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/README.MD" timestamp="1490895581317">
         <mark key="'" line="51" column="19" />
         <mark key="[" line="47" column="86" />
@@ -869,6 +872,9 @@
         <mark key="]" line="12" column="43" />
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="43" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1499878341622">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/pages/auth-guard.service.ts" timestamp="1499573831581">
         <mark key="'" line="15" column="61" />
@@ -2275,13 +2281,13 @@
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>accounting</text>
+        <text>sa</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>accounting</text>
+        <text>sa</text>
       </register>
       <register name="/" type="4">
         <text>ACC</text>
