@@ -9,8 +9,21 @@
         <mark key="^" line="96" column="0" />
         <mark key="." line="99" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1499972384785">
+        <mark key="'" line="110" column="82" />
+        <mark key="[" line="63" column="14" />
+        <mark key="]" line="64" column="5" />
+        <mark key="^" line="64" column="5" />
+        <mark key="." line="64" column="5" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="10" column="34" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="64" column="5" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="12" column="37" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="65" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="110" column="82" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+    </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -21,13 +34,23 @@
       <register name=":" type="4">
         <text>w</text>
       </register>
+      <register name="/" type="4">
+        <text>experi</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>experi</last-search>
+      <last-offset />
+      <last-pattern>experi</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>authentication</entry>
+        <entry>authentication_api</entry>
+        <entry>experi</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
