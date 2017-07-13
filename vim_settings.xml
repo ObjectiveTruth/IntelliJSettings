@@ -9,13 +9,14 @@
         <mark key="^" line="96" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1499980078319">
-        <mark key="'" line="62" column="14" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1499982491637">
+        <mark key="'" line="101" column="2" />
         <mark key="[" line="61" column="42" />
         <mark key="]" line="61" column="42" />
         <mark key="." line="61" column="42" />
         <mark key="^" line="61" column="42" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" timestamp="1499982656420" />
       <file name="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" timestamp="1499980187996">
         <mark key="'" line="4164" column="0" />
       </file>
@@ -60,6 +61,7 @@
       <jump line="662" column="86" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
       <jump line="4164" column="0" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
+      <jump line="101" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -81,13 +83,13 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>ecommerce_api</text>
+        <text>ecommerce_db</text>
       </register>
     </registers>
     <search>
-      <last-search>ecommerce_api</last-search>
+      <last-search>ecommerce_db</last-search>
       <last-offset />
-      <last-pattern>ecommerce_api</last-pattern>
+      <last-pattern>ecommerce_db</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -102,6 +104,7 @@
         <entry>cms</entry>
         <entry>courses_api</entry>
         <entry>ecommerce_api</entry>
+        <entry>ecommerce_db</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
