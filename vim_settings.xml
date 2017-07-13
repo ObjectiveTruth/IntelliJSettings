@@ -9,47 +9,70 @@
         <mark key="^" line="96" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1499972384785">
-        <mark key="'" line="110" column="82" />
-        <mark key="[" line="63" column="14" />
-        <mark key="]" line="64" column="5" />
-        <mark key="^" line="64" column="5" />
-        <mark key="." line="64" column="5" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1499973587038">
+        <mark key="'" line="11" column="42" />
+        <mark key="[" line="95" column="32" />
+        <mark key="]" line="95" column="40" />
+        <mark key="." line="95" column="40" />
+        <mark key="^" line="95" column="40" />
       </file>
     </filemarks>
     <jumps>
       <jump line="10" column="34" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="64" column="5" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="12" column="37" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="65" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="110" column="82" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="64" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="66" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="178" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="13" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="152" column="31" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="156" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="239" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="151" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="210" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="215" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="219" column="18" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="11" column="42" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gJy9ob21lL2VjMi11c2VyL3ZvbHVtZXMvY21zLXVwbG9hZHM6L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMnCg==</text>
       </register>
-      <register name="&quot;" type="2">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>cms</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
+      <register name="-" type="4">
+        <text>cms</text>
+      </register>
       <register name="/" type="4">
-        <text>experi</text>
+        <text>ecomme</text>
       </register>
     </registers>
     <search>
-      <last-search>experi</last-search>
+      <last-search>ecomme</last-search>
       <last-offset />
-      <last-pattern>experi</last-pattern>
+      <last-pattern>ecomme</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>authentication</entry>
-        <entry>authentication_api</entry>
         <entry>experi</entry>
+        <entry>authentication_api</entry>
+        <entry>volumes</entry>
+        <entry>cms</entry>
+        <entry>ecomme</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -60,6 +83,15 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
