@@ -9,8 +9,8 @@
         <mark key="^" line="96" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1499985371456">
-        <mark key="'" line="219" column="13" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1499998663880">
+        <mark key="'" line="245" column="18" />
         <mark key="[" line="12" column="81" />
         <mark key="]" line="12" column="80" />
         <mark key="." line="12" column="80" />
@@ -22,7 +22,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="37" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="65" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="110" column="82" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="64" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
@@ -62,6 +61,16 @@
       <jump line="4164" column="0" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
       <jump line="101" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="219" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="12" column="80" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="134" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="135" column="72" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="141" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="143" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="154" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="158" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="236" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="241" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="245" column="18" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -83,13 +92,13 @@
         <text>http://authentication_api</text>
       </register>
       <register name="/" type="4">
-        <text>ecommerce_db</text>
+        <text>cms</text>
       </register>
     </registers>
     <search>
-      <last-search>ecommerce_db</last-search>
+      <last-search>cms</last-search>
       <last-offset />
-      <last-pattern>ecommerce_db</last-pattern>
+      <last-pattern>cms</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -101,10 +110,10 @@
         <entry>volumes</entry>
         <entry>ecomme</entry>
         <entry>local</entry>
-        <entry>cms</entry>
         <entry>courses_api</entry>
         <entry>ecommerce_api</entry>
         <entry>ecommerce_db</entry>
+        <entry>cms</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
