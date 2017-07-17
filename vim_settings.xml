@@ -23,6 +23,13 @@
         <mark key="." line="8" column="5" />
         <mark key="^" line="8" column="5" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/scratch" timestamp="1500311560473">
+        <mark key="'" line="513" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="513" column="4" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" timestamp="1499980187996">
         <mark key="'" line="4164" column="0" />
       </file>
@@ -79,21 +86,33 @@
       <jump line="245" column="18" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="826" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/swagger.yml" />
       <jump line="827" column="10" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/swagger.yml" />
+      <jump line="516" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/scratch" />
+      <jump line="20" column="3" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/scratch" />
+      <jump line="513" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/scratch" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gJy9ob21lL2VjMi11c2VyL3ZvbHVtZXMvY21zLXVwbG9hZHM6L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZToKICAgICAgc3VtbWFyeTogCiAgICAgIG9wZXJhdGlvbklkOiAKICAgICAgcGFyYW1ldGVyczoKICAgICAgICAtIAogICAgICByZXNwb25zZXM6CiAgICAgICAgCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZToKICAgICAgc3VtbWFyeTogCiAgICAgIG9wZXJhdGlvbklkOiAKICAgICAgcGFyYW1ldGVyczoKICAgICAgICAtIAogICAgICByZXNwb25zZXM6CiAgICAgICAgCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlbGV0ZToKICAgICAgc3VtbWFyeTogCiAgICAgIG9wZXJhdGlvbklkOiAKICAgICAgcGFyYW1ldGVyczoKICAgICAgICAtIAogICAgICByZXNwb25zZXM6CiAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
