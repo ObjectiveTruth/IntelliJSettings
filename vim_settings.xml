@@ -30,6 +30,18 @@
         <mark key="^" line="513" column="4" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/foo/createAPIFromAttributeNames.js" timestamp="1500314667162">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/createAPIFromAttributeNames.js" timestamp="1500313171975">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="2" />
+        <mark key="^" line="6" column="2" />
+        <mark key="." line="6" column="2" />
+      </file>
       <file name="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" timestamp="1499980187996">
         <mark key="'" line="4164" column="0" />
       </file>
@@ -95,10 +107,10 @@
         <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gJy9ob21lL2VjMi11c2VyL3ZvbHVtZXMvY21zLXVwbG9hZHM6L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdMaW5lIGZyb20gZmlsZTonLCBsaW5lKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="&quot;" type="4">
+        <text>'Line from file:', line</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CQo=</text>
@@ -107,19 +119,22 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZToKICAgICAgc3VtbWFyeTogCiAgICAgIG9wZXJhdGlvbklkOiAKICAgICAgcGFyYW1ldGVyczoKICAgICAgICAtIAogICAgICByZXNwb25zZXM6CiAgICAgICAgCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGRlbGV0ZToKICAgICAgc3VtbWFyeTogCiAgICAgIG9wZXJhdGlvbklkOiAKICAgICAgcGFyYW1ldGVyczoKICAgICAgICAtIAogICAgICByZXNwb25zZXM6CiAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>http://authentication_api</text>
+        <text>'Line from file:', line</text>
       </register>
       <register name="/" type="4">
         <text>cms</text>
@@ -147,6 +162,7 @@
       </history-search>
       <history-cmd>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
