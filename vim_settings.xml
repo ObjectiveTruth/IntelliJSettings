@@ -30,7 +30,8 @@
         <mark key="^" line="513" column="4" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/foo/createAPIFromAttributeNames.js" timestamp="1500314667162">
+      <file name="$USER_HOME$/foo/createAPIFromAttributeNames.js" timestamp="1500346665729">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="13" column="15" />
         <mark key="]" line="14" column="27" />
         <mark key="." line="14" column="27" />
@@ -101,6 +102,8 @@
       <jump line="516" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/scratch" />
       <jump line="20" column="3" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/scratch" />
       <jump line="513" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/scratch" />
+      <jump line="14" column="27" filename="$USER_HOME$/foo/createAPIFromAttributeNames.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/foo/createAPIFromAttributeNames.js" />
     </jumps>
     <registers>
       <register name="0" type="2">
