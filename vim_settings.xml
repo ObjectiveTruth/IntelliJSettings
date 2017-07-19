@@ -172,10 +172,10 @@
         <mark key="^" line="6" column="72" />
         <mark key="." line="6" column="72" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1499793239281">
-        <mark key="'" line="33" column="40" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1500431089286">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="11" />
         <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" timestamp="1495062888709">
@@ -881,6 +881,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1499878858714">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/update_gluu_static_pages.sh" timestamp="1500429452365">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="15" column="40" />
+        <mark key="^" line="15" column="40" />
+        <mark key="." line="15" column="40" />
       </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/pages/auth-guard.service.ts" timestamp="1499573831581">
         <mark key="'" line="15" column="61" />
@@ -2041,6 +2047,13 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="35" />
       </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/useful_scripts/update_gluu_static_pages.sh" timestamp="1500432343933">
+        <mark key="'" line="43" column="35" />
+        <mark key="[" line="71" column="28" />
+        <mark key="]" line="71" column="35" />
+        <mark key="." line="71" column="35" />
+        <mark key="^" line="71" column="35" />
+      </file>
       <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.yml" timestamp="1496957123610">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="12" column="0" />
@@ -2174,13 +2187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="18" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="17" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="27" column="24" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="55" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="62" column="21" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="63" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="65" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="76" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="175" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="180" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
@@ -2274,28 +2280,35 @@
       <jump line="126" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="271" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
       <jump line="56" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="57" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
+      <jump line="58" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
+      <jump line="8" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
+      <jump line="37" column="25" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/useful_scripts/update_gluu_static_pages.sh" />
+      <jump line="30" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/useful_scripts/update_gluu_static_pages.sh" />
+      <jump line="32" column="72" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/useful_scripts/update_gluu_static_pages.sh" />
+      <jump line="43" column="35" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/useful_scripts/update_gluu_static_pages.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>DIRNAME</text>
       </register>
       <register name="f" type="4">
         <text>&quot;qj</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>DIRNAME</text>
       </register>
       <register name="/" type="4">
-        <text>authentication_api</text>
+        <text encoding="base64">XDxFWEVDX0lOX0NIUk9PVFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y3VybCAtaSAtc1MgLVggUE9TVCBodHRwOi8vbG9jYWxob3N0OjgwMDEvYXBpcy8gXAogICAgLWQgJ25hbWU9YWNjb3VudGluZ19hcGknIFwKICAgIC1kICdob3N0cz1hcGkuY3BzLWVjcC5kZXYuaW5ub3ZleGEuY29tJyBcCiAgICAtZCAndXBzdHJlYW1fdXJsPWh0dHA6Ly9hY2NvdW50aW5nX2FwaTo1MDAwJyBcCiAgICAtZCAndXJpcz0vYWNjb3VudGluZycgXAogICAgLWQgJ3N0cmlwX3VyaT10cnVlJyBcCiAgICAtZCAncHJlc2VydmVfaG9zdD10cnVlJyBcCiAgICAtZCAnaHR0cHNfb25seT10cnVlJwo=</text>
+        <text encoding="base64">ICAgIGVjaG8gIkNsZWFuaW5nIHVwIGZpbGVzLi4uIgogICAgJHtTU0hfQ09NTUFORH0gcm0gLXJmICR7RElSTkFNRX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YTMwNWM5ZTctNjA4YS00Mzg3LWE0NmYtM2YzZTk0ZWZhZmRkIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2322,22 +2335,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gZWNvbW1lcmNlCg==</text>
+        <text encoding="base64">ICAgIERJUk5BTUU9YGRpcm5hbWUgJHsxfWAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgSU5OT19TQ0lNX1RPS0VOCg==</text>
+        <text encoding="base64">RklMRU5BTUU9YGJhc2VuYW1lICR7MX1gICMgZXhhbXBsZSAvZmVzL2Zlc2EvZm9vLnppcCA9PiBmb28uemlwCkJBU0VOQU1FPWBiYXNlbmFtZSAkezF9IC56aXBgICMjIGV4YW1wbGUgL2Zlc2EvZmVzYS9mb28uemlwID0+IGZvbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgSU5OT19TQ0lNX1RPS0VOCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgSU5OT19FQ09NTUVSQ0VfQ0hBTk5FTDogJ1dvb0NvbW1lcmNlJwogICAgICBJTk5PX0VDT01NRVJDRV9XT09DT01NRVJDRV9IT1NUOiBodHRwOi8vZWNvbW1lcmNlCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIlVuemlwaW5nIGZpbGVzLi4uIgogICAgJHtTU0hfQ09NTUFORH0gdW56aXAgJHtGSUxFTkFNRX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWNobyAiSW5zZXJ0aW5nIG1haW4gY3BzLWVjcCBzZXJ2ZXIgdG8gY2hyb290IGhvc3QgZmlsZShTSE9VTEQgT05MWSBCRSBET05FIElOIERFViIKZWNobyAtZSAiMTAuMC4xLjE1MCBjcHMtZWNwLmRldi5pbm5vdmV4YS5jb20iID4+IC9vcHQvZ2x1dS1zZXJ2ZXItJHtHTFVVX1ZFUlNJT059L2V0Yy9ob3N0cwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWNobyAiSW5zZXJ0aW5nIG1haW4gY3BzLWVjcCBzZXJ2ZXIgdG8gY2hyb290IGhvc3QgZmlsZShTSE9VTEQgT05MWSBCRSBET05FIElOIERFViIKZWNobyAtZSAiMTAuMC4xLjE1MCBjcHMtZWNwLmRldi5pbm5vdmV4YS5jb20iID4+IC9vcHQvZ2x1dS1zZXJ2ZXItJHtHTFVVX1ZFUlNJT059L2V0Yy9ob3N0cwoK</text>
+        <text encoding="base64">ICAgIGVjaG8gIiR7MX0iOwogICAgZWNobyAiJHtGSUxFTkFNRX0iOwogICAgZWNobyAiJHtCQVNFTkFNRX0iOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2588,19 +2601,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsiKioiOiAiaW5kZXguaHRtbCJ9Cg==</text>
+        <text encoding="base64">c2V0IC14CnNldCAtZQpzZXQgLXUKCmVjaG8gIiR7MX0iOwplY2hvICIke0ZJTEVOQU1FfSI7CmVjaG8gIiR7QkFTRU5BTUV9IjsKZWNobyAiU3RhcnRpbmcgc3luYy4uLiIKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gQ29uZmlndXJlcyB0aGUgc3VwZXJzdGF0aWMgc3RhdGljIHdlYgo=</text>
+        <text encoding="base64">ZWNobyAiQ29weWluZyBmaWxlcyB0byBzZXJ2ZXIuLi4iCnNjcCAkezF9ICR7U1NIX1RBUkdFVH06JHtIT01FX0RJUkVDVE9SWX0vCgplY2hvICJVbnppcGluZyBmaWxlcy4uLiIKJHtTU0hfQ09NTUFORH0gdW56aXAgJHtGSUxFTkFNRX0KCmVjaG8gIkNoYW5naW5nIG93bmVyc2hpcCB0byBqZXR0eTpqZXR0eS4uLiIKJHtTU0hfQ09NTUFORH0gY2hvd24gLVIgOTk4Ojk5OCAke0JBU0VOQU1FfQoKZWNobyAiQ29weWluZyBmaWxlcyB0byBnbHV1Li4uIgoke1NTSF9DT01NQU5EfSBjcCAke0JBU0VOQU1FfS8qKiAvb3B0L2dsdXUtc2VydmVyLTMuMC4yL29wdC9nbHV1L2pldHR5L294YXV0aC9jdXN0b20vCgplY2hvICJSZXN0YXJ0aW5nIGdsdXUiCiR7U1NIX0NPTU1BTkR9ICR7RVhFQ19JTl9DSFJPT1R9ICJzZXJ2aWNlIGlkZW50aXR5IHN0b3AgJiYgc2VydmljZSBpZGVudGl0eSBzdGFydCAmJiBzZXJ2aWNlIG94YXV0aCBzdG9wICYmIHNlcnZpY2Ugb3hhdXRoIHN0YXJ0IgoKZWNobyAiQWxsIERvbmUhIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>authentication_api</last-search>
+      <last-search encoding="base64">XDxFWEVDX0lOX0NIUk9PVFw+</last-search>
       <last-offset />
-      <last-pattern>authentication_api</last-pattern>
+      <last-pattern encoding="base64">XDxFWEVDX0lOX0NIUk9PVFw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2608,7 +2621,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wp-a</entry>
         <entry>course</entry>
         <entry>ecommerce</entry>
         <entry>api</entry>
@@ -2628,6 +2640,7 @@
         <entry encoding="base64">XDx0YW1hbm5hXD4=</entry>
         <entry>ACC</entry>
         <entry>authentication_api</entry>
+        <entry encoding="base64">XDxFWEVDX0lOX0NIUk9PVFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL19TRV8vXy9n</entry>
