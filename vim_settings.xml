@@ -3,196 +3,2689 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-entrypoint.sh" timestamp="1499971424900">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="^" line="96" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config.php" timestamp="1498535535761">
+        <mark key="'" line="509" column="22" />
+        <mark key="[" line="569" column="45" />
+        <mark key="]" line="569" column="52" />
+        <mark key="." line="569" column="52" />
+        <mark key="^" line="569" column="52" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" timestamp="1499998663880">
-        <mark key="'" line="245" column="18" />
-        <mark key="[" line="12" column="81" />
-        <mark key="]" line="12" column="80" />
-        <mark key="." line="12" column="80" />
-        <mark key="^" line="12" column="80" />
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/completed-jobs/completed-jobs.component.ts" timestamp="1491496421816">
+        <mark key="'" line="66" column="61" />
+        <mark key="[" line="41" column="46" />
+        <mark key="]" line="42" column="19" />
+        <mark key="." line="42" column="19" />
+        <mark key="^" line="42" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/swagger.yml" timestamp="1500048009416">
-        <mark key="'" line="827" column="10" />
-        <mark key="[" line="7" column="31" />
-        <mark key="]" line="8" column="5" />
-        <mark key="." line="8" column="5" />
-        <mark key="^" line="8" column="5" />
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/docker-compose.yml" timestamp="1494276120133">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="66" column="72" />
+        <mark key="]" line="66" column="80" />
+        <mark key="^" line="66" column="80" />
+        <mark key="." line="66" column="80" />
       </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/scratch" timestamp="1500311560473">
-        <mark key="'" line="513" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/cloud-init.dev.tpl" timestamp="1496236724201">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="14" column="116" />
+        <mark key="]" line="14" column="115" />
+        <mark key="." line="14" column="115" />
+        <mark key="^" line="14" column="115" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/circle.yml" timestamp="1498077276425">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="50" column="156" />
+        <mark key="]" line="50" column="155" />
+        <mark key="^" line="50" column="155" />
+        <mark key="." line="50" column="155" />
+      </file>
+      <file name="restClient/response0.txt" timestamp="1499878382274">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/myaccount/MyAccount.java" timestamp="1480299101194">
+        <mark key="'" line="115" column="40" />
+        <mark key="[" line="63" column="56" />
+        <mark key="]" line="63" column="65" />
+        <mark key="^" line="63" column="65" />
+        <mark key="." line="63" column="65" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/app/config.js" timestamp="1480180120532">
+        <mark key="'" line="31" column="28" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+        <mark key="^" line="20" column="18" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-details/job-details.module.ts" timestamp="1490471255911">
+        <mark key="'" line="3" column="19" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
-        <mark key="^" line="513" column="4" />
         <mark key="." line="3" column="0" />
+        <mark key="^" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/foo/createAPIFromAttributeNames.js" timestamp="1500346665729">
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-compose.template.yml" timestamp="1498356510398">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="14" column="27" />
-        <mark key="." line="14" column="27" />
-        <mark key="^" line="14" column="27" />
-      </file>
-      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/createAPIFromAttributeNames.js" timestamp="1500313171975">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="2" />
-        <mark key="^" line="6" column="2" />
-        <mark key="." line="6" column="2" />
+        <mark key="]" line="33" column="58" />
+        <mark key="." line="11" column="48" />
+        <mark key="^" line="10" column="52" />
       </file>
-      <file name="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" timestamp="1499980187996">
-        <mark key="'" line="4164" column="0" />
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/views/index.pug" timestamp="1480120167486">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="122" />
+        <mark key="]" line="12" column="122" />
+        <mark key="^" line="12" column="122" />
+        <mark key="." line="12" column="122" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/01bad72d-6b06-4cba-a63f-1fb7a8eedf95/console.sql" timestamp="1491509443212">
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="1" column="34" />
+        <mark key="^" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab09/MyApplication/app/src/main/AndroidManifest.xml" timestamp="1480634141714">
+        <mark key="'" line="41" column="51" />
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="9" column="65" />
+        <mark key="^" line="9" column="65" />
+        <mark key="." line="9" column="65" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/dot-input.html" timestamp="1479940479656">
+        <mark key="'" line="35" column="6" />
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab7/MyApplication/app/src/main/java/com/sansalex/myapplicationlab7/GradesDBHelper.java" timestamp="1481811457466">
+        <mark key="'" line="19" column="32" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="106" column="21" />
+        <mark key="." line="93" column="75" />
+        <mark key="^" line="93" column="75" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/dev.cloud-init" timestamp="1494875794743">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="11" column="45" />
+        <mark key="." line="11" column="45" />
+        <mark key="^" line="11" column="45" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/docker-entrypoint.sh" timestamp="1499876264559">
+        <mark key="'" line="71" column="19" />
+        <mark key="[" line="131" column="14" />
+        <mark key="]" line="131" column="27" />
+        <mark key="." line="131" column="27" />
+        <mark key="^" line="131" column="27" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-authentication/.gitignore" timestamp="1494602694208">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard-api/conf/application.conf" timestamp="1499894841585">
+        <mark key="[" line="0" column="66" />
+        <mark key="]" line="1" column="53" />
+        <mark key="^" line="1" column="53" />
+        <mark key="." line="1" column="53" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/providers/ng4-flow.service.ts" timestamp="1490658871678">
+        <mark key="'" line="2" column="57" />
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="57" />
+        <mark key="^" line="19" column="57" />
+        <mark key="." line="19" column="57" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-CMS/src/wp-app/wp-config.php" timestamp="1494264125596">
+        <mark key="'" line="43" column="22" />
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="21" column="29" />
+        <mark key="^" line="20" column="49" />
+        <mark key="." line="21" column="52" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab6/MyApplication/app/src/main/java/com/sansalex/myapplication/MainActivity.java" timestamp="1476468188987">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="80" column="29" />
+        <mark key="]" line="81" column="8" />
+        <mark key="." line="81" column="8" />
+        <mark key="^" line="81" column="8" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/BookingInteractionModel.java" timestamp="1480354789689">
+        <mark key="'" line="125" column="20" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="52" column="16" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/about/about.component.html" timestamp="1491458244857">
+        <mark key="[" line="17" column="54" />
+        <mark key="]" line="17" column="106" />
+        <mark key="." line="17" column="106" />
+        <mark key="^" line="17" column="106" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/environments/environment.ts" timestamp="1496000001011">
+        <mark key="[" line="6" column="73" />
+        <mark key="]" line="6" column="72" />
+        <mark key="^" line="6" column="72" />
+        <mark key="." line="6" column="72" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" timestamp="1500431089286">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/routes" timestamp="1495062888709">
+        <mark key="'" line="266" column="84" />
+        <mark key="[" line="90" column="93" />
+        <mark key="]" line="90" column="94" />
+        <mark key="." line="90" column="94" />
+        <mark key="^" line="90" column="118" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/views/layout.pug" timestamp="1480120241885">
+        <mark key="'" line="60" column="59" />
+        <mark key="[" line="60" column="59" />
+        <mark key="]" line="60" column="59" />
+        <mark key="^" line="60" column="59" />
+        <mark key="." line="60" column="59" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/config.template.php" timestamp="1498974130462">
+        <mark key="'" line="542" column="57" />
+        <mark key="[" line="77" column="17" />
+        <mark key="]" line="77" column="40" />
+        <mark key="^" line="77" column="40" />
+        <mark key="." line="77" column="40" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/midterm1/Midterm/app/src/main/java/com/sansalex/midterm/MainActivity.java" timestamp="1478109297530">
+        <mark key="'" line="20" column="13" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="45" column="107" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/.gitignore" timestamp="1493322758765">
+        <mark key="'" line="131" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.module_cron.php" timestamp="1498367714596">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="7" column="21" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/Dockerfile_javadiscosnp/Dockerfile" timestamp="1490895843912">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="48" />
+        <mark key="^" line="2" column="52" />
+        <mark key="." line="2" column="52" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/test/ApplicationSpec.scala" timestamp="1470520415332">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="9" column="21" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/layout/bookinginteraction_joinorleave.xml" timestamp="1472744130322">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="135" column="44" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/calendar/calendarloaded/CalendarLoaded.java" timestamp="1472926278446">
+        <mark key="'" line="63" column="5" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="50" column="7" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-authentication/README.md" timestamp="1495737373306">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="5" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="10" column="5" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/server.js" timestamp="1481477568427">
+        <mark key="'" line="178" column="0" />
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsDAO.scala" timestamp="1494735620535">
+        <mark key="'" line="135" column="12" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+        <mark key="^" line="117" column="40" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/.gitignore" timestamp="1498077063608">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/views/index.pug" timestamp="1481487477845">
+        <mark key="'" line="30" column="64" />
+        <mark key="[" line="30" column="64" />
+        <mark key="]" line="30" column="64" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="30" column="64" />
+      </file>
+      <file name="$USER_HOME$/bio.sh" timestamp="1495480210401">
+        <mark key="[" line="100" column="6" />
+        <mark key="]" line="100" column="6" />
+        <mark key="^" line="107" column="15" />
+        <mark key="." line="100" column="9" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/cloud_config" timestamp="1493772616597">
+        <mark key="[" line="7" column="426" />
+        <mark key="]" line="7" column="425" />
+        <mark key="^" line="7" column="425" />
+        <mark key="." line="7" column="425" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/controllers/RegisterController.scala" timestamp="1479960653046">
+        <mark key="'" line="68" column="8" />
+        <mark key="[" line="37" column="55" />
+        <mark key="]" line="37" column="55" />
+        <mark key="." line="37" column="55" />
+        <mark key="^" line="37" column="55" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.module.ts" timestamp="1499573897235">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="36" column="32" />
+        <mark key="]" line="36" column="31" />
+        <mark key="^" line="36" column="31" />
+        <mark key="." line="36" column="31" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/FlowInfo.scala" timestamp="1490534124457">
+        <mark key="'" line="33" column="20" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="48" column="42" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/DBassignment2/src/main/scala/com/example/Hello.scala" timestamp="1491538760756">
+        <mark key="'" line="186" column="44" />
+        <mark key="[" line="221" column="25" />
+        <mark key="]" line="221" column="38" />
+        <mark key="." line="221" column="38" />
+        <mark key="^" line="221" column="38" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/webapps_labs/playground/index.html" timestamp="1481986047902">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="5" column="47" />
+        <mark key="." line="5" column="47" />
+        <mark key="^" line="5" column="47" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/file-submit/file-submit/file-submit.component.html" timestamp="1490668651044">
+        <mark key="'" line="27" column="59" />
+        <mark key="[" line="36" column="36" />
+        <mark key="]" line="36" column="36" />
+        <mark key="." line="36" column="36" />
+        <mark key="^" line="36" column="35" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/file-submit/file-submit/file-submit.component.ts" timestamp="1490664335797">
+        <mark key="'" line="1" column="48" />
+        <mark key="[" line="36" column="14" />
+        <mark key="]" line="36" column="14" />
+        <mark key="." line="36" column="14" />
+        <mark key="^" line="36" column="14" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-authentication/docker-entrypoint.sh" timestamp="1495816719390">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/webapps_labs/base_files/lab1b.css" timestamp="1474578105198">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="68" column="12" />
+        <mark key="]" line="68" column="14" />
+        <mark key="." line="68" column="14" />
+        <mark key="^" line="68" column="14" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/server.js" timestamp="1481478308875">
+        <mark key="'" line="9" column="31" />
+        <mark key="[" line="72" column="32" />
+        <mark key="]" line="72" column="32" />
+        <mark key="." line="72" column="32" />
+        <mark key="^" line="10" column="29" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/package.json" timestamp="1495995025010">
+        <mark key="[" line="26" column="61" />
+        <mark key="]" line="26" column="61" />
+        <mark key="^" line="26" column="84" />
+        <mark key="." line="26" column="61" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/Dockerfile" timestamp="1499576034153">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="40" />
+        <mark key="^" line="15" column="40" />
+        <mark key="." line="15" column="40" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/project/plugins.sbt" timestamp="1471115385319">
+        <mark key="'" line="20" column="15" />
+        <mark key="[" line="20" column="52" />
+        <mark key="]" line="22" column="20" />
+        <mark key="." line="22" column="20" />
+        <mark key="^" line="22" column="20" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/flows/JoinOrLeave.java" timestamp="1480353265998">
+        <mark key="'" line="88" column="8" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="72" column="107" />
+        <mark key="." line="71" column="89" />
+        <mark key="^" line="71" column="89" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/main.tf" timestamp="1497551539907">
+        <mark key="'" line="34" column="36" />
+        <mark key="[" line="34" column="26" />
+        <mark key="]" line="34" column="36" />
+        <mark key="." line="34" column="36" />
+        <mark key="^" line="34" column="36" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/.travis.yml" timestamp="1471148061720">
+        <mark key="'" line="58" column="65" />
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="23" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/webapps_labs/midterm1/base/midterm.html" timestamp="1477423045213">
+        <mark key="'" line="49" column="36" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="41" column="14" />
+        <mark key="." line="92" column="36" />
+        <mark key="^" line="92" column="60" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/ViewLeaveOrJoin.java" timestamp="1472572559912">
+        <mark key="'" line="42" column="8" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="91" />
+        <mark key="^" line="55" column="90" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.module.ts" timestamp="1494424048645">
+        <mark key="'" line="9" column="21" />
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+        <mark key="^" line="15" column="20" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/variables.tf" timestamp="1493828040404">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="8" column="14" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/roles/authentication/tasks/main.yml" timestamp="1498339377749">
+        <mark key="'" line="54" column="10" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="58" />
+        <mark key="^" line="31" column="92" />
+        <mark key="." line="31" column="77" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobRunner.scala" timestamp="1495499034361">
+        <mark key="'" line="121" column="16" />
+        <mark key="[" line="125" column="26" />
+        <mark key="]" line="125" column="33" />
+        <mark key="^" line="125" column="33" />
+        <mark key="." line="125" column="33" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/load_env_vars.js" timestamp="1499574504327">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="36" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/moodle-config.php" timestamp="1496556335438">
+        <mark key="'" line="52" column="16" />
+        <mark key="[" line="76" column="44" />
+        <mark key="]" line="76" column="44" />
+        <mark key="^" line="76" column="44" />
+        <mark key="." line="76" column="44" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/GenomesDAO.scala" timestamp="1494740709292">
+        <mark key="'" line="35" column="39" />
+        <mark key="[" line="53" column="22" />
+        <mark key="]" line="53" column="34" />
+        <mark key="." line="53" column="34" />
+        <mark key="^" line="53" column="34" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/src/moodle/config.php" timestamp="1496797695337">
+        <mark key="'" line="76" column="28" />
+        <mark key="[" line="28" column="75" />
+        <mark key="]" line="28" column="74" />
+        <mark key="^" line="28" column="74" />
+        <mark key="." line="28" column="74" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/1.sql" timestamp="1488611287889">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/app/networking/CustomVolleyToHandleRedirects.java" timestamp="1471818547967">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="38" column="28" />
+        <mark key="]" line="38" column="36" />
+        <mark key="." line="38" column="36" />
+        <mark key="^" line="38" column="36" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/app/networking/customvolley/CustomVolleyToHandleRedirects.java" timestamp="1472178653714">
+        <mark key="'" line="46" column="30" />
+        <mark key="[" line="46" column="30" />
+        <mark key="]" line="46" column="36" />
+        <mark key="^" line="46" column="36" />
+        <mark key="." line="46" column="36" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/core/core.module.ts" timestamp="1490163056104">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="24" column="22" />
+        <mark key="." line="24" column="22" />
+        <mark key="^" line="24" column="22" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/README.MD" timestamp="1490895581317">
+        <mark key="'" line="51" column="19" />
+        <mark key="[" line="47" column="86" />
+        <mark key="]" line="47" column="86" />
+        <mark key="^" line="47" column="34" />
+        <mark key="." line="47" column="86" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/calendarmodel/CalendarWebService.java" timestamp="1472840431755">
+        <mark key="'" line="167" column="19" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="123" column="27" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/database_assignment2/DBAssignment2/src/main/scala/com/db-assignment2/Hello.scala" timestamp="1491534481629">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/bookinginteractionmodel/BookingInteractionEventType.java" timestamp="1472677927929">
+        <mark key="'" line="12" column="16" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="52" column="91" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/DBassignment2/build.sbt" timestamp="1491534792872">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/provisioner_hosts" timestamp="1498077695677">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/final_exam_base/FinalExamStarter/app/src/main/java/ca/uoit/csci4100/assessments/finalexamstarter/DownloadStoreLocationsTask.java" timestamp="1481816613159">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="119" column="81" />
+        <mark key="]" line="119" column="95" />
+        <mark key="^" line="119" column="95" />
+        <mark key="." line="119" column="95" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/data/jobs-api/jobs-api.service.ts" timestamp="1494721822405">
+        <mark key="'" line="26" column="4" />
+        <mark key="[" line="65" column="23" />
+        <mark key="]" line="65" column="23" />
+        <mark key="." line="65" column="23" />
+        <mark key="^" line="65" column="23" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/awslogs.conf" timestamp="1498275008053">
+        <mark key="'" line="131" column="33" />
+        <mark key="[" line="134" column="24" />
+        <mark key="]" line="134" column="24" />
+        <mark key="." line="134" column="39" />
+        <mark key="^" line="3" column="33" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/package.json" timestamp="1481506568224">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="13" column="98" />
+        <mark key="]" line="13" column="109" />
+        <mark key="." line="13" column="109" />
+        <mark key="^" line="13" column="109" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/conf/strings.conf" timestamp="1479952220627">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="1" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="4" column="68" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/pages/authenticationCallback/authenticationCallback.component.ts" timestamp="1499565379781">
+        <mark key="'" line="17" column="4" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="53" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/test/ApplicationSpec.scala" timestamp="1469395060636">
+        <mark key="'" line="16" column="6" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="32" column="26" />
+        <mark key="^" line="32" column="26" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/wp-config.php" timestamp="1499004992318">
+        <mark key="[" line="25" column="75" />
+        <mark key="]" line="25" column="75" />
+        <mark key="^" line="25" column="76" />
+        <mark key="." line="25" column="75" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/views/_layout.pug" timestamp="1481488491017">
+        <mark key="'" line="49" column="47" />
+        <mark key="[" line="44" column="40" />
+        <mark key="]" line="44" column="44" />
+        <mark key="." line="44" column="44" />
+        <mark key="^" line="44" column="44" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/calendar/grid/tablefixheaders/TableFixHeaders.java" timestamp="1471159417518">
+        <mark key="'" line="482" column="49" />
+        <mark key="[" line="482" column="13" />
+        <mark key="]" line="482" column="49" />
+        <mark key="." line="482" column="49" />
+        <mark key="^" line="482" column="49" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/README.md" timestamp="1498595553440">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="45" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/pending-jobs/pending-jobs.component.html" timestamp="1491493322468">
+        <mark key="'" line="7" column="67" />
+        <mark key="[" line="41" column="60" />
+        <mark key="]" line="41" column="81" />
+        <mark key="." line="41" column="81" />
+        <mark key="^" line="41" column="81" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/calendar/grid/Grid.java" timestamp="1472962537091">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="76" column="11" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1494710319278">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="3" column="8" />
+        <mark key="^" line="3" column="8" />
+        <mark key="." line="3" column="8" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.settings.ts" timestamp="1499574492066">
+        <mark key="'" line="29" column="40" />
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="2" column="55" />
+        <mark key="^" line="2" column="55" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/test/ApplicationSpec.scala" timestamp="1495063099148">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="14" column="42" />
+        <mark key="." line="14" column="42" />
+        <mark key="^" line="17" column="32" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3abb79e0-f4f4-493d-ad25-6bb441fcce01/console.sql" timestamp="1491520599559">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.j2.properties" timestamp="1498320732320">
+        <mark key="'" line="91" column="14" />
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="26" column="16" />
+        <mark key="." line="26" column="16" />
+        <mark key="^" line="26" column="16" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/konggluu/data/docker-compose.yml" timestamp="1495557867198">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="20" column="20" />
+        <mark key="^" line="18" column="26" />
+        <mark key="." line="18" column="26" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/common/InteractionFragment.java" timestamp="1480353190529">
+        <mark key="'" line="7" column="22" />
+        <mark key="[" line="36" column="29" />
+        <mark key="]" line="36" column="30" />
+        <mark key="^" line="36" column="30" />
+        <mark key="." line="36" column="30" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/routes/createImgurLinkForDotString.ts" timestamp="1494341472071">
+        <mark key="'" line="78" column="29" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="2" />
+        <mark key="^" line="5" column="2" />
+        <mark key="." line="5" column="2" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/cloud.config" timestamp="1493771846526">
+        <mark key="[" line="7" column="426" />
+        <mark key="]" line="7" column="426" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="7" column="426" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/guidelinespolicies/GuidelinesAndPolicies.java" timestamp="1472964233852">
+        <mark key="'" line="47" column="78" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="48" column="69" />
+        <mark key="." line="47" column="78" />
+        <mark key="^" line="47" column="78" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/circle_ci_pr_commenter.js" timestamp="1497889082551">
+        <mark key="[" line="4" column="78" />
+        <mark key="]" line="4" column="78" />
+        <mark key="." line="4" column="78" />
+        <mark key="^" line="4" column="82" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/test/scala/GraphCreationLoadTest.scala" timestamp="1471131867598">
+        <mark key="'" line="11" column="31" />
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="54" />
+        <mark key="." line="11" column="54" />
+        <mark key="^" line="11" column="54" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/flows/Book.java" timestamp="1480353205245">
+        <mark key="'" line="44" column="22" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="108" />
+        <mark key="." line="65" column="103" />
+        <mark key="^" line="65" column="103" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab08/MyApplication/app/src/main/java/com/sansalex/myapplication/MainActivity.java" timestamp="1480633691735">
+        <mark key="'" line="64" column="49" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="37" column="40" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/theme/sass/conf/_variables.scss" timestamp="1496461302638">
+        <mark key="[" line="23" column="15" />
+        <mark key="]" line="23" column="15" />
+        <mark key="." line="23" column="15" />
+        <mark key="^" line="23" column="15" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/database_assignment2/2.result.txt" timestamp="1491534037660">
+        <mark key="'" line="25" column="22" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="8" />
+        <mark key="." line="28" column="8" />
+        <mark key="^" line="28" column="8" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/coursera.sc" timestamp="1495493654840">
+        <mark key="'" line="52" column="4" />
+        <mark key="[" line="62" column="5" />
+        <mark key="]" line="62" column="7" />
+        <mark key="." line="62" column="7" />
+        <mark key="^" line="62" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/cps-ecp_dev.properties" timestamp="1498239323233">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="212" column="78" />
+        <mark key="]" line="212" column="78" />
+        <mark key="." line="212" column="78" />
+        <mark key="^" line="212" column="78" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/test/resources/logback.xml" timestamp="1470501106113">
+        <mark key="'" line="16" column="28" />
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+        <mark key="^" line="1" column="34" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.component.ts" timestamp="1499574933437">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/files/files.module.ts" timestamp="1490655629750">
+        <mark key="'" line="3" column="21" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="14" column="21" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/app.module.ts" timestamp="1491448998377">
+        <mark key="'" line="17" column="54" />
+        <mark key="[" line="17" column="55" />
+        <mark key="]" line="17" column="54" />
+        <mark key="^" line="17" column="54" />
+        <mark key="." line="17" column="54" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/calendarmodel/TimeCell.java" timestamp="1471800114811">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="84" column="13" />
+        <mark key="]" line="84" column="29" />
+        <mark key="." line="84" column="29" />
+        <mark key="^" line="84" column="29" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/simplesaml.config.php" timestamp="1498364884740">
+        <mark key="'" line="23" column="42" />
+        <mark key="[" line="23" column="48" />
+        <mark key="]" line="23" column="58" />
+        <mark key="^" line="23" column="58" />
+        <mark key="." line="23" column="58" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.config-metarefresh.php" timestamp="1498501797542">
+        <mark key="'" line="41" column="37" />
+        <mark key="[" line="41" column="37" />
+        <mark key="]" line="41" column="63" />
+        <mark key="." line="41" column="65" />
+        <mark key="^" line="41" column="65" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-details/job-details.component.ts" timestamp="1493608011726">
+        <mark key="'" line="29" column="8" />
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="20" column="21" />
+        <mark key="." line="20" column="21" />
+        <mark key="^" line="20" column="21" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/DBassignment2/2.sql" timestamp="1491538736362">
+        <mark key="[" line="17" column="41" />
+        <mark key="]" line="17" column="50" />
+        <mark key="^" line="17" column="50" />
+        <mark key="." line="17" column="50" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/variables.tf" timestamp="1496338829073">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/usermodel/MyAccountParser.java" timestamp="1480300702363">
+        <mark key="'" line="116" column="16" />
+        <mark key="[" line="99" column="89" />
+        <mark key="]" line="100" column="90" />
+        <mark key="." line="100" column="90" />
+        <mark key="^" line="100" column="90" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/06aca98c-c34b-4119-abf7-2e741b276880/console.sql" timestamp="1491521032132">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/test/spec.js" timestamp="1485907082021">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="52" column="21" />
+        <mark key="]" line="52" column="115" />
+        <mark key="." line="52" column="115" />
+        <mark key="^" line="52" column="115" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/ci_scripts/lsyncd.conf.lua" timestamp="1496773979244">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="8" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/ResumableInfoStorage.scala" timestamp="1485120012491">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/views/layout.pug" timestamp="1481486366328">
+        <mark key="'" line="31" column="35" />
+        <mark key="[" line="40" column="50" />
+        <mark key="]" line="40" column="50" />
+        <mark key="." line="40" column="50" />
+        <mark key="^" line="40" column="49" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/models/imgur/ImgurModel.scala" timestamp="1479078687556">
+        <mark key="'" line="85" column="16" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="38" column="12" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/HealthCheckController.java" timestamp="1469410179224">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/NGFlowPlaySample/.gitignore" timestamp="1485266708586">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
+        <mark key="^" line="9" column="14" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/heroes/src/app/app.component.ts" timestamp="1485285424588">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="12" column="43" />
+        <mark key="]" line="12" column="43" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="12" column="43" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1499878858714">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/update_gluu_static_pages.sh" timestamp="1500429452365">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="15" column="40" />
+        <mark key="^" line="15" column="40" />
+        <mark key="." line="15" column="40" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/pages/auth-guard.service.ts" timestamp="1499573831581">
+        <mark key="'" line="15" column="61" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.metarefresh.cron" timestamp="1498367776589">
+        <mark key="[" line="1" column="125" />
+        <mark key="]" line="1" column="124" />
+        <mark key="^" line="1" column="124" />
+        <mark key="." line="1" column="124" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/common/Utils.java" timestamp="1471757403144">
+        <mark key="'" line="38" column="23" />
+        <mark key="[" line="20" column="83" />
+        <mark key="]" line="20" column="83" />
+        <mark key="." line="20" column="83" />
+        <mark key="^" line="20" column="83" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab3/base_files/lab3.html" timestamp="1475681375869">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="56" column="29" />
+        <mark key="]" line="56" column="43" />
+        <mark key="." line="56" column="43" />
+        <mark key="^" line="56" column="43" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/common/services/ng2flow/ng2flow.service.ts" timestamp="1485734699521">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="38" />
+        <mark key="]" line="1" column="41" />
+        <mark key="." line="1" column="41" />
+        <mark key="^" line="1" column="41" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/bookinginteractionmodel/BookingInteractionWebService.java" timestamp="1472841277437">
+        <mark key="'" line="164" column="27" />
+        <mark key="[" line="269" column="25" />
+        <mark key="]" line="269" column="40" />
+        <mark key="." line="269" column="40" />
+        <mark key="^" line="269" column="40" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/final_exam_base/FinalExamStarter/app/src/main/java/ca/uoit/csci4100/assessments/finalexamstarter/PreferredStoreLocationDBHelper.java" timestamp="1481811710728">
+        <mark key="'" line="22" column="37" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="^" line="105" column="89" />
+        <mark key="." line="106" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/models/ImgurResponse.scala" timestamp="1469403176162">
+        <mark key="'" line="16" column="37" />
+        <mark key="[" line="13" column="87" />
+        <mark key="]" line="13" column="107" />
+        <mark key="." line="13" column="107" />
+        <mark key="^" line="13" column="107" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/about/about.module.ts" timestamp="1490471498093">
+        <mark key="'" line="3" column="23" />
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="15" column="3" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/src/moodle/HHHHHHHHHH" timestamp="1496777111597">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/app/networking/customvolley/CustomNetworkToHandleRedirects.java" timestamp="1472178629651">
+        <mark key="'" line="167" column="62" />
+        <mark key="[" line="21" column="51" />
+        <mark key="]" line="21" column="54" />
+        <mark key="." line="21" column="54" />
+        <mark key="^" line="21" column="54" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/lsyncd.conf.template.lua" timestamp="1498356654119">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="10" column="49" />
+        <mark key="^" line="10" column="49" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/services/ImgurService.scala" timestamp="1469389846586">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/webapps_labs/ass1/part3_copy/board.html" timestamp="1476225639851">
+        <mark key="'" line="9" column="17" />
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="4" column="51" />
+        <mark key="." line="4" column="51" />
+        <mark key="^" line="4" column="51" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/Upload.scala" timestamp="1494724454502">
+        <mark key="'" line="108" column="8" />
+        <mark key="[" line="141" column="134" />
+        <mark key="]" line="141" column="133" />
+        <mark key="." line="141" column="133" />
+        <mark key="^" line="141" column="133" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/evolutions/default/1.sql" timestamp="1494722579301">
+        <mark key="[" line="43" column="29" />
+        <mark key="]" line="43" column="29" />
+        <mark key="." line="43" column="29" />
+        <mark key="^" line="45" column="28" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab6/MyApplication/app/src/main/java/com/sansalex/myapplication/DeleteContact.java" timestamp="1476467786595">
+        <mark key="'" line="26" column="31" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="52" column="8" />
+        <mark key="." line="40" column="24" />
+        <mark key="^" line="40" column="24" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/circle.yml" timestamp="1496599453935">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/Dockerfile" timestamp="1498595112874">
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="26" column="24" />
+        <mark key="^" line="26" column="24" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/JoinOrLeave.java" timestamp="1472503983033">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="267" column="4" />
+        <mark key="." line="68" column="101" />
+        <mark key="^" line="68" column="101" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.ts" timestamp="1494721954233">
+        <mark key="'" line="186" column="12" />
+        <mark key="[" line="162" column="75" />
+        <mark key="]" line="163" column="62" />
+        <mark key="." line="163" column="62" />
+        <mark key="^" line="163" column="62" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/BookingInteraction.java" timestamp="1472964481022">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="70" column="56" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/roles/dev_main/files/aws_ecr_credentials_helper/install_aws_ecr_credentials_helper.sh" timestamp="1498341918327">
+        <mark key="'" line="2" column="5" />
+        <mark key="[" line="18" column="71" />
+        <mark key="]" line="18" column="80" />
+        <mark key="." line="18" column="80" />
+        <mark key="^" line="18" column="80" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/conf/application.conf" timestamp="1479948047715">
+        <mark key="'" line="380" column="0" />
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="39" />
+        <mark key="^" line="12" column="40" />
+        <mark key="." line="12" column="40" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-compose.yml" timestamp="1498971456710">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="80" />
+        <mark key="." line="3" column="80" />
+        <mark key="^" line="3" column="80" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/circle.yml" timestamp="1481505953291">
+        <mark key="'" line="34" column="6" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="57" />
+        <mark key="^" line="21" column="12" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/files/files/files.component.ts" timestamp="1491017125459">
+        <mark key="'" line="39" column="14" />
+        <mark key="[" line="38" column="53" />
+        <mark key="]" line="38" column="91" />
+        <mark key="." line="38" column="91" />
+        <mark key="^" line="38" column="91" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/deploy/simplesaml.cron-metarefresh.php" timestamp="1498367616894">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="124" />
+        <mark key="^" line="1" column="124" />
+        <mark key="." line="1" column="124" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/CSA-ForHackerNews/main.js" timestamp="1485641977466">
+        <mark key="'" line="12" column="29" />
+        <mark key="[" line="74" column="88" />
+        <mark key="]" line="74" column="88" />
+        <mark key="." line="74" column="88" />
+        <mark key="^" line="74" column="88" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/testResources/server_responses/joinorleave/leave_success_message.aspx" timestamp="1472567071819">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="228" column="0" />
+        <mark key="^" line="228" column="0" />
+        <mark key="." line="228" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/files/files/files.component.html" timestamp="1491449160582">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="79" />
+        <mark key="]" line="3" column="78" />
+        <mark key="." line="3" column="78" />
+        <mark key="^" line="3" column="78" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/lsyncd.conf.lua" timestamp="1498351679475">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="52" />
+        <mark key="]" line="11" column="52" />
+        <mark key="." line="11" column="52" />
+        <mark key="^" line="11" column="50" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/database_assignment2/1.result.txt" timestamp="1491527818633">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="54" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/build.sbt" timestamp="1495065735017">
+        <mark key="[" line="27" column="47" />
+        <mark key="]" line="27" column="47" />
+        <mark key="^" line="27" column="48" />
+        <mark key="." line="27" column="47" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/landing/landing.module.ts" timestamp="1491448952529">
+        <mark key="'" line="3" column="8" />
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/roles/dev_main/files/config.json" timestamp="1498338525036">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/.gitignore" timestamp="1498351695778">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="18" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/FlowHelper.scala" timestamp="1490684492863">
+        <mark key="'" line="25" column="18" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="18" column="4" />
+        <mark key="^" line="20" column="54" />
+        <mark key="." line="25" column="17" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/layout/bookinginteraction_success.xml" timestamp="1472847370336">
+        <mark key="'" line="8" column="8" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="67" column="18" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/circle.yml" timestamp="1499563654969">
+        <mark key="'" line="29" column="93" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="19" column="109" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/circle_ci_pr_commenter.js" timestamp="1497887952813">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="2" />
+        <mark key="^" line="12" column="48" />
+        <mark key="." line="12" column="48" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/GraphvizCreationController.scala" timestamp="1469592955472">
+        <mark key="'" line="33" column="8" />
+        <mark key="[" line="63" column="34" />
+        <mark key="]" line="63" column="40" />
+        <mark key="." line="63" column="40" />
+        <mark key="^" line="63" column="40" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/docker-compose.template.yml" timestamp="1498356753399">
+        <mark key="'" line="30" column="29" />
+        <mark key="[" line="25" column="11" />
+        <mark key="]" line="25" column="11" />
+        <mark key="." line="25" column="11" />
+        <mark key="^" line="25" column="11" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/routes/register.ts" timestamp="1481508426051">
+        <mark key="'" line="4" column="14" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="2" />
+        <mark key="." line="2" column="2" />
+        <mark key="^" line="2" column="2" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/UserModel.java" timestamp="1472676886200">
+        <mark key="'" line="47" column="8" />
+        <mark key="[" line="106" column="51" />
+        <mark key="]" line="106" column="51" />
+        <mark key="." line="106" column="51" />
+        <mark key="^" line="237" column="9" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/Dockerfile" timestamp="1497466332421">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab5/base_files/lab05.js" timestamp="1476892780636">
+        <mark key="'" line="54" column="20" />
+        <mark key="[" line="54" column="79" />
+        <mark key="]" line="54" column="79" />
+        <mark key="^" line="54" column="77" />
+        <mark key="." line="54" column="79" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab3/base_files/lab3.css" timestamp="1475681049213">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="17" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="25" column="15" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/services/GraphvizService.scala" timestamp="1469389427448">
+        <mark key="'" line="3" column="4" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="4" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/app/routes/register.js" timestamp="1480179497597">
+        <mark key="'" line="6" column="21" />
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="28" />
+        <mark key="^" line="18" column="28" />
+        <mark key="." line="18" column="28" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Requests.scala" timestamp="1494721738307">
+        <mark key="'" line="14" column="19" />
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="29" />
+        <mark key="^" line="15" column="29" />
+        <mark key="." line="15" column="29" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Errors.scala" timestamp="1493578942711">
+        <mark key="[" line="9" column="56" />
+        <mark key="]" line="9" column="56" />
+        <mark key="^" line="9" column="56" />
+        <mark key="." line="9" column="56" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/AsyncController.scala" timestamp="1494387339747">
+        <mark key="'" line="20" column="58" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="21" />
+        <mark key="^" line="7" column="33" />
+        <mark key="." line="7" column="33" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-CMS/.gitignore" timestamp="1494264097503">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="21" column="4" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/webapps_labs/ass1/part3_copy/events.js" timestamp="1476293506672">
+        <mark key="'" line="32" column="36" />
+        <mark key="[" line="99" column="110" />
+        <mark key="]" line="99" column="111" />
+        <mark key="." line="99" column="111" />
+        <mark key="^" line="99" column="111" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-authentication/Dockerfile" timestamp="1495822682284">
+        <mark key="[" line="10" column="42" />
+        <mark key="]" line="10" column="39" />
+        <mark key="." line="10" column="39" />
+        <mark key="^" line="10" column="39" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/layout/interaction_book_success.xml" timestamp="1471661564570">
+        <mark key="'" line="15" column="7" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="39" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/static/main.css" timestamp="1479940584563">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/final_exam_base/FinalExamStarter/app/src/main/java/ca/uoit/csci4100/assessments/finalexamstarter/MainActivity.java" timestamp="1481817502546">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="116" column="64" />
+        <mark key="]" line="116" column="63" />
+        <mark key="." line="116" column="63" />
+        <mark key="^" line="116" column="63" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/RedditCommentSentimentHighlighter/manifest.json" timestamp="1485634516976">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="45" />
+        <mark key="]" line="9" column="45" />
+        <mark key="." line="9" column="45" />
+        <mark key="^" line="9" column="14" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/ci_resources/lsyncd.conf.lua" timestamp="1496782912120">
+        <mark key="'" line="19" column="38" />
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="8" column="53" />
+        <mark key="^" line="8" column="53" />
+        <mark key="." line="8" column="53" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/aws_deploy/task-definitions.json" timestamp="1471116123824">
+        <mark key="'" line="33" column="16" />
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="18" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/Dockerfile" timestamp="1498970637685">
+        <mark key="'" line="73" column="73" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="20" />
+        <mark key="." line="72" column="53" />
+        <mark key="^" line="72" column="53" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/aws_deploy/task-def.json" timestamp="1471097115945">
+        <mark key="'" line="13" column="9" />
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="22" column="22" />
+        <mark key="." line="22" column="22" />
+        <mark key="^" line="22" column="22" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/Lab9/MyApplication/app/src/main/AndroidManifest.xml" timestamp="1480637032612">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="10" column="77" />
+        <mark key="]" line="10" column="79" />
+        <mark key="." line="10" column="79" />
+        <mark key="^" line="10" column="79" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/FlowInfoStorage.scala" timestamp="1488794120909">
+        <mark key="'" line="21" column="118" />
+        <mark key="[" line="27" column="43" />
+        <mark key="]" line="27" column="43" />
+        <mark key="." line="27" column="43" />
+        <mark key="^" line="27" column="43" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab7/MyApplication/app/src/main/res/layout/activity_main.xml" timestamp="1476663555914">
+        <mark key="'" line="13" column="32" />
+        <mark key="[" line="23" column="41" />
+        <mark key="]" line="23" column="47" />
+        <mark key="." line="23" column="47" />
+        <mark key="^" line="23" column="47" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/superstatic_config.json" timestamp="1499577202684">
+        <mark key="[" line="2" column="48" />
+        <mark key="]" line="2" column="46" />
+        <mark key="^" line="2" column="46" />
+        <mark key="." line="2" column="46" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.j2.sh" timestamp="1498277048445">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/webapps_labs/exam/final_exam_base/views/layout.pug" timestamp="1482004193192">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="8" />
+        <mark key="^" line="17" column="68" />
+        <mark key="." line="17" column="8" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/JobsController.scala" timestamp="1494716502420">
+        <mark key="'" line="224" column="0" />
+        <mark key="[" line="110" column="60" />
+        <mark key="]" line="110" column="60" />
+        <mark key="." line="110" column="60" />
+        <mark key="^" line="110" column="70" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/tslint.json" timestamp="1487790909028">
+        <mark key="'" line="53" column="8" />
+        <mark key="[" line="53" column="30" />
+        <mark key="]" line="53" column="34" />
+        <mark key="^" line="53" column="34" />
+        <mark key="." line="53" column="34" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/controllers/GraphvizCreationController.scala" timestamp="1479954232232">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="44" column="84" />
+        <mark key="]" line="44" column="92" />
+        <mark key="^" line="21" column="124" />
+        <mark key="." line="21" column="66" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.yml.old" timestamp="1496798328601">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="41" />
+        <mark key="." line="12" column="41" />
+        <mark key="^" line="12" column="41" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/job-submit.component.html" timestamp="1494719098353">
+        <mark key="'" line="97" column="117" />
+        <mark key="[" line="37" column="89" />
+        <mark key="]" line="37" column="100" />
+        <mark key="." line="37" column="100" />
+        <mark key="^" line="37" column="100" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/models/SlashCommandIn.scala" timestamp="1469400180798">
+        <mark key="'" line="34" column="4" />
+        <mark key="[" line="36" column="52" />
+        <mark key="]" line="36" column="65" />
+        <mark key="^" line="36" column="65" />
+        <mark key="." line="36" column="65" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/app-routing.module.ts" timestamp="1491457751717">
+        <mark key="'" line="9" column="32" />
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="32" />
+        <mark key="^" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/file-submit/file-submit.component.html" timestamp="1491457966633">
+        <mark key="'" line="41" column="48" />
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="42" />
+        <mark key="." line="3" column="71" />
+        <mark key="^" line="3" column="71" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/GenomesController.scala" timestamp="1494721997040">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="41" column="137" />
+        <mark key="]" line="41" column="136" />
+        <mark key="." line="41" column="136" />
+        <mark key="^" line="41" column="136" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/conf/logback.xml" timestamp="1470450534039">
+        <mark key="'" line="9" column="18" />
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="18" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/Dockerfile" timestamp="1499217484655">
+        <mark key="'" line="60" column="3" />
+        <mark key="[" line="60" column="41" />
+        <mark key="]" line="60" column="3" />
+        <mark key="." line="60" column="3" />
+        <mark key="^" line="60" column="3" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/layout/calendar_dialog_help.xml" timestamp="1471921852368">
+        <mark key="'" line="7" column="4" />
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/jobs.module.ts" timestamp="1490654501468">
+        <mark key="'" line="7" column="23" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="24" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/test/resources/slack/BadDOTFormat.json" timestamp="1469382844304">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="166" />
+        <mark key="]" line="0" column="219" />
+        <mark key="." line="0" column="219" />
+        <mark key="^" line="0" column="219" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/package.json" timestamp="1490247399586">
+        <mark key="'" line="28" column="9" />
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-entrypoint.sh" timestamp="1498598268590">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="134" column="61" />
+        <mark key="]" line="134" column="60" />
+        <mark key="^" line="134" column="60" />
+        <mark key="." line="134" column="60" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/utils/ResumableInfo.scala" timestamp="1485119982640">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/.dockerignore" timestamp="1496000888747">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="12" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab2/base_files/lab2.html" timestamp="1475679773833">
+        <mark key="'" line="35" column="40" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="60" column="13" />
+        <mark key="." line="37" column="46" />
+        <mark key="^" line="37" column="46" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/.editorconfig" timestamp="1496001754383">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="6" column="14" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" timestamp="1499800712117">
+        <mark key="'" line="271" column="0" />
+        <mark key="[" line="271" column="414" />
+        <mark key="]" line="271" column="413" />
+        <mark key="." line="271" column="413" />
+        <mark key="^" line="271" column="413" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/CommentDialog.java" timestamp="1471670976133">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="29" />
+        <mark key="." line="16" column="29" />
+        <mark key="^" line="16" column="29" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/.gitignore" timestamp="1488073683699">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/.gitignore" timestamp="1495990954336">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="48" column="0" />
+        <mark key="." line="92" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/generate_env_vars.js" timestamp="1499574063414">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/RedditCommentSentimentHighlighter/main.js" timestamp="1485638493378">
+        <mark key="'" line="58" column="35" />
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/app/index.html" timestamp="1484791486190">
+        <mark key="'" line="108" column="5" />
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="20" />
+        <mark key="^" line="17" column="20" />
+        <mark key="." line="17" column="20" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/bash-config.dev.tpl" timestamp="1495132470353">
+        <mark key="[" line="34" column="6" />
+        <mark key="]" line="34" column="749" />
+        <mark key="^" line="38" column="40" />
+        <mark key="." line="38" column="40" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.service.ts" timestamp="1499561877840">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/app/routes/createImgurLinkForDotString.js" timestamp="1480186503668">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="51" column="31" />
+        <mark key="]" line="51" column="31" />
+        <mark key="^" line="51" column="30" />
+        <mark key="." line="51" column="31" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/src/wp-app/.htaccess" timestamp="1499004597888">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="10" />
+        <mark key="^" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/lab4/MyApplication/app/src/main/java/com/sansalex/lab4/NewMessageNotification.java" timestamp="1475871296831">
+        <mark key="'" line="44" column="68" />
+        <mark key="[" line="106" column="50" />
+        <mark key="]" line="106" column="50" />
+        <mark key="." line="106" column="50" />
+        <mark key="^" line="106" column="50" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab4/base_files/lab04.html" timestamp="1476285708723">
+        <mark key="'" line="29" column="24" />
+        <mark key="[" line="4" column="46" />
+        <mark key="]" line="6" column="49" />
+        <mark key="." line="6" column="49" />
+        <mark key="^" line="6" column="49" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/userdata.sh" timestamp="1493771841981">
+        <mark key="[" line="2" column="102" />
+        <mark key="]" line="2" column="519" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/services/ng4flow.service.spec.ts" timestamp="1487785567826">
+        <mark key="'" line="12" column="56" />
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+        <mark key="^" line="3" column="36" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/Lab9/MyApplication/app/src/main/java/com/sansalex/myapplication/MapsActivity.java" timestamp="1481810845179">
+        <mark key="'" line="95" column="85" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="100" column="8" />
+        <mark key="." line="92" column="31" />
+        <mark key="^" line="92" column="30" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/AsyncController.scala" timestamp="1469371172580">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="34" />
+        <mark key="^" line="6" column="33" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-CMS/circle.yml" timestamp="1494263768132">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="8" column="5" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/project/plugins.sbt" timestamp="1488101812181">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="17" column="58" />
+        <mark key="]" line="19" column="17" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/NGFlowPlaySample/README.md" timestamp="1485271674033">
+        <mark key="'" line="5" column="1" />
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="24" column="12" />
+        <mark key="^" line="24" column="12" />
+        <mark key="." line="24" column="12" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/about/About.java" timestamp="1472964087734">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="93" column="56" />
+        <mark key="]" line="93" column="55" />
+        <mark key="." line="93" column="55" />
+        <mark key="^" line="93" column="55" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/build.gradle" timestamp="1483462659100">
+        <mark key="'" line="79" column="35" />
+        <mark key="[" line="79" column="35" />
+        <mark key="]" line="79" column="35" />
+        <mark key="^" line="60" column="161" />
+        <mark key="." line="79" column="35" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/FilesDAO.scala" timestamp="1495033307079">
+        <mark key="'" line="130" column="99" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="157" column="4" />
+        <mark key="^" line="23" column="19" />
+        <mark key="." line="23" column="19" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/server.ts" timestamp="1485904785784">
+        <mark key="'" line="28" column="30" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="24" column="2" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="4" column="28" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/orchestrate/templates/cloud-init.dev.tpl" timestamp="1498319734420">
+        <mark key="'" line="5" column="14" />
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+        <mark key="^" line="18" column="11" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/app/networking/MockHttpStack.java" timestamp="1472847829581">
+        <mark key="'" line="70" column="85" />
+        <mark key="[" line="117" column="104" />
+        <mark key="]" line="117" column="143" />
+        <mark key="^" line="117" column="143" />
+        <mark key="." line="117" column="143" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/app/constants.js" timestamp="1479947483084">
+        <mark key="'" line="14" column="23" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/NGFlowPlaySample/app/controllers/Upload.scala" timestamp="1485270906492">
+        <mark key="'" line="76" column="31" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="22" />
+        <mark key="^" line="16" column="45" />
+        <mark key="." line="16" column="45" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/directives/ng4-flow-init.directive.ts" timestamp="1489238991042">
+        <mark key="'" line="14" column="48" />
+        <mark key="[" line="42" column="46" />
+        <mark key="]" line="42" column="61" />
+        <mark key="." line="42" column="108" />
+        <mark key="^" line="42" column="108" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-CMS/src/wp-app/wp-content/plugins/polylang/include/model.php" timestamp="1494261925251">
+        <mark key="'" line="555" column="0" />
+        <mark key="[" line="555" column="127" />
+        <mark key="]" line="555" column="126" />
+        <mark key="^" line="555" column="126" />
+        <mark key="." line="555" column="126" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/_core/header/header.component.html" timestamp="1491457770290">
+        <mark key="[" line="16" column="57" />
+        <mark key="]" line="16" column="61" />
+        <mark key="." line="16" column="61" />
+        <mark key="^" line="16" column="61" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/docker-entrypoint.sh" timestamp="1499576063117">
+        <mark key="[" line="16" column="49" />
+        <mark key="]" line="16" column="49" />
+        <mark key="." line="16" column="49" />
+        <mark key="^" line="16" column="57" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/assets/scripts/bio.sh" timestamp="1495499008317">
+        <mark key="[" line="142" column="61" />
+        <mark key="]" line="142" column="60" />
+        <mark key="^" line="142" column="60" />
+        <mark key="." line="142" column="60" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3abb79e0-f4f4-493d-ad25-6bb441fcce01/console_1.sql" timestamp="1491520860343">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/docker-compose.yml" timestamp="1498501320923">
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="19" column="46" />
+        <mark key="." line="19" column="46" />
+        <mark key="^" line="19" column="46" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/testResources/server_responses/clickabledate/half_closed_half_open_8am-330pm.aspx" timestamp="1472487590960">
+        <mark key="'" line="311" column="0" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/conf/application.conf" timestamp="1494207167442">
+        <mark key="'" line="397" column="0" />
+        <mark key="[" line="383" column="42" />
+        <mark key="]" line="383" column="65" />
+        <mark key="." line="23" column="39" />
+        <mark key="^" line="23" column="39" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/dist/index.html" timestamp="1499574694604">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="112" />
+        <mark key="^" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/src/wp-app/wp-config.php" timestamp="1499004984195">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="26" column="75" />
+        <mark key="]" line="26" column="75" />
+        <mark key="." line="26" column="75" />
+        <mark key="^" line="26" column="76" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/test/java/com/objectivetruth/uoitlibrarybooking/data/models/CalendarModelTest.java" timestamp="1472501333613">
+        <mark key="'" line="227" column="4" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="95" column="45" />
+        <mark key="." line="164" column="39" />
+        <mark key="^" line="164" column="39" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/test/resources/slack/BadSlackToken.json" timestamp="1469383056596">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="0" column="227" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/_core/app-settings.constants.ts" timestamp="1494429217378">
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="6" column="56" />
+        <mark key="." line="6" column="56" />
+        <mark key="^" line="6" column="56" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/MailDev/Dockerfile" timestamp="1496450618300">
+        <mark key="[" line="19" column="77" />
+        <mark key="]" line="19" column="77" />
+        <mark key="." line="19" column="77" />
+        <mark key="^" line="19" column="77" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/package.json" timestamp="1480182181830">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="50" />
+        <mark key="." line="8" column="50" />
+        <mark key="^" line="8" column="50" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/spec.js" timestamp="1480174889447">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="6" column="39" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/README.md" timestamp="1498281472002">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="61" column="33" />
+        <mark key="]" line="61" column="33" />
+        <mark key="." line="61" column="33" />
+        <mark key="^" line="61" column="33" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-ecommerce/deploy/simplesaml.config.php" timestamp="1499218865118">
+        <mark key="[" line="23" column="66" />
+        <mark key="]" line="23" column="69" />
+        <mark key="^" line="23" column="69" />
+        <mark key="." line="23" column="69" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/newjobid.resolver.ts" timestamp="1491449202330">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="18" column="39" />
+        <mark key="]" line="18" column="42" />
+        <mark key="." line="18" column="42" />
+        <mark key="^" line="18" column="42" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/res/layout/guidelinesandpolicies_root.xml" timestamp="1471792022655">
+        <mark key="'" line="3" column="38" />
+        <mark key="[" line="2" column="70" />
+        <mark key="]" line="2" column="70" />
+        <mark key="^" line="2" column="69" />
+        <mark key="." line="2" column="70" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/generate_env_var_loading_script.js" timestamp="1499574561779">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="43" />
+        <mark key="^" line="6" column="43" />
+        <mark key="." line="6" column="43" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/flows/ViewLeaveOrJoin.java" timestamp="1480374367900">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="49" column="108" />
+        <mark key="^" line="21" column="26" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/database_assignment2/1.sql" timestamp="1491525983283">
+        <mark key="'" line="22" column="4" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="22" column="4" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/Success.java" timestamp="1472174873371">
+        <mark key="'" line="115" column="92" />
+        <mark key="[" line="66" column="31" />
+        <mark key="]" line="67" column="89" />
+        <mark key="." line="67" column="89" />
+        <mark key="^" line="67" column="89" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/GenomeController.scala" timestamp="1494384833840">
+        <mark key="[" line="7" column="42" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/app/config/config.ts" timestamp="1481995724596">
+        <mark key="'" line="9" column="71" />
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="20" column="51" />
+        <mark key="^" line="18" column="112" />
+        <mark key="." line="18" column="101" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/BookingInteraction/flows/CredentialsLogin.java" timestamp="1472710721696">
+        <mark key="'" line="63" column="40" />
+        <mark key="[" line="61" column="62" />
+        <mark key="]" line="61" column="87" />
+        <mark key="." line="61" column="87" />
+        <mark key="^" line="61" column="87" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/file-submit/file-submit.module.ts" timestamp="1491011318339">
+        <mark key="'" line="14" column="8" />
+        <mark key="[" line="1" column="39" />
+        <mark key="]" line="1" column="39" />
+        <mark key="^" line="3" column="53" />
+        <mark key="." line="1" column="39" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/mobiledevices_labs/Lab9/MyApplication/app/src/debug/res/values/google_maps_api.xml" timestamp="1480636687544">
+        <mark key="'" line="9" column="35" />
+        <mark key="[" line="17" column="89" />
+        <mark key="]" line="17" column="89" />
+        <mark key="." line="17" column="89" />
+        <mark key="^" line="17" column="129" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-CMS/README.md" timestamp="1498756711483">
+        <mark key="'" line="87" column="0" />
+        <mark key="[" line="35" column="20" />
+        <mark key="]" line="35" column="44" />
+        <mark key="." line="35" column="44" />
+        <mark key="^" line="35" column="44" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/data/models/usermodel/UserWebService.java" timestamp="1472840175608">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="99" column="89" />
+        <mark key="]" line="99" column="89" />
+        <mark key="." line="99" column="89" />
+        <mark key="^" line="24" column="46" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/pending-jobs/pending-jobs.component.ts" timestamp="1493583193428">
+        <mark key="'" line="22" column="58" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="64" />
+        <mark key="^" line="76" column="23" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/Resumable.scala" timestamp="1485120883822">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="78" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/services/JobsQueue.scala" timestamp="1495065665006">
+        <mark key="'" line="152" column="55" />
+        <mark key="[" line="154" column="44" />
+        <mark key="]" line="154" column="55" />
+        <mark key="^" line="154" column="55" />
+        <mark key="." line="154" column="55" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/webapps_labs/lab7/base_files/lab07.js" timestamp="1478710407315">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="12" />
+        <mark key="." line="87" column="12" />
+        <mark key="^" line="23" column="11" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/ColossalPancake/README.md" timestamp="1485807212240">
+        <mark key="'" line="28" column="1" />
+        <mark key="[" line="2" column="84" />
+        <mark key="]" line="2" column="83" />
+        <mark key="." line="2" column="83" />
+        <mark key="^" line="2" column="83" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/dontcommit.sc" timestamp="1495947653576">
+        <mark key="[" line="52" column="6" />
+        <mark key="]" line="58" column="7" />
+        <mark key="^" line="58" column="7" />
+        <mark key="." line="58" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/testResources/server_responses/clickabledate/fully_open_8am-330pm.aspx" timestamp="1472487623620">
+        <mark key="'" line="311" column="0" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/controllers/FilesController.scala" timestamp="1494390855110">
+        <mark key="'" line="17" column="7" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="68" />
+        <mark key="." line="22" column="62" />
+        <mark key="^" line="72" column="94" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/logger_script_installation.sh" timestamp="1497634160198">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="6" column="69" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-details/job-details.component.html" timestamp="1494719359705">
+        <mark key="'" line="23" column="60" />
+        <mark key="[" line="36" column="57" />
+        <mark key="]" line="36" column="57" />
+        <mark key="." line="36" column="57" />
+        <mark key="^" line="36" column="57" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/ci_scripts/auto_sync.sh" timestamp="1496771946360">
+        <mark key="'" line="15" column="3" />
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="7" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="12" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/landing/landing/landing.component.html" timestamp="1491497586436">
+        <mark key="[" line="1" column="38" />
+        <mark key="]" line="1" column="39" />
+        <mark key="." line="1" column="39" />
+        <mark key="^" line="1" column="39" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/providers/ng4-flow.ts" timestamp="1487790570761">
+        <mark key="'" line="20" column="1" />
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/.angular-cli.json" timestamp="1491457156577">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="21" column="62" />
+        <mark key="^" line="21" column="62" />
+        <mark key="." line="21" column="62" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/app/models/Responses.scala" timestamp="1494740159978">
+        <mark key="'" line="123" column="50" />
+        <mark key="[" line="89" column="36" />
+        <mark key="]" line="89" column="44" />
+        <mark key="." line="126" column="8" />
+        <mark key="^" line="125" column="44" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/input-card/input-card.component.html" timestamp="1494713026396">
+        <mark key="'" line="26" column="22" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="42" />
+        <mark key="^" line="15" column="49" />
+        <mark key="." line="14" column="33" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/templates/dev.cloud-init" timestamp="1494876663749">
+        <mark key="[" line="11" column="46" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/server.js" timestamp="1480187458389">
+        <mark key="'" line="178" column="0" />
+        <mark key="[" line="17" column="32" />
+        <mark key="]" line="17" column="44" />
+        <mark key="." line="17" column="44" />
+        <mark key="^" line="17" column="44" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/testResources/server_responses/2_days_available.aspx" timestamp="1472487533151">
+        <mark key="'" line="262" column="7" />
+        <mark key="[" line="0" column="43" />
+        <mark key="]" line="0" column="43" />
+        <mark key="^" line="0" column="43" />
+        <mark key="." line="0" column="43" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/job-submit/input-card/input-card.component.ts" timestamp="1491060142920">
+        <mark key="'" line="12" column="23" />
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="25" column="30" />
+        <mark key="." line="25" column="30" />
+        <mark key="^" line="25" column="30" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/_core/footer/footer.component.html" timestamp="1491497650898">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="35" />
+        <mark key="." line="2" column="35" />
+        <mark key="^" line="2" column="35" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/useful_scripts/update_gluu_static_pages.sh" timestamp="1500432343933">
+        <mark key="'" line="43" column="35" />
+        <mark key="[" line="71" column="28" />
+        <mark key="]" line="71" column="35" />
+        <mark key="." line="71" column="35" />
+        <mark key="^" line="71" column="35" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-lms/docker-compose.yml" timestamp="1496957123610">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="27" column="36" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/app/controllers/HealthCheckController.scala" timestamp="1469465084129">
+        <mark key="'" line="16" column="26" />
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="35" />
+        <mark key="." line="17" column="35" />
+        <mark key="^" line="17" column="35" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/06aca98c-c34b-4119-abf7-2e741b276880/console_1.sql" timestamp="1491533975911">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="89" />
+        <mark key="^" line="57" column="15" />
+        <mark key="." line="57" column="15" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-CMS/Dockerfile" timestamp="1494338357767">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/GlassWildabeast/README.md" timestamp="1474749100732">
+        <mark key="'" line="53" column="25" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="4" column="127" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UoitDCLibraryBooking/app/src/main/java/com/objectivetruth/uoitlibrarybooking/userinterface/calendar/Calendar.java" timestamp="1472964511576">
+        <mark key="'" line="91" column="63" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="92" column="69" />
+        <mark key="^" line="91" column="63" />
+        <mark key="." line="91" column="63" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/oxTrust/server/src/main/java/org/gluu/oxtrust/ldap/service/Shibboleth3ConfService.java" timestamp="1498279184848">
+        <mark key="'" line="105" column="32" />
+        <mark key="[" line="217" column="118" />
+        <mark key="]" line="217" column="117" />
+        <mark key="^" line="217" column="117" />
+        <mark key="." line="217" column="117" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/webapps_labs/ass2/index.html" timestamp="1478651094483">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="36" column="35" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/jobs/completed-jobs/completed-jobs.component.html" timestamp="1491516286306">
+        <mark key="'" line="8" column="25" />
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/roles/dev_main/tasks/main.yml" timestamp="1498340885951">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphviz-slack-app/test/MainSpec.scala" timestamp="1469379055687">
+        <mark key="'" line="56" column="2" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/webapps_labs/exam/final_exam_base/app.js" timestamp="1482004690679">
+        <mark key="'" line="161" column="0" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="^" line="182" column="64" />
+        <mark key="." line="98" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/RedditCommentSentimentHighlighter/README.md" timestamp="1485638482951">
+        <mark key="'" line="11" column="17" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="54" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-esp-operations/main.tf" timestamp="1494272678695">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="49" column="38" />
+        <mark key="]" line="50" column="1" />
+        <mark key="." line="50" column="1" />
+        <mark key="^" line="50" column="1" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/_core/models/job.ts" timestamp="1493604493662">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="32" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/UrbanGrizzlyBackend/webfrontend/src/app/ng4-flow/services/ng4-flow.service.ts" timestamp="1487790452405">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="103" column="6" />
+        <mark key="." line="56" column="6" />
+        <mark key="^" line="56" column="6" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/graphvizzer/csci3230-project/static/app.js" timestamp="1479944606537">
+        <mark key="'" line="13" column="14" />
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-api-gateway/README.md" timestamp="1498078971897">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="14" column="20" />
+      </file>
+      <file name="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/README.md" timestamp="1497889446633">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="2" />
+        <mark key="^" line="12" column="2" />
+        <mark key="." line="8" column="2" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="110" column="82" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="64" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="66" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="178" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="13" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="152" column="31" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="156" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="239" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="151" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="210" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="215" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="76" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="175" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="180" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="184" column="18" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="187" column="18" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="79" column="88" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="129" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="134" column="30" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="137" column="48" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="138" column="38" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="143" column="19" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="146" column="72" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="217" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="220" column="43" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="222" column="33" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="52" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="140" column="43" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="87" column="82" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="273" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="17" column="26" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.settings.ts" />
+      <jump line="44" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.module.ts" />
+      <jump line="79" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.module.ts" />
+      <jump line="27" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.module.ts" />
+      <jump line="69" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.module.ts" />
+      <jump line="31" column="14" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.module.ts" />
+      <jump line="20" column="54" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.module.ts" />
+      <jump line="22" column="20" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.module.ts" />
+      <jump line="74" column="3" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.module.ts" />
+      <jump line="75" column="14" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.component.ts" />
+      <jump line="33" column="14" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.component.ts" />
+      <jump line="8" column="53" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.component.ts" />
+      <jump line="45" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.component.ts" />
+      <jump line="35" column="29" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/pages/auth-guard.service.ts" />
+      <jump line="36" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/pages/auth-guard.service.ts" />
+      <jump line="39" column="46" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/pages/auth-guard.service.ts" />
+      <jump line="5" column="10" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/pages/auth-guard.service.ts" />
+      <jump line="26" column="17" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/pages/auth-guard.service.ts" />
+      <jump line="33" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/pages/auth-guard.service.ts" />
+      <jump line="49" column="12" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/pages/auth-guard.service.ts" />
+      <jump line="7" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/pages/auth-guard.service.ts" />
+      <jump line="6" column="9" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/pages/auth-guard.service.ts" />
+      <jump line="15" column="61" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/pages/auth-guard.service.ts" />
+      <jump line="13" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/pages/authenticationCallback/authenticationCallback.component.ts" />
+      <jump line="5" column="38" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/pages/authenticationCallback/authenticationCallback.component.ts" />
+      <jump line="10" column="10" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/pages/authenticationCallback/authenticationCallback.component.ts" />
+      <jump line="19" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/pages/authenticationCallback/authenticationCallback.component.ts" />
+      <jump line="61" column="10" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.component.ts" />
+      <jump line="38" column="9" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.component.ts" />
+      <jump line="62" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.component.ts" />
+      <jump line="38" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.module.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.module.ts" />
+      <jump line="34" column="35" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.settings.ts" />
+      <jump line="28" column="40" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.settings.ts" />
+      <jump line="80" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-dashboard/src/app/app.module.ts" />
+      <jump line="33" column="40" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
+      <jump line="113" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="191" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="196" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="200" column="18" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
       <jump line="11" column="42" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="66" column="50" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
-      <jump line="69" column="48" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
-      <jump line="258" column="29" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
-      <jump line="261" column="49" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
-      <jump line="313" column="29" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
-      <jump line="316" column="49" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
-      <jump line="368" column="29" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
-      <jump line="371" column="49" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
-      <jump line="423" column="29" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
-      <jump line="426" column="49" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
-      <jump line="478" column="29" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
-      <jump line="481" column="49" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
-      <jump line="533" column="29" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
-      <jump line="536" column="49" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
-      <jump line="588" column="29" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
-      <jump line="591" column="49" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
-      <jump line="643" column="29" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
-      <jump line="646" column="49" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
-      <jump line="221" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="10" column="40" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="62" column="14" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="662" column="86" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
-      <jump line="4164" column="0" filename="$USER_HOME$/Downloads/cps-cms.wordpress.2017-07-07.xml" />
-      <jump line="101" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="219" column="13" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="12" column="80" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="134" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="135" column="72" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="141" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="143" column="15" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="154" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="158" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="236" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="241" column="32" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="245" column="18" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
-      <jump line="826" column="39" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/swagger.yml" />
-      <jump line="827" column="10" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/swagger.yml" />
-      <jump line="516" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/scratch" />
-      <jump line="20" column="3" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/scratch" />
-      <jump line="513" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/scratch" />
-      <jump line="14" column="27" filename="$USER_HOME$/foo/createAPIFromAttributeNames.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/foo/createAPIFromAttributeNames.js" />
+      <jump line="81" column="4" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="181" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="59" column="8" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="57" column="31" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="54" column="35" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="31" column="22" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="45" column="48" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="68" column="53" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="69" column="56" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="70" column="30" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="84" column="48" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="91" column="42" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="101" column="53" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="102" column="56" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="103" column="26" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="124" column="53" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="125" column="56" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="139" column="48" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="151" column="62" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="154" column="53" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="155" column="25" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="229" column="46" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="140" column="62" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="228" column="20" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="266" column="29" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="49" column="14" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="77" column="29" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="135" column="18" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="231" column="12" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="279" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="126" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="271" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev-playbook.yml" />
+      <jump line="56" column="6" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/docker-compose.yml" />
+      <jump line="57" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
+      <jump line="58" column="2" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
+      <jump line="8" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/provision/dev_authentication/setup_gluu.sh" />
+      <jump line="37" column="25" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/useful_scripts/update_gluu_static_pages.sh" />
+      <jump line="30" column="0" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/useful_scripts/update_gluu_static_pages.sh" />
+      <jump line="32" column="72" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/useful_scripts/update_gluu_static_pages.sh" />
+      <jump line="43" column="35" filename="$USER_HOME$/Desktop/repos/cps-ecp-operations/useful_scripts/update_gluu_static_pages.sh" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gJy9ob21lL2VjMi11c2VyL3ZvbHVtZXMvY21zLXVwbG9hZHM6L3Zhci93d3cvaHRtbC93cC1jb250ZW50L3VwbG9hZHMnCg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdMaW5lIGZyb20gZmlsZTonLCBsaW5lKTsK</text>
+      <register name="a" type="4">
+        <text>MY_RESERVATIONS_SIGNIN_URL</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'Line from file:', line</text>
+        <text>DIRNAME</text>
+      </register>
+      <register name="f" type="4">
+        <text>&quot;qj</text>
+      </register>
+      <register name="-" type="4">
+        <text>DIRNAME</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxFWEVDX0lOX0NIUk9PVFw+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGVjaG8gIkNsZWFuaW5nIHVwIGZpbGVzLi4uIgogICAgJHtTU0hfQ09NTUFORH0gcm0gLXJmICR7RElSTkFNRX0K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgIERJUk5BTUU9YGRpcm5hbWUgJHsxfWAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">RklMRU5BTUU9YGJhc2VuYW1lICR7MX1gICMgZXhhbXBsZSAvZmVzL2Zlc2EvZm9vLnppcCA9PiBmb28uemlwCkJBU0VOQU1FPWBiYXNlbmFtZSAkezF9IC56aXBgICMjIGV4YW1wbGUgL2Zlc2EvZmVzYS9mb28uemlwID0+IGZvbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZToKICAgICAgc3VtbWFyeTogCiAgICAgIG9wZXJhdGlvbklkOiAKICAgICAgcGFyYW1ldGVyczoKICAgICAgICAtIAogICAgICByZXNwb25zZXM6CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIlVuemlwaW5nIGZpbGVzLi4uIgogICAgJHtTU0hfQ09NTUFORH0gdW56aXAgJHtGSUxFTkFNRX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIiR7MX0iOwogICAgZWNobyAiJHtGSUxFTkFNRX0iOwogICAgZWNobyAiJHtCQVNFTkFNRX0iOwo=</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">c2V0IC14CnNldCAtZQpzZXQgLXUKCmVjaG8gIiR7MX0iOwplY2hvICIke0ZJTEVOQU1FfSI7CmVjaG8gIiR7QkFTRU5BTUV9IjsKZWNobyAiU3RhcnRpbmcgc3luYy4uLiIKCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZWNobyAiQ29weWluZyBmaWxlcyB0byBzZXJ2ZXIuLi4iCnNjcCAkezF9ICR7U1NIX1RBUkdFVH06JHtIT01FX0RJUkVDVE9SWX0vCgplY2hvICJVbnppcGluZyBmaWxlcy4uLiIKJHtTU0hfQ09NTUFORH0gdW56aXAgJHtGSUxFTkFNRX0KCmVjaG8gIkNoYW5naW5nIG93bmVyc2hpcCB0byBqZXR0eTpqZXR0eS4uLiIKJHtTU0hfQ09NTUFORH0gY2hvd24gLVIgOTk4Ojk5OCAke0JBU0VOQU1FfQoKZWNobyAiQ29weWluZyBmaWxlcyB0byBnbHV1Li4uIgoke1NTSF9DT01NQU5EfSBjcCAke0JBU0VOQU1FfS8qKiAvb3B0L2dsdXUtc2VydmVyLTMuMC4yL29wdC9nbHV1L2pldHR5L294YXV0aC9jdXN0b20vCgplY2hvICJSZXN0YXJ0aW5nIGdsdXUiCiR7U1NIX0NPTU1BTkR9ICR7RVhFQ19JTl9DSFJPT1R9ICJzZXJ2aWNlIGlkZW50aXR5IHN0b3AgJiYgc2VydmljZSBpZGVudGl0eSBzdGFydCAmJiBzZXJ2aWNlIG94YXV0aCBzdG9wICYmIHNlcnZpY2Ugb3hhdXRoIHN0YXJ0IgoKZWNobyAiQWxsIERvbmUhIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>'Line from file:', line</text>
-      </register>
-      <register name="/" type="4">
-        <text>cms</text>
-      </register>
     </registers>
     <search>
-      <last-search>cms</last-search>
+      <last-search encoding="base64">XDxFWEVDX0lOX0NIUk9PVFw+</last-search>
       <last-offset />
-      <last-pattern>cms</last-pattern>
+      <last-pattern encoding="base64">XDxFWEVDX0lOX0NIUk9PVFw+</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>authentication</entry>
-        <entry>experi</entry>
-        <entry>authentication_api</entry>
-        <entry>volumes</entry>
-        <entry>ecomme</entry>
-        <entry>local</entry>
-        <entry>courses_api</entry>
+        <entry>course</entry>
+        <entry>ecommerce</entry>
+        <entry>api</entry>
+        <entry>accounting</entry>
         <entry>ecommerce_api</entry>
-        <entry>ecommerce_db</entry>
-        <entry>cms</entry>
+        <entry>experi</entry>
+        <entry>AppSettings</entry>
+        <entry>AppState</entry>
+        <entry encoding="base64">XDxBUFBfUFJPVklERVJTXD4=</entry>
+        <entry>AppSe</entry>
+        <entry>AppS</entry>
+        <entry encoding="base64">XDxfbG9hZEVudmlyb25tZW50YWxWYXJpYWJsZXNJZlByb2R1Y3Rpb25cPg==</entry>
+        <entry>ecommer</entry>
+        <entry>moodle</entry>
+        <entry>&quot;</entry>
+        <entry>Tamanna</entry>
+        <entry encoding="base64">XDx0YW1hbm5hXD4=</entry>
+        <entry>ACC</entry>
+        <entry>authentication_api</entry>
+        <entry encoding="base64">XDxFWEVDX0lOX0NIUk9PVFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL19TRV8vXy9n</entry>
+        <entry>:w</entry>
+        <entry encoding="base64">JzwsJz5zIi8nL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL30vJiMxMjU7L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL30vL2c=</entry>
+        <entry>e ../README.md</entry>
+        <entry>qqq</entry>
+        <entry encoding="base64">JzwsJz5zL1dvcmtGaWxlL0Rvd25sb2FkaW5nRmlsZS9n</entry>
+        <entry>Q</entry>
+        <entry>qall</entry>
+        <entry encoding="base64">JzwsJz5zL2VzcC9lY3AvZw==</entry>
+        <entry encoding="base64">JzwsJz4vcyIvJy9n</entry>
+        <entry>q!</entry>
+        <entry encoding="base64">L3N0YXQg</entry>
+        <entry encoding="base64">JzwsJz5zLzMuMC4xLzMuMC4yL2c=</entry>
+        <entry>W</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed U</text>
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>
