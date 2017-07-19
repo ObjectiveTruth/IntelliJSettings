@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="HHHHHHHHHH" type="PLAIN_TEXT" />
+      <mapping pattern="flab" type="PLAIN_TEXT" />
+      <mapping pattern="foooooooobar" type="PLAIN_TEXT" />
+      <mapping pattern="provisioner_hosts" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping pattern="bookinginteraction_credentialslogin_root" type="XML" />
+      <mapping pattern="bookinginteraction_credentialslogin" type="XML" />
+      <mapping ext="cloud-init" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
